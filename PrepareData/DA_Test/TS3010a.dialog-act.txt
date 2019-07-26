@@ -1,0 +1,215 @@
+A 41.01 So welcome . ami_da_14
+A 42.5 The first kick off meeting . ami_da_4
+A 45.36 What shall we do ? ami_da_5
+A 45.36 First the opening , then the rest . ami_da_4
+A 52.06 What are we going to do . ami_da_5
+A 53.01 We m have to make a new remote control . ami_da_4
+A 55.84 It has to be original , trendy and user friendly . ami_da_4
+A 60.42 So we will get back th on that . ami_da_4
+A 64.58 First we have to make a functional design . ami_da_4
+A 68.16 After that we have to make a conceptual design , and then after that a detailed design . ami_da_4
+A 74.13 So we will discuss that later . ami_da_4
+A 77.41 First we have a look at . ami_da_4
+A 79.54 So first to we have to make a small painting . ami_da_4
+A 86.23 What have do we have to do . ami_da_5
+A 89.61 First you can save the documents . ami_da_4
+A 93.43 We have to do that every time we make something . ami_da_4
+A 96.8 You can print it . ami_da_4
+A 98.73 No . ami_da_9
+A 100.32 And we have to use the pen and the eraser . ami_da_4
+A 105.04 So Now . ami_da_4
+A 107.73 We all have to use this one . ami_da_4
+A 110.09 You have to make your own favourite animal . ami_da_4
+A 113.45 So I will make an example . ami_da_7
+D 117.21 Yep . ami_da_1
+A 118.89 First do not touch that things . ami_da_4
+A 125.23 You can use the pen . ami_da_4
+A 129.72 And then you can make something . ami_da_4
+C 138.3 Nice . ami_da_9
+A 139.58 you can change some things . ami_da_4
+A 143.89 format , line , and change it . ami_da_4
+A 159.55 And you can change the colour . ami_da_4
+C 168.14 An elephant . ami_da_9
+A 170.34 So that is it . ami_da_4
+A 176.48 So ami_da_2
+A 176.48 So and after it you have to save it . ami_da_4
+D 187.54 Okay . ami_da_1
+A 187.66 Now we can make a new one . ami_da_4
+A 191.88 You have to paint now . ami_da_4
+D 193.34 Oh . ami_da_1
+A 193.56 So you are next . ami_da_4
+C 195.43 Okay . ami_da_1
+D 195.49 Well we will try . ami_da_7
+D 200.97 Where it going ? ami_da_16
+B 215.02 That is strange . ami_da_9
+A 217.73 What is going on ? ami_da_5
+A 217.73 What are you What ? . ami_da_3
+C 221.19 pop ups . ami_da_4
+C 233.06 What is this , Pictionary . ami_da_14
+A 239.99 Is a ami_da_3
+A 239.99 It is a ami_da_3
+A 239.99 It is a ami_da_3
+A 239.99 A duck . ami_da_6
+C 241.8 a bird . ami_da_6
+C 244.39 Bird . ami_da_6
+D 255.57 So ami_da_2
+D 255.57 Now save ? ami_da_6
+D 255.57 Now blank ? ami_da_6
+D 255.57 Yeah . ami_da_1
+C 259.02 Yeah . ami_da_9
+A 259.46 Yes . ami_da_9
+A 266.66 Blank , yes . ami_da_9
+B 267.31 Yeah . ami_da_1
+A 273.06 Okay next one . ami_da_8
+B 275.43 Okay . ami_da_7
+B 276.47 Let is try this . ami_da_7
+C 276.77 Whoo . ami_da_16
+D 284.75 Yeah , ami_da_1
+D 284.75 yeah . ami_da_1
+C 307.03 Oh not . ami_da_16
+C 308.16 Oh . ami_da_16
+A 308.26 Oh . ami_da_16
+C 312.69 Okay . ami_da_9
+C 315.32 Okay . ami_da_9
+C 315.86 Yeah . ami_da_9
+C 317.2 No problem . ami_da_9
+C 321.66 Shit happens . ami_da_14
+D 324.95 I am not getting anything on my screen now . ami_da_4
+D 334.13 Okay . ami_da_9
+C 341.22 A parrot . ami_da_6
+D 343.06 Wow . ami_da_1
+C 343.18 Ish . ami_da_6
+D 350.7 Oh . ami_da_1
+C 357.37 He did it before . ami_da_4
+B 367.13 No , no . ami_da_9
+B 397.87 Yeah . ami_da_9
+B 399.0 Okay . ami_da_9
+D 401.4 Nice . ami_da_9
+C 402.23 Oh . ami_da_1
+A 402.55 Very good . ami_da_9
+B 403.58 blank . ami_da_16
+C 408.14 Thank you . ami_da_14
+A 546.4 Okay . ami_da_2
+A 547.39 Very good . ami_da_9
+A 548.87 So you can always go back . ami_da_4
+A 554.29 So ami_da_3
+A 554.29 That is it . ami_da_4
+A 559.55 So that was two . ami_da_4
+A 561.48 Now next . ami_da_4
+A 563.22 The budget . ami_da_4
+A 564.25 The b ami_da_3
+A 564.25 we will sell the t at twenty five Euros . ami_da_4
+A 570.42 And we have only twenty of twelve and a half Euro to make it . ami_da_4
+A 576.27 So ami_da_2
+A 576.27 now we have to think about what we will make . ami_da_4
+A 582.4 First I want to hear from you . ami_da_4
+A 585.91 what are your experiences with remote controls . ami_da_5
+A 592.57 So ami_da_6
+A 592.57 F first . ami_da_3
+C 593.28 I will start . ami_da_7
+C 594.14 Big one , they are not easy to use . ami_da_4
+C 599.62 I have one set and a remote control , when I dropped it , it broke . ami_da_4
+C 605.16 So that wo not be our goal , I think . ami_da_4
+B 608.75 No . ami_da_1
+C 609.74 And g big buttons , ami_da_4
+C 609.74 m that is easier to use than I think . ami_da_9
+C 617.69 Not all the small buttons , you do not know Big buttons , positive . ami_da_4
+A 618.76 Is this positive or negative , that big buttons ? ami_da_5
+A 618.76 Positive . ami_da_9
+C 624.06 All all small buttons like when you have like a hundred buttons on your remote control , you wo not know what they are working for . ami_da_4
+A 631.01 Okay . ami_da_2
+A 632.37 What are your experiences ? ami_da_5
+B 634.48 well I think the the the goal of a remote control is that it is it it has an influence on the TV set . ami_da_4
+B 641.18 And that it controls the channels and the the volume . ami_da_4
+B 644.87 And I I ami_da_4
+B 644.87 I think it is positive if there is a a LED a LED on the corner of the of the remote . ami_da_4
+B 654.79 So that you know it s it still has batteries on it in it . ami_da_4
+B 658.72 And that if you push the button the LED gives a light , and and you see that it is working . ami_da_4
+B 665.64 And yeah . ami_da_1
+B 666.68 Yeah , but ami_da_3
+B 666.68 No no no . ami_da_4
+A 669.35 So and do they always have that ? ami_da_5
+A 669.35 It is easy to you . ami_da_4
+B 673.35 But I my my experience is that it ami_da_4
+B 673.35 it ami_da_4
+B 673.35 it is convenient to have that . ami_da_4
+B 677.77 Yeah . ami_da_9
+A 678.29 Okay . ami_da_9
+B 678.69 Yeah . ami_da_9
+A 680.32 Okay . ami_da_6
+D 682.28 at home we have a TV , a video recorder , a DVD player , and a satellite receiver . ami_da_4
+D 688.72 We have four distinctive remote controls for that . ami_da_4
+C 691.44 Thank you . ami_da_14
+D 692.37 That is not really ea easy . ami_da_4
+C 694.61 Help also . ami_da_14
+D 695.06 So it would be nice if we have one for all . ami_da_4
+C 697.2 Thank you . ami_da_14
+D 697.68 And we also had a remote control for our radio set . ami_da_4
+D 701.27 But i it it had a lot of buttons on it , and you did not know which one was what . ami_da_4
+D 708.11 And it was v not easy to use . ami_da_4
+D 710.95 So we n barely used it . ami_da_4
+A 712.9 Okay so they have too much . ami_da_4
+A 715.21 So next . ami_da_16
+A 716.44 For our own remote control we have to think how do we make it . ami_da_4
+A 721.51 So what ideas do you have for it , for the new remote control ? ami_da_8
+A 721.51 What what does it have to have ? ami_da_8
+A 721.51 Not too heavy . ami_da_9
+C 733.5 The weight . ami_da_6
+C 733.97 Not not too heavy . ami_da_6
+C 742.34 Not much buttons . ami_da_6
+A 742.38 Yes . ami_da_1
+A 754.76 Yeah . ami_da_8
+C 755.16 Bust free . ami_da_6
+C 756.0 That when you drop it , it wo not break . ami_da_4
+C 758.17 Like some kind of rubber on it . ami_da_6
+C 760.15 Or hard hard plastic . ami_da_6
+C 764.56 buttons not too small . ami_da_6
+C 775.25 something like when you lose your remote control , sometimes it happen . ami_da_4
+A 780.5 Yes . ami_da_1
+C 780.88 it between the couch and you ca not find it . ami_da_4
+C 782.85 When you push a but a button on the TV , then you hear some some sort of bleep . ami_da_6
+A 788.37 Like a phone . ami_da_12
+C 788.58 And then you , hey there there is remote control . ami_da_4
+D 791.47 Yeah . ami_da_1
+A 791.53 Okay . ami_da_1
+B 795.1 Yeah . ami_da_1
+A 804.17 So , ami_da_2
+A 804.17 that is . ami_da_3
+C 805.28 Next . ami_da_8
+B 807.68 Yeah well that is that are good ideas . ami_da_9
+B 809.43 Yeah well the LED on the corner , that that indicates that it is working . ami_da_6
+B 814.56 If you push a button . ami_da_6
+B 816.6 Yeah . ami_da_2
+B 829.97 And looking on the budget , not too expensive material . ami_da_6
+B 832.93 So probably plastic or something . ami_da_6
+B 835.39 no . ami_da_9
+A 835.64 Okay . ami_da_9
+D 844.74 Yeah I think it from a marketing point of view , it also has to look nice . ami_da_6
+D 848.99 Or you wo not sell it . ami_da_4
+A 851.77 Yes . ami_da_8
+D 852.74 And yeah ami_da_2
+D 852.74 on our website we can see what products we already have . ami_da_4
+D 860.63 And it should work with as many as possible of them . ami_da_6
+A 864.71 Okay . ami_da_2
+A 866.13 This is It has to be compatible with other things . ami_da_4
+D 870.0 Yes . ami_da_9
+A 870.78 Okay . ami_da_1
+C 875.24 I have one more idea . ami_da_4
+C 877.18 Just popped up . ami_da_4
+A 879.6 Yes ? ami_da_8
+A 879.6 No battery use . ami_da_4
+C 880.34 it it wo not take a lot of batteries . ami_da_6
+C 883.12 So you do not wo not have to change the batteries once a week or once every two weeks . ami_da_6
+A 894.31 So ami_da_2
+A 894.31 more ideas ? ami_da_8
+A 894.31 No okay . ami_da_9
+A 900.0 It is only the first ideas . ami_da_4
+A 902.06 So ami_da_2
+A 902.06 what are we going to do now is Next meeting is in half an h hour . ami_da_4
+A 913.25 Okay . ami_da_2
+A 920.52 Next meeting , half an hour . ami_da_4
+A 922.57 , what you have to do . ami_da_6
+A 926.6 Well look on your . ami_da_6
+A 929.86 And Next instructions you will get in your email . ami_da_4
+A 936.05 So This is the first meeting . ami_da_4
+C 943.83 Okay . ami_da_14

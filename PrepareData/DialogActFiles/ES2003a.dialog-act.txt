@@ -1,0 +1,253 @@
+B 2.13 Okay , well ami_da_2
+B 2.13 I think we are ready to begin . ami_da_6
+B 5.63 Right , ami_da_2
+B 5.63 my name is Adam Duguid , we are here because of real reaction , ami_da_4
+B 5.63 , we have in the group ami_da_5
+B 5.63 , yeah , ami_da_9
+B 5.63 go for it mate . ami_da_6
+C 13.24 Oh , ami_da_16
+C 13.24 Ebenezer Ademesoye . ami_da_4
+C 15.21 Would you like me to spell that ? ami_da_11
+C 15.21 S ami_da_3
+C 15.21 , NEZ ER . ami_da_4
+B 21.97 N E Z . ami_da_12
+B 24.41 Ebenezer . ami_da_12
+B 24.9 And your role is ? ami_da_5
+B 24.9 You are the Marketing Expert , okay . ami_da_12
+C 26.3 I am the Marketing Expert . ami_da_4
+B 33.33 Next we have ? ami_da_5
+B 33.33 T R I K . ami_da_12
+D 34.34 Tarik Rahman . ami_da_4
+D 35.15 TARIK . ami_da_4
+B 38.29 And your role in this is ? ami_da_5
+B 38.29 Industrial Designer . ami_da_12
+D 39.84 Industrial Designer . ami_da_4
+B 47.69 And , lastly we have ? ami_da_5
+B 47.69 And you are going to be the User Interface , ami_da_4
+B 47.69 is it ? ami_da_11
+B 47.69 Designer . ami_da_12
+A 49.38 , Dave Cochrane . ami_da_4
+A 54.24 User Interface Defin Designer , yes . ami_da_9
+B 55.62 Okay . ami_da_12
+B 62.12 Right . ami_da_2
+B 63.0 This is the agenda for today is meeting . ami_da_4
+B 64.62 As you can see , w opening , acquaintance , tool training , project plan discussion , and closing . ami_da_4
+B 70.17 , we already got n through opening , and partially through acquaintance . ami_da_4
+B 75.83 So , ami_da_2
+B 75.83 the reason we are here , we are going to design a new remote control , as you probably all know . ami_da_4
+B 81.4 The very broad overview is original , trendy , and user friendly . ami_da_4
+B 85.24 Course , we will have to go into a bit more detail than that , ami_da_6
+B 85.24 but personally I think that the original is going to be a very key aspect to this design . ami_da_4
+B 95.87 , there is a lot of remote controls out there anyway , ami_da_4
+B 95.87 so we are going to need something that is really going to set it apart . ami_da_6
+B 105.69 This is how today seems to be going to work . ami_da_4
+B 107.73 We are going to have the three kay phases , as you have probably already been told , the functional , architectural , and the detailed design . ami_da_4
+B 113.81 First one is going to be covering the user requirement spec , technical functions , working design . ami_da_4
+B 123.67 Second seems to be conceptual components , properties , materials , and the last one is a detailed analysis of our design so far . ami_da_4
+B 131.85 Of course , you have all got the similar emails , I believe , ami_da_4
+B 131.85 right . ami_da_11
+B 138.15 What can I say ? ami_da_4
+B 138.15 Ebenezer , you want to have a you want to draw your favourite animal ? ami_da_11
+B 138.15 Brilliantly done . ami_da_14
+C 143.48 Sure . ami_da_9
+C 147.95 Whiteboard . ami_da_16
+C 150.92 Okay . ami_da_2
+C 154.61 S ami_da_3
+C 154.61 okay . ami_da_2
+C 156.83 I will make this quick , ami_da_7
+C 156.83 since we do not have much time . ami_da_4
+C 212.3 Okay , so ami_da_2
+C 212.3 it is not the best picture in the world . ami_da_9
+C 216.03 Here we have an elephant . ami_da_4
+C 218.2 First point , begins with an E , same like Ebenezer . ami_da_4
+C 223.11 Also , elephants have a very good memory , much like myself , and I ca not remember back when I used to live back in Nigeria , but I think I used to have a pet elephant . ami_da_4
+C 234.6 So ami_da_2
+C 234.6 elephants are big , strong and gentle , and they have great memories , and they begin with the letter E , just like Ebenezer . ami_da_4
+C 244.72 Thank you . ami_da_14
+B 244.76 Thank you . ami_da_14
+B 247.45 Tarik , would you like to have a shot at a bit of artistry ? ami_da_11
+B 247.45 Oh , , ami_da_2
+B 247.45 you can clip them to your belt . ami_da_6
+C 255.89 Oh . ami_da_2
+C 256.69 Oh oh ami_da_2
+C 256.69 I think you ga The little ami_da_3
+C 256.69 The the ami_da_3
+C 256.69 Oh that is good , ami_da_9
+C 256.69 we can clip them on . ami_da_4
+D 256.77 Do we take them off ? ami_da_5
+D 256.77 Oh right , ami_da_12
+D 256.77 okay . ami_da_9
+B 259.01 You should also l have your the lapel mic on as well . ami_da_6
+D 263.78 Ah ha . ami_da_12
+C 267.49 Okay . ami_da_9
+C 267.95 Yeah , ami_da_2
+C 267.95 Just somewhere ami_da_6
+C 267.95 I think so . ami_da_4
+D 273.26 Now ami_da_2
+D 273.26 where do I put the ami_da_8
+D 273.26 Is this supposed to be clipped as well ? ami_da_5
+D 273.26 , destroying your elephant here . ami_da_4
+B 284.51 Yep , ami_da_9
+B 284.51 the , it is just across there , ami_da_4
+B 284.51 that is it . ami_da_9
+B 291.13 Yep . ami_da_1
+B 301.67 Yeah . ami_da_4
+B 301.96 It will follow you ami_da_4
+B 301.96 if you ami_da_3
+B 301.96 You can probably just stick it in your pocket for now , ami_da_6
+B 301.96 I would not worry too much . ami_da_14
+C 303.94 Yeah . ami_da_4
+C 305.06 There you go . ami_da_4
+B 311.23 Should have good range . ami_da_4
+D 393.91 , here we have a tiger . ami_da_4
+D 395.63 I have always loved tigers . ami_da_4
+D 399.52 They are just ami_da_3
+D 399.52 they are big , they are biggest cats , I did a project on cats in the wild when I was a kid ami_da_4
+D 399.52 and it was my favourite cat , just because it was looks the best , the stripes , orange . ami_da_4
+D 410.01 My dad used to talk about he is from Bangladesh so he used to tell me all about them ami_da_4
+D 410.01 when he was ami_da_3
+D 410.01 when I was a kid . ami_da_4
+D 415.05 And they are just the most feared of of animals in the wild . ami_da_4
+D 421.56 So ami_da_2
+D 421.56 that is why I like them . ami_da_4
+D 424.13 Did not say an anything about me really ami_da_4
+D 424.13 but ami_da_3
+B 428.23 Excellent , thank you very much . ami_da_14
+B 429.69 Dave , if you would like to have a dash . ami_da_6
+A 439.24 , the monkey , . ami_da_4
+A 564.21 The one f ami_da_3
+A 564.21 in fact this is a somewhat oblique reference ami_da_4
+A 564.21 in fact to ami_da_3
+A 564.21 well ami_da_2
+A 564.21 my ami_da_3
+A 564.21 I have a three three y year old daughter who h who who who is affectionately known as Miss Monkey . ami_da_4
+A 575.35 , monkeys have attitude . ami_da_4
+A 577.97 Which I think is a good thing . ami_da_9
+A 579.51 And I mean fr and from from the point of view of sort of the study of human evolution they and other primates are terribly interesting . ami_da_9
+A 588.74 , so I like monkeys . ami_da_9
+A 592.69 And and th th th th thi thi this one seems to have perhaps more attitude than most . ami_da_4
+B 606.19 Cheers . ami_da_14
+B 656.53 Hardly what I would call the best drawing in the world but it will do for now . ami_da_9
+B 659.64 Also not quite as feared as your average tiger , ami_da_4
+B 659.64 but cats are one of my favourite animals , ami_da_9
+B 659.64 they are very independent , they are snotty as hell at the best of times , ami_da_4
+B 659.64 and , what can you say , you got to love those qualities in an animal . ami_da_9
+B 680.46 Right . ami_da_2
+B 681.47 I think we have all managed to master the whiteboard there by looks of it , ami_da_4
+B 681.47 so , ami_da_2
+B 681.47 on to it . ami_da_6
+B 687.11 Project finance . ami_da_4
+B 688.44 As you can see , twelve point five Euros per unit . ami_da_4
+B 693.12 That is not a terrible lot as far as I am aware , ami_da_9
+B 693.12 and we are hoping to sell them for twenty five . ami_da_4
+B 699.14 If we are aiming for fifty million Euros we are going to have to be selling an awful lot of them . ami_da_4
+C 705.6 Oh , ami_da_2
+C 705.6 that was profiting , that was an amount , so that is the amount made , ami_da_4
+C 705.6 okay . ami_da_12
+B 710.0 Yep . ami_da_9
+B 711.12 Well , ami_da_2
+B 711.12 fifty million , and if you are making twelve point five Euros on each one , then , awful lot need to be sold . ami_da_4
+C 717.09 Yeah . ami_da_1
+B 721.12 Okay . ami_da_2
+B 722.26 Now we better actually just get on with the the meat of the project . ami_da_6
+B 725.84 So ami_da_2
+B 725.84 I am going to guess that we have all used remote controls . ami_da_4
+B 730.78 Any ideas of where you think a new remote control could go into this market ? ami_da_8
+B 730.78 Okay . ami_da_1
+A 736.97 Well , ami_da_2
+A 736.97 one thing I am aware of is , th there at the sort of v very high price end of the market there is there is a em emerging market for sort of touch screen LCD remotes that can be programmed in m much more sophisticated ways than sort of conventional models , ami_da_4
+A 736.97 so you get the sort of you get you ami_da_3
+A 736.97 you can redesign the interface to your own needs , you can programme in macros , ami_da_4
+A 736.97 and you get a much greater degree ami_da_3
+A 736.97 I mean you get in these sort of three in one , five in one , whatevers , but you can get integration between the different the the the diff the different things that it is designed to control , to a much greater extent , and you can have one you know one macro to turn ami_da_4
+A 736.97 the you know turn the TV to the right channel , get the re rewind the tape in the VCR and get it to play once it is rewound , for instance . ami_da_4
+A 790.71 b it occurs to me there might be a niche for for a remote that aimed towards some of that sort of functionality but using a just conventional push button design . ami_da_6
+A 806.4 And therefore putting it into a well much lower price bracket . ami_da_4
+B 812.69 Okay , ami_da_2
+B 812.69 yeah , ami_da_9
+B 812.69 tha that is true , ami_da_9
+B 812.69 with the price range we are looking at , going for a touch screen would probably be possibly out of our ami_da_4
+B 812.69 yeah . ami_da_9
+A 819.18 Absolutely prohibitive , ami_da_4
+A 819.18 yeah . ami_da_9
+C 820.69 Oh . ami_da_1
+B 821.2 But you think again something to control multiple units in a simple fashion . ami_da_5
+A 825.96 Yeah , ami_da_2
+A 825.96 I mean I would not like to say you g ami_da_3
+A 825.96 I mean you get ones that you can switch between multiple units , ami_da_4
+A 825.96 but something that could operate between multiple units in a more integrated fashion . ami_da_6
+A 836.06 Some ami_da_3
+A 836.06 and ideally something into which it would have some at least limited facility for running macros . ami_da_6
+B 845.65 Would the the idea something along the lines of , one on button would turn on say the video recorder , the TV , maybe the sound system as well , all in one go , is that kind of ami_da_11
+B 845.65 Okay , that sounds like a a good strong idea . ami_da_9
+A 853.68 For instance , ami_da_9
+A 853.68 let is say ami_da_2
+A 853.68 oh oh , or you know ami_da_2
+A 853.68 you pr you press say the play button for the DVD player and it turns the TV on and onto the right channel as well , ami_da_6
+C 871.65 Okay ami_da_1
+C 871.65 Well ami_da_2
+C 871.65 I have noticed that gaming c is becoming quite popular with television , when I was younger we used to e play games using our cable , using the cable subscribed the cable providers , but our remote controls would get worn out really easily , ami_da_4
+C 871.65 and the remote control was not a great kind of keyboar , keypad , for playing games . ami_da_9
+B 874.81 Any takes on this ? ami_da_11
+B 874.81 Okay . ami_da_1
+C 903.3 So perhaps one that was more specialised for game playing or interactive television . ami_da_6
+C 910.0 They they have recently brought out this new remote control , for people to set their favourite channels , or to record things . ami_da_4
+C 917.64 Instead of people entering in what time things start , you simply stri slide a bar to say what time it begins , and slide another bar to say what time it ends , ami_da_4
+C 917.64 you know that is ami_da_3
+C 917.64 Yeah , ami_da_2
+C 917.64 it is it is taken out the ami_da_3
+C 917.64 Y you do not have to be really clever to use a remote control . ami_da_4
+B 925.19 Okay . ami_da_1
+B 927.99 Yeah ami_da_12
+B 927.99 I have heard ami_da_3
+B 927.99 I have seen the bar code design before , ami_da_4
+B 927.99 yeah . ami_da_12
+C 937.79 I think for gaming , you know you want you want some big buttons for up , down , left and right , shoot . ami_da_6
+C 944.45 , you want to be able to change angles in interactive television , ami_da_4
+C 944.45 so you need buttons to change the television angle , the camera angles and stuff like that . ami_da_6
+B 953.03 Okay , well ami_da_2
+B 953.03 we are beginning to run out of time now , ami_da_4
+B 953.03 so , ami_da_2
+B 953.03 we have got a couple of ideas , ami_da_4
+B 953.03 we can ami_da_3
+B 953.03 we will have to work fast , ami_da_6
+B 953.03 , alright ami_da_2
+B 953.03 as you can see we have got thirty minutes until the next meeting , so we will have to try and decide on some of the basic functionality , , how the user interface might work , that will be a key aspect especially if the idea of some kind of macros facility because you have to program it , ami_da_4
+B 953.03 you have to have a lot of response back , or at least some kind . ami_da_6
+D 953.24 Okay . ami_da_1
+C 955.24 Yeah . ami_da_9
+B 983.25 And we are going to maybe n try and have to figure out ami_da_6
+B 983.25 what the user wants , yes . ami_da_9
+C 991.23 What the user wants . ami_da_6
+C 993.45 Okay . ami_da_9
+B 994.44 , right . ami_da_2
+B 996.83 Has anybody got anything they would like to add at this stage , anything they think that might have been missed so far ? ami_da_8
+B 996.83 I I do not see why not , ami_da_9
+B 996.83 almost everybody is probably used to a console by now , and all of them incorporate small keypads on them , in fact even the mobile phones these days are beginning to use them as well , so it is probably an interface that most people are used to . ami_da_4
+D 1002.36 Well ami_da_2
+D 1002.36 when you are talking about gaming and stuff , ami_da_4
+D 1002.36 do you think they should have some sort of stick on it , rather than buttons ? ami_da_11
+D 1002.36 Like control pads , you know of games , ami_da_6
+D 1002.36 but ami_da_3
+D 1002.36 or is that a bit ridiculous ? ami_da_11
+D 1002.36 Yeah . ami_da_1
+C 1008.75 Oh . ami_da_12
+C 1009.44 Okay , . ami_da_12
+B 1030.74 and that could allow n easy navigation , used as a joystick as well . ami_da_9
+A 1046.04 The other key feature that that would be a good idea built into it is t is is to make something you know fairly sort of ergonomic , something that just fits fits as comfortably as possible into the hand . ami_da_6
+A 1060.06 But of course , al al also allows for the possibility of a more sort of slightly unconventional or attractive sha shape for it overall , . ami_da_6
+B 1072.5 Okay . ami_da_1
+B 1075.58 So , ami_da_2
+B 1075.58 small , stylish , and something that is just a little different . ami_da_11
+A 1077.09 A curve , ami_da_3
+B 1088.53 Okay . ami_da_2
+B 1089.74 That is definitely something that we should be able to do quite easily . ami_da_9
+B 1093.27 I would I would have hoped so anyway . ami_da_16
+B 1095.67 , right . ami_da_2
+B 1100.31 I would say we finish this one up , we get started , ami_da_6
+B 1100.31 I will get in , ami_da_3
+B 1100.31 I will write up what we have kind of quickly done , and I will get that out to everybody . ami_da_7
+C 1109.99 Okay . ami_da_12
+B 1110.46 Yeah ? ami_da_13
+B 1110.46 Okay . ami_da_9
+C 1111.08 So . ami_da_16

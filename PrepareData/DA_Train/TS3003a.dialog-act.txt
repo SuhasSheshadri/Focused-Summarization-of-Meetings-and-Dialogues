@@ -1,0 +1,456 @@
+A 13.46 So ami_da_2
+A 13.46 good morning . ami_da_14
+B 15.344 Morning . ami_da_14
+D 15.37 Morning . ami_da_14
+C 16.42 Morning . ami_da_14
+A 16.73 I see you all find your places . ami_da_4
+A 19.56 Is everybody sitting on the right place ? ami_da_5
+A 19.56 Yeah ? ami_da_5
+A 19.56 I guess so . ami_da_4
+D 19.67 Yep . ami_da_9
+A 26.29 So Let is see . ami_da_2
+A 35.95 First I will introduce myself . ami_da_7
+A 38.09 I do not know if if everybody knows me , ami_da_4
+A 38.09 so ami_da_2
+A 38.09 I am Bart , ami_da_4
+A 38.09 hello . ami_da_14
+D 40.79 My name is Frank . ami_da_4
+A 42.74 Hello . ami_da_14
+B 42.99 I am . ami_da_4
+A 43.81 Bart . ami_da_4
+A 44.41 Hello . ami_da_14
+A 45.35 Hello . ami_da_14
+A 45.9 Bart . ami_da_4
+A 47.03 Welcome . ami_da_14
+D 48.1 Thank you . ami_da_14
+A 50.14 let is see . ami_da_2
+A 54.15 let is start off with a little presentation . ami_da_7
+A 62.27 Now first I will tell you a little bit about the setting . ami_da_7
+A 68.35 You can see there are a few cameras here . ami_da_4
+A 70.37 They will record our actions and you will have wires and microphones that will record your voice . ami_da_4
+A 77.97 there are also some microphones there ami_da_4
+A 77.97 but th you do not have to pay a lot of attention on those , ami_da_6
+A 77.97 because it will disappear when you do not attend to it . ami_da_4
+A 90.14 So ami_da_2
+A 90.14 is there a project documents folder ? ami_da_4
+A 90.14 There are some notes in it already I see , some documents . ami_da_4
+A 99.19 I will start with the presentation kick off . ami_da_7
+A 106.87 Is being modified by the administrator . ami_da_4
+A 109.68 okay . ami_da_12
+D 111.31 , that is interesting . ami_da_9
+A 112.06 Let is do it read only . ami_da_7
+A 116.66 Well ami_da_2
+A 116.66 I do not know if you have noticed , but we are working for Real Reaction . ami_da_4
+A 122.27 it is a company in electronics . ami_da_4
+A 125.29 We put fashion in electronics , we make it work , we put a lot of effort in design and in the product itself . ami_da_4
+A 134.76 I am Bart the project manager so I will direct you through the project . ami_da_4
+A 140.63 This is our agenda . ami_da_4
+A 143.39 we have our opening acquaintance , tool training , project plan description closing . ami_da_4
+A 149.67 maybe I can sit down , then I can take some notes ami_da_7
+A 149.67 or ami_da_3
+A 149.67 Let is see . ami_da_2
+A 161.34 Maybe you can take the minutes once in a while . ami_da_6
+D 163.72 Sure . ami_da_9
+A 164.42 I dunno it is not a lot of work , ami_da_4
+A 164.42 but just if you hear something you can write down , just write it down . ami_da_6
+A 171.36 as you can see it is the opening , aquaintance tool training . ami_da_4
+A 175.25 Aquaintance is a point we have done a bit . ami_da_4
+A 179.17 have you all seen the corporate website already ? ami_da_5
+A 179.17 Yeah . ami_da_12
+D 182.45 Yep . ami_da_4
+B 182.69 Yep . ami_da_4
+D 183.07 Visit it . ami_da_4
+A 184.23 Have you seen any flaws in it ? ami_da_5
+A 184.23 I think I found one . ami_da_4
+A 189.49 No ? ami_da_5
+A 189.49 I can see if it works this way . ami_da_7
+B 189.69 Okay . ami_da_12
+D 190.89 Ca not say I paid much attention to it , ami_da_4
+D 190.89 Oh yeah . ami_da_12
+A 197.53 No , it does not work here . ami_da_4
+A 200.54 Okay no problem . ami_da_9
+A 203.35 But on the corporate information side there is a th there was Real Remote instead of Real Reaction . ami_da_4
+A 212.74 Real Remote is not really the company we are we are , but it is just a little fault . ami_da_4
+B 216.48 Yeah . ami_da_12
+A 219.34 okay , ami_da_2
+A 219.34 what are we going to do ? ami_da_4
+A 219.34 our project aim is as you can see a new remote control . ami_da_4
+A 227.35 It has to be original , trendy , and user friendly . ami_da_4
+A 231.13 So these are the points why we also hired you . ami_da_4
+A 238.11 We have got the Marketing Expert for the trendy and user friendly look . ami_da_4
+D 238.31 Okay . ami_da_1
+A 246.29 And Industrial Designer there is also user friendly and a bit original . ami_da_4
+A 253.41 And we have got our User Interface Designer . ami_da_4
+B 257.2 Yep . ami_da_1
+A 257.76 He is also ami_da_3
+A 257.76 That is about the new remote control . ami_da_4
+A 263.16 project method is there are three phases we are going through . ami_da_4
+A 270.9 First is functional des design , individual work , meetings . ami_da_4
+A 275.68 After the functional design , then the conceptual design and the detailed design . ami_da_4
+A 281.25 I had some role indications on here . ami_da_4
+A 288.19 But I think you know it already by yourself . ami_da_4
+A 291.78 The Industrial Designer is going to work on the working design , components design and a bit of the look and feel design . ami_da_4
+A 301.24 the User Interface Designer is going to do the technical function design , user interface concept and user interface design . ami_da_4
+A 311.03 And the marketing expert is doing a little bit of user requirement specification , trend watching and project product ev evaluation . ami_da_4
+A 321.9 So that is a bit what you are going to do . ami_da_4
+A 324.73 But that will be all worked out in other meetings . ami_da_4
+A 332.18 Then we have got our first tool training . ami_da_4
+A 335.24 We are going to work with a lot of high tech tools here , ami_da_4
+A 335.24 so it is ab it is handy if we have a little bit of training first . ami_da_9
+A 342.63 As you can see we have got the smart boards here and here in the white board . ami_da_4
+A 348.7 in the white board here there is a little tool bar on this side . ami_da_4
+A 355.79 Here are some functions . ami_da_4
+A 356.82 You can save . ami_da_4
+A 357.9 N ami_da_3
+A 357.9 these functions we do not have anything to do with , only undo , you can undo a little piece of drawing . ami_da_4
+A 365.63 A blank new document for each person . ami_da_4
+A 368.97 select a pen , eraser . ami_da_4
+A 371.44 Capture we do not have to do anything with . ami_da_4
+A 374.23 then we have got our pen . ami_da_4
+A 378.67 This pen . ami_da_4
+A 380.05 It is really funny ami_da_9
+A 380.05 because you can draw with it on this page in the think it is form of . ami_da_4
+D 380.19 Okay . ami_da_1
+A 389.28 You can also select the current colour and the line width . ami_da_4
+A 393.05 But then first you have to select the pen function . ami_da_4
+A 396.73 But we are going to work with it in a minute . ami_da_6
+A 400.11 So okay . ami_da_2
+A 402.61 that is very simple and it is easy to draw your findings and drawings on there . ami_da_9
+A 410.0 then a short thing about documents . ami_da_7
+A 415.13 We have got our shared folder , ami_da_4
+A 415.13 project project ami_da_3
+A 415.13 what was it ? ami_da_5
+A 415.13 Project documents I think . ami_da_4
+A 422.79 But all you will found that already because there are a lot of documents in it already , ami_da_4
+A 422.79 so it will be okay . ami_da_14
+A 428.95 And these are available on the smart boards as well , so if you have a document you want to show , just open it from the folder . ami_da_4
+B 435.26 Okay . ami_da_12
+B 436.27 Yeah . ami_da_1
+A 439.41 Here is a simple tool bar . ami_da_4
+A 440.97 It is what I just said , it is save , print , move back or forward one page . ami_da_4
+A 447.51 You can switch between the different drawings . ami_da_4
+A 452.64 And then we are going to try out the white board . ami_da_6
+A 456.78 So ami_da_2
+A 456.78 as you can see we g all going to draw a animal . ami_da_4
+A 461.19 Just to just to get a bit familiar with it . ami_da_4
+A 467.85 Mouse was not running away . ami_da_4
+D 469.28 That was interesting . ami_da_9
+A 471.33 Is everybody is anybody playing with the mouse ? ami_da_5
+A 471.33 No . ami_da_4
+A 473.94 Okay . ami_da_12
+D 475.3 Innocent . ami_da_4
+A 475.34 We are going to draw animal . ami_da_4
+A 478.29 And just sum up a few of its favourite characteristics . ami_da_4
+A 483.67 the only thing we have to look after is that we use different colours , and different line width . ami_da_6
+A 492.13 there is ami_da_3
+A 492.13 I can start from now . ami_da_7
+A 496.07 I will . ami_da_7
+A 497.87 You can use this pen by holding it like a like a little child . ami_da_6
+A 501.77 Because if you hold it like this , the sensors will get blocked and then the drawing wo not get good . ami_da_4
+B 506.21 Okay . ami_da_12
+D 506.74 Okay . ami_da_12
+A 509.3 Another thing is you have to be a bit slow . ami_da_6
+A 513.66 Because if you are going to draw like really fast then the pen wo not hold up . ami_da_4
+A 518.95 So ami_da_2
+A 518.95 we choose form of current colour ami_da_7
+A 518.95 I think grey is appropriate . ami_da_9
+A 528.98 Then the line width . ami_da_7
+A 529.9 I think seven will be nice . ami_da_9
+A 535.02 Now you will see my drawing capabilities . ami_da_4
+A 538.63 These are not very much , ami_da_15
+A 538.63 but ami_da_3
+A 538.63 , see ami_da_5
+A 538.63 you have to do it real slow . ami_da_6
+A 554.37 Oh ami_da_16
+A 554.37 I was trying to draw a dolphin , but I think his nose has to be a little bit ami_da_4
+A 554.37 But it is close . ami_da_9
+B 569.81 Sure . ami_da_1
+D 577.62 I am thinking about a swordfish . ami_da_4
+A 579.62 So what ami_da_3
+A 579.62 yeah ami_da_9
+A 579.62 it is this is bit of the swordfish . ami_da_9
+B 579.9 Yeah . ami_da_9
+B 580.47 Yeah . ami_da_9
+A 582.04 Yeah , ami_da_2
+A 582.04 he has not got an eye . ami_da_4
+A 584.94 Woah . ami_da_16
+A 586.55 Now we have got another function . ami_da_7
+A 587.75 We have got the eraser . ami_da_7
+A 590.63 And then you can undo this easily . ami_da_4
+D 595.67 Meat . ami_da_16
+A 596.84 it is okay . ami_da_9
+A 598.78 And I have got to write down a few of its characteristics . ami_da_4
+A 604.29 is ami_da_3
+A 604.29 They have got no text tool , no . ami_da_4
+A 629.52 Okay . ami_da_2
+A 630.67 This is typically a undo action , I think . ami_da_4
+D 633.99 Yeah . ami_da_9
+A 636.77 Pen . ami_da_16
+A 639.89 Maybe you have to hold it a bit upside down . ami_da_4
+A 644.08 I think that is it ami_da_9
+A 644.08 because if you wan ar are going to do it like this then it will be a stripe . ami_da_4
+A 650.73 But I do not know , ami_da_9
+A 650.73 I am just trying . ami_da_4
+A 658.42 This is not my work , ami_da_4
+A 658.42 okay . ami_da_2
+A 661.82 Maybe you have to use ami_da_4
+A 661.82 Oh . ami_da_16
+A 684.84 I think it is a ami_da_3
+A 684.84 it wants to draw a another animal ? ami_da_14
+A 684.84 I do not know . ami_da_4
+A 691.57 It lives for the fun . ami_da_4
+A 694.96 So ami_da_2
+A 694.96 It is my characteristic characteristic about the dolphin . ami_da_4
+A 703.19 It lives for the fun . ami_da_4
+D 704.56 Okay . ami_da_12
+A 704.77 So ami_da_2
+A 704.77 now I am going to hand over the pen on the new blank sheet to you . ami_da_7
+B 704.99 Okay . ami_da_12
+A 711.94 Go ahead . ami_da_6
+D 712.06 Thank you . ami_da_14
+D 714.35 Okay . ami_da_2
+D 721.27 Gonna use a different line width . ami_da_7
+D 724.63 And I am going to draw in black . ami_da_7
+D 729.64 There . ami_da_4
+D 732.28 Okay , ami_da_2
+D 732.28 I am not much of an artist , ami_da_15
+D 732.28 but here we go . ami_da_7
+A 743.56 Maybe it is easier to draw the smaller line width , I think . ami_da_9
+A 748.38 Because this is going a lot better than I did . ami_da_9
+B 767.04 A sheep . ami_da_4
+D 803.26 Okay . ami_da_2
+D 805.4 This is my . ami_da_4
+D 812.21 Sheep . ami_da_4
+A 818.22 It is nice . ami_da_9
+D 820.5 With of course little blue dot they always get sprayed on their butts . ami_da_4
+A 834.99 It is a real dead sheep , ami_da_14
+A 834.99 yeah . ami_da_9
+D 835.07 There . ami_da_4
+D 836.51 Yeah . ami_da_9
+A 836.69 For recognition , ami_da_4
+A 836.69 yeah , I see . ami_da_12
+A 843.07 maybe you can also write your name somewhere . ami_da_6
+D 843.57 Okay . ami_da_9
+A 845.51 On just a ami_da_3
+A 845.51 Yeah . ami_da_9
+D 846.48 They are ami_da_3
+D 846.48 Come on . ami_da_16
+D 858.82 You have to go really slow when you are writing . ami_da_9
+D 879.44 They are brilliant animal animals . ami_da_9
+D 881.44 And that is just a little me thingy . ami_da_4
+D 884.45 So . ami_da_2
+D 888.55 Guess I will pass the pen to our User Interface Designer . ami_da_7
+B 889.6 Okay . ami_da_9
+A 889.79 Nice . ami_da_16
+B 890.86 I am just going to draw its head , ami_da_7
+B 890.86 but ami_da_3
+B 890.86 Let is see . ami_da_2
+B 965.89 Okay . ami_da_4
+D 968.53 Interesting . ami_da_9
+A 969.9 Sweet . ami_da_9
+B 971.52 Yeah . ami_da_2
+B 972.4 You know what that is ? ami_da_5
+B 972.4 Or who ? ami_da_5
+B 972.4 okay , ami_da_9
+B 972.4 yeah . ami_da_9
+D 975.5 A rabbit ? ami_da_5
+D 975.5 Garfield . ami_da_9
+C 975.72 Garfield . ami_da_4
+D 977.31 Yeah . ami_da_9
+B 978.48 Just a ami_da_3
+B 983.96 Guess . ami_da_16
+B 986.52 So ami_da_2
+B 986.52 Yeah . ami_da_4
+B 990.99 That is enough . ami_da_4
+B 993.06 , you say a blank , ami_da_5
+B 993.06 or ami_da_3
+B 993.06 Okay . ami_da_9
+A 994.96 Yeah , just a blank sheet . ami_da_4
+C 1009.34 Well ami_da_2
+C 1009.34 I was going to draw a cat too , ami_da_4
+C 1009.34 so . ami_da_3
+C 1014.47 I will just try something else . ami_da_7
+A 1017.51 No . ami_da_16
+C 1018.12 Something different than Garfield . ami_da_7
+C 1039.84 Mine is a bit more skinny . ami_da_4
+A 1041.12 Yeah , ami_da_9
+A 1041.12 it is pretty skinny cat . ami_da_4
+D 1041.64 Yeah . ami_da_9
+C 1044.43 But ami_da_3
+C 1044.43 Well , ami_da_2
+C 1044.43 it is supposed to be a cat . ami_da_4
+D 1045.68 And the most interesting tail . ami_da_9
+A 1048.55 Is your cat , or did you find him on the street ? ami_da_5
+C 1059.71 I like cats ami_da_9
+C 1059.71 because they are independent . ami_da_4
+C 1074.9 The pen . ami_da_16
+C 1080.77 So . ami_da_2
+A 1081.61 Okay . ami_da_2
+A 1083.74 That is pretty clear . ami_da_9
+A 1084.95 So ami_da_2
+A 1084.95 everybody knows how to work with the white board now ? ami_da_5
+A 1084.95 So ami_da_2
+A 1084.95 if you have any ideas or if you want to draw anything on the white board , just ask and go ahead . ami_da_6
+D 1088.79 Yeah . ami_da_4
+C 1090.49 The pen . ami_da_16
+A 1095.09 It is pretty easy . ami_da_9
+A 1100.91 Okay . ami_da_2
+A 1101.75 S ami_da_3
+A 1101.75 haunted white board . ami_da_14
+D 1102.15 We are being haunted . ami_da_14
+A 1106.77 So ami_da_2
+A 1106.77 we have got the tool introduction . ami_da_4
+A 1109.9 We move along to the project finance . ami_da_6
+A 1115.06 as you can see , we for our remote control , a selling price is twenty five Euros . ami_da_4
+A 1124.3 Our selling price . ami_da_4
+A 1126.48 our profit aim is fifty million Euros . ami_da_4
+A 1129.46 that is the least we have to get from our remote controls , ami_da_4
+A 1129.46 so we have to work together to reach our aims . ami_da_6
+A 1137.75 we can do it international , ami_da_4
+A 1137.75 so we have to focus on different kind of users , different kind of cultures , and different kind of trends as well . ami_da_6
+A 1147.17 but that is all in the later stadium . ami_da_4
+A 1152.33 Our production cost can be maximal twelve and a half Euros , ami_da_4
+A 1152.33 so that is also a point we have to keep in mind , that we wo not make remote controls with small televisions inside , and stuff like that . ami_da_6
+A 1168.83 It wo not work . ami_da_4
+A 1170.61 So ami_da_2
+A 1170.61 just try to remember these points . ami_da_4
+A 1173.94 Selling price twenty five , profit aims fifty million , but more important is the int international market we are trying to focus on . ami_da_4
+A 1183.93 And production cost maximal twelve and a half Euros . ami_da_4
+A 1189.48 So ami_da_2
+A 1189.48 that is leads us to our little discussion . ami_da_6
+A 1192.75 We have got about five or ten minutes left for discussion . ami_da_4
+A 1197.84 So ami_da_2
+A 1197.84 I am going to sit down , I think . ami_da_7
+A 1201.4 It is easier . ami_da_9
+D 1201.97 Yeah , ami_da_2
+D 1201.97 you got a message . ami_da_4
+A 1204.42 I have got a message . ami_da_12
+A 1206.22 Five minutes . ami_da_4
+B 1206.96 Five minutes , okay . ami_da_12
+A 1206.98 Okay , that is good timing . ami_da_9
+D 1210.06 So ami_da_2
+D 1210.06 just on a side note , why is it my laptop is only giving me a black screen ? ami_da_5
+D 1210.06 Yeah . ami_da_16
+A 1215.19 maybe you have to say the magic word . ami_da_4
+D 1219.55 Right . ami_da_16
+A 1221.07 Does it do anything ? ami_da_5
+A 1221.07 Maybe you have to just clap it down ? ami_da_6
+A 1221.07 back up again . ami_da_6
+D 1222.74 No . ami_da_4
+A 1233.96 No slide show . ami_da_4
+D 1236.12 It is off now . ami_da_4
+A 1237.33 It is off . ami_da_12
+A 1237.99 Now you have to put it back o ami_da_6
+A 1237.99 Oh yeah . ami_da_9
+A 1239.48 You will be okay , I think . ami_da_4
+D 1240.53 Well , ami_da_2
+D 1240.53 it was on , ami_da_4
+D 1240.53 but ami_da_3
+D 1240.53 there we are . ami_da_4
+A 1243.81 Well ami_da_2
+A 1243.81 it is those laptops . ami_da_9
+A 1248.38 Nice . ami_da_14
+A 1249.11 Okay . ami_da_2
+A 1249.98 But so ami_da_2
+A 1249.98 does everybody has experiences with remote controls , and I mean not the ordinary mote controls , but also a little bit different ones ? ami_da_5
+A 1249.98 Like you can use for other ? ami_da_5
+A 1249.98 No ? ami_da_5
+A 1249.98 You ? ami_da_5
+A 1249.98 yeah . ami_da_1
+B 1264.37 Oh really ? ami_da_4
+B 1264.37 Huh . ami_da_4
+D 1267.46 Well , ami_da_2
+D 1267.46 we have a kind of broad TV at home , and a DVD player , so we got like a lot of remote controls , one for the TV , one for the video recorder , one for the DVD player . ami_da_4
+C 1267.78 No , me neither . ami_da_4
+B 1267.79 It is a ami_da_3
+B 1267.79 Sure . ami_da_9
+D 1280.3 And I think it is it would be best to just make one remote control that can operate them all . ami_da_6
+A 1284.68 Yep . ami_da_2
+A 1285.64 Yeah ami_da_2
+A 1285.64 I have I have got one at home . ami_da_4
+B 1286.22 Yeah . ami_da_9
+A 1287.77 And you can program ami_da_4
+A 1287.77 I think eight different devices in it , and you can use it for your television , anything else . ami_da_4
+B 1294.79 Okay , yeah . ami_da_1
+B 1295.8 Yeah . ami_da_1
+A 1296.53 And it also operates on infra red , so you have to got the little device inside your room , and then you can operate it from the third or th or second floor . ami_da_4
+B 1306.36 Okay , yeah . ami_da_1
+D 1308.09 Oh ami_da_2
+D 1308.09 really . ami_da_5
+A 1308.68 So that is pretty handy when you have a video recorder or DVD player downstairs ami_da_9
+A 1308.68 and you have got a link to your TV on the second floor . ami_da_9
+B 1313.86 Oh . ami_da_1
+D 1316.76 Yeah . ami_da_1
+A 1317.16 So that is a pretty handy thing . ami_da_9
+A 1321.83 but only the ami_da_3
+A 1321.83 I think that if you can put different kind of devices in one remote control , it makes it a lot easier as well . ami_da_9
+A 1334.01 It is ami_da_3
+A 1334.01 That is good to remember . ami_da_9
+D 1334.2 Yeah . ami_da_9
+B 1335.11 Oh . ami_da_1
+D 1337.75 So ami_da_2
+D 1337.75 I think you can take minutes again . ami_da_6
+A 1339.89 Yeah , ami_da_9
+A 1339.89 that is nice , I think . ami_da_14
+D 1341.55 Since it is your job . ami_da_4
+A 1342.5 So ami_da_2
+A 1342.5 we have we want different functions and we can maybe see if we can do something with the infra red . ami_da_6
+D 1346.08 Yeah . ami_da_1
+A 1354.2 But I do not know if that will exceed the production costs . ami_da_4
+A 1357.2 So that that is something we have to find out , I think . ami_da_6
+D 1360.5 Yeah . ami_da_9
+D 1361.38 But that would be really good if we could do that . ami_da_9
+A 1365.91 And other functions for a remote control ? ami_da_8
+A 1365.91 Maybe we can make it ami_da_3
+A 1365.91 Shock proof . ami_da_12
+D 1374.24 Think it has to be shock proof ami_da_6
+D 1374.24 because my remote control tends to fall a lot . ami_da_4
+B 1376.04 Sure , yeah . ami_da_9
+B 1379.77 Waterproof , ami_da_6
+B 1379.77 or ami_da_3
+B 1379.77 , you never no know , ami_da_9
+B 1379.77 I w I mean ami_da_3
+B 1379.77 Okay . ami_da_1
+D 1381.86 So ami_da_3
+D 1381.86 Yeah , ami_da_2
+D 1381.86 one other little thing . ami_da_7
+A 1382.44 Sure . ami_da_9
+A 1386.87 Waterproof . ami_da_12
+A 1389.76 Okay . ami_da_2
+A 1390.19 So ami_da_2
+A 1390.19 these are our a few things we can think of . ami_da_4
+A 1395.0 I will put the minutes from this meeting in our project folder . ami_da_7
+D 1403.81 Thought it might be handy to put a battery status display on it . ami_da_6
+D 1408.75 So you can see how much is left in the battery . ami_da_4
+A 1408.77 That is a ami_da_3
+A 1408.77 battery stays . ami_da_12
+B 1410.37 Okay , yeah . ami_da_9
+D 1414.32 But they will also really drag up the production costs , ami_da_9
+D 1414.32 so think we will have to see about that too . ami_da_6
+A 1418.64 Yeah . ami_da_9
+D 1422.16 But maybe just a little LED , ami_da_6
+D 1422.16 I do not know . ami_da_9
+A 1425.62 That is an idea as well . ami_da_4
+A 1427.26 Other ideas ? ami_da_8
+A 1427.26 Quick ideas . ami_da_8
+C 1430.42 Nope . ami_da_4
+C 1431.5 They were all mentioned , ami_da_4
+C 1431.5 so ami_da_3
+A 1432.47 Okay . ami_da_2
+B 1432.6 Yeah . ami_da_1
+A 1433.28 Any questions about this presentation ? ami_da_5
+A 1433.28 Kick off presentation . ami_da_5
+D 1440.83 Nope , do not think so . ami_da_4
+A 1442.45 No ? ami_da_5
+A 1442.45 Okay , ami_da_2
+A 1442.45 then I will put the minutes from this meeting in the project folder , ami_da_7
+A 1442.45 and then we can all work . ami_da_6
+A 1451.74 Finish meeting now . ami_da_4
+D 1453.73 Okay . ami_da_9
+A 1454.05 Okay . ami_da_9
+A 1455.18 And we can all work on our own projects . ami_da_6
+D 1455.29 Aye sir . ami_da_14
+A 1468.18 Okay ami_da_2
+A 1468.18 then I will meet you in about a half an hour , I think . ami_da_4
+D 1472.02 Half an hour . ami_da_4
+B 1474.21 Okay . ami_da_9

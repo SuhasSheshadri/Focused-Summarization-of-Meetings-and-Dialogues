@@ -1,0 +1,490 @@
+B 30.61 I am sorry to be late . ami_da_14
+A 30.73 Welcome back . ami_da_14
+A 32.96 Welcome back everybody . ami_da_14
+C 36.86 Yeah . ami_da_16
+C 38.19 Thanks . ami_da_14
+A 41.51 So this meeting agenda will be the detailed design meeting . ami_da_4
+A 48.0 And opening and PMs of the meet minutes , prototype presentation from Christine and Agnes . ami_da_4
+B 60.46 Agnes , yes . ami_da_9
+A 61.56 Yes ami_da_1
+A 61.56 and evaluation criteria . ami_da_4
+A 65.09 The finance , it is from my side , from the management , and production evaluation . ami_da_4
+A 71.55 Then closing . ami_da_4
+A 72.88 So we have forty minutes to discuss and finalise and close the product and project and to move further , okay , ami_da_4
+A 72.88 so ami_da_2
+A 72.88 Okay , let is talk about maybe first for the prototype . ami_da_6
+C 95.81 , okay . ami_da_7
+A 96.69 So I handle to ami_da_6
+A 96.69 So shall I go to ami_da_7
+A 96.69 sorry . ami_da_14
+C 99.25 I have done a presentation , but it pretty much covers work that we have both done , ami_da_4
+C 99.25 so if I am missing anything , Christine can just correct me . ami_da_6
+B 105.78 thank you , ami_da_14
+B 105.78 so you did a PowerPoint presentation , good for you . ami_da_15
+A 107.43 Yep . ami_da_1
+A 108.15 S ami_da_1
+A 108.15 Okay , let is go to AMI . ami_da_7
+C 113.89 It is not the biggest PowerPoint presentation in the world , but ami_da_9
+C 113.89 Three . ami_da_4
+A 118.53 So in two or three or ami_da_5
+A 118.53 Yeah . ami_da_1
+C 128.67 No it is ami_da_3
+C 128.67 think it is the last one . ami_da_4
+D 128.69 Probably . ami_da_7
+D 130.71 Technical pa I would think . ami_da_7
+C 132.7 No , ami_da_4
+C 132.7 then this is ami_da_3
+C 132.7 the la ami_da_4
+C 132.7 yeah , that one , final design . ami_da_4
+D 134.7 Ha . ami_da_1
+C 137.04 It is named appropriately , you just could not see the name . ami_da_4
+C 141.23 okay , can I have the mouse ? ami_da_8
+C 141.23 Thanks . ami_da_14
+A 142.79 Yes . ami_da_7
+C 147.84 Alright , so ami_da_2
+C 147.84 from when we were discussing specifying the case in the last meeting , we decided that we wanted an ergonomic shape , the material that we chose was wood , and the colour would be customisable , because you can stain the wood whatever colour . ami_da_4
+C 165.9 so in terms of function , you have to be able to turn the TV on and off , volume and channel control , menu control , voice recognition control , and we have incorporated the LCD screen on the flip panel as part of the design , if we figure out it is too expensive , ami_da_4
+C 165.9 well then you just take it off . ami_da_4
+C 182.51 , so ami_da_2
+C 182.51 to unveil our lovely product . ami_da_7
+C 190.07 This is our remote control , with the flip panel as you can see . ami_da_4
+C 195.54 So if you lift up the panel , you can see the lovely yellow LCD display . ami_da_4
+C 201.35 , this is actually hard to do . ami_da_9
+C 203.88 The yellow button you have is the on off button , so it is really big , hard to miss . ami_da_4
+C 208.39 You have the the red triangles are the toggles for changing the volume . ami_da_4
+C 215.12 So up volume up , down volume down . ami_da_16
+C 218.3 The green are the channel changing . ami_da_4
+C 221.06 S ami_da_4
+C 221.06 And it is one of those very light , very touchable displays . ami_da_4
+C 224.43 And then you have the numeric pad in the dark blue at the bottom , and on the right hand side you have the access to the menu on the TV , and on the left hand side you have the the the ability to turn off the voice recognition . ami_da_4
+C 242.41 So this is pretty much what we had on the white board the last time . ami_da_4
+C 249.77 So . ami_da_8
+B 250.42 and I could ami_da_3
+B 250.42 Yeah ami_da_3
+B 250.42 the d ami_da_3
+B 250.42 We have not specified where the speaker or the microphone will be placed . ami_da_4
+C 251.8 Oh yes . ami_da_9
+C 253.29 Additional feature on the back is that you can have your own customised backing and I suppose you could do the same thing on the flip case on the front . ami_da_4
+C 261.85 So that you can really make this a highly highly customisable remote control . ami_da_4
+B 273.04 That depends on the s design of the circuit board inside and what room is left ami_da_4
+B 273.04 Yes , okay . ami_da_1
+C 279.99 Yeah . ami_da_9
+A 281.35 I think the microphone is on on the top , on the middle , the under the flip . ami_da_6
+B 286.72 Uh huh . ami_da_1
+A 288.04 So that will be the safe , ami_da_4
+A 288.04 so p any the chip ami_da_3
+A 288.04 it is not on the chip because you need to have microphone to ami_da_4
+A 288.04 Yes . ami_da_9
+B 294.87 No , I mean it depends on the design of the circuit board . ami_da_9
+C 298.02 But it should not be under the flip either , ami_da_9
+C 298.02 because you can have the remote control closed , but you still might want to activate it by voice . ami_da_4
+A 304.11 it is it is ami_da_3
+A 304.11 Yeah , but ami_da_2
+A 304.11 my opinion I think it is better under the flip because whenever you want to the talk , okay , so then you can speak then you can close it . ami_da_4
+A 315.61 But if you put it on the on the flip , okay , then technical I do not think it is feasible , because most of the time you speak then it will be recognised . ami_da_4
+C 324.72 But if you have already got the remote control in your hand you need to open the flip to use the voice , why use the voice , why not just use your hand ? ami_da_9
+C 324.72 I mean the whole point of the voice is that if the remote control is sitting there and I am too lazy to reach over and pick it up , I can just use my voice . ami_da_4
+B 338.28 Maybe I have got my hand in the popcorn bowl and I am holding my cup of Coca Cola in the other hand . ami_da_6
+C 344.6 Yeah . ami_da_9
+C 344.71 And you do not want to let go of either one . ami_da_6
+D 345.49 I do not want to say . ami_da_9
+D 347.02 Louder . ami_da_9
+D 349.9 Yeah . ami_da_9
+C 350.13 I mean it does not have to be on the flip , ami_da_4
+C 350.13 it can be on the side somewhere . ami_da_6
+D 352.21 Can also be on the side . ami_da_6
+A 352.87 Yeah , the sides maybe is good . ami_da_12
+C 353.49 Yeah . ami_da_1
+C 355.22 So , I mean I can pass this around if anyone wants to ami_da_7
+C 355.22 Yeah . ami_da_1
+A 357.08 Yes . ami_da_9
+A 357.78 So it is maybe good idea . ami_da_9
+B 359.32 Yeah , y better you pass it around with a napkin . ami_da_6
+D 364.85 No , because y you can easily put a microphone on the side that would have no problem would have not been not be damaged or anything , and it would be accessible all the time to voice . ami_da_4
+A 367.78 Yes . ami_da_1
+A 370.33 Yeah . ami_da_1
+C 372.45 Yeah , exactly . ami_da_9
+D 375.9 Yeah . ami_da_1
+A 376.54 So it is maybe good idea . ami_da_9
+A 377.58 S s ami_da_3
+A 377.58 Okay . ami_da_1
+B 378.42 It is It is ami_da_3
+B 378.42 You need to work on the weight a little bit . ami_da_6
+D 379.99 Compliments to the artist . ami_da_14
+C 385.74 Yes . ami_da_9
+A 387.13 S ami_da_1
+A 387.13 I am fine , I am satisfi ami_da_3
+A 387.13 I am satisfied . ami_da_9
+C 388.22 And maybe the shape of the buttons , ami_da_6
+C 388.22 the little egg shapes are not the most economical , but ami_da_4
+C 388.22 Yeah . ami_da_9
+B 392.94 We are glad you are satisfied . ami_da_14
+A 393.11 Of course it is it is it is looks more heo heavy , but I think when it is completely maybe it is a less weight . ami_da_9
+C 399.73 I mean this is plasticene . ami_da_9
+C 400.95 There is only so much you can do . ami_da_9
+A 401.06 Yes . ami_da_1
+C 402.32 We could have possibly made it a lot thinner as well . ami_da_6
+C 405.88 But ami_da_2
+C 405.88 And part of the thing is m a lot of people say that they do not like something that is too light , because they do not feel like they have enough control over it . ami_da_4
+C 413.93 So I mean maybe this is excessively heavy , ami_da_9
+C 413.93 but I think it needs to have some weight , it needs to feel like you are still holding something . ami_da_4
+A 418.09 Yep . ami_da_1
+C 422.96 So that is pretty much it for our presentation actually . ami_da_4
+A 426.64 That is your prototype model ? ami_da_4
+A 426.64 Okay , that is good , thank you very much . ami_da_14
+C 428.08 Yeah . ami_da_1
+A 431.24 So any comments or ami_da_11
+A 431.24 Okay . ami_da_1
+D 433.93 Well , the prototype is is very well within the design and ideas that we have we have talked about on the previous meetings . ami_da_9
+D 441.0 Now it goes into this next phase as the financial marketing ami_da_4
+D 441.0 Well we have not come to mine yet , so ami_da_9
+D 441.0 we are going to have a bit of difference of opinion , yes . ami_da_4
+A 444.84 Yes , that So I will come back to the ami_da_3
+A 444.84 So evaluation criteria , I think that will be good , so then let is come to the finance , ami_da_4
+A 444.84 I have some calculations which I made as for the budget . ami_da_7
+A 476.39 So here you can look like the energy and dynamo and kinetic and solar cells . ami_da_4
+A 484.79 it is optional , somewhat optional and Ed wants the chip on print , that is what we were talking about that . ami_da_4
+A 492.57 So then we have sample sensor and sample speaker , then we have the wood material , then special colour and push button . ami_da_4
+A 502.87 So it is ami_da_3
+A 502.87 actually , our budget was twelve point five Euro , but it is coming to nine point nine five Euro , so we are under below the budget , okay , so still we are saving some money . ami_da_4
+A 516.31 I think it is a good figure . ami_da_9
+B 517.81 Yes , great ami_da_9
+B 517.81 I ami_da_9
+B 517.81 I am surprised . ami_da_9
+B 521.1 Congratulations . ami_da_14
+A 521.99 Than thank you . ami_da_14
+B 524.61 Oh , okay ami_da_9
+B 525.14 It is going to cost a long way to c you know , cost a lot of money to market it , is it ? ami_da_5
+B 525.14 Thirty . ami_da_1
+A 530.37 So maybe it is for some money we can utilise for our marketing , for the sales , okay , and ami_da_6
+A 530.37 It is not . ami_da_3
+D 539.85 Well , it just depends on if we are going to add a o ami_da_3
+D 539.85 on this pr provisionary cost analysis , we do not have a LC display . ami_da_4
+D 552.05 LC display is going to be very expensive , ami_da_4
+D 552.05 it is going to be ami_da_3
+D 552.05 It is not it does not say . ami_da_3
+C 554.13 No we do , but it is not filled in . ami_da_4
+C 556.01 It is number thirty . ami_da_4
+D 556.73 We do not have the price up there , okay , so if we add approximately two to three Euro per remote , now we are up around about twelve , twelve and a half as to what the company had initially requested . ami_da_4
+A 557.01 Yeah . ami_da_1
+C 557.38 Oh , yeah , ami_da_1
+C 557.38 yeah , ami_da_1
+C 557.38 you are right , sorry , yes . ami_da_14
+A 558.06 Yeah . ami_da_1
+A 558.46 Yeah . ami_da_1
+B 558.87 Yeah . ami_da_1
+A 559.15 Yeah . ami_da_1
+B 574.4 So that means we can put the the LCD in , yeah . ami_da_6
+D 574.56 Display in . ami_da_6
+D 578.53 But as far as production I am putting up a question because we are talking about profit also , and in mine you will see the problem with our survey , the p the possibility that how many units can be sold , what percentage of the market , etcetera etcetera because that has to be taken in into consideration . ami_da_4
+D 597.71 this is just production cost , it is not advertising cost , it is not transportation cost ami_da_4
+D 597.71 And that will inflate quite a bit the cost of the the cost of the unit for the company . ami_da_4
+A 605.67 Yes , so still we have twelve point five Euro . ami_da_4
+A 609.4 Yes . ami_da_1
+A 611.73 Yeah , but ami_da_3
+A 611.73 Yes . ami_da_1
+A 614.0 Yep . ami_da_1
+C 614.14 Um hmm . ami_da_1
+D 614.67 So to come up with what the company wants is a fifty million Pound profit , we are going to have to go a long ways . ami_da_4
+A 621.0 Yes . ami_da_9
+A 621.5 This we are talking about one unit , okay , so when it go into the quantity , okay , and the cost will come down . ami_da_4
+D 623.59 Yes . ami_da_1
+D 629.9 Slightly . ami_da_9
+B 630.22 Although customisation , because this is being done , you know , the on on order basis , it might be the the quantity wo not m wo not the circuit board will b you are right , would be in producing quantity , but the cost of the case would be fixed at the ami_da_4
+B 630.22 you got some pretty cheap labour that can do this case for one Euro . ami_da_9
+A 636.08 Yeah . ami_da_1
+D 636.45 It is going to be very hard to reduce . ami_da_4
+C 637.98 Yes . ami_da_1
+D 652.31 That is not bad . ami_da_9
+B 653.15 That is really ami_da_3
+B 653.15 that is the cost of the material and lab ami_da_9
+B 653.15 wow , that is really outstanding . ami_da_9
+A 654.57 Yep . ami_da_1
+A 655.73 Yeah . ami_da_1
+A 660.19 But anyhow , still we are under control , okay , ami_da_9
+A 660.19 so what I will do is I will try to negotiate with the vendors , okay , to get the production cost less , okay , ami_da_7
+A 660.19 so then we can save some money , okay , to put into th our marketing or you know the promotions , whatever , okay , ami_da_4
+A 660.19 so that I will look after . ami_da_7
+A 679.72 I will speak to the management and how to get you know some more cost down . ami_da_7
+D 690.04 If we can go to to my display . ami_da_6
+D 693.58 And we will come back to yours ami_da_4
+D 693.58 just to give everybody an idea of the market . ami_da_7
+A 695.13 Yes . ami_da_1
+D 701.51 So now I am going to scare everybody out of this project . ami_da_4
+D 708.44 If I am still here . ami_da_16
+A 710.92 You are in four ? ami_da_5
+A 710.92 TrendWatch . ami_da_4
+D 711.86 Yep ami_da_4
+D 713.49 The four gives me ami_da_16
+D 713.49 it is gotta be TrendWatch . ami_da_4
+B 717.46 Is this the same one you did before ? ami_da_5
+B 717.46 Okay . ami_da_9
+D 719.92 No . ami_da_4
+D 722.59 It should not be if it is not it is not the right one . ami_da_4
+C 723.21 That is no , I think it is the same one . ami_da_4
+D 725.02 No , no we g no ami_da_4
+D 725.02 , that is the same one . ami_da_4
+D 726.76 You have to go back and find another one . ami_da_6
+D 733.83 Whatever name it popped up under . ami_da_6
+D 736.95 functional , try functional , ami_da_6
+D 736.95 it might not be it either , but we will see . ami_da_4
+C 737.08 Functional . ami_da_6
+C 742.47 It looks like it , ami_da_9
+C 742.47 there is ami_da_3
+C 742.47 S ami_da_1
+C 742.47 Yeah . ami_da_1
+D 744.55 Yep , that is it . ami_da_4
+D 745.38 So we will go screen by screen . ami_da_6
+A 746.49 Okay . ami_da_1
+D 747.33 Although ami_da_3
+D 747.33 since we need to have some type of idea on a market we had independent study that says it ami_da_4
+D 747.33 this this market has an availability to absorb eight mi eight million units per year . ami_da_4
+D 758.01 Okay ? ami_da_13
+D 758.01 Our internal company evaluation puts it between eight to nine million which is approximately the same as the independent study . ami_da_4
+A 765.48 Yep . ami_da_1
+D 766.11 So if we continue , ami_da_6
+D 766.11 we will look at the findings . ami_da_4
+D 769.76 Next screen . ami_da_6
+D 773.69 Which means that if we have a target of two million would the company has to take twenty five percent of the market in the first year , which is actually a tremendous amount . ami_da_4
+B 781.46 Yeah , no kidding . ami_da_9
+D 783.0 No kidding , yeah . ami_da_4
+B 784.11 Mayb maybe they already expected something . ami_da_6
+D 785.64 So , ami_da_2
+D 785.64 if we put an inflated price of fifty Euro at a production cost that cannot exceed twenty five Euro , ami_da_6
+D 785.64 okay , we are already in that that price , okay , with transport , promotion , labour , because we hav gi included the promotion in the cost , transport for the material to the stores or whatever how however we are going to break this down between our our retailers . ami_da_4
+A 794.95 Yes . ami_da_9
+C 801.46 Um hmm . ami_da_1
+D 808.96 Twenty five percent of the market to get to two million units . ami_da_4
+D 812.22 At two million units , we have to have a profit of twenty five Euro per unit to get to the fifty million unit Eu Euro profit . ami_da_4
+A 818.65 Yep . ami_da_9
+D 819.1 Okay ? ami_da_13
+D 819.1 So , obviously we w w ami_da_3
+D 819.1 I just did a run down the evaluation of the form , the fan the fancy stylishness of the of the unit , the ease of use , speech recognition , cost , we have gone through these . ami_da_4
+D 832.58 Now , the company must evaluate the feasibility of being able to take enough of the market to justify in production . ami_da_4
+D 840.59 Or we project this over two years , ami_da_6
+D 840.59 but being that the market changes very very quickly , maybe there is no more interest in buying this thing in eighteen months from now . ami_da_4
+A 845.45 Yes . ami_da_1
+A 848.33 Yep . ami_da_1
+D 848.95 So , now we have to come up with a decision . ami_da_6
+A 849.42 Of course . ami_da_9
+D 851.38 Can the company sell two million units ? ami_da_5
+D 851.38 Can it sell it for fifty Euros ? ami_da_5
+D 851.38 S Upscale technology . ami_da_4
+A 853.4 Yep . ami_da_1
+B 855.18 Could could I go to findings ? ami_da_6
+B 855.18 I would like to explore the possibility of using alternative delivery and sales channel ami_da_7
+B 855.18 which would be to use the internet for promotion and ordering and then to drop ship the p product to the customer is residence . ami_da_6
+A 855.81 Yep . ami_da_1
+A 872.86 Yes . ami_da_1
+C 872.86 I was thinking the same thing , yeah . ami_da_9
+C 878.72 Directly . ami_da_9
+B 880.12 That way you have no storage , you have no you do have transportation , still have the labour cost , but you do not have the transport to the point of sale . ami_da_4
+C 884.57 Um hmm . ami_da_1
+A 890.85 Yes . ami_da_1
+C 891.14 Yeah . ami_da_1
+B 891.16 The point of sale is online . ami_da_4
+A 892.39 To the agents . ami_da_16
+C 894.08 Yeah . ami_da_9
+C 894.5 You can do a shipping centre somewhere , or strategically place shipping centres to minimise distance costs . ami_da_6
+B 898.53 Right , like Amazon . ami_da_9
+B 900.18 In fact , we should sell through Amazon , ami_da_6
+B 900.18 do not you think ? ami_da_11
+B 900.18 Or eBay , yeah . ami_da_9
+A 900.73 Yes . ami_da_1
+A 902.19 Or eBay , or ami_da_6
+A 902.19 Yes . ami_da_1
+C 904.18 Yeah . ami_da_1
+B 906.38 There is an idea . ami_da_9
+B 907.13 Going with ami_da_3
+B 907.13 , we we are do you know , selling a unique product . ami_da_4
+A 907.28 Yeah , that is a good idea . ami_da_9
+A 909.54 To impro more profit and ami_da_4
+A 909.54 Yeah , yes . ami_da_1
+D 914.46 Well . ami_da_9
+C 918.6 That actually makes more sense if we are going to make it so highly customisable , because on the web people can look at the different options they have , see maybe what other people have done , what the range of possibility as , whereas if you are in a store , you ca not unless you are a highly imaginative person , you may not really know what it is you want , whereas on the web , if you have a bunch of pictures , it can sort of trigger ideas and ami_da_4
+C 918.6 Yeah . ami_da_1
+D 928.5 There are several companies that have gone that way . ami_da_4
+B 940.81 And you can even have an a movie that you can rotate the object and look at the di ami_da_6
+B 940.81 the only thing that you are missing really is the weight . ami_da_4
+C 948.25 The weight and feel . ami_da_4
+D 948.66 Weight , the feel of the product , but There are several that have gone through with the watches , too . ami_da_4
+C 950.24 Yeah . ami_da_1
+B 951.59 We are getting used to that . ami_da_4
+B 952.58 It is not quite like trying on a shoe , but people are getting used to buying things online that they ca not touch before buying . ami_da_4
+C 956.77 Yeah . ami_da_1
+C 960.04 Yeah . ami_da_1
+D 962.87 You can customise a watch , you can see how it is at the f at the end of the production , you can change it ami_da_4
+D 962.87 There is a lot of online that is that is doing this now . ami_da_4
+B 966.15 Uh huh . ami_da_1
+C 970.19 Yes . ami_da_1
+D 971.23 And when you are rotating , you will look behind and look this way ami_da_4
+D 971.23 it is possible to do with this , ami_da_6
+D 971.23 maybe there is a possibility of selling more than two million units in one year , which could you know , feasibili feasibility lower the price of the unit . ami_da_4
+A 979.29 Yeah . ami_da_1
+A 987.8 We can . ami_da_9
+B 988.58 Great . ami_da_9
+A 989.94 I do not think that is not possible , ami_da_4
+A 989.94 it is ami_da_3
+A 989.94 okay then , l let is wait for the production , okay , then you can evaluate the product , ami_da_6
+A 989.94 so how it looks like technically and how it look like the real . ami_da_4
+C 1002.72 What turnaround time do we have ? ami_da_5
+C 1002.72 Because I mean production evaluation can be very very quick or very very long . ami_da_4
+A 1004.81 T Oh ami_da_3
+A 1004.81 but ami_da_3
+A 1004.81 Yes it is it is very quick , of course . ami_da_4
+A 1011.75 It will come back in two weeks , okay , it will be ready in two weeks . ami_da_4
+B 1016.25 Works for me . ami_da_9
+A 1016.81 For evaluation , okay . ami_da_4
+B 1019.96 Prototypes , you mean . ami_da_5
+A 1021.51 Yes , the prototype prototype product evaluation . ami_da_4
+B 1021.85 In ami_da_3
+B 1021.85 We probably should do some market tests once we have the prototypes and do some orders and things like that and test market it . ami_da_6
+A 1026.07 Yes . ami_da_1
+D 1027.49 Well , obviously . ami_da_9
+A 1027.88 Yes . ami_da_1
+C 1028.66 Yeah . ami_da_1
+A 1029.53 Yes . ami_da_1
+D 1031.58 that would have to be thrown out on the market for people to get an idea , ami_da_6
+D 1031.58 to see get get their ami_da_3
+D 1031.58 I think we pretty much covered everything . ami_da_9
+A 1031.79 Yeah . ami_da_1
+A 1034.39 So you can take a minimum two weeks to a maximum four weeks . ami_da_4
+C 1037.25 Think minimum two weeks if we are going to develop prototypes and then try to take them to different places and see how people use it is not a trivial task . ami_da_4
+A 1038.09 Yeah . ami_da_1
+A 1046.44 Yeah , because we we are not going to do it in our factory , okay , so we can give it a product evalua ami_da_4
+A 1046.44 Yes , yes . ami_da_9
+C 1049.92 No no . ami_da_9
+C 1050.79 We definitely should not do it in our factory . ami_da_4
+A 1054.21 So we will do it in the other place , and I do not think it is take more than four weeks time . ami_da_4
+A 1061.53 Or ami_da_2
+A 1061.53 Okay , so then the real production we will start once we product evaluation , okay , then it is approve from the technical team and your team , okay , from the management , then we can launch in the market . ami_da_4
+A 1081.75 Hm ? ami_da_1
+A 1081.75 S ami_da_8
+A 1081.75 Any any other questions or comments to be discuss ? ami_da_8
+A 1081.75 Okay , ami_da_3
+A 1081.75 so then ami_da_3
+A 1081.75 Okay , let is take like this . ami_da_6
+B 1082.2 Any outstanding ? ami_da_8
+B 1082.2 No , I am ami_da_3
+B 1082.2 go ahead . ami_da_14
+C 1091.58 What ab ami_da_3
+C 1091.58 Well I was just wondering about if we are going to do a product evaluation then what about time for redesign if the users come back and tell us no this is bad , this is bad , we want this done differently . ami_da_5
+B 1094.96 Did you have something ? ami_da_8
+B 1094.96 Second generation . ami_da_4
+A 1111.45 Let is proceed with this model , okay , for the for the marketing direction , okay . ami_da_6
+A 1116.2 So no more changes will be made , okay , in this the basic design . ami_da_4
+A 1122.55 Okay ? ami_da_13
+A 1122.55 So we will introduce m this model and let is introduce in the market and let is take the feedback from the customers , then we can go for the second generation . ami_da_4
+A 1134.89 Okay . ami_da_4
+A 1135.78 There is no end , there is not limit . ami_da_4
+C 1137.72 The problem is there might not be a second generation if the first generation flops for some silly reason that we have not thought of . ami_da_4
+A 1138.32 Every every custom ami_da_3
+A 1138.32 Okay . ami_da_1
+D 1140.52 Well , then it may not be . ami_da_9
+A 1143.06 Well , every customer , okay , they have their own ideas , they have their own test , ami_da_4
+A 1143.06 okay , so there is no end , there is no limit . ami_da_4
+D 1144.27 Like people do not like wood . ami_da_6
+C 1152.82 No , but there is a difference between releasing a product that has been minimally tested and fine tuned to suit a general range of requirements versus releasing a product that we think will work ami_da_4
+C 1152.82 but we do not really have anything to back it up . ami_da_4
+D 1164.72 very specific . ami_da_4
+A 1165.88 Yeah , so that is the reason you are here for the design , okay , ami_da_4
+A 1165.88 I hope you made a good design . ami_da_11
+C 1169.62 Yes , but I am not everybody . ami_da_9
+C 1172.0 I mean the whole point of user evaluation is to see what real people need . ami_da_4
+C 1176.21 We have our own motivations in mind , we have our own ideas in mind , but that does not mean that that is what is going to sell . ami_da_4
+A 1181.79 Yeah , but see , we ought to take a few considerations , okay , one is the price consideration , one is future consideration , ami_da_4
+A 1181.79 okay , ami_da_4
+A 1181.79 like you can eat you can all eat more chi ami_da_4
+A 1181.79 I can eat more chilli , okay , ami_da_4
+A 1181.79 so i it is a depends on the individual taste , you know , ami_da_4
+A 1181.79 so we have we have to balance somewhere . ami_da_4
+C 1198.93 Yeah , of course . ami_da_9
+C 1199.57 I am just trying to point out that I think that your evaluation and redesign turnaround time is too short well ami_da_4
+C 1199.57 you have no redesign ami_da_4
+C 1199.57 not you personally , ami_da_4
+C 1199.57 but in the project we have no redesign time and ami_da_4
+C 1199.57 Yeah . ami_da_1
+A 1209.68 Yes . ami_da_1
+B 1210.32 Our project does not ami_da_4
+B 1210.32 Ed , d do you know what season of the year or time of the year is the most important for TV remote control sales ? ami_da_5
+B 1210.32 Would it be the Christmas season by any chance ? ami_da_6
+B 1210.32 Sports season . ami_da_9
+A 1211.01 Yeah . ami_da_1
+A 1224.69 The sports time . ami_da_4
+D 1228.03 Right before the Eur the World Cup . ami_da_4
+B 1228.46 Which sport season ? ami_da_5
+B 1228.46 So so maybe what ami_da_3
+B 1228.46 So I think what we need to do is perhaps to synchronise the final the the launch of a user tested device with some special event . ami_da_6
+A 1230.27 Football . ami_da_4
+D 1230.56 World soccer . ami_da_4
+D 1232.02 World Cup soccer , they need those things that they have their hands g occupied and they need to be able to talk to the con remote control . ami_da_4
+A 1233.7 Football . ami_da_4
+A 1244.74 Yes . ami_da_1
+A 1247.31 Yes . ami_da_1
+C 1247.43 Yeah , that is a good idea . ami_da_9
+B 1247.78 And and then ami_da_3
+B 1247.78 so that gives us a little more time perhaps then we anticipated , because I do not know when the World Cup is , but I am sure there is going to be one . ami_da_4
+D 1257.33 Or any major sports . ami_da_6
+B 1259.29 Or another m major sports event . ami_da_4
+B 1261.31 Probably not the the football games coming up the end of January . ami_da_6
+B 1265.33 I think that might be a little too aggressive , ami_da_4
+B 1265.33 but , so , I am just ig pointing out a a strategy to do some additional user testing pri and then to launch at a a major sports event ami_da_6
+B 1265.33 or perhaps to also ami_da_3
+B 1265.33 And to work with motion pictures . ami_da_6
+A 1267.12 Yes . ami_da_1
+C 1267.3 Yeah . ami_da_1
+A 1277.09 Research . ami_da_6
+A 1282.2 Yep . ami_da_1
+C 1284.3 That is actually good place to advertise it too . ami_da_4
+C 1287.43 Yeah . ami_da_1
+B 1288.24 There might be some motion pictures that are coming out that are coming out on DVD that they need to have a m special remote control to work with it , ami_da_4
+B 1288.24 so we could maybe work out a campaign with with Sony Pictures for example . ami_da_6
+A 1303.16 Yes . ami_da_1
+B 1303.97 Maybe some management has got relationships there we can leverage . ami_da_6
+A 1308.23 Yes , the that of course I will convince the management to do that , okay . ami_da_7
+B 1314.4 That is great . ami_da_9
+C 1316.81 It is just something to to keep in mind , because it is really really important . ami_da_4
+A 1319.68 Sure , sure , yes . ami_da_9
+C 1319.96 A lot of products have gone out there without being properly user tested and completely flopped , when in fact it gets re released a few years down the line with proper testing and it takes off like crazy . ami_da_4
+B 1330.84 Disposable diapers is an example of that in fact . ami_da_4
+C 1333.62 Really ? ami_da_5
+C 1333.62 That I did not know . ami_da_4
+B 1334.16 Yes , it is one of the first consumer products that was launched about thirty years that was a disposable consumer product , ami_da_4
+B 1334.16 and people ami_da_3
+B 1334.16 the market had not really gotten on to the concept that you could use something and then throw it away , because it was not ami_da_4
+B 1334.16 but then when they re launched them thirty years later , they were virtually the same design , but people had gotten the throw away , you know , paper cups and napki y all kinds of things that they had not ami_da_4
+B 1334.16 so , you are right , timing is very important , but I think we have got a good product . ami_da_4
+C 1363.27 Yeah . ami_da_1
+A 1365.43 Yeah . ami_da_1
+C 1367.54 Yeah . ami_da_1
+A 1367.66 That is the reason Ed is here . ami_da_4
+A 1369.01 I think he can promote the the brand value and the product value . ami_da_6
+B 1369.09 That is right . ami_da_9
+B 1373.23 It is going to be very important to the company . ami_da_4
+A 1374.33 Yes . ami_da_1
+A 1377.59 We are behind the scene and he is the front screen , so . ami_da_4
+C 1380.53 Yep . ami_da_9
+D 1381.69 Yeah , I am the one who takes the heat . ami_da_7
+A 1382.15 He is on the big screen . ami_da_4
+C 1383.53 Exactly . ami_da_9
+B 1385.16 Good luck , Ed . ami_da_14
+D 1385.76 If it is a flop , it is the marketer . ami_da_4
+B 1389.2 You look very relaxed , considering h you know , the the weight on your shoulders , yeah . ami_da_9
+D 1390.49 Yes . ami_da_1
+D 1392.07 Yes . ami_da_1
+D 1392.87 Stress . ami_da_4
+A 1396.42 Okay , so then let is come to the closing ami_da_6
+A 1396.42 and are the costs within the budget and is the product evaluated , okay , so that will come soon . ami_da_4
+D 1399.85 Celebration . ami_da_14
+A 1407.98 Okay for but our time being , so thanks for all your efforts and great work and great design ami_da_14
+A 1407.98 and let is leave it to the Ed for later for once production is over and the meantime let is celebrate . ami_da_6
+A 1422.47 So let is meet up this evening to hang up for some party . ami_da_14
+B 1429.08 Sounds good . ami_da_9
+A 1429.92 Is good . ami_da_14
+C 1430.02 Okay . ami_da_1
+B 1430.13 Thank you . ami_da_14
+D 1430.48 Very good . ami_da_14
+D 1431.99 Thank you very much . ami_da_14
+A 1433.0 Thank you . ami_da_14
+A 1434.12 Thank you again for all . ami_da_14
+D 1436.47 Bye bye . ami_da_14

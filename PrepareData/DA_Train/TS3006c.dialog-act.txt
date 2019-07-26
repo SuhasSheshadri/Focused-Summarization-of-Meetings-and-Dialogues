@@ -1,0 +1,1445 @@
+D 74.89 Hello . ami_da_14
+D 82.13 Yes , I made it . ami_da_4
+D 85.74 English from now on . ami_da_6
+D 90.38 Drawing or ami_da_5
+D 90.38 Yeah . ami_da_9
+A 91.53 Yeah just testing . ami_da_4
+A 95.66 English . ami_da_16
+C 98.35 Just kidding . ami_da_14
+C 102.92 So annoying . ami_da_9
+A 104.1 Break is over . ami_da_9
+D 106.41 Ooh it works . ami_da_9
+A 107.06 Whoo . ami_da_16
+A 110.12 Spicy . ami_da_9
+D 110.91 Spicy . ami_da_9
+D 112.4 Where are are all the other presentations ? ami_da_5
+D 112.4 The conceptual or ami_da_5
+C 115.86 I just put it in the in the shared folder so it should be ami_da_4
+C 115.86 yeah ami_da_4
+C 115.86 I think so . ami_da_4
+C 122.85 Yeah , conceptual design . ami_da_4
+C 124.72 What or whatever does it ami_da_16
+C 124.72 No no no , ami_da_9
+C 124.72 can you go back one ? ami_da_6
+C 124.72 because it has to be PowerPoint pre yeah components design , that is it . ami_da_4
+D 126.02 Because I see only my own presentation ami_da_4
+D 126.02 yeah . ami_da_7
+D 134.59 This ? ami_da_5
+D 134.59 I will just put it in there . ami_da_7
+A 138.74 So , he is coming . ami_da_4
+C 142.63 I did get a bit more done than the last time , because I knew that I did not have time ami_da_4
+C 142.63 so I just copy and paste everything into the Sometimes I have these pop ups or these sounds and there is nothing there , and also with I do not know how to use PowerPoint ami_da_4
+C 142.63 , so it takes me forever to get something done with it . ami_da_4
+D 143.26 Or not . ami_da_9
+B 144.55 Okay . ami_da_1
+A 145.16 Oh okay . ami_da_9
+D 148.82 I ca not cut and paste it into the other folder but Move to meeting room . ami_da_4
+A 151.2 She . ami_da_3
+A 151.31 You can look at the final report , ami_da_6
+A 151.31 because I have to record everything we are deciding and such , ami_da_4
+A 151.31 so I am trying to write it down between everything else . ami_da_7
+D 162.33 Yeah . ami_da_1
+A 167.13 Oh . ami_da_16
+D 168.04 Yeah me too , . ami_da_9
+B 173.71 I I have got the same problem as well . ami_da_9
+C 175.78 Yeah . ami_da_9
+D 177.87 Yeah . ami_da_2
+A 178.35 Yeah . ami_da_2
+A 178.83 Here we go again . ami_da_4
+A 180.45 Welcome . ami_da_14
+A 182.84 we have again three presentations and then we have to decide on what concepts the mobile phone has to f the remote control has to support . ami_da_4
+C 182.93 Thi ami_da_3
+A 193.83 So who wants go . ami_da_8
+D 195.98 Yes . ami_da_7
+C 196.72 Who wants to start ? ami_da_8
+C 196.72 Sound . ami_da_1
+A 196.73 Yes ? ami_da_1
+A 196.73 Yeah sure . ami_da_9
+D 197.33 Me first again or ami_da_7
+D 197.33 yeah . ami_da_9
+B 198.68 Oh . ami_da_9
+B 199.24 No . ami_da_9
+A 199.39 Does not matter . ami_da_9
+B 199.69 Yeah . ami_da_9
+B 200.13 No problem ami_da_9
+B 200.13 Yeah . ami_da_9
+D 201.89 Alright . ami_da_9
+D 202.99 Did you open it already or ami_da_5
+D 202.99 no . ami_da_9
+A 204.34 No . ami_da_4
+D 212.06 Yes . ami_da_16
+D 223.43 So welcome to the marketing presentation once again . ami_da_4
+D 226.89 this time about trendwatching . ami_da_4
+D 231.31 well there has been inv investigation again , in the in the remote control market . ami_da_4
+D 236.5 it shows a number of developments . ami_da_4
+D 238.36 I will address them in a moment . ami_da_7
+D 241.68 fashion watch watchers have detected the trends for young public , because that is our public . ami_da_4
+D 247.92 well ami_da_2
+D 247.92 fruit and vegetables will be will be the most important theme for clothing , shoes and furniture . ami_da_4
+D 255.09 And the feel of the material is expected to be spongey . ami_da_4
+D 258.23 So the developments I will address them ami_da_7
+D 258.23 oh yeah ami_da_4
+D 258.23 well this is the fruit and vegetables looks of fresh bright colours . ami_da_4
+D 265.93 So to give you an idea . ami_da_4
+D 268.37 well the developments ? ami_da_4
+D 268.37 development one . ami_da_4
+D 272.9 well ami_da_2
+D 272.9 most important aspect for remote control happens to be a fancy look and feel . ami_da_4
+D 278.71 Instead of the current functional look and feel . ami_da_4
+D 281.65 well fancy stands for an original look and feel of the case and the interface . ami_da_4
+D 287.74 And the second most important aspect is that a remote control should be technological innovative . ami_da_4
+D 295.76 well it stands for the use of technical features that do not exist in current remote controls . ami_da_4
+D 301.36 I think we pretty much covered that with our screen and and speech recognition , so I do not expect that to be a problem . ami_da_9
+C 306.54 Yeah yeah . ami_da_9
+D 309.16 And the third development is that the remote control should be easy to use . ami_da_4
+D 315.37 Well the first aspect was twice as important as the second aspect,w which was twice as important as the third aspect . ami_da_4
+D 327.32 So that kind of gets you this ratios . ami_da_4
+D 330.67 So fancy look and feel is the most important point of attention . ami_da_4
+D 336.17 so the fruits and vegetables in combination with the spongey material . ami_da_4
+D 340.16 well technolog technological innovation , we have covered that pretty much I guess . ami_da_9
+D 345.1 and easy to use , I do not think that will be problem . ami_da_9
+D 348.96 So my point of attention is especially this part . ami_da_4
+D 353.36 That this will be a crux . ami_da_9
+C 353.65 Yeah . ami_da_1
+D 357.88 So that was the marketing presentation . ami_da_4
+D 360.43 I had only one document left . ami_da_4
+C 362.09 And shall I go first ? ami_da_7
+C 362.09 So I ami_da_3
+C 362.09 Yeah ? ami_da_11
+C 362.09 Alright . ami_da_11
+B 363.63 No . ami_da_9
+B 363.97 I I do not ami_da_9
+B 363.97 mi I do not mind . ami_da_9
+B 365.91 That is ami_da_3
+B 365.91 Do you want to go first ? ami_da_9
+B 365.91 Okay . ami_da_9
+D 366.5 So kind of this So a k a small example . ami_da_4
+A 368.61 Yeah ami_da_9
+A 368.61 yeah sure . ami_da_9
+A 369.36 No . ami_da_9
+B 369.79 Yeah . ami_da_9
+D 370.97 Kind of this this look . ami_da_4
+D 372.82 nothing about the buttons but just sponge kind of thing , and and some fruit and colours ami_da_4
+D 372.82 I dunno . ami_da_9
+B 374.98 Yeah . ami_da_1
+D 379.93 Just made a quick design . ami_da_4
+A 382.98 Cool . ami_da_9
+B 384.16 It is better than than my drawing . ami_da_9
+D 384.5 Alright . ami_da_16
+A 386.79 Yeah you are just the user interface ? ami_da_4
+A 386.79 Yeah layout . ami_da_9
+B 389.14 Yeah okay ami_da_9
+B 389.14 but I have to design the ami_da_9
+B 389.14 Yeah . ami_da_1
+C 389.23 components . ami_da_16
+C 395.04 Oh no . ami_da_9
+A 395.42 Yeah okay . ami_da_9
+D 395.75 Yeah . ami_da_9
+D 396.31 It is okay . ami_da_9
+A 396.89 You probably opened it . ami_da_9
+C 398.98 Yeah true . ami_da_9
+C 399.7 Alright . ami_da_2
+A 400.38 F five . ami_da_4
+D 401.15 F five . ami_da_9
+C 404.95 So ami_da_2
+C 404.95 I am dealing with the components design . ami_da_4
+C 408.83 let is see . ami_da_2
+C 410.73 I used some design examples we had from similar products . ami_da_4
+C 416.63 And I used possibilities from our manufacturing department about current components which will have to be implemented in the design . ami_da_4
+C 426.27 That is why I had to , wanted to go first . ami_da_4
+C 428.84 Well they gave me an idea about what people want . ami_da_4
+C 432.97 We are f mainly focusing on this group , but I want to make the distinction clear . ami_da_4
+C 437.93 I could not drag the pictures into the the slides ami_da_4
+C 437.93 so s ami_da_4
+C 437.93 so I do not have examples of how it looks like . ami_da_4
+C 446.22 But it comes down to what you what you think we should do with the spongey and the fruity looking type . ami_da_4
+C 453.5 If you , the young dynamic people want soft primary colours , which looks like fruits you know , you can and shapes that are curved and not solid straight lines anymore . ami_da_4
+C 467.05 So this basically yeah goes on to what you were mentioning earlier . ami_da_4
+C 473.51 There is a lot of factors involved in choosing the components . ami_da_4
+C 478.95 There is a lot of options that we have to discuss . ami_da_4
+C 481.75 for example the energy source . ami_da_4
+C 484.25 we have four types . ami_da_4
+C 485.37 The basic battery . ami_da_4
+C 487.32 we have a hand dynamo , which we yeah ami_da_4
+C 487.32 we Dutch refer to it as the kneipgatt . ami_da_4
+A 491.99 Yeah . ami_da_1
+C 493.79 the kinetic provision of energy which means if you move the thing , if you shake it . ami_da_4
+C 499.49 Which will be fun for toddlers right , if they want to use the ami_da_9
+C 499.49 And of course solar cells . ami_da_4
+D 501.82 Yeah . ami_da_9
+C 505.45 But I dunno how we would use that into the design of the actual product . ami_da_4
+D 508.44 Wi an indoors . ami_da_9
+C 510.18 So my ami_da_2
+C 510.18 yeah also also in you know countries where there is n is not much light like in Scandinavia , they would not be y able to use it half of the year you know . ami_da_4
+D 511.43 Oh . ami_da_16
+A 511.55 Yeah okay . ami_da_9
+A 513.18 Calculator is can do it . ami_da_4
+B 520.85 Yeah . ami_da_1
+C 521.75 So that is not cool either . ami_da_9
+D 521.86 Yeah . ami_da_1
+C 523.44 So ami_da_2
+C 523.44 for the a case , there is the traditional uncurved flat hard case . ami_da_4
+C 530.16 Single curved , which means that it has curves in one dimension . ami_da_4
+C 534.07 Or the double curved . ami_da_4
+C 535.75 I was not able to finish my personal preferences sheet , ami_da_4
+C 535.75 but well you know that we will have to go for the double curved because it is daring and different from what we have now . ami_da_6
+D 547.49 Yeah . ami_da_9
+C 547.84 the case materials . ami_da_4
+C 549.62 Well we have all kinds of hard materials like the the hard plastic , the wood and the titanium . ami_da_4
+C 556.61 I would definitely go for rubber ami_da_6
+C 556.61 because it fits most in what people want to see nowadays . ami_da_9
+D 562.56 Yeah . ami_da_9
+C 563.16 poo , ami_da_16
+C 563.16 this is a lot of text . ami_da_3
+C 565.76 I was not able to organise this yet . ami_da_4
+C 567.9 We have yeah several interface designs . ami_da_4
+C 574.18 we can use a scroll buttons for the menus , but we already kind of decided to go for the f for the pushbuttons , for the the arrow buttons . ami_da_4
+B 579.17 Yeah . ami_da_1
+B 579.81 Pushbuttons . ami_da_1
+B 581.63 Yeah . ami_da_1
+C 584.56 So that is not really interesting . ami_da_9
+D 584.84 Yeah . ami_da_1
+C 586.83 Electronics ? ami_da_4
+C 586.83 Yeah , ami_da_2
+C 586.83 maybe we want to decide on what electronics to use ami_da_6
+C 586.83 the advanced chip I think is easiest to implement for the production , because they they can print it better . ami_da_9
+C 605.04 Yeah . ami_da_4
+C 611.1 I think this is about it . ami_da_4
+C 613.27 Yeah I was working on some per personal preferences . ami_da_4
+C 616.94 I first chose for the battery , because yeah I am traditional and that is the most obvious , easiest choice to go to . ami_da_4
+C 623.59 But I really think that we should maybe think about the kinetic energy , ami_da_6
+C 623.59 where you have to move the thing to be able to use it . ami_da_4
+B 628.18 Yeah . ami_da_1
+B 629.61 Yeah . ami_da_1
+A 630.14 Yeah . ami_da_1
+B 630.47 As an optional feature . ami_da_6
+D 630.53 Yeah . ami_da_1
+B 633.33 Or combine both with a with one ami_da_6
+B 633.33 Okay . ami_da_9
+D 636.33 I guess we can only choose one . ami_da_9
+A 636.35 I think you can only fit one source of energy on the ami_da_4
+A 636.35 Yeah ami_da_9
+A 636.35 I did not receive any info . ami_da_4
+C 636.69 Yeah ami_da_3
+C 636.69 maybe we ami_da_3
+C 636.69 I can imagine that the kinetic type energy source would be more expensive to make . ami_da_4
+C 645.93 But it is more longlasting , that the people do not have to ever buy batteries again . ami_da_4
+D 650.88 Yeah . ami_da_9
+D 651.44 And it is more fun . ami_da_9
+C 652.64 And it is also more fun ami_da_9
+C 652.64 yeah . ami_da_9
+C 653.85 I always chuck my remote control around , so ami_da_4
+C 653.85 Yeah y exactly . ami_da_9
+D 655.82 Yeah , just playing with it ami_da_9
+D 655.82 and especially when the material is rubber . ami_da_4
+A 657.59 Yeah . ami_da_1
+D 661.28 It can be done , I mean , you ca not harm it , ami_da_4
+D 661.28 so it is a perfect combination I guess . ami_da_9
+A 661.5 S ami_da_9
+A 661.5 yeah ami_da_9
+A 661.5 it is safe . ami_da_9
+B 664.26 And throw it . ami_da_1
+C 665.22 You do not have to be scared about bouncing it off the g floor and breaking it or whatever . ami_da_9
+D 668.95 Yeah . ami_da_1
+B 669.85 Okay . ami_da_1
+C 670.08 So that is the end of it . ami_da_4
+B 672.9 Yeah . ami_da_1
+D 673.43 So ami_da_2
+D 673.43 So double curved is like this , this , this , or ami_da_5
+C 674.7 go ahead . ami_da_6
+A 675.02 Okay next . ami_da_6
+C 680.79 No it means curved in two dimensions . ami_da_4
+C 683.35 So w single curved ? ami_da_4
+C 683.35 let is say would be a b square box , but then with curves on one dimension . ami_da_4
+D 691.42 Yeah . ami_da_1
+C 691.51 And double curved would means that it would have curves curves in every direction . ami_da_4
+D 694.64 Also in in height ? ami_da_9
+D 694.64 Yeah okay . ami_da_9
+A 695.34 Okay . ami_da_1
+C 696.87 Like three D . ami_da_4
+B 697.53 Yeah . ami_da_1
+A 697.82 Can we ami_da_3
+A 697.82 Yeah . ami_da_9
+B 698.39 One one very important thing I was yeah thinking about is the speech option . ami_da_4
+C 698.73 Yeah . ami_da_4
+B 704.44 We were going to use that . ami_da_4
+B 706.43 Yeah . ami_da_9
+B 707.03 So Yeah ami_da_2
+B 707.03 yeah that is one thing which I am not sure of how to implement it into the remote control . ami_da_4
+C 717.43 Design ? ami_da_1
+C 717.43 I ami_da_3
+C 717.43 And rubber . ami_da_4
+A 717.84 Well the visual representation is not there with speech ami_da_9
+A 717.84 but you can ami_da_3
+A 717.84 Yeah . ami_da_9
+B 720.97 No okay ami_da_9
+B 720.97 but it has to be combined with with the menu for functions and ami_da_9
+B 720.97 So okay . ami_da_2
+A 726.32 Just yeah . ami_da_2
+A 727.6 I think you can just match the speech commands with the functions that are already present . ami_da_4
+B 733.78 Yeah . ami_da_1
+B 735.64 Okay . ami_da_1
+A 735.72 So I do not think you have to design anything else for that . ami_da_4
+D 736.01 Yeah with the programme . ami_da_9
+B 737.62 But do j do we do the speech just for the basic options , for the simple buttons ? ami_da_8
+B 737.62 For for everything , ami_da_11
+B 737.62 also for the advanced options ? ami_da_9
+B 737.62 Okay . ami_da_9
+A 742.76 Both . ami_da_6
+A 744.97 Yeah . ami_da_9
+B 747.06 we have this very basic trendy design . ami_da_4
+B 751.16 Everybody says it so that is what is ami_da_4
+B 751.16 yeah ami_da_2
+B 751.16 Yeah ami_da_2
+B 751.16 in the in the last meeting we we were ami_da_4
+B 751.16 yeah ami_da_4
+B 751.16 putting the the simple and the advanced options separated . ami_da_4
+B 765.5 That is ami_da_9
+B 765.5 yeah obvious . ami_da_9
+B 768.86 yeah . ami_da_2
+B 770.15 Pressing the the menu option will disable all other options on your remote control . ami_da_4
+B 777.27 And only the the LCD panel will light up and then you can only change the yeah the options . ami_da_4
+D 784.0 And and the and the buttons that you need to control it , I guess . ami_da_9
+B 785.81 Yeah . ami_da_1
+A 786.28 Yeah . ami_da_1
+B 788.07 yeah ami_da_2
+B 788.07 design has to be very attractive but that is your your op your yeah . ami_da_4
+B 797.31 you have to delete this ami_da_4
+B 797.31 but this is the the the simple layout . ami_da_4
+A 799.03 Yeah . ami_da_1
+B 801.22 display on the upper side with the the menu button and maybe a some sort of cancel button or save button . ami_da_4
+A 809.97 That would be the back . ami_da_4
+B 810.03 I am ami_da_3
+B 810.03 The back . ami_da_9
+D 811.62 Yeah . ami_da_9
+A 812.02 Back and okay . ami_da_4
+D 812.85 Back and okay . ami_da_9
+B 813.05 Back and okay ami_da_9
+B 813.05 yeah . ami_da_9
+B 814.83 What ? ami_da_12
+B 814.83 A little bit I think but not not everything w ami_da_4
+B 814.83 Okay . ami_da_9
+A 814.94 You did read the minutes I wrote ? ami_da_5
+A 814.94 You did read the minutes I wrote ? ami_da_5
+A 814.94 Oh okay ami_da_9
+A 814.94 because I pretty much summed up all the buttons there were . ami_da_4
+A 826.14 So ami_da_4
+A 826.14 I hate doing work for nothing . ami_da_14
+B 826.64 Oh I did not read that . ami_da_4
+B 829.35 But ami_da_3
+B 829.35 But this is the the basic design for the for the m ami_da_4
+B 829.35 yeah for the buttons . ami_da_4
+B 838.64 I wanted to to categorise everything . ami_da_4
+B 842.85 with a speech display ami_da_4
+B 842.85 yeah , ami_da_4
+B 842.85 sound , everything you you noted in your minutes . ami_da_4
+B 850.37 every pushbutton has has its own LED light . ami_da_4
+B 855.18 So you can yeah change ami_da_4
+B 855.18 m make it more trendy for for younger people . ami_da_4
+B 860.51 And if there are older people they wanted more yeah more luxurous so that is an a also an option . ami_da_4
+B 870.92 that was it . ami_da_4
+A 873.5 That was it ? ami_da_5
+A 873.5 Okay . ami_da_9
+B 874.42 Yeah . ami_da_4
+A 876.15 again . ami_da_16
+A 881.92 Ugh . ami_da_16
+A 895.31 Okay so what we have to decide is what kind of components do we use ? ami_da_6
+A 895.31 energy source , chip type , case type . ami_da_4
+A 903.52 And user interface . ami_da_4
+A 905.86 But I did not see a clear distinction between these ami_da_9
+A 905.86 so I think what we have is okay . ami_da_9
+A 911.1 So we only , we already decided that kinetic would be the choice for energy . ami_da_4
+D 916.24 No . ami_da_1
+A 916.84 the case would be doubly curved . ami_da_4
+D 919.66 Rubber material . ami_da_4
+A 919.83 So ami_da_4
+A 919.83 Rubber material . ami_da_9
+C 920.66 Rubber material . ami_da_4
+A 922.79 And that is the only thing we have left . ami_da_4
+C 926.48 Yeah we need the the chip on print to be able to support the the screen and and f audio function . ami_da_4
+A 931.32 Oh okay . ami_da_9
+A 931.76 No it is easy . ami_da_9
+D 933.37 So that is ami_da_2
+D 933.37 is that is that the advanced chip ? ami_da_5
+D 933.37 Wow . ami_da_16
+C 936.51 Yeah . ami_da_4
+A 937.27 Advanced chip . ami_da_9
+C 937.62 Yeah . ami_da_4
+C 938.37 Otherwise you would have a simple chip , just for pressing buttons . ami_da_4
+A 938.48 Okay . ami_da_9
+D 941.04 Yeah . ami_da_1
+C 941.59 But we need more . ami_da_4
+D 942.89 Alright . ami_da_9
+D 943.95 Kinetic . ami_da_16
+C 944.0 I am just thinking , this is not my department , but ami_da_4
+C 944.0 I ami_da_4
+C 944.0 I am not sure what this is going to cost , ami_da_4
+C 944.0 to be able to m ami_da_3
+C 944.0 So because we need to sell it for twenty five Euro a piece . ami_da_4
+A 944.65 Too . ami_da_3
+D 945.24 Double curved . ami_da_16
+A 949.82 I did not get any info on this . ami_da_4
+A 951.76 So ami_da_4
+A 951.76 Yeah . ami_da_9
+C 955.07 That is going to be difficult huh ? ami_da_9
+C 955.07 Yeah . ami_da_9
+B 956.18 Yeah . ami_da_9
+D 957.0 The cost of making it should be twelve and a half ? ami_da_4
+D 957.0 Yeah , so it is cheap . ami_da_9
+A 960.29 I have total here . ami_da_4
+C 963.95 Yeah ami_da_16
+C 963.95 yeah ami_da_16
+C 963.95 yeah . ami_da_16
+A 964.12 Yeah I do not know . ami_da_4
+A 964.83 I did not get any information about that so ami_da_4
+A 964.83 Yeah . ami_da_1
+B 966.55 We are going to produce it in China so it is no problem . ami_da_9
+C 969.85 Child labour man , we love it . ami_da_14
+A 972.72 Who does not . ami_da_14
+A 974.17 let is see . ami_da_16
+A 975.36 Is there a new thing ? ami_da_16
+A 975.36 Yeah the interface , ami_da_9
+A 975.36 maybe can ami_da_3
+A 975.36 Ooh . ami_da_16
+D 976.13 well the interface type supplements . ami_da_4
+B 980.9 it is it is quite difficult because we we have not got all the options ami_da_9
+B 980.9 yeah . ami_da_9
+A 986.72 No . ami_da_9
+A 987.49 do you have a picture of doubly curved case ? ami_da_5
+A 987.49 And could you put that in the group folder ? ami_da_6
+A 987.49 Of the project folder . ami_da_6
+C 994.37 let me see . ami_da_7
+C 996.31 Wait a sec . ami_da_16
+D 996.78 If you go to your homepage or something , you should get your own information . ami_da_6
+C 998.79 Yeah I am going there now . ami_da_7
+C 1002.66 Inspiration . ami_da_16
+D 1006.15 I got my fresh and fyoo fruity picture also over there , so ami_da_4
+D 1006.15 No . ami_da_9
+C 1009.79 Well yeah maybe it is Maybe it is easier ami_da_3
+C 1009.79 Yeah . ami_da_9
+A 1010.17 you did not draw it yourself . ami_da_9
+D 1014.14 Too less time . ami_da_4
+D 1019.34 Yeah , also the menu . ami_da_4
+D 1020.8 Yeah that that w ami_da_3
+D 1020.8 Yeah . ami_da_9
+B 1021.06 Yeah . ami_da_9
+B 1021.51 This is the the menu I was looking at . ami_da_4
+D 1024.45 Yeah I was thinking of that also , with with a with a arrow . ami_da_9
+B 1026.8 Yeah . ami_da_1
+A 1027.61 Arrow . ami_da_4
+B 1028.09 Arrow ami_da_1
+B 1028.09 yeah . ami_da_1
+D 1029.09 So that indicates that there is an menu under that menu . ami_da_4
+A 1029.14 Yeah . ami_da_1
+C 1033.04 Yeah perfect . ami_da_9
+D 1034.19 So ami_da_2
+D 1034.19 Oh yeah . ami_da_7
+B 1034.2 Yeah . ami_da_1
+C 1036.96 Maybe it is easier if you guys come over here . ami_da_6
+A 1037.16 Is the target group . ami_da_4
+B 1038.26 S ami_da_1
+B 1038.26 yeah . ami_da_1
+C 1038.89 S see this is the the the standard traditional type , where the form yeah serves the function , you know . ami_da_4
+A 1039.17 Yeah sure . ami_da_7
+C 1047.26 It is like really basic . ami_da_4
+C 1049.07 But this m is more appealing to old people and we do not want that . ami_da_9
+A 1051.7 Yeah . ami_da_1
+D 1051.7 Yeah . ami_da_1
+C 1052.85 This is what we are looking for . ami_da_9
+C 1054.25 And th that means curved in both dire dire dimensions . ami_da_4
+A 1057.81 Oh okay . ami_da_9
+C 1058.17 Not only like this ami_da_4
+C 1058.17 but it has to be ami_da_4
+C 1058.17 exactly . ami_da_9
+A 1058.61 I see . ami_da_9
+A 1059.38 Yeah also like this . ami_da_9
+A 1060.57 So you can hold it . ami_da_9
+C 1062.48 It has to be kind of instead of the PlayStation , the module . ami_da_4
+C 1066.72 It has to be like the the Game Cube , you know , where your thumbs would be laying in the instrument and it has to be nice to hold . ami_da_4
+B 1068.94 Yeah . ami_da_1
+B 1072.77 But it has also to ami_da_2
+B 1072.77 it it has also to be luxurous for for yeah rich people . ami_da_9
+C 1074.0 And ami_da_4
+C 1074.0 It ha ami_da_3
+C 1074.0 Yeah ami_da_9
+C 1074.0 but that is that is the the problem ami_da_9
+C 1074.0 yeah ami_da_9
+C 1074.0 the dilemma actually , because we want to appeal to the to the young public with fancy with flashy colours , and with a lot of shape . ami_da_9
+B 1079.29 Th this looks a little bit like like for only for children . ami_da_9
+A 1081.1 The children is story . ami_da_9
+A 1082.22 Yeah I have got it . ami_da_9
+B 1082.76 So ami_da_9
+B 1082.76 Yeah . ami_da_1
+A 1084.07 Distinction . ami_da_9
+A 1084.95 Yeah . ami_da_9
+C 1095.18 And ami_da_3
+C 1095.18 Yeah , and the and the rubber , it it will look cheap always , ami_da_9
+C 1095.18 you know , with the ami_da_3
+C 1095.18 There is mobile phones , in which you can change the colour also of the lights . ami_da_4
+B 1097.63 The colour ami_da_3
+B 1097.63 Yeah . ami_da_1
+B 1100.33 Okay but the the colours , you you can make it make the colours with LEDs beneath the the buttons . ami_da_6
+B 1106.22 If you press a button and you can disable the the colour LEDs for for people that do not like it . ami_da_6
+B 1116.3 Yeah . ami_da_1
+C 1116.83 Maybe we should consider this function . ami_da_6
+C 1119.68 To customise it ami_da_4
+C 1119.68 and so I mean kids can make it look more flashy with different kinds of colours and people who want something , you know , ami_da_4
+C 1119.68 different , or more design , they can go for one colour like for example this photo th camera . ami_da_4
+B 1124.99 Yeah . ami_da_1
+A 1127.84 Different . ami_da_4
+A 1137.03 Camera . ami_da_4
+D 1138.36 Yeah . ami_da_9
+D 1140.14 Cool . ami_da_9
+D 1140.57 S underwater ami_da_4
+D 1140.57 yeah . ami_da_9
+A 1141.72 Yeah submarine . ami_da_9
+C 1144.51 Personally I think it is really ugly . ami_da_9
+B 1146.56 Yeah . ami_da_1
+C 1147.43 Just give me the thing that it is inside there maybe I am too old for this stuff . ami_da_9
+A 1147.65 Well ami_da_3
+A 1147.65 Yeah ami_da_9
+A 1147.65 but this ami_da_9
+A 1147.65 this the is for the . ami_da_9
+D 1150.04 Yeah . ami_da_1
+B 1150.2 Very cheap cheap look . ami_da_9
+C 1153.47 Yeah . ami_da_9
+D 1155.18 Yeah . ami_da_1
+A 1155.7 Okay . ami_da_1
+C 1156.88 So those I think are all my ami_da_3
+C 1156.88 oh . ami_da_16
+A 1157.19 yeah bright colours . ami_da_9
+D 1160.47 Yeah . ami_da_9
+D 1160.98 Also a kind of rubber ami_da_9
+D 1160.98 Yeah . ami_da_9
+C 1161.31 And this is , this is with the curved that I mean . ami_da_4
+A 1165.29 That is singly curved . ami_da_9
+C 1166.75 Yeah . ami_da_9
+A 1167.36 Okay . ami_da_1
+C 1167.57 Yeah ? ami_da_9
+C 1167.57 A compromise between what ? ami_da_5
+C 1167.57 This , this would be single curved ? ami_da_5
+C 1167.57 Yeah . ami_da_1
+D 1168.12 That should be nice . ami_da_9
+A 1168.93 Well we could make a compromise between that . ami_da_6
+A 1171.77 But I do not know if it is worth the effort . ami_da_9
+A 1177.59 instead of doubly curved we take a single curved . ami_da_4
+A 1182.29 So to appeal a little more to the all the public . ami_da_4
+D 1182.74 So s ami_da_3
+D 1182.74 Yeah there is only in in this dimension . ami_da_4
+A 1188.65 Yeah . ami_da_1
+D 1189.49 Like this . ami_da_4
+D 1189.84 So curvy or not . ami_da_4
+A 1191.87 Also . ami_da_1
+C 1191.9 Yeah . ami_da_9
+D 1191.9 Yeah so we keep it singly c single curved then ? ami_da_6
+D 1191.9 Yeah . ami_da_1
+C 1192.83 Exactly . ami_da_9
+C 1193.53 Exactly . ami_da_9
+A 1195.94 Yeah that would be an option . ami_da_9
+A 1196.99 I do not know what you think . ami_da_11
+C 1198.88 I think the ami_da_2
+C 1198.88 I mean our aim is to make something different right ? ami_da_4
+C 1198.88 To make something new . ami_da_4
+D 1203.77 Yeah . ami_da_9
+C 1205.19 I would go for the double curved . ami_da_9
+A 1206.78 Okay . ami_da_9
+C 1207.91 And I I am I am thinking you know a drawing palette , where you have the shape for your thumb . ami_da_6
+A 1208.12 Yeah I would agree . ami_da_9
+C 1216.6 So it kind of holds nicely , something like that . ami_da_4
+B 1218.33 Yeah ami_da_1
+B 1218.33 but if you if you make it more curved we we can make more and more options for buttons . ami_da_9
+D 1218.63 Yeah . ami_da_1
+C 1219.12 Well this is really your decision but ami_da_4
+C 1219.12 Yeah . ami_da_9
+B 1223.37 If you have it have it in your hand , you ami_da_4
+B 1223.37 you ami_da_4
+B 1223.37 you are not only ami_da_4
+B 1223.37 yeah ami_da_4
+B 1223.37 you do not need one dimension but you can use other dimensions for pressing the the buttons . ami_da_4
+C 1233.86 As well . ami_da_9
+C 1234.62 You can make a trigger button or something like that . ami_da_6
+B 1235.75 Yeah . ami_da_1
+B 1236.88 Something to shoot at your television ami_da_9
+B 1236.88 Yeah . ami_da_1
+C 1239.18 Yeah ami_da_9
+C 1239.18 or that that is the confirmation button or something , ami_da_6
+C 1239.18 that you scroll with your thumb , with the arrows , and then confirm . ami_da_4
+B 1244.74 That is ami_da_3
+B 1244.74 yeah . ami_da_1
+C 1246.32 That would be a nice way to use it but ami_da_9
+C 1246.32 I mean , yeah , I am thinking big already , ami_da_4
+C 1246.32 and we need something that well that that you can able to use in one hand I think . ami_da_6
+A 1253.35 Different . ami_da_6
+A 1255.49 Stands out . ami_da_6
+A 1257.34 Or ami_da_3
+A 1257.34 Oh yeah a one hand solution . ami_da_9
+C 1259.64 Yeah . ami_da_1
+D 1259.88 So from top view it looks kind of like this . ami_da_6
+D 1264.13 But from the side you you can have it also in a kind of shape . ami_da_6
+D 1269.58 Maybe because the the screen is on top you can have ami_da_3
+D 1269.58 Maybe you can c have this kind of shape . ami_da_6
+A 1270.14 can turn it maybe . ami_da_6
+A 1271.79 To switch from buttons to interface . ami_da_6
+A 1274.75 If you turn it a little . ami_da_6
+D 1279.2 A little upwards . ami_da_6
+D 1281.16 So that the screen is more towards yourself , so you can easily see your screen . ami_da_6
+A 1283.08 Oh yeah . ami_da_9
+A 1283.56 Least you can easily see it . ami_da_9
+C 1286.48 How about ami_da_3
+D 1286.58 Well well you have it in your hand ami_da_4
+D 1286.58 so it is a kind of an angle from your eyes to the screen . ami_da_4
+D 1291.55 So then you have double double curved in some way . ami_da_9
+D 1295.08 So this this is so the screen is positioned over here . ami_da_6
+D 1300.95 Oh . ami_da_16
+D 1301.56 Something like that . ami_da_4
+D 1303.21 And the buttons are more , ami_da_6
+D 1303.21 well it is very thick now ami_da_9
+D 1303.21 but ami_da_9
+D 1303.21 That is that is ami_da_3
+D 1303.21 Yeah ? ami_da_5
+D 1303.21 That that you can press it ami_da_5
+D 1303.21 and then it comes up ? ami_da_5
+D 1303.21 Or ami_da_5
+D 1303.21 But then the side view can be straight . ami_da_9
+C 1307.17 Yeah I understand what you mean . ami_da_9
+C 1310.54 How about we do a a pop up screen , like the laptop . ami_da_6
+A 1315.98 If you can flip . ami_da_9
+C 1316.02 So that the only the simple functions will be visible at first . ami_da_4
+C 1320.25 And then if you want ami_da_3
+C 1320.25 Yeah . ami_da_4
+C 1323.41 Something like that . ami_da_4
+A 1324.32 so you have a the the side view . ami_da_4
+D 1330.44 If you have a pop up screen . ami_da_9
+D 1331.8 But I dunno if that is too expensive . ami_da_9
+A 1333.77 So and you want to be able to make this ami_da_6
+D 1334.2 I mean maybe it is too much ami_da_9
+D 1334.2 Oh the advanced buttons . ami_da_9
+C 1334.24 Yeah . ami_da_9
+C 1340.8 No like ami_da_9
+C 1340.8 I would draw it like this . ami_da_7
+C 1346.9 Let is say this is the side view . ami_da_4
+C 1349.32 That you have a a screen that will come up here , and can go down that way . ami_da_6
+C 1355.34 If you know what I mean . ami_da_16
+B 1356.33 Okay . ami_da_9
+C 1356.37 So that it would come up like that . ami_da_4
+B 1357.01 Yeah . ami_da_9
+A 1358.59 Okay so the buttons are on top here , and you flip it over that way . ami_da_9
+C 1362.45 Yeah ami_da_9
+C 1362.45 or preferably even keep the simple buttons here , and then under the screen even you could put more more advanced buttons . ami_da_6
+A 1366.51 Yeah . ami_da_1
+A 1368.67 Oh yeah . ami_da_9
+A 1369.54 Yeah ami_da_9
+A 1369.54 yeah ami_da_9
+A 1369.54 yeah ami_da_9
+A 1369.54 yeah . ami_da_9
+D 1370.46 Right . ami_da_9
+A 1371.31 Right . ami_da_9
+B 1371.52 That is ami_da_3
+B 1371.52 the the more advanced options were for the for the menu . ami_da_4
+A 1371.65 Yeah that is good idea . ami_da_9
+D 1372.29 Yeah . ami_da_1
+A 1376.0 Yeah . ami_da_9
+D 1376.31 Yeah . ami_da_9
+B 1377.11 But you you want ami_da_3
+B 1377.11 okay . ami_da_9
+C 1377.38 F for the LCD menu right ? ami_da_4
+C 1377.38 So w w ami_da_3
+C 1377.38 Oh ami_da_16
+C 1377.38 Activate and th ami_da_9
+C 1377.38 the ami_da_9
+C 1377.38 yeah . ami_da_9
+D 1379.41 Yeah . ami_da_1
+B 1379.72 You just want to hide them all ? ami_da_9
+B 1379.72 The oh . ami_da_3
+D 1381.59 Yeah . ami_da_1
+A 1381.6 No not all because you need most of them , the arrow buttons . ami_da_9
+A 1385.89 But you can hide the okay and the back button . ami_da_4
+B 1387.67 Yeah ami_da_9
+B 1387.67 yeah ami_da_9
+B 1387.67 yeah . ami_da_9
+A 1388.54 And the menu button also because when you flip it open ami_da_4
+A 1388.54 and you can maybe even drop the menu button because maybe if you flip it open it will auto activate amauto automatically . ami_da_6
+D 1391.2 Yeah . ami_da_1
+D 1399.77 So okay b ami_da_9
+D 1399.77 but you have t ami_da_9
+D 1399.77 you need some button to flip this open . ami_da_9
+A 1405.08 Why ? ami_da_5
+A 1405.08 You could just make it mechanical . ami_da_9
+C 1405.63 True . ami_da_9
+C 1406.56 True . ami_da_9
+C 1407.37 But you can make a , yeah , you can make a trigger here . ami_da_6
+C 1409.72 You know a simple with a ami_da_6
+C 1409.72 Yeah . ami_da_9
+D 1409.75 Yeah . ami_da_9
+D 1410.95 Yeah and it says menu and it flips open and then you have the buttons to control it , in combination with your True . ami_da_9
+B 1413.31 That is but it is it is not ami_da_3
+B 1413.31 it is not very very strong ami_da_9
+B 1413.31 yeah ami_da_9
+B 1413.31 if you drop it one time . ami_da_9
+C 1417.07 Exactly . ami_da_9
+D 1420.93 It c it can go open . ami_da_9
+C 1421.96 Well yeah ami_da_9
+C 1421.96 the the idea of it was , is that because you close it , you cover the LCD screen and it wo not be vulnerable to scratches or whatever . ami_da_9
+A 1423.6 If you cover it with rubber . ami_da_9
+D 1430.49 An adv an adv and it will be covered in some kind of thin rubber layer or something like that . ami_da_4
+B 1430.73 Okay . ami_da_1
+C 1431.87 And ami_da_3
+C 1431.87 Exactly . ami_da_9
+A 1435.43 Yeah . ami_da_9
+A 1436.01 So it can bounce . ami_da_9
+C 1436.09 Exactly . ami_da_9
+C 1436.58 We just have to make sure that the closing mechanism wo not break . ami_da_6
+D 1437.25 Yeah , ami_da_1
+D 1437.25 It is very no it is very strong . ami_da_9
+C 1440.22 Th it is very solid ami_da_9
+C 1440.22 yeah . ami_da_9
+A 1441.47 Yeah okay so that that may work . ami_da_9
+D 1441.48 Yeah . ami_da_9
+C 1443.27 That actually will offer some extra protection for the ami_da_4
+C 1443.27 Yeah . ami_da_9
+A 1444.94 Okay but then we still have the the the thing of the the the shape . ami_da_8
+A 1450.24 Yeah . ami_da_9
+C 1450.57 Yeah I was thinking , if if you have your hand , ami_da_4
+C 1450.57 it this is your th ami_da_3
+C 1450.57 Okay . ami_da_9
+A 1450.63 What kind of ami_da_3
+A 1450.63 Harder . ami_da_4
+D 1456.26 Yeah the lower part does not work I guess , ami_da_9
+D 1456.26 so maybe you should try it over there . ami_da_6
+C 1460.91 If this is your thumb , and this is your hand like that . ami_da_4
+C 1465.73 With your wrist . ami_da_4
+C 1467.9 That you , that it would be kind of shape like this , you know . ami_da_6
+C 1472.55 So it is easier to hold in your hand , to y ami_da_9
+C 1472.55 f ami_da_9
+C 1472.55 yeah . ami_da_9
+B 1475.32 But when you are left handed , that is that is a problem . ami_da_9
+D 1475.74 Yeah . ami_da_1
+C 1478.91 Yeah of course . ami_da_9
+C 1479.92 Yeah then w then you would have to to make it like this . ami_da_6
+A 1480.1 Maybe can design two versions . ami_da_6
+D 1481.86 Yeah . ami_da_9
+B 1482.6 But that is that is very expensive ami_da_9
+B 1482.6 Yeah . ami_da_1
+C 1484.03 Like like you drew here . ami_da_4
+D 1486.24 Yeah . ami_da_1
+C 1487.17 And maybe th then make this thicker also than the centre . ami_da_6
+C 1491.22 Give it ami_da_2
+C 1491.22 I would give it a female shape ami_da_6
+C 1491.22 but yeah . ami_da_16
+A 1492.32 And ergonomical shape . ami_da_6
+C 1494.49 Anyway . ami_da_16
+A 1494.5 Yeah . ami_da_6
+D 1494.59 Yeah . ami_da_1
+A 1495.74 The female shape ami_da_9
+A 1495.74 yeah . ami_da_9
+A 1496.77 With two ami_da_14
+A 1496.77 Oh yeah . ami_da_9
+D 1497.64 Yeah . ami_da_14
+C 1497.83 Obviously . ami_da_14
+B 1499.16 We we could make some some rubber some rubber ami_da_6
+B 1499.16 yeah ami_da_6
+B 1499.16 mouse , with which you can change ami_da_6
+B 1499.16 and so if you ami_da_3
+B 1499.16 Yeah . ami_da_1
+C 1500.15 Make it more appealing to guys . ami_da_14
+C 1503.24 I mean ami_da_3
+C 1503.24 Yeah but we have hardware inside , which is so it has to have some sort of basic shape . ami_da_4
+A 1506.63 Some k esk ami_da_3
+A 1506.63 yeah . ami_da_3
+D 1510.38 Yeah ami_da_9
+D 1510.38 but but that is optional for later I guess . ami_da_9
+D 1512.52 I mean , we have to make ami_da_3
+D 1512.52 Yeah we we better so choose one ami_da_9
+D 1512.52 Yeah ami_da_9
+D 1512.52 so okay ami_da_9
+D 1512.52 we should better choose one sh one shape . ami_da_9
+B 1512.55 Okay . ami_da_1
+A 1512.57 Yeah . ami_da_1
+B 1517.9 Some ami_da_3
+B 1517.9 yeah . ami_da_1
+A 1519.18 Yeah yeah . ami_da_1
+C 1520.07 And also the screen , you cannot mould it . ami_da_4
+C 1521.97 You know kind of thing . ami_da_16
+B 1521.98 No no no no . ami_da_9
+B 1525.86 Okay . ami_da_1
+C 1525.96 Yeah . ami_da_1
+D 1526.41 But that is the kind of the idea , so it lays good in the hand , and then on on the side with with your thumb , ami_da_4
+D 1526.41 you you can you can use , ami_da_2
+D 1526.41 yeah , ami_da_9
+D 1526.41 you can use the button option ami_da_6
+D 1526.41 Spongey . ami_da_1
+C 1529.26 And then you can ami_da_3
+C 1529.26 You can place the screen here , which can come . ami_da_6
+A 1534.15 Yeah . ami_da_9
+A 1535.8 So the keywords are primary co colours , spongey ? ami_da_4
+A 1535.8 Yeah . ami_da_1
+C 1538.32 And but then I w I would ami_da_3
+C 1538.32 I would do the arrows here , kind of thing . ami_da_6
+D 1543.58 Spongey can be reached by means of ami_da_3
+D 1543.58 Yeah . ami_da_1
+C 1544.46 Those buttons ? ami_da_4
+C 1544.46 And the simple buttons here , ami_da_4
+C 1544.46 so that ami_da_3
+C 1544.46 I y ami_da_4
+C 1544.46 eah that is what I mean . ami_da_4
+B 1547.49 Yeah . ami_da_1
+D 1548.64 And and the and the control thngs in the middle ? ami_da_5
+D 1548.64 The the the arrows ? ami_da_5
+D 1548.64 Yeah ami_da_9
+D 1548.64 and then numbers . ami_da_4
+B 1553.71 No the arrow is over here . ami_da_4
+C 1554.33 The arrows over here , and here the s simple ami_da_4
+C 1554.33 or do we want to make its shape look like a banana or something ? ami_da_6
+C 1554.33 I dunno . ami_da_9
+A 1554.43 Yeah . ami_da_1
+B 1555.44 Yeah . ami_da_9
+A 1556.41 Buttons . ami_da_1
+A 1558.03 Okay . ami_da_9
+D 1558.03 Yeah . ami_da_9
+D 1558.56 Alright . ami_da_9
+A 1559.59 I think that it is a nice design . ami_da_9
+D 1560.45 pretty nice design . ami_da_9
+D 1562.75 Yeah . ami_da_9
+A 1562.99 It is cool . ami_da_9
+D 1564.96 Yeah it looks pretty fancy . ami_da_9
+A 1566.97 Yeah . ami_da_9
+A 1572.75 Yeah that is ami_da_3
+A 1572.75 Orange or something . ami_da_6
+D 1574.19 bananas wierd shape and other fruits also , ami_da_9
+D 1574.19 so it is better to have some sort of basic print and then a fruit print in some primary colours . ami_da_6
+C 1577.77 Yeah . ami_da_9
+C 1585.42 Yeah ami_da_9
+C 1585.42 we could make We should use ami_da_3
+C 1585.42 Yeah w we need very primary colours , like bright red , bright yellow . ami_da_9
+D 1585.49 I do not know what what colours should the basic print be like ? ami_da_8
+D 1585.49 Like some soft green or something ? ami_da_6
+D 1585.49 Or and then ami_da_3
+D 1585.49 Oh yeah ami_da_9
+D 1585.49 yeah ami_da_9
+D 1585.49 , dark blue ami_da_9
+D 1585.49 and then and then very bright , a yellow banana , an orange , a green apple , stuff like that , with very bright tones ami_da_6
+D 1585.49 I guess . ami_da_6
+B 1591.73 Or blue ? ami_da_6
+B 1591.73 Dark blue or ami_da_6
+B 1591.73 Yeah . ami_da_1
+D 1604.9 So you have something like ami_da_3
+D 1604.9 Yeah . ami_da_1
+A 1606.87 Yeah . ami_da_1
+B 1608.03 Yeah but the primary colours w we can create with the with the LEDs on the on the remote control . ami_da_9
+C 1613.68 Yeah . ami_da_9
+C 1614.39 Yeah okay yeah . ami_da_9
+B 1614.91 If you we ami_da_3
+B 1614.91 yeah . ami_da_3
+B 1616.76 If you make it just a yeah ami_da_9
+B 1616.76 bl give it a blue colour ami_da_9
+B 1616.76 , then it is just a neutral colour , also for the for the more yeah for the people . ami_da_9
+D 1627.05 That does not really work . ami_da_9
+A 1627.06 Huh cool . ami_da_9
+D 1628.3 To draw , I guess . ami_da_9
+A 1628.46 No it is . ami_da_3
+D 1631.72 Oh . ami_da_5
+D 1632.33 What is this ? ami_da_5
+D 1632.33 Right . ami_da_9
+A 1632.46 Yeah it is text . ami_da_4
+A 1636.82 N no you have to exit . ami_da_4
+D 1637.0 Hm . ami_da_3
+A 1640.59 You could also make line with ami_da_6
+A 1640.59 Yeah . ami_da_9
+B 1640.73 So that is ami_da_3
+B 1640.73 So that is blue . ami_da_9
+D 1642.46 Yeah . ami_da_9
+D 1643.16 Two hours further . ami_da_9
+D 1646.22 thickness . ami_da_3
+D 1647.35 Oh . ami_da_3
+D 1651.58 Oh . ami_da_6
+D 1651.91 Wh why not go for the twenty ? ami_da_6
+D 1651.91 Yeah . ami_da_9
+A 1655.57 Yeah . ami_da_9
+D 1657.39 That is what I call painting . ami_da_9
+A 1657.46 Y ami_da_3
+A 1657.46 Yeah ami_da_9
+A 1657.46 and then on top of that . ami_da_6
+D 1659.16 So that is that is a dark blue basic colour I guess . ami_da_9
+B 1661.24 Yeah . ami_da_1
+D 1662.57 It is pretty nice . ami_da_9
+D 1664.56 And then ami_da_3
+D 1664.56 Oh ami_da_2
+D 1664.56 Yeah with some some yellow banana ami_da_9
+D 1664.56 Like . ami_da_3
+A 1668.08 Some yellow . ami_da_6
+A 1670.86 Banana colour . ami_da_9
+C 1672.38 And how about some some flashing standby lights ? ami_da_6
+C 1672.38 Like you have on the Samsung , ami_da_4
+C 1672.38 well I do not like to call brands phones , ami_da_9
+C 1672.38 the you know that ami_da_2
+C 1672.38 because I remember from one of our first meetings that people lose their remote controls often . ami_da_4
+D 1687.48 Yeah ? ami_da_9
+D 1687.48 How do you mean ? ami_da_5
+D 1687.48 Some some ami_da_3
+D 1687.48 Yeah an orange . ami_da_6
+C 1688.33 So it not not only in in the colours of the LEDs , that we want something to keep it visible at all times , ami_da_6
+C 1688.33 or ami_da_11
+C 1688.33 Yeah . ami_da_9
+A 1701.96 Yeah if you if flashing colour so you ca not lose it , basically . ami_da_4
+B 1702.57 Yeah . ami_da_1
+C 1705.59 Exactly . ami_da_9
+A 1706.94 Well I think it is a bit too much but ami_da_9
+A 1706.94 Yeah . ami_da_1
+B 1707.22 Maybe a ami_da_3
+B 1707.22 Yeah . ami_da_1
+C 1709.32 Yeah . ami_da_1
+D 1711.19 Well alright well this is more like purple I guess , ami_da_9
+D 1711.19 but it is should be more real dark blue , so the contrast with the with the fruit objects is pretty high . ami_da_6
+A 1715.11 Yeah . ami_da_9
+C 1721.93 Yeah . ami_da_1
+D 1723.08 So yeah . ami_da_16
+D 1723.99 That would be a nice nice device I guess . ami_da_9
+B 1726.59 And which which colour should should I give the the display ? ami_da_8
+B 1726.59 Or ami_da_3
+B 1726.59 Yeah . ami_da_4
+A 1731.32 Who ? ami_da_3
+A 1731.32 And then you can use yellow or semething . ami_da_6
+D 1732.77 I mean , the the colour of the background of the display ? ami_da_5
+D 1732.77 well I do not guess it s has to be a sixty sixty six five thousand colour , ami_da_9
+D 1732.77 so yeah too expensive . ami_da_9
+B 1734.97 Yeah . ami_da_4
+A 1742.0 Why not ? ami_da_5
+A 1742.0 Aye . ami_da_1
+D 1744.55 So just just a a blue blue backlight or something like that . ami_da_6
+B 1744.86 Yeah . ami_da_1
+B 1748.29 Yeah . ami_da_1
+D 1749.41 Green is too old fashioned . ami_da_9
+D 1751.14 But blue , blue is okay . ami_da_9
+C 1752.56 As long as you loo use high contrast between the the background and the foreground colour . ami_da_9
+D 1753.25 J White backlight , and dark . ami_da_9
+B 1758.36 Yeah ami_da_9
+B 1758.36 maybe a maybe a white a white backlight ? ami_da_6
+B 1758.36 Dark letters , yeah . ami_da_9
+C 1758.83 So that people with with ami_da_3
+C 1758.83 And also for people who are a bit colourblind . ami_da_9
+A 1759.01 Like this . ami_da_1
+D 1765.72 Yeah . ami_da_9
+D 1766.97 Whatever which is visible . ami_da_9
+B 1768.6 Yeah . ami_da_1
+D 1768.81 I know you sh you should test it under under a light conditions . ami_da_6
+D 1773.18 I mean it is hard to tell I dunno . ami_da_9
+B 1773.73 Yeah . ami_da_1
+A 1776.53 Colourblind ami_da_9
+A 1776.53 yeah . ami_da_9
+D 1777.94 Yeah . ami_da_9
+D 1778.69 True . ami_da_9
+A 1778.7 No so that is mostly red and green I believe . ami_da_4
+D 1781.4 Which which colour should the buttons be ? ami_da_8
+D 1781.4 Why adjustable ? ami_da_5
+D 1781.4 No ami_da_3
+D 1781.4 But maybe I mean they have to they have to have some colour ami_da_9
+D 1781.4 right ? ami_da_9
+D 1781.4 And if the background is very dark blue ami_da_9
+D 1781.4 Yeah ? ami_da_1
+D 1781.4 So more like ami_da_2
+D 1781.4 Does not work very well . ami_da_9
+B 1785.52 That is adjustable . ami_da_4
+A 1787.75 Woah . ami_da_16
+A 1789.21 All all buttons ? ami_da_5
+A 1789.21 Okay . ami_da_9
+B 1790.55 Yeah ? ami_da_4
+B 1790.55 Or not . ami_da_4
+B 1793.73 That is how we are going to make it more trendy . ami_da_4
+B 1797.42 Or is it too expensive ? ami_da_11
+A 1800.4 It is difficult . ami_da_9
+A 1804.38 Blue . ami_da_1
+A 1805.98 Maybe green . ami_da_6
+C 1806.96 But do not we want to make the background the the bright colo colours ? ami_da_6
+C 1806.96 So th the total of the thing is very bright ? ami_da_6
+C 1806.96 Like the pictures I showed you guys . ami_da_4
+A 1811.71 Yeah ami_da_3
+A 1811.71 you can ami_da_3
+A 1811.71 flashy . ami_da_1
+C 1815.49 Those things were all like like bright red , bright red , flashy . ami_da_4
+A 1823.21 bzz . ami_da_16
+D 1827.84 More like this colour . ami_da_6
+C 1829.44 Yeah something like that , something that stands out more . ami_da_9
+D 1831.03 And then then yellow and orange and red objects on it or something . ami_da_6
+C 1836.11 Yeah . ami_da_9
+D 1836.5 But then then again , which colour should the buttons be ? ami_da_8
+D 1836.5 The the press buttons . ami_da_8
+D 1842.39 Should they be white or black or ami_da_8
+D 1842.39 Yeah but it is pretty fresh , on the other side . ami_da_9
+A 1844.79 Red maybe . ami_da_6
+B 1845.7 And it it looks quite cheap , that colour I think . ami_da_9
+A 1846.92 Black . ami_da_6
+B 1848.6 It is it is not ami_da_3
+B 1848.6 Yeah . ami_da_9
+C 1849.3 The green ? ami_da_6
+C 1849.3 It is actually a pretty trendy colour at the moment . ami_da_9
+A 1850.3 Why ? ami_da_11
+A 1850.3 Yeah . ami_da_9
+B 1850.98 I dunno . ami_da_9
+A 1853.04 So ami_da_2
+A 1853.04 Ooh . ami_da_16
+B 1856.19 It is it is trendy okay . ami_da_9
+D 1857.12 Yeah . ami_da_9
+B 1857.41 But ami_da_3
+D 1858.62 My couch is in that colour . ami_da_4
+D 1862.98 Yeah . ami_da_9
+D 1864.88 Well it works pretty well . ami_da_9
+B 1865.03 Yeah . ami_da_1
+D 1868.5 And then time was up . ami_da_4
+A 1871.32 not yet . ami_da_4
+C 1873.69 Do you get a pop up if we ami_da_5
+C 1873.69 Alright . ami_da_9
+A 1874.72 Yeah within five minutes ami_da_4
+A 1874.72 yeah . ami_da_4
+D 1877.09 That you have five minutes left or ami_da_5
+D 1877.09 So something like this . ami_da_6
+A 1877.93 Y left ami_da_4
+A 1877.93 yeah ami_da_4
+A 1877.93 left ami_da_4
+A 1877.93 and then I have to kick you out . ami_da_4
+B 1882.43 Yeah . ami_da_9
+D 1882.85 That should be pretty nice colour . ami_da_9
+D 1884.53 But maybe the buttons , all buttons in red is maybe a bad contrast for colourblind people . ami_da_9
+A 1888.42 Yeah yeah . ami_da_9
+C 1889.98 No ami_da_9
+C 1889.98 that is actu ami_da_3
+C 1889.98 Red and green are actually the b the easiest to discriminate . ami_da_4
+D 1890.03 Because the of the green . ami_da_4
+B 1890.76 But the but the buttons have their own LEDs or not ? ami_da_5
+B 1890.76 Okay . ami_da_9
+D 1894.13 Yeah . ami_da_4
+A 1894.33 They have LEDs but they have a colour . ami_da_4
+C 1898.88 Even for colourblind . ami_da_4
+D 1899.76 Yeah ? ami_da_5
+D 1899.76 Yeah . ami_da_9
+C 1900.32 They will see one of each as grey . ami_da_4
+C 1903.58 But if you use green on blue , those kind of colours will look the same . ami_da_4
+D 1909.64 Okay . ami_da_9
+C 1911.35 I think . ami_da_4
+D 1911.74 So red buttons are okay ? ami_da_11
+D 1911.74 How do you mean ? ami_da_5
+D 1911.74 Yeah . ami_da_1
+C 1913.59 I think so . ami_da_9
+B 1914.54 Okay . ami_da_9
+B 1914.78 That that is a default setting . ami_da_6
+A 1914.8 You can make them red . ami_da_6
+B 1917.07 The the red buttons . ami_da_6
+A 1918.56 Yeah . ami_da_9
+A 1919.15 But I think you need to keep in mind that the LEDs are just extra light . ami_da_9
+A 1929.91 they they do not determine the colour that much , I think . ami_da_4
+B 1932.61 Okay . ami_da_9
+B 1933.09 Yeah ami_da_9
+B 1933.09 I I was think about a red red LEDs and blue LEDs and ami_da_6
+B 1933.09 Yeah . ami_da_1
+D 1937.85 No that is that is too busy I guess . ami_da_9
+A 1941.35 Because you have to print on them you have a background ami_da_4
+A 1941.35 Each number is transparent . ami_da_4
+B 1943.37 Yeah . ami_da_1
+A 1944.31 partly but you have to print on the number . ami_da_4
+A 1947.35 Or the the sign . ami_da_4
+B 1947.95 Okay . ami_da_1
+A 1948.95 So you ca not change the colour so ami_da_4
+A 1948.95 Yeah . ami_da_1
+D 1950.56 You better bet better better keep the LED and the button itself in the same colour I guess . ami_da_6
+B 1955.96 Okay . ami_da_1
+D 1957.33 So just an extra bit of light and attention . ami_da_9
+A 1959.28 Bit of light . ami_da_9
+C 1959.71 You can ami_da_3
+C 1959.71 what we should do I think is is make kind of a see through plastic button , with one coloured LED behind it . ami_da_6
+A 1961.05 Bit of feedback . ami_da_9
+B 1965.72 Yeah . ami_da_1
+A 1965.74 Yeah . ami_da_1
+A 1968.11 Yeah . ami_da_1
+D 1968.12 Yeah . ami_da_1
+C 1968.82 So that the whole button will shine as the colour the ami_da_4
+C 1968.82 And if you think about easy to use buttons , we have to , well we have to make it the shape so that it is easy to hold f for both hands , but also that you can reach the buttons with your thumb , if you hold the machine . ami_da_6
+D 1989.47 Yeah . ami_da_1
+A 1990.03 Okay with ami_da_3
+A 1990.03 Do not mean to discourage you ami_da_14
+A 1990.03 but basically you two are going to work on the smartboard . ami_da_4
+A 2002.62 Next thirty minutes to design something so ami_da_4
+A 2002.62 And the ami_da_2
+A 2002.62 You will do the evaluation . ami_da_4
+C 2004.28 , right . ami_da_9
+D 2005.41 Alright . ami_da_9
+D 2011.08 Of the product ? ami_da_5
+D 2011.08 Which we do not have yet . ami_da_4
+A 2011.92 Yeah . ami_da_4
+A 2013.31 Yeah about ami_da_9
+A 2013.31 Yeah I do not know . ami_da_4
+D 2015.63 So wh how should I do that ? ami_da_5
+D 2015.63 Oh okay . ami_da_9
+A 2019.14 You probably get a mail . ami_da_4
+D 2020.6 Or you you or you send it to me . ami_da_6
+D 2024.8 Or just ami_da_2
+D 2024.8 because you are going to design it on this board right ? ami_da_5
+D 2024.8 Yeah . ami_da_9
+A 2026.47 Yeah . ami_da_9
+A 2027.04 Once they are finished . ami_da_9
+A 2028.28 Yeah . ami_da_9
+A 2029.98 Yeah but maybe you can do the evaluation you do not have to evaluate yet ami_da_9
+A 2029.98 but you can make a procedure which to follow . ami_da_9
+A 2036.6 I do not know . ami_da_9
+D 2036.93 I I probably get instruction on that , how to do that , ami_da_9
+D 2036.93 so I make another presentation I guess . ami_da_4
+A 2038.62 Yeah . ami_da_1
+A 2041.22 Yeah . ami_da_1
+D 2041.56 I kn ami_da_4
+D 2041.56 I know what is going to happen in in ami_da_4
+D 2041.56 yeah ami_da_4
+D 2041.56 so ami_da_4
+D 2041.56 I have a basic idea . ami_da_9
+A 2044.21 About . ami_da_9
+A 2044.71 Yeah . ami_da_9
+A 2045.64 You have the basic idea . ami_da_9
+A 2047.97 And you two are going to do this . ami_da_4
+B 2051.09 Yeah . ami_da_9
+C 2051.17 So we are going to work here ? ami_da_5
+C 2051.17 On this sketchboard ? ami_da_5
+C 2051.17 Alright . ami_da_9
+A 2051.36 Look and feel and ami_da_4
+A 2051.36 Yeah . ami_da_4
+D 2053.9 Yeah . ami_da_4
+A 2054.68 Good luck . ami_da_14
+C 2055.68 Thanks . ami_da_14
+D 2057.17 Yeah . ami_da_9
+D 2059.16 Alright so that is ami_da_3
+D 2059.16 Yeah . ami_da_1
+A 2059.94 So I ami_da_2
+A 2059.94 make new page and be creative . ami_da_6
+C 2065.57 Alright . ami_da_9
+B 2065.73 But we have to do it at this moment , after th this meeting ? ami_da_5
+B 2065.73 Okay . ami_da_9
+A 2067.76 Yeah you have ami_da_4
+A 2067.76 thirty minutes . ami_da_9
+C 2069.99 Thirty minutes . ami_da_4
+A 2072.46 Then we have to see something which we can show to the management . ami_da_4
+D 2075.25 Yeah . ami_da_1
+B 2075.63 Yeah . ami_da_1
+C 2075.9 Alright . ami_da_9
+B 2076.93 so this is basically the what what we are thinking about ? ami_da_5
+B 2076.93 Yeah ami_da_9
+B 2076.93 l let is just delete all these or ami_da_6
+B 2076.93 Oh , next . ami_da_9
+C 2080.92 Yeah . ami_da_4
+C 2081.78 Shall we make a new ami_da_7
+C 2081.78 Yeah , I just make a new one . ami_da_7
+A 2081.89 I would ami_da_9
+A 2081.89 yeah . ami_da_9
+A 2084.05 Yeah . ami_da_9
+D 2084.28 Yeah . ami_da_9
+A 2085.79 Next . ami_da_4
+D 2090.56 Yeah . ami_da_1
+C 2091.52 Alright . ami_da_9
+A 2091.78 Oh and save this board . ami_da_6
+C 2094.93 Huh ? ami_da_12
+C 2094.93 Yeah I will just I will just keep it there . ami_da_7
+A 2095.41 Just save it . ami_da_6
+A 2097.74 Yeah okay ami_da_9
+A 2097.74 but just press save and ami_da_6
+A 2097.74 It will be fine . ami_da_9
+C 2100.05 Yeah . ami_da_7
+D 2101.86 On the left . ami_da_4
+D 2103.2 S ami_da_9
+D 2103.2 so , yeah . ami_da_9
+C 2107.7 sorry . ami_da_14
+A 2108.64 You can also include clip art . ami_da_4
+C 2111.1 Okay . ami_da_9
+D 2111.97 Yeah . ami_da_1
+C 2112.16 Current colour ? ami_da_16
+C 2112.16 So ami_da_2
+C 2112.16 Shall we make some outline sketches of the basic shape first ? ami_da_7
+C 2112.16 Because I ami_da_3
+C 2112.16 I ami_da_3
+C 2112.16 Yeah because I have to focus on the on the basic look and feel design . ami_da_7
+A 2112.44 So if you will rather draw in paint or something ami_da_4
+A 2112.44 then look . ami_da_3
+B 2117.29 Okay . ami_da_2
+B 2118.2 Yeah . ami_da_9
+B 2125.38 And then after that we can make the user inter interface . ami_da_7
+D 2130.75 This ? ami_da_5
+D 2130.75 pretty accurate . ami_da_9
+A 2131.3 Yeah . ami_da_1
+B 2132.15 Yeah . ami_da_1
+C 2132.2 So how it is going to look . ami_da_4
+C 2133.79 And you have to think how we are going to put the screen in it and those kind of things . ami_da_6
+C 2137.87 So if I am drawing and you think okay I am not going to be able to put a screen in there , you have to correct . ami_da_6
+D 2140.86 Oh we skip this I guess . ami_da_9
+D 2142.08 Sound button press . ami_da_9
+B 2143.37 Yep . ami_da_1
+C 2144.02 do you mind if I draw in black then ? ami_da_11
+C 2144.02 For normal sketches . ami_da_11
+A 2144.42 Yeah . ami_da_9
+A 2145.15 You can also include it . ami_da_6
+A 2146.12 It is not much work . ami_da_9
+D 2147.42 Light only button user ca user interaction . ami_da_16
+B 2147.85 Oh no it is it is okay . ami_da_9
+C 2152.31 so we kind of want the girlish ami_da_9
+C 2152.31 figure . ami_da_3
+D 2153.43 Yeah . ami_da_1
+A 2153.74 That is included . ami_da_4
+A 2154.81 Yeah okay . ami_da_9
+D 2154.82 Yeah . ami_da_9
+D 2156.07 So the pl the plastic plastic buttons also help because of they are only lit during interaction . ami_da_9
+C 2162.49 I am not so good at drawing . ami_da_9
+D 2164.18 So Well it is a good thing that the buttons are not , well that they are plastic , because then you can light up the light on when when they are usable . ami_da_9
+C 2165.28 Excuse me ? ami_da_12
+C 2165.28 No . ami_da_9
+B 2174.39 Yeah . ami_da_1
+B 2174.78 Yeah . ami_da_1
+D 2179.59 Maybe you should draw it very large like this . ami_da_6
+B 2182.05 Yeah but this part is not functioning properly . ami_da_9
+A 2182.63 Yeah . ami_da_1
+A 2184.37 Sensitive . ami_da_1
+D 2184.6 Oh right . ami_da_9
+C 2186.87 How do we or insert text ? ami_da_5
+C 2186.87 Oh that is a bit big . ami_da_9
+D 2188.18 Erase ? ami_da_5
+D 2188.18 Yeah . ami_da_1
+A 2194.51 I dunno . ami_da_4
+A 2194.9 Maybe just start typing . ami_da_4
+B 2200.04 It is a bit large . ami_da_9
+C 2202.98 Yeah . ami_da_9
+A 2209.0 You also do the other sides . ami_da_6
+A 2210.87 Not only on the front si the top side but also the the side view . ami_da_6
+C 2212.37 Yeah . ami_da_9
+C 2212.68 Ex exactly . ami_da_9
+B 2215.54 L let is make first the the the all the views . ami_da_7
+C 2215.56 I thought for the side view , that the w the basic section would be rather a bit thicker than the middle , where you are holding it with your ami_da_6
+C 2215.56 because your fingers have to fit underneath and ami_da_4
+C 2215.56 Exactly but the but the upper side has to be a bit more like that I think . ami_da_9
+B 2218.09 The the front view , side view and the back view . ami_da_7
+A 2224.8 Jesus . ami_da_16
+A 2225.49 What do I write down ? ami_da_5
+A 2225.49 Why ca not I work here ? ami_da_9
+A 2225.49 This is much easier . ami_da_9
+D 2231.22 Much easier , yeah . ami_da_9
+B 2231.52 Yeah . ami_da_1
+A 2232.67 Yeah . ami_da_9
+B 2233.68 The middle has to be very small ami_da_9
+B 2233.68 so you can have it in your hand . ami_da_9
+D 2235.27 I do not see a sign that the meeting is over yet but ami_da_4
+D 2235.27 Yeah . ami_da_1
+A 2237.77 No ami_da_9
+A 2237.77 so I just work here a few minutes . ami_da_7
+B 2246.42 Yeah the display , we yeah ami_da_9
+B 2246.42 we can put a display . ami_da_9
+C 2246.54 do not you think ? ami_da_11
+C 2246.54 So the display we will put in here , the basic functions in here , where it is most reachable . ami_da_6
+B 2254.36 Yeah . ami_da_1
+C 2254.73 The ami_da_2
+C 2254.73 The th ami_da_3
+C 2254.73 Exactly . ami_da_9
+B 2256.31 The the arrow functions . ami_da_9
+B 2258.62 Yeah . ami_da_9
+B 2259.1 Yeah . ami_da_9
+C 2262.83 Oh . ami_da_9
+C 2263.51 This is hard . ami_da_9
+C 2264.72 What do ami_da_2
+C 2264.72 do not have to draw it exactly do we ? ami_da_5
+C 2264.72 Wait . ami_da_16
+B 2267.33 No it is it is it is okay . ami_da_4
+C 2269.47 Let me try it one more time . ami_da_7
+C 2272.79 Maybe I have it is easier if I draw it in once . ami_da_9
+C 2282.29 Okay , of course it will become way more ugly . ami_da_9
+B 2287.54 You can make it m larger . ami_da_6
+B 2289.89 Maybe it is easier to to draw ami_da_9
+B 2289.89 Yeah ami_da_9
+B 2289.89 that is that is the basic idea . ami_da_9
+C 2292.25 Yeah . ami_da_9
+C 2295.21 This will take forever . ami_da_9
+C 2298.26 It is fun to work with this pen . ami_da_9
+C 2300.0 so , larger . ami_da_16
+D 2305.72 Oh . ami_da_16
+D 2307.52 Wrong one . ami_da_16
+C 2307.81 And ami_da_2
+C 2307.81 yeah . ami_da_9
+B 2309.3 Yeah . ami_da_9
+C 2310.19 So side . ami_da_16
+A 2315.51 Five minutes left before the meeting ends . ami_da_4
+C 2317.97 Okay . ami_da_2
+C 2318.62 other views ? ami_da_7
+C 2318.62 Yeah . ami_da_9
+D 2321.18 Alright . ami_da_9
+B 2322.61 Yeah only if you are going to put buttons on the side of the unit . ami_da_9
+B 2329.17 That is the question . ami_da_9
+D 2330.54 But we we ami_da_3
+D 2330.54 I is it if if this is from the side ami_da_5
+D 2330.54 woah . ami_da_16
+C 2331.4 Let is fill i fill in the buttons later . ami_da_7
+B 2333.68 Yeah . ami_da_9
+C 2334.05 So this is going to be from the ami_da_3
+C 2334.05 from ami_da_2
+C 2334.05 yeah yeah . ami_da_4
+B 2339.79 From the Yeah I am I am ami_da_3
+B 2339.79 May maybe it is it is easier to to integrate the the the LCD screen just into this this bubble . ami_da_9
+D 2340.14 Steady . ami_da_16
+C 2340.3 Sorry . ami_da_14
+D 2341.35 Because there the screen goes up like that right ? ami_da_4
+D 2341.35 So then it is like this , ami_da_4
+D 2341.35 or that is not convenient because then you have the screen like this and look like the it is better to have it somewhat like this . ami_da_9
+C 2345.28 Yeah . ami_da_9
+C 2347.19 Yeah ? ami_da_1
+C 2347.19 The the idea is that it has to flip up to here . ami_da_6
+D 2355.29 Or does it flip all the way ? ami_da_8
+D 2355.29 It is better to to have this like this I guess , and then flip it like this . ami_da_9
+C 2366.1 Okay . ami_da_9
+B 2366.36 Because it do does not have to flip then . ami_da_4
+B 2370.65 Because we have en enough space for for making a an LCD . ami_da_4
+C 2370.82 Yeah . ami_da_9
+C 2371.4 Yeah ami_da_9
+C 2371.4 yeah ami_da_9
+C 2371.4 yeah . ami_da_9
+B 2374.61 Because here ami_da_3
+B 2374.61 But why why do we need the flipping ami_da_11
+B 2374.61 Okay . ami_da_9
+C 2375.66 True . ami_da_9
+C 2382.78 you can adjust the angle to which it flips . ami_da_4
+C 2385.11 So it can also from this angle , it can flip all the way up to there . ami_da_4
+B 2388.38 Yeah . ami_da_9
+C 2388.39 You can flip it up to there if you want . ami_da_4
+D 2389.5 Yeah . ami_da_1
+D 2390.3 So w yeah . ami_da_9
+D 2391.59 But we still keep the flipping mechanism . ami_da_6
+C 2394.6 Think so . ami_da_9
+B 2394.61 Yeah . ami_da_1
+A 2395.06 Yeah we keep the flip ? ami_da_11
+A 2395.06 Keep the flip live . ami_da_11
+C 2397.53 Yeah because I think it will feel weird if you would make this smaller and this bigger or something that I dunno . ami_da_9
+B 2404.13 Yeah . ami_da_9
+B 2406.82 the the shape is okay but ami_da_9
+B 2406.82 yeah ? ami_da_2
+B 2406.82 I do not see the the ami_da_9
+B 2406.82 yeah ami_da_9
+B 2406.82 why why we should use the the flipping mechanism . ami_da_9
+D 2415.15 Yeah . ami_da_1
+C 2415.58 I thought it would be cool . ami_da_9
+B 2415.7 Because we ami_da_3
+B 2415.7 Okay yeah . ami_da_9
+B 2418.24 It is it is for for for more trendy ami_da_9
+B 2418.24 Because we have enough space . ami_da_4
+D 2418.95 Yeah ami_da_3
+D 2418.95 but maybe ami_da_3
+D 2418.95 Yeah ami_da_3
+D 2418.95 but maybe we ami_da_3
+D 2418.95 we should then ami_da_3
+D 2418.95 Yeah there the middle ami_da_9
+D 2418.95 Sh sh should not we integrate it ? ami_da_6
+D 2418.95 And then like i ami_da_3
+D 2418.95 oh th ami_da_3
+D 2418.95 doh . ami_da_16
+B 2424.09 H here ami_da_4
+B 2424.09 we got the basic functions , the the arrow ami_da_4
+B 2424.09 yeah button . ami_da_4
+B 2431.32 Yeah ami_da_9
+B 2431.32 and then h we sh . ami_da_3
+D 2438.53 Come on . ami_da_16
+D 2439.94 So this is the shape . ami_da_4
+D 2442.02 Oh . ami_da_4
+D 2442.7 It has not ami_da_4
+D 2442.7 Okay but the screen is a bit lower ami_da_6
+D 2442.7 because if it falls on the other side , it does not fall on the screen . ami_da_4
+C 2445.42 It does not aim so well . ami_da_4
+B 2450.57 Yeah , then it is ami_da_9
+B 2450.57 No flipping or ami_da_11
+B 2450.57 you wanted the flipping so ami_da_4
+B 2450.57 But if you if you ami_da_2
+B 2450.57 If you drop it it it just breaks . ami_da_4
+D 2453.19 So there is a layer of rubber on the side . ami_da_6
+C 2455.25 Yeah ami_da_9
+C 2455.25 yeah ami_da_9
+C 2455.25 yeah . ami_da_9
+C 2456.03 Definitely . ami_da_9
+D 2456.7 So no flipping but just ami_da_6
+D 2456.7 no . ami_da_9
+A 2459.38 No flipping ? ami_da_11
+A 2459.38 It is shaking . ami_da_4
+C 2462.36 Yeah I guess ami_da_9
+C 2462.36 but I mean most votes count right ? ami_da_9
+C 2462.36 Yeah . ami_da_1
+B 2468.24 And it has to be very strong because of the . ami_da_4
+B 2470.6 Yeah kind of ami_da_4
+B 2470.6 And it is also for the for the children , it is yeah for people not sixteen years . ami_da_4
+D 2470.98 Throwing and the kinetics . ami_da_4
+D 2472.26 Oh . ami_da_6
+D 2472.9 We better make we better make it like this . ami_da_6
+C 2472.92 Yeah true true . ami_da_9
+C 2475.13 Yeah . ami_da_9
+D 2475.31 Eventually . ami_da_6
+A 2475.58 Yeah just light on top . ami_da_9
+C 2475.86 Yeah if you if you are going for the kinetics ami_da_9
+C 2475.86 Yeah . ami_da_4
+D 2477.5 Yeah . ami_da_1
+A 2479.5 Safer . ami_da_1
+D 2481.35 they are responsible enough to have a mobile phone , so also to to deal with their remote control . ami_da_9
+B 2481.72 But there are more ami_da_3
+B 2481.72 Yeah okay . ami_da_9
+A 2481.81 Yeah okay that ami_da_9
+A 2481.81 the target group . ami_da_9
+B 2485.33 That is true . ami_da_9
+D 2488.25 Yes . ami_da_9
+B 2488.43 Okay . ami_da_9
+B 2489.88 Yeah ? ami_da_9
+B 2489.88 Okay wi ami_da_1
+B 2489.88 Yeah . ami_da_4
+A 2490.55 Well . ami_da_4
+C 2491.25 I am just thinking totally different designs also . ami_da_4
+A 2491.58 I just ended the meeting . ami_da_4
+A 2493.37 You two go design . ami_da_6
+C 2494.82 Remember that the weird pocketphone thingy which looked like kind of a Gameboy . ami_da_5
+A 2497.03 Oh . ami_da_16
+A 2497.46 By the way . ami_da_16
+A 2498.33 I thought up a name for our product . ami_da_4
+C 2499.81 Maybe we should try something like that . ami_da_6
+C 2501.4 But yeah . ami_da_6
+D 2504.45 Yeah ? ami_da_9
+D 2504.45 Ooh . ami_da_9
+C 2504.57 Oh right . ami_da_9
+A 2504.77 Yeah . ami_da_4
+A 2505.74 It is called the Real Remote . ami_da_4
+C 2509.03 Alright . ami_da_9
+A 2509.59 With a copyright sign after Real . ami_da_4
+D 2511.52 Yeah . ami_da_9
+B 2513.19 The Real Remote . ami_da_1
+D 2513.33 Alright . ami_da_9
+C 2514.43 Yeah . ami_da_9
+C 2515.1 I like it . ami_da_9
+C 2517.36 Okay . ami_da_4
+A 2517.47 So maybe you can include that somewhere . ami_da_6
+D 2517.53 Good . ami_da_9
+C 2517.76 This can go . ami_da_4
+D 2519.43 Yeah . ami_da_9
+D 2519.9 We should work in our own room right ? ami_da_5
+D 2519.9 Or not ? ami_da_5
+D 2519.9 Yeah . ami_da_9
+A 2521.63 Yeah . ami_da_4
+C 2521.65 Oh yeah we have to f include that in our design as well . ami_da_7
+A 2524.19 I do not see any power cables here ami_da_4
+A 2524.19 so ami_da_4
+A 2524.19 Okay . ami_da_2
+C 2526.17 Let is see . ami_da_16
+D 2528.03 Yes . ami_da_9
+C 2528.23 What the hell is that ? ami_da_5
+C 2528.23 Yeah . ami_da_9
+B 2530.19 I think it is the sensors . ami_da_4
+B 2532.63 Okay . ami_da_9
+B 2534.44 Yep . ami_da_1
+B 2536.54 Okay that is the side . ami_da_4
+B 2538.9 it is it is okay . ami_da_9
+B 2540.45 But do we want options on the on the side with the with the buttons ? ami_da_11
+B 2540.45 Or just leave it ? ami_da_11
+B 2540.45 could make an a volume button scroll , volume button . ami_da_6
+C 2548.17 I think we do . ami_da_9
+C 2554.14 Yeah ami_da_9
+C 2554.14 or j or also scrolling for the m ami_da_6
+C 2554.14 yeah . ami_da_6
+B 2557.06 For menu . ami_da_9
+C 2558.28 Yeah ? ami_da_11
+C 2558.28 I dunno . ami_da_9
+B 2558.34 Or Yeah . ami_da_9
+C 2560.52 We w kind of wanted to stick with the ami_da_9
+C 2560.52 Yeah I am just thinking , if we i we want to make something different ami_da_4
+C 2560.52 right ? ami_da_11
+C 2560.52 So the with the scroll is is more futuristic than the standard arrow buttons . ami_da_9
+B 2563.27 No ami_da_9
+B 2563.27 , yeah . ami_da_9
+B 2577.16 Yeah . ami_da_9

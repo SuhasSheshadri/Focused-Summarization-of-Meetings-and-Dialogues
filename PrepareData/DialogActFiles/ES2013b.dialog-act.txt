@@ -1,0 +1,614 @@
+A 3.94 it fell off . ami_da_4
+A 12.07 One , two , three , four , ami_da_16
+A 12.07 yeah , we are ready . ami_da_4
+A 19.48 Okay . ami_da_2
+A 20.51 Welcome to this second meeting . ami_da_14
+A 22.96 it is now quarter after twelve and we are given forty minutes for this meeting . ami_da_4
+A 29.6 This is a meeting on functional design . ami_da_4
+A 33.42 and I want to welcome you all and thank you all for doing some research in between . ami_da_14
+A 39.84 I did took the minutes from the first meeting ami_da_4
+A 39.84 and I will show them to you in a moment . ami_da_7
+A 46.42 I know each of you have a presentation ami_da_4
+A 46.42 and in thinking about the forty minutes , I thought it would take only like three minutes for the previous minutes , each of you having about seven minutes or maybe a little more , maybe a little less for your pre presentations and a little discussion , ami_da_6
+A 46.42 because there is I happen to have been told there were some new project requirements ami_da_4
+A 46.42 and we have to make some decision on what functions it will have . ami_da_6
+A 76.14 Okay ? ami_da_11
+A 76.14 Is this ap ami_da_3
+A 76.14 everybody agree with this ? ami_da_11
+A 76.14 Okay . ami_da_12
+C 78.66 Yes . ami_da_9
+B 78.96 Oops . ami_da_16
+D 81.32 Yes . ami_da_9
+A 83.31 and after the meeting there will be things to be done and as you can see it says we get to get lunch , and then some more individual work and then putting minutes away and individual actions . ami_da_4
+A 99.81 but now ami_da_2
+A 99.81 for the minutes of the first meeting . ami_da_7
+A 107.84 And go to that one . ami_da_16
+A 110.52 as you can see it was this earlier today . ami_da_4
+A 115.11 Kate , Steph , Sarah and myself in our four capacities were present . ami_da_4
+A 121.59 I opened the meeting , the product was developed and reviewed , and we talked about the financial end of it . ami_da_4
+A 131.04 and it had some implications , the four million sales target and new ideas of not too many buttons , bright colours and some of the influence of the Japanese . ami_da_4
+A 145.08 And we closed early so you could then proceed with your research and getting your reports together for tod this meeting ami_da_4
+A 145.08 Anybody have any questions on those minutes ? ami_da_13
+A 145.08 Are they complete , did they discuss everything that we covered last time ? ami_da_11
+A 145.08 Okay . ami_da_6
+B 165.42 I think so , ami_da_9
+B 165.42 we we ami_da_4
+B 165.42 we talked about the the individual roles that we each had as well . ami_da_4
+A 166.45 Did I miss something ? ami_da_5
+A 166.45 Yeah . ami_da_9
+A 174.04 I am afraid I incorporated that when I said who was present , ami_da_4
+A 174.04 but yes , we did , ami_da_9
+A 174.04 and we did a little bit of team building of of making the pictures , ami_da_4
+A 174.04 but I did not think those were appropriate to the minutes necessarily . ami_da_9
+B 177.03 Okay . ami_da_12
+A 187.69 So ami_da_2
+A 187.69 as a group I think we have are they are accepting the minutes . ami_da_4
+D 195.16 Okay , I accept the minutes . ami_da_9
+A 195.91 And ami_da_2
+A 195.91 okay . ami_da_12
+D 198.77 Is that what we are supposed to say ? ami_da_5
+D 198.77 Okay . ami_da_9
+A 200.05 Yeah . ami_da_4
+C 201.14 Yeah , I do . ami_da_9
+A 203.18 Good . ami_da_14
+A 204.16 , then we will move to the three presentations . ami_da_6
+A 208.47 Okay ? ami_da_11
+A 208.47 Okay . ami_da_12
+A 216.19 we need to move this . ami_da_6
+A 218.17 Who wants to go f first ? ami_da_8
+A 218.17 That is as far as it goes . ami_da_4
+C 229.02 not really meant to touch those microphones . ami_da_6
+C 231.86 Oh it does not have any on , ami_da_4
+C 231.86 does it ? ami_da_11
+C 231.86 That is fine . ami_da_9
+D 237.58 Excellent , thank you . ami_da_14
+B 238.34 Oy , ami_da_2
+B 238.34 big loop under the table . ami_da_4
+A 262.04 She said we did not need to screw it in . ami_da_4
+D 264.11 Okay . ami_da_12
+D 267.38 Okay , that looks good . ami_da_9
+A 269.61 It is doing its thing . ami_da_4
+A 271.63 There we are . ami_da_4
+D 272.56 Alright . ami_da_2
+D 273.82 Thank you very much . ami_da_14
+D 277.59 One of the the biggest issues I found about from last meeting was the fact that we need to sell four million of these remote controls ami_da_4
+D 277.59 and I think that this is an opportunity to really take Real Reaction in the direction of of similar of handheld tools that have been used and are used by many of us and to kind of bring the remote control into the si same realm as an accessible useful electronic device , as opposed to something that is lost in the couch and what have you . ami_da_6
+D 317.19 So ami_da_2
+D 317.19 my main goal here is to re envision the remote control in in this context ami_da_7
+D 317.19 and to think about menu functionality and current technology and the fact that it could be interactive with other tools . ami_da_6
+D 331.81 some of the research in the market has shown that people really are not happy with remote controls as they are now , ami_da_4
+D 331.81 and that means we do need to make some decisions about what what keys or or buttons on the on the remote control to perhaps keep and and what ones to discard . ami_da_6
+D 353.74 And if we devote some energy into this , I think the recent productions of Real Reaction , the I go everywhere power and the high definition DVD players although it makes immediate sense to have our remote control interact with these , I think we can also use this as a platform to make it interact with other tools . ami_da_6
+D 378.72 And in fact I think the high definition DVD players and all of this will come along in the will only benefit from the positive feedback from our well designed tool . ami_da_9
+D 390.24 So ami_da_2
+D 390.24 again , most users really dislike the current look and feel of remote controls . ami_da_4
+D 397.3 fifty percent ami_da_3
+D 397.3 I think of all these numbers the most important is ami_da_9
+D 397.3 fifty percent of user say they only use ten percent of the buttons . ami_da_4
+D 406.31 And eighty percent of users , ami_da_3
+D 406.31 and if we think about this there are a lot of television , DVD , stereo remote control users out there , eighty percent would spend more money on a remote control that looks fancy . ami_da_4
+B 421.14 Could can I ask where these figures come from , is this market research we have ami_da_5
+D 423.44 it was market research and there were a hundred people in the room , so eighty out of a hundred said they would spend more money . ami_da_4
+A 430.63 Now ami_da_2
+A 430.63 in between , as the Project Manager , they sent me an email from the powers that be that teletext is outdated and the internet is coming in as important , but that they want this remote control to only be for TV with incorporating the corporate image , colour and slogan . ami_da_4
+D 454.19 Well ami_da_2
+D 454.19 I think we can I ami_da_4
+D 454.19 I think we can really focus on this remote and and again bring the Real Reaction brand in in and and get some positive marketing for our other tools , even if we directly do not advertise for the I go everywhere line . ami_da_4
+D 480.02 So ami_da_2
+D 480.02 an interesting element was the would you pay more for speech recognition question . ami_da_9
+D 487.82 So ami_da_2
+D 487.82 these market research questionnaires looked into your your concern about technology and s specifically wanted to find out information about speech recognition . ami_da_4
+A 504.1 Okay . ami_da_1
+D 504.96 Now ami_da_2
+D 504.96 the early adopters , those of us who grew up with technology and luck lucky for us have the cash to to pay for it , the young age group without the mortgages and responsibilities , ninety one percent of them would pay more for speech recognition in a remote control . ami_da_4
+D 529.62 Very interesting , ami_da_9
+D 529.62 I ami_da_6
+D 529.62 I leave this up to the group to decide if we want to use this ami_da_6
+D 529.62 if and you know , the the designers , ami_da_6
+D 529.62 but ninety one percent , fifteen to twenty five ami_da_4
+D 529.62 Well , ami_da_2
+D 529.62 I ami_da_9
+D 529.62 I ami_da_9
+D 529.62 I think especially in terms of growth ami_da_9
+D 529.62 , I think this would be a very smart group to target . ami_da_9
+A 538.47 Is that a large enough target market to target it ? ami_da_5
+A 538.47 In real numbers , does the ninety one percent and the seventy six percent translate to ex in excess of the four million ? ami_da_5
+A 538.47 Or eight million . ami_da_5
+D 548.45 I mean s three quarters of the next age group , ami_da_4
+D 548.45 twenty five to thirty five are interested , ami_da_4
+D 548.45 and with the technologies improving , if we can get these ami_da_3
+D 548.45 Yeah . ami_da_1
+D 564.35 To ami_da_3
+D 564.35 yes . ami_da_4
+D 568.49 Yes . ami_da_4
+D 569.72 But would you pay more and does it work and is it approachable ami_da_5
+D 569.72 and and did I know that it was it was an ami_da_3
+D 569.72 that is a that is a very good question . ami_da_9
+A 579.36 Yeah . ami_da_1
+D 579.46 I do not know if speech recognition should be should be included , but I think it is an interesting ami_da_9
+D 579.46 I think that maybe shows more about being open to technology . ami_da_4
+B 579.47 How d I am wondering how how ou how our target price compares with the the typical price of these things . ami_da_5
+C 591.37 it definitely needs a lot more research ami_da_6
+C 591.37 on like how much more it would be and any , you know , existing examples , and what reactions to them have been , and that sort of thing . ami_da_5
+D 593.68 Shall I go back ? ami_da_11
+D 593.68 Yeah , ami_da_9
+D 593.68 yeah . ami_da_9
+D 603.86 Yeah . ami_da_9
+B 611.21 I expect an Industrial Designer should know that , ami_da_15
+B 611.21 but if we are aiming to to build this thing for twelve Euros fifty , is that a lot or a little ? ami_da_5
+B 611.21 Sh surely he is in the wrong age group . ami_da_14
+D 620.31 Exactly . ami_da_9
+D 620.97 I mean ami_da_2
+D 620.97 I I ami_da_4
+D 620.97 I did not receive any information on that , ami_da_4
+D 620.97 but I think the competition , sussing out what other people are doing and what is in the pipeline is very very important , ami_da_9
+D 620.97 because there is a question about do you want an LCD screen and and that was not responded to , but some of the larger remotes do have screens where you can navigate , ami_da_4
+D 620.97 you know , ami_da_2
+D 620.97 so it turns into something ami_da_3
+D 620.97 perhaps you all have seen the Osbournes where Ozzy Osbourne is is attempting to manage his super entertainment system with something that looks like a a small tray . ami_da_4
+D 662.19 You know , ami_da_2
+D 662.19 it is I a ami_da_3
+D 662.19 and I think , ami_da_3
+D 662.19 you know ami_da_2
+D 662.19 No , no , ami_da_9
+D 662.19 you ami_da_3
+D 662.19 Kate , you are exactly right there . ami_da_9
+B 666.12 He must be w one of a s small population . ami_da_14
+D 671.57 But I think the key is to get the early adopters , people who are familiar with technology ami_da_6
+D 671.57 and and they will be ami_da_3
+A 678.15 But we are not looking at whether they are early adopters on that screen , that is looking at age groups . ami_da_4
+D 681.82 Exactly . ami_da_9
+D 683.13 I yes , ami_da_9
+D 683.13 and I am making and I am making the the leap that people who are familiar younger people are l are more familiar with technology than than older people . ami_da_4
+A 687.78 Leap . ami_da_4
+D 695.64 Or comfortable , ami_da_4
+D 695.64 you know , so ami_da_2
+D 695.64 I think the most important thing is an attractive streamlined remote control and to be extraordinarily reductionist , power , channel , volume and everything else is is up to the designers . ami_da_6
+A 699.22 Okay , ami_da_2
+A 699.22 you had the other power channel . ami_da_4
+D 718.94 And this is this is also supported by the market research . ami_da_4
+A 724.0 Okay . ami_da_1
+D 726.42 Thank you . ami_da_14
+D 727.11 That is my contribution . ami_da_4
+A 728.88 Alright . ami_da_2
+A 731.0 And we will turn to the next presentation . ami_da_6
+A 746.21 I think she said we do not need to screw it in , just stick it in . ami_da_4
+A 751.19 And then press , what ? ami_da_8
+A 751.19 F FN and F eight . ami_da_6
+A 757.98 Next to the control button on the bottom , and then F eight at the top . ami_da_4
+C 763.03 Yeah , press them . ami_da_9
+A 763.66 And then w be patient . ami_da_6
+C 768.49 Yeah , here we go . ami_da_9
+A 770.36 Tada . ami_da_16
+B 772.83 And if you want it to go into slide show mode , it is that little button there . ami_da_6
+C 777.3 Can I not just do each one in order ? ami_da_5
+C 777.3 That ? ami_da_5
+C 777.3 That ? ami_da_5
+C 777.3 That ? ami_da_5
+C 777.3 Right , ami_da_2
+C 777.3 technical functions design . ami_da_4
+B 782.47 I you can if you like , ami_da_4
+B 782.47 it it that that just sets it up to do a p a p ami_da_3
+B 782.47 no ami_da_9
+B 782.47 that one , that one there . ami_da_4
+A 786.47 There we are . ami_da_9
+A 788.08 Yay . ami_da_9
+B 789.25 Left , left a bit , left a bit , that one , yep . ami_da_4
+C 800.94 well ami_da_2
+C 800.94 I think first off , basically I do agree with what Sarah has defined as as your personal preferences, ami_da_9
+C 800.94 yeah . ami_da_9
+C 812.37 I think we need a more streamlined volume with no extraneous functions . ami_da_9
+C 820.92 So ami_da_2
+C 820.92 my method was to look at the existing remotes and what functions they have . ami_da_4
+C 825.88 And what we all need to discuss is whether we want these functions pretty much the same as what existing remotes have . ami_da_11
+C 833.92 If we can build on this with the speech recognition , ami_da_11
+C 833.92 that is not something I would thought about at all , ami_da_4
+C 833.92 but it is also something we can discuss . ami_da_6
+A 843.85 Okay . ami_da_1
+C 844.56 and and I presume we can miss out the functions really to to a video or DVD remote control , if this is only going to be a , you know , satellite , cable , TV remote control . ami_da_6
+A 854.13 TV only . ami_da_4
+C 858.89 So ami_da_2
+C 858.89 these are two models of existing remote controls . ami_da_4
+C 863.99 the one on the left seems to be a fairly standard universal remote control . ami_da_4
+A 866.18 Ugh . ami_da_9
+C 872.23 It has fast forward , stop , play , all relating to movies . ami_da_4
+C 877.39 It also has seems to have channel up and channel down , which is which is more what you would expect from a , you know , like a Sky or cable remote control where you have got hundreds of channels instead of a merely terrestrial one . ami_da_4
+C 894.23 but I think we should be looking more along the lines of the one on the right , ami_da_6
+C 894.23 which has it also has play , stop and pause and everything , ami_da_4
+C 894.23 I do not think we need them at all . ami_da_6
+C 904.21 I think we just need channel selection , volume up , volume down ami_da_6
+C 904.21 and I think an an enter function where you can access it is not like teletext , but along the same lines , access things on the screen . ami_da_6
+C 924.84 not related to the internet one that you mentioned , because that would be far outside our budget and what we want this to do . ami_da_4
+A 935.45 And exceed the requirements they are expecting of us . ami_da_4
+C 935.51 So ami_da_2
+C 935.51 it ami_da_3
+C 935.51 really exceed the requirements , ami_da_9
+C 935.51 because the requirements really are just want to be able to change channels and functions , ami_da_4
+C 935.51 which is more a text on the screen thing than than actual buttons ami_da_6
+C 935.51 o ami_da_3
+C 935.51 I was thinking something some smooth , sleek , little remote control with big user friendly buttons and a menu that you can access . ami_da_6
+A 951.52 Okay . ami_da_1
+A 959.55 Alright . ami_da_1
+C 967.25 but then I do think we need to discuss the speech recognition possibility . ami_da_6
+A 976.74 Okay . ami_da_2
+A 978.58 Any thing else you want to add ? ami_da_5
+A 978.58 Okay . ami_da_12
+C 979.84 No . ami_da_4
+C 982.48 But we could go back to the pictures of the , what are they called ? ami_da_6
+C 982.48 The pictures of the remote controls and possibly discuss what we think about them , but maybe should hear what Kate has to say first . ami_da_6
+D 996.5 Or if ami_da_3
+D 996.5 Yeah . ami_da_9
+A 1000.87 Yeah . ami_da_9
+A 1001.93 Let is hear what Kate has to say . ami_da_9
+C 1003.68 Okay then . ami_da_9
+D 1003.71 Maybe afterwards we could do a whiteboard with that your the one on the right as a as a basis . ami_da_6
+D 1015.36 Whiteboard session . ami_da_6
+A 1018.38 I think the white that one on the right is , as well as less cluttered , It is there ami_da_4
+A 1018.38 but it is ami_da_3
+A 1018.38 Yeah . ami_da_9
+C 1023.64 Definitely less cluttered ami_da_9
+C 1023.64 and I mean ami_da_2
+C 1023.64 but still it is ami_da_3
+C 1023.64 Sorry ami_da_14
+C 1023.64 I was just ami_da_3
+C 1023.64 I will just resume something else I was going to say . ami_da_7
+C 1032.46 The the style of these is terrible . ami_da_9
+C 1035.47 I I ami_da_3
+C 1035.47 I really think we need to ami_da_3
+C 1035.47 not only possibly even materials , like the type of plastic used , but everything including size and shape of buttons , positioning of buttons , the actual shape of the hand held device , colours , ami_da_6
+C 1035.47 just every e ami_da_6
+C 1035.47 yeah , everything to do with this has to be revolutionised . ami_da_6
+D 1054.24 The ergonomics , the way it fits in your ami_da_6
+D 1054.24 Yeah . ami_da_1
+C 1063.83 But ami_da_3
+C 1063.83 So ami_da_2
+C 1063.83 that is that for now . ami_da_4
+B 1071.38 Cheers . ami_da_14
+B 1099.16 , I have not actually got a display on my screen . ami_da_4
+A 1101.37 Okay . ami_da_1
+B 1102.05 Still , I will do without that . ami_da_7
+B 1104.89 Okay , now ami_da_2
+B 1104.89 I want to bring us down to earth again I am afraid and talk about the actual practicalities of how the thing needs to work . ami_da_7
+B 1116.75 oh ami_da_2
+B 1116.75 and this is the methodology I used in preparing for this meeting . ami_da_4
+B 1123.32 basically ami_da_2
+B 1123.32 I have been doing a little bit of web based research , and if I had a design team , I would have been discussing my ideas with them . ami_da_4
+B 1133.19 But the the net result is that I have come up with a first cut for the working design ami_da_4
+B 1133.19 that I would like to discuss with you . ami_da_6
+B 1141.75 So , ami_da_2
+B 1141.75 let is go back to what the basic function of a remote control is . ami_da_7
+B 1145.77 It is for sending a message , typically via infrared . ami_da_4
+B 1152.64 And the the basic components we have got to build in for our twelve Euros fifty are an energy source , the user interface ami_da_4
+B 1152.64 and ami_da_3
+B 1152.64 which will in incorporate an integrated circuit that actually composes the message based on what the which buttons the user presses , we turn that into a message , and then we need a sending mechanism to send it to the receiver . ami_da_4
+B 1185.53 Now ami_da_2
+B 1185.53 I would have hoped ami_da_3
+B 1185.53 I think that is my only slide actually , ami_da_4
+B 1185.53 yeah . ami_da_9
+B 1188.42 I would have have hoped to do you a pretty PowerPoint slide of my first cut design , but unfortunately the technology defeated me , ami_da_4
+B 1188.42 so if you will bear with me ami_da_7
+B 1188.42 I will do it on the whiteboard . ami_da_7
+B 1207.19 So ami_da_2
+B 1207.19 we want an energy source which is there . ami_da_4
+B 1216.5 And we have got to think about what that might be . ami_da_6
+B 1218.78 we obviously do not want wires on this thing . ami_da_6
+A 1219.19 Hmm mm . ami_da_1
+B 1223.29 typically it would be a battery , ami_da_4
+B 1223.29 but I am open to suggestions . ami_da_8
+B 1228.04 and ami_da_2
+B 1228.04 then we have the the user interface . ami_da_4
+B 1239.73 Oops . ami_da_16
+B 1246.25 And the main components in there are the the th the chip that actually has the intelligence of the machine that translates button presses into a message , which it then transfers to some sending mechanism , which encodes it and sends the message to the receiver . ami_da_4
+B 1288.09 So ami_da_2
+B 1288.09 those are the basic things that we have got to get in for our twelve Euros fifty . ami_da_4
+B 1292.8 Thank you . ami_da_14
+A 1298.89 Okay . ami_da_2
+A 1303.14 Right . ami_da_2
+A 1307.24 But those things as long as we can get those components , ami_da_3
+A 1307.24 the block , that that rectangle for the user interface , is where the user comes in ami_da_4
+A 1307.24 of ami_da_3
+A 1307.24 what what does it look like ? ami_da_8
+A 1307.24 What do the buttons look like ? ami_da_8
+A 1307.24 what does it feel like ? ami_da_8
+A 1307.24 That is where the user interface is really coming into its own . ami_da_4
+A 1330.4 The technical end is what is actually going to be in there , ami_da_4
+A 1330.4 but also it has to be easy enough to change or repair if something goes wrong . ami_da_6
+A 1344.43 For example the battery energy source ami_da_6
+A 1344.43 or what if the chip , for whatever reason , breaks down after a certain amount of time , do you just replace it ? ami_da_11
+A 1344.43 is there any ami_da_3
+A 1344.43 because it may be in the same area with several other user interfaces , like for DVDs , movies , whatever . ami_da_4
+A 1367.82 does it have to have a a way of being segregated from the others , in a different frequency or something ? ami_da_5
+B 1380.52 Well ami_da_2
+B 1380.52 I may be wrong here , ami_da_9
+B 1380.52 but I would been thinking of this device as being a a cheap mass produced device . ami_da_6
+B 1386.17 We are trying to sell four million of them , that is that is , you know , that is almost one in every tenth household or whatever it is . ami_da_4
+B 1394.15 and I had not thought of it as being a reparable thing , ami_da_6
+B 1394.15 you just ami_da_3
+B 1394.15 if it goes wrong you chuck it out , ami_da_6
+B 1394.15 and that is why I am a bit concerned . ami_da_9
+A 1398.92 Okay . ami_da_1
+B 1402.17 I like the idea of speech recognition , that is a great idea , but I am not convinced we can put it into this box for the price that we need going to need to hit . ami_da_9
+D 1409.75 Do we have ki some idea of how much it would cost to create a device that has these basic elements ? ami_da_5
+D 1409.75 Because then ami_da_3
+D 1409.75 No , the chip composer marketing . ami_da_4
+C 1409.84 Whoop . ami_da_16
+A 1410.13 Okay . ami_da_1
+C 1421.52 Is not that your job ? ami_da_5
+C 1421.52 Oh right . ami_da_12
+A 1423.52 Oh . ami_da_12
+D 1426.53 Oh no , ami_da_9
+D 1426.53 the chip composer sender . ami_da_4
+B 1429.44 , I am I am ami_da_6
+B 1429.44 I am hoping that my personal coach is going to give me some advice on that , if you are asking me , ami_da_6
+B 1429.44 but ami_da_3
+B 1429.44 Yeah . ami_da_4
+D 1429.45 I I do not believe I know , . ami_da_4
+A 1431.33 What they cost . ami_da_12
+D 1434.84 Okay . ami_da_12
+A 1436.29 Okay . ami_da_1
+D 1436.37 Be because then we would ha ha figure out how much we had to play with in terms of user interface and this look and feel idea . ami_da_5
+C 1440.39 Yeah . ami_da_4
+C 1444.39 It does it does seem as if we are just to do something really simple and mass produced , ami_da_9
+C 1444.39 the ami_da_3
+C 1444.39 which is pretty much the same as these existing models , just maybe a little bit more inspired , but basically just the same . ami_da_6
+D 1453.91 Inspired ? ami_da_5
+C 1460.25 Although what what suddenly came into my head is , you know how they always take two AA batteries ami_da_4
+C 1460.25 which which is really not very efficient at all . ami_da_9
+C 1472.08 Could it be possible to have , you know , like a rechargeable internal battery , like , well , like an MP three player does ? ami_da_11
+C 1472.08 With that you could jus or a mobile phone or whatever . ami_da_11
+C 1483.98 You could you know , you just plug into a power source for a couple of hours , and then it is recharged for ages and ages and ages , and you do not have to worry with replacing AA batteries , ami_da_4
+C 1483.98 which are ami_da_3
+C 1483.98 You would never need batteries ami_da_4
+C 1483.98 would y ami_da_3
+C 1483.98 yeah . ami_da_9
+D 1493.27 Well ami_da_2
+D 1493.27 that has another element , which is if every time you are done using the remote you put it on a charger , then you then it has a place . ami_da_4
+D 1503.17 Yeah , ami_da_9
+D 1503.17 but it also has a place , ami_da_4
+D 1503.17 so ami_da_2
+D 1503.17 exactly . ami_da_9
+C 1504.58 And it is not stuck down the back of the sofa . ami_da_4
+C 1507.83 But then again I d I do not know if this is within our price range or not . ami_da_5
+D 1511.75 That is a really good idea . ami_da_9
+B 1512.49 Well ami_da_2
+B 1512.49 I think that is a very interesting idea , ami_da_9
+B 1512.49 but I am not a very good industrial designer ami_da_15
+B 1512.49 and I do not know much about what these things cost . ami_da_4
+B 1519.6 I will do some research for the next meeting . ami_da_7
+D 1521.52 Well ami_da_2
+D 1521.52 it is better than my idea about solar , probably . ami_da_9
+A 1521.56 Okay . ami_da_9
+A 1524.81 yeah . ami_da_16
+B 1526.38 Well ami_da_2
+B 1526.38 solar may not be so good when you are watching TV in the night , ami_da_9
+B 1526.38 but ami_da_3
+B 1526.38 Yeah , I guess . ami_da_9
+D 1528.39 Yeah , ami_da_9
+D 1528.39 yeah . ami_da_9
+C 1530.83 Well ami_da_2
+C 1530.83 it is just so annoying how ami_da_3
+C 1530.83 No , ami_da_2
+C 1530.83 but just a rechargeable internal battery would probably I mean it might cost more to at first to develop and to install , ami_da_4
+C 1530.83 but for long term use it will be so much more convenient and economic than fiddling around trying to replace chunky AA batteries and not having any in your kitchen drawer ami_da_9
+C 1530.83 and you know f ami_da_3
+D 1530.89 Depen ami_da_3
+A 1531.7 It would have to sor store up the energy and then use it . ami_da_6
+D 1534.2 Yeah . ami_da_9
+A 1536.16 Solar can do that . ami_da_4
+B 1536.93 We may be talking quite heavy then . ami_da_9
+D 1538.8 Yeah . ami_da_9
+A 1539.06 M ami_da_9
+A 1539.06 yeah , that would be too heavy and it would cost too much . ami_da_9
+B 1565.63 So ami_da_2
+B 1565.63 do you think we might make that a selling point if it was something that we found we could afford to develop ? ami_da_11
+D 1570.44 Definitely , ami_da_9
+D 1570.44 because I am thinking in terms of the loss and breakage of remotes , how much of that is is to do with it not really having a a home , a a nest , a place to live , ami_da_4
+D 1570.44 exactly . ami_da_9
+C 1588.08 Sort of have its little dock that you could put it in . ami_da_6
+A 1590.42 Yeah . ami_da_1
+D 1590.49 So if you can dock it , you know , you could s argue that this is ami_da_3
+D 1590.49 Exactly . ami_da_9
+A 1594.2 And the dock could look very fancy and that could be your inspiration of having it looking decent . ami_da_6
+C 1598.45 Still I do not know if it is quite within our price range . ami_da_4
+D 1602.64 Because you are talking about another component , like another piece of hardware . ami_da_4
+C 1605.63 Yeah . ami_da_1
+A 1606.39 Yeah . ami_da_9
+A 1607.95 Okay . ami_da_2
+A 1608.66 Are we agreed as to what our target group is though ? ami_da_5
+A 1608.66 Pretty much , ami_da_4
+A 1608.66 so that we would be looking for the younger end . ami_da_6
+D 1614.53 Well ami_da_2
+D 1614.53 I I brought up some ami_da_3
+D 1614.53 exactly , but I think you raised some good questions ami_da_9
+D 1614.53 about are there enough of these people out there , or are they making purchasing decisions ? ami_da_5
+D 1614.53 You know , ami_da_2
+D 1614.53 these are the ami_da_3
+D 1614.53 Yeah , exactly . ami_da_9
+B 1623.99 Yeah , ami_da_2
+B 1623.99 I was wondering that , ami_da_9
+B 1623.99 because I ag I agree that there there are people with how can I put it , more money than sense and who are liable to buy something new , ami_da_4
+B 1623.99 but ami_da_3
+B 1623.99 Bu but what I was going to say was , although they they may be buying , you know , personal music devices and all that , ami_da_4
+B 1623.99 are they necessarily buying TV remote controls ? ami_da_5
+B 1623.99 Because they probably live in a household that has a TV if they are at the lower end of the age range , I do not know . ami_da_4
+A 1630.68 I ami_da_4
+A 1630.68 I s usually put more money than brains . ami_da_4
+D 1634.45 Oh oh oh ami_da_2
+D 1634.45 I will make a note of that , Kate . ami_da_7
+D 1636.27 Good , good comment . ami_da_9
+D 1649.5 Yeah . ami_da_1
+C 1652.46 Yeah . ami_da_1
+D 1652.74 It might be good to know ami_da_6
+D 1652.74 who , you know , who is actually buying televisions and are we in a s region where people have more than one television in a home ? ami_da_5
+D 1652.74 Yeah . ami_da_9
+B 1666.3 I think we have got a big hill to climb here , ami_da_9
+B 1666.3 have not we ? ami_da_11
+B 1666.3 I mean we have gotta persuade people who have got a remote control because it came with the telly that they should buy our product instead . ami_da_4
+D 1674.53 Yeah . ami_da_9
+A 1674.8 Yeah . ami_da_9
+A 1675.35 Or do we s make sure that it goes to the man through the manufacturer ? ami_da_11
+A 1675.35 We sell to the manufacturer as the remote that goes with it . ami_da_6
+B 1679.78 Right , good point . ami_da_9
+B 1681.07 Yeah , ami_da_9
+B 1681.07 yeah ami_da_9
+B 1681.07 okay , ami_da_9
+B 1681.07 yeah . ami_da_9
+D 1681.76 Yeah . ami_da_9
+C 1682.16 Yeah . ami_da_9
+B 1683.4 Yeah . ami_da_9
+D 1683.68 Yeah . ami_da_9
+C 1684.13 That is probably more what it is . ami_da_9
+B 1684.58 Yeah , good point . ami_da_9
+A 1685.49 What would be a more efficient way of doing it ? ami_da_11
+D 1687.93 Yeah , ami_da_2
+D 1687.93 and and some of our DVD players incidentally have them , because we have the relationship with our own department , ami_da_4
+D 1687.93 but moreover we need to to go for the the manufacturers . ami_da_6
+A 1700.11 Okay . ami_da_2
+A 1701.62 Right . ami_da_2
+C 1701.65 We are not going to get any resolutions by the end of the day , ami_da_4
+C 1701.65 are we ? ami_da_11
+C 1701.65 Yeah . ami_da_1
+A 1704.8 Probably not . ami_da_9
+A 1706.31 the other thing that we are supposed to do is make decision on our functions . ami_da_4
+A 1717.66 Our functions , we have so far decided , I think , that power , channel , volume make it attractive . ami_da_4
+A 1727.53 it has to have an enter key and of course the number keys . ami_da_4
+A 1732.42 It has to have big user friendly buttons and sh ami_da_4
+A 1732.42 n definitely we want to be inspired ami_da_4
+A 1732.42 that the current styles are just plain awful . ami_da_9
+D 1745.62 Do we need let me ami_da_3
+D 1745.62 Br actually , ami_da_2
+D 1745.62 the enter key ami_da_3
+D 1745.62 I have a chart here that I did not include . ami_da_4
+A 1749.76 Is that agreeable to everyone ? ami_da_11
+D 1757.31 yeah , ami_da_4
+D 1757.31 which might ami_da_4
+D 1757.31 Th ami_da_3
+D 1757.31 yeah , ami_da_4
+D 1757.31 th those are ami_da_3
+D 1757.31 felt like had a lot of charts . ami_da_9
+B 1758.85 Do you want the gizmo ? ami_da_5
+B 1758.85 H how does that work ? ami_da_5
+B 1758.85 How so so how does that work , how do you avoid switching the thing off when you actually want to press enter ? ami_da_8
+B 1758.85 Okay , yep , . ami_da_12
+A 1764.29 Throw some light on that . ami_da_5
+A 1774.2 actually we are , you know , we are almost a half hour out of the forty minutes , ami_da_4
+A 1774.2 so we have to get close to finishing . ami_da_6
+D 1780.57 Okay , ami_da_9
+D 1780.57 I I ami_da_3
+D 1780.57 my only comment is I think maybe we could somehow include an enter key in like a power key if power power was enter and pow that was my only just really in terms of streamlining . ami_da_6
+A 1793.37 Okay . ami_da_9
+D 1797.53 Exactly . ami_da_4
+A 1797.78 Enter , power as a s oh a sum simultaneous key . ami_da_5
+D 1802.64 Again , you know , ami_da_2
+D 1802.64 thinking of menus or ami_da_3
+D 1802.64 well ami_da_2
+D 1802.64 if you are pressing enter , the the thing would already be on , ami_da_4
+D 1802.64 and so maybe when you press power , initially it turns it on , press power again and use that as an enter ami_da_6
+D 1802.64 so you press power after you have ami_da_3
+D 1802.64 well ami_da_2
+D 1802.64 I was thinking maybe you to turn it off you would have to press power twice in succession , and maybe power follows something like a channel up channel down power , and then that would make that choice . ami_da_6
+A 1803.35 Is that okay with you ? ami_da_11
+A 1803.35 Would that ami_da_3
+A 1803.35 uh huh . ami_da_12
+C 1806.21 Sorry , ami_da_14
+C 1806.21 I was miles away . ami_da_4
+C 1807.51 I was re ami_da_4
+C 1807.51 I was reading the chart to be honest . ami_da_4
+A 1828.99 Then you would have to have an off te off key . ami_da_6
+B 1844.56 It is not getting a bit complicated ? ami_da_9
+B 1844.56 Could granny do this , ami_da_5
+B 1844.56 or are we just not aiming at granny ? ami_da_11
+D 1846.81 Well ami_da_2
+D 1846.81 Or y ami_da_3
+D 1846.81 yeah . ami_da_2
+D 1850.44 Or something that has a a turning dial , where at the far end is on or off . ami_da_6
+C 1855.7 Who is got an iPod then ? ami_da_5
+C 1855.7 Yeah , ami_da_2
+C 1855.7 things like screen settings and audio settings , I would generally do them on the actual television itself , like here you have a you know , a little flap th with a little control panel on the actual box itself . ami_da_6
+D 1857.49 Yeah , ami_da_12
+D 1857.49 I do not ami_da_4
+D 1857.49 I wish . ami_da_16
+D 1860.42 Anyway , ami_da_2
+D 1860.42 that was the only comment about some of the the decisions people have made , what is most important . ami_da_4
+A 1863.3 Okay . ami_da_12
+D 1868.31 It is definitely channel , volume , power . ami_da_9
+D 1877.51 Exactly . ami_da_9
+D 1883.04 Exactly . ami_da_9
+C 1885.22 I I would not know how to do it using a remote control , so I would say that they are definitely less relevant . ami_da_4
+D 1887.94 Yeah . ami_da_1
+D 1894.73 Okay , well . ami_da_2
+A 1894.88 Okay . ami_da_2
+D 1896.64 Thanks for looking at that . ami_da_14
+A 1904.29 So ami_da_2
+A 1904.29 I guess easy to use is the other thing that we want them to be able to do . ami_da_4
+D 1908.82 We do not want to outsmart ami_da_3
+A 1909.1 As you said , you know , do not make it too hard for the granny . ami_da_4
+A 1914.64 I just joined that set last week . ami_da_4
+A 1918.08 first grandchild arrived . ami_da_4
+D 1918.2 Congratulations . ami_da_14
+A 1923.11 so are we agreed then of those things ? ami_da_11
+A 1923.11 And let is go back to agenda and hook me up . ami_da_7
+D 1930.09 D ami_da_3
+D 1930.09 Oh ami_da_2
+D 1930.09 you are fine . ami_da_9
+A 1940.76 This oughta be fun . ami_da_9
+A 1942.37 It probably wo not go the first time , ami_da_4
+A 1942.37 it will probably be like a g mess . ami_da_9
+A 1951.49 Come on . ami_da_16
+A 1956.98 it lost it off here . ami_da_4
+A 1960.24 No , ami_da_9
+A 1960.24 it was up there , but I could not see it down here . ami_da_4
+D 1962.7 It is fine . ami_da_9
+A 1985.57 This time it should be both . ami_da_4
+A 1988.13 There we go . ami_da_9
+B 1989.95 How do you do that ? ami_da_5
+B 1989.95 How do you make it do both ? ami_da_5
+B 1989.95 okay , ami_da_12
+B 1989.95 it toggles through , ami_da_4
+B 1989.95 yeah . ami_da_12
+A 1995.37 you have to keep doing the financi the the FN and F eight to five minutes to finish , ami_da_4
+A 1995.37 thank you a lot for telling me . ami_da_14
+D 2005.51 I think you have to cycle through . ami_da_6
+A 2005.66 right , ami_da_9
+A 2005.66 we are ready to close . ami_da_4
+B 2007.15 Yeah . ami_da_1
+A 2011.49 will be completed q questionnaire , then we will have some time for individual work to continue our research and I will put some minutes of this meeting together . ami_da_4
+A 2026.37 your individual assignments are for Kate to do the components , for you , Steph , to do the user interface and for you the trend watching . ami_da_4
+A 2044.15 and each of us will get help from our coach . ami_da_4
+A 2048.62 Are we agreed to get ourselves together and then have lunch ? ami_da_11
+A 2048.62 Okay . ami_da_2
+C 2052.3 Yes . ami_da_9
+B 2053.41 Sounds good . ami_da_9
+A 2054.98 Then that is the end of this meeting . ami_da_4
+A 2057.0 And I hope that is good enough for her to tell her that is the end . ami_da_11
+A 2060.89 Okay ? ami_da_11
+A 2060.89 Well ami_da_2
+A 2060.89 I think I went over the functions and wrote them down and marked them . ami_da_4
+B 2061.64 Okay . ami_da_9
+C 2062.96 We did not come to any sort of decision on the functions though . ami_da_4
+C 2071.12 Alright , ami_da_12
+C 2071.12 well ami_da_2
+C 2071.12 that is fine then . ami_da_9
+A 2072.79 that is what I went over and nobody was objecting to them . ami_da_4
+D 2075.29 Okay . ami_da_1
+D 2077.73 and you would mentioned I ami_da_3
+D 2077.73 I was just going to say , ami_da_7
+D 2077.73 could you reiterate the new project requirements , ami_da_11
+D 2077.73 because it they were ami_da_3
+D 2077.73 it has to be for a TV , ami_da_4
+D 2077.73 just to keep myself ami_da_3
+D 2077.73 Yeah , ami_da_9
+D 2077.73 I think I have ami_da_3
+D 2077.73 Okay . ami_da_1
+A 2083.22 Okay . ami_da_9
+A 2086.53 the teletext is outdated , the internet is important , it is only to be for a TV and it must include the corporate image , colour and slogan which I think is more in the user range , with Steph . ami_da_4
+B 2089.91 So ami_da_2
+B 2089.91 we are still in meeting , ami_da_4
+B 2089.91 are not we ? ami_da_11
+C 2106.66 Sorry , ami_da_14
+C 2106.66 what what actually are these ami_da_5
+C 2106.66 is that the yellow and black ? ami_da_4
+C 2106.66 From their ami_da_3
+C 2106.66 I will just use it from their website . ami_da_7
+A 2109.86 It does not tell me . ami_da_4
+D 2122.84 Right . ami_da_2

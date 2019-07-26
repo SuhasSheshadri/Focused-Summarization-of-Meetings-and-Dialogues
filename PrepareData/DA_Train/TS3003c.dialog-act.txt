@@ -1,0 +1,708 @@
+A 21.26 Okay . ami_da_2
+A 22.71 good afternoon . ami_da_14
+D 24.09 Good afternoon . ami_da_14
+A 24.25 This is our third meeting already . ami_da_4
+A 28.37 I hope you enjoyed your lunch . ami_da_14
+A 30.93 I did anyway . ami_da_9
+A 33.46 let is see . ami_da_2
+A 39.62 Presentation three . ami_da_16
+A 43.09 Okay ami_da_2
+A 43.09 this is the second phase we are going to discuss today . ami_da_4
+A 48.44 It is the conceptual design meeting . ami_da_4
+A 51.62 And a few points of interest in this meeting are the conceptual specification of components . ami_da_4
+A 61.25 conceptual specification of design . ami_da_4
+A 64.1 And also trend watching . ami_da_4
+A 66.22 these are hopefully the points you addressed in your pre presentations ami_da_4
+A 66.22 you are going to show me in a few minutes . ami_da_6
+A 77.08 but first I will show you the agenda . ami_da_7
+A 82.15 first the opening . ami_da_4
+A 84.04 Then we have three presentations . ami_da_4
+A 86.21 after that we have to come to a decision on remote control concepts . ami_da_4
+A 91.42 How we are going to make it . ami_da_4
+A 93.83 And then we are closing . ami_da_4
+A 96.0 We have about forty minutes . ami_da_4
+A 99.11 so I suggest let is get started . ami_da_6
+A 102.21 did someone encounter any problems during the preparation ? ami_da_5
+A 102.21 No ? ami_da_5
+A 102.21 Everything fine ? ami_da_11
+A 102.21 That is nice . ami_da_9
+B 109.75 No . ami_da_4
+A 114.8 Then a little thing about the last meeting . ami_da_7
+A 121.77 these are the points we agreed on . ami_da_4
+A 124.69 The requirements and the target market . ami_da_4
+A 127.58 requirements are teletext , docking station , audio signal , small screen , with some extras that button information . ami_da_4
+A 137.69 And we are going to use default materials . ami_da_4
+A 141.37 does somebody have any comments on these requirements ? ami_da_11
+A 141.37 Maybe ? ami_da_11
+A 141.37 No ? ami_da_11
+A 141.37 These are just the the things we thought of , ami_da_4
+A 141.37 so maybe if you figured something else or thought of something else , just let me know . ami_da_6
+A 156.11 And maybe we can work it out . ami_da_6
+A 158.44 And we are going to target sixty to to eighty year old customers . ami_da_4
+A 165.11 So ami_da_2
+A 165.11 now everybody knows what we are do we are doing , ami_da_4
+A 165.11 I suggest let is get started with the presentations . ami_da_6
+A 175.32 So ami_da_2
+A 175.32 shall we keep the same line up as last time ? ami_da_11
+A 175.32 Okay . ami_da_9
+D 180.27 Sure . ami_da_9
+D 181.91 I will start off then . ami_da_7
+A 182.67 Good luck . ami_da_14
+D 192.77 Doh . ami_da_16
+D 203.97 Okay ami_da_2
+D 203.97 I am going to inform you about the trend watching I have done over the past few days . ami_da_7
+D 209.95 we have done some market research . ami_da_4
+D 212.24 We distributed some more enquetes , questionnaires . ami_da_4
+D 216.7 And besides that I deployed some trend watchers to Milan and Paris to well get all of the newest trends . ami_da_4
+D 227.28 And I have consulted some additional trend watch trend watchers , after the original trend watchers return , about what the the best design would be . ami_da_4
+D 240.88 okay ami_da_2
+D 240.88 these are some overall findings . ami_da_4
+D 245.09 most important thing is the fancy design . ami_da_4
+D 249.6 the research indicated that that was by far the most important factor . ami_da_4
+D 255.1 innovativeness was about half as important as the fancy design . ami_da_4
+D 262.39 By innovativeness this means functions which are not featured in other remote controls . ami_da_4
+D 268.97 about half of , half as important as the innovativeness was the was easy to use . ami_da_4
+D 278.4 for our group , we are focusing on the people of sixty to eighty ami_da_4
+D 278.4 y years old , this is , these factors are slightly more equal . ami_da_4
+D 295.07 Okay ami_da_2
+D 295.07 these are some more group specific findings . ami_da_4
+D 298.3 the older people prefer dark colours . ami_da_4
+D 301.02 they like recognisable shapes , and familiar material . ami_da_4
+D 305.33 And our surveys have indicated that especially wood is pretty much the material for older people . ami_da_4
+D 316.34 this is , this image will give you a little bit of an impression about the look and feel that the remote should have . ami_da_4
+D 331.07 this leads us to some personal preferences . ami_da_7
+D 335.2 the remote control and the docking station should blend in in the in the room . ami_da_6
+D 342.26 so this would mean no eye catching designs . ami_da_6
+D 347.97 Just keep it simple ami_da_6
+D 347.97 and ami_da_3
+D 347.97 Well ami_da_2
+D 347.97 the docking station and small screen would be our main points of interest , ami_da_6
+D 347.97 because this would be the These would be the innovativeness in the remote control . ami_da_4
+D 363.93 So this would be very important that we at least include these features . ami_da_9
+D 368.96 well the trend watchers I consulted advised that it b should be , the remote control and the docking station should be telephone shaped . ami_da_4
+D 379.01 So you could imagine that the remote control will be standing up straight in the docking station . ami_da_4
+D 385.5 This is not really ami_da_3
+D 385.5 This is pretty much a new shape to older people . ami_da_4
+D 390.85 So they would prefer a design where the remote control just lies flat in the docking station . ami_da_4
+D 399.58 So it would be kind of more telephone shaped . ami_da_6
+D 402.66 besides that we would advise to bring two editions , one with a wood like colour and maybe feel , and one with a grey black colour . ami_da_6
+D 413.14 The wood like for the more exclusive people . ami_da_6
+D 418.09 People with more money . ami_da_6
+D 419.98 the grey black colour for well people with less means . ami_da_6
+D 430.97 That would be all . ami_da_4
+A 432.55 Okay . ami_da_12
+A 433.09 Thank you . ami_da_14
+A 434.95 Any questions about the the trends ? ami_da_13
+A 434.95 Mayb ami_da_3
+A 434.95 No ? ami_da_13
+A 434.95 Okay , ami_da_9
+A 434.95 we go on to the next one . ami_da_6
+D 436.35 Any questions ? ami_da_13
+D 436.35 And how exactly does the kinetic energy work ? ami_da_5
+D 436.35 You just ami_da_3
+D 436.35 You use it and it works . ami_da_4
+B 438.38 no . ami_da_12
+B 464.17 okay ami_da_2
+B 464.17 yeah . ami_da_2
+B 468.2 some research a about designing of an interface . ami_da_4
+B 472.37 the last meeting we had a about using a f few buttons . ami_da_4
+B 479.69 So ami_da_2
+B 479.69 that is w ami_da_4
+B 479.69 what I what I want to to do in our design . ami_da_4
+B 490.88 So ami_da_2
+B 490.88 finding an attractive way to control the remote control . ami_da_4
+B 496.75 the I found some something about speech recognition . ami_da_4
+B 504.06 So ami_da_2
+B 504.06 maybe we can use that . ami_da_6
+B 507.25 and using a little display . ami_da_4
+B 512.41 So ami_da_2
+B 512.41 findings . ami_da_4
+B 515.84 yeah ami_da_2
+B 515.84 just we have just to focus on the primary functions . ami_da_4
+B 522.8 So ami_da_2
+B 522.8 only buttons for sound , for on off , shifting u up sa ca channel or down shifting down . ami_da_4
+B 533.86 let is see . ami_da_2
+B 537.94 yeah and ami_da_2
+B 537.94 we need some new a attractive functions which attract people for using it . ami_da_4
+B 550.76 So ami_da_2
+B 550.76 it is like a speak speech recognition and a special button for selecting subtitles . ami_da_6
+B 559.05 Just what we mentioned last meeting . ami_da_4
+B 563.4 and yeah ami_da_2
+B 563.4 overall user friendly . ami_da_4
+B 567.36 So ami_da_2
+B 567.36 using large large buttons . ami_da_6
+B 570.8 It is possible to to make quite cheap system for speech recognition . ami_da_4
+B 581.27 you can think about when you lost your remote control , you can call it and it gives an sig signal . ami_da_6
+B 590.78 So yeah . ami_da_2
+B 593.56 And and for shifting up a sen c ch channel or for putting out sound or something , you can just give a sign ami_da_6
+B 593.56 say sound off ami_da_6
+B 593.56 or A and ami_da_3
+B 593.56 yeah . ami_da_2
+B 612.48 Television put the sound off put the sound off . ami_da_6
+B 616.67 Let is see . ami_da_2
+B 620.18 yeah . ami_da_2
+B 621.07 I was thinking about the special button for subtitles , ami_da_4
+B 621.07 just one button to keep it simple . ami_da_6
+B 627.55 one push on the button you get small subtitles . ami_da_6
+B 632.53 double push push , if double click , so you get big subtitles , for people which c f who ca not read small subtitles . ami_da_6
+B 649.65 So Yeah ami_da_2
+B 649.65 and w we have to keep in general buttons ami_da_4
+B 649.65 so ami_da_2
+B 649.65 we have got the buttons we have to use . ami_da_6
+B 659.77 The on off , sound on off , sound higher or lower , the numbers , zero to nine . ami_da_6
+B 667.22 the general buttons m more general b one button for shifting up and shifting down channel . ami_da_6
+B 674.99 also we want to use a little d display for for displaying the the functions of the buttons . ami_da_4
+B 686.09 And we can build in a function f which shows the channel or some which the t television is on . ami_da_6
+B 695.46 So ami_da_2
+B 695.46 made a little picture of it . ami_da_4
+B 701.61 See . ami_da_2
+B 709.75 yeah . ami_da_2
+B 712.19 Just we can put the on off button over in this corner , ami_da_6
+B 712.19 almost e all remote controls are using a on off button on that place . ami_da_4
+B 725.71 so people will recognise the button . ami_da_4
+B 732.71 So ami_da_2
+B 732.71 D display of it ami_da_6
+B 732.71 , it is just a small display . ami_da_6
+B 740.43 you can put it on top . ami_da_6
+B 743.12 it is most place where people , most of looks at . ami_da_4
+B 751.99 So ami_da_2
+B 751.99 and a special button for shifting up and shifting down channel , it is on place where the thumb of of the ami_da_6
+B 751.99 So you you can easily shift up or shift down . ami_da_9
+B 770.38 it is quite handy place . ami_da_9
+B 776.23 So and ami_da_2
+B 776.23 all the f functions for subtitle one button , for sound ami_da_4
+B 776.23 and for our design , we have to discuss about it ami_da_6
+B 776.23 I think so the form of it ami_da_6
+B 776.23 so ami_da_3
+B 776.23 And that is it . ami_da_4
+A 794.24 Okay . ami_da_9
+A 796.33 thank you . ami_da_14
+C 807.71 Okay . ami_da_2
+C 814.38 About the components design . ami_da_4
+C 816.73 for the energy source we can use a basic battery or , a as an optional thing , a kinetic energy , like in a watch , ami_da_6
+C 816.73 which you just shake and it produces energy . ami_da_4
+C 828.29 But if we choose for that option , the docking station would c become obsolete . ami_da_4
+C 833.6 So I do not think it is really an option . ami_da_9
+C 836.87 for the casing , the manufacturing department can deliver a flat casing , single or double curved casing . ami_da_4
+C 845.83 It is really up the the design that we are going to use . ami_da_4
+C 848.59 It is does not imply any technical restrictions . ami_da_4
+C 854.24 as a case supplement , we could , I thought of that l later , a rubber belt , like a anti slip . ami_da_6
+C 863.41 for the b buttons , we can use plastic or rubber . ami_da_6
+C 866.77 And the chip set , it says simple here , ami_da_4
+C 866.77 but it should be advanced , ami_da_6
+C 866.77 because we are using an LCD screen . ami_da_4
+C 874.18 And as the trend watcher presentation showed , people like wood , ami_da_4
+C 874.18 but it raises the price and it does not really fit the image , unless we would start two product lines . ami_da_9
+C 887.25 Form should follow function overall . ami_da_6
+C 889.7 well the kinetic energy source is rather fancy . ami_da_9
+C 895.54 But depends on what we want . ami_da_4
+C 898.17 I think we should disc discuss that . ami_da_6
+C 900.47 for the case , the supplement and the buttons , it really depends on the designer . ami_da_4
+C 907.06 And the chip set really should be advanced ami_da_6
+C 907.06 because otherwise it would really be a simple remote control . ami_da_4
+C 915.23 And that is it . ami_da_4
+A 916.21 Okay . ami_da_12
+A 917.39 Thank you . ami_da_14
+A 920.09 So ami_da_2
+A 920.09 that brings us to the discussion about our concepts . ami_da_6
+A 934.63 Okay . ami_da_2
+A 945.06 So ami_da_2
+A 945.06 these are the points we have to discuss . ami_da_4
+A 949.6 first I think we can talk about the energy source , ami_da_6
+A 949.6 since that is has a pretty big influence on production price , and image . ami_da_4
+A 969.08 so ami_da_2
+A 969.08 f I think first of all we have to see it is possible to introduce kinetic energy in our budget , I think . ami_da_5
+C 977.98 Yes ami_da_2
+C 977.98 w ami_da_3
+C 977.98 there there are four options . ami_da_4
+C 979.92 We could use the basic normal battery . ami_da_4
+A 982.32 Yeah . ami_da_1
+C 982.73 a hand dynamo . ami_da_4
+C 984.36 But I do not think that is really an option . ami_da_9
+A 986.24 Okay . ami_da_1
+C 987.19 You do not want to swing before you can watch television . ami_da_4
+A 990.66 Yeah . ami_da_1
+C 991.13 solar cells . ami_da_4
+C 992.61 But not every room is very light ami_da_4
+C 992.61 so it is not a very good option . ami_da_9
+A 995.59 No . ami_da_9
+C 996.67 Or the kinetic energy . ami_da_4
+A 999.41 Yeah . ami_da_12
+A 1000.38 Okay . ami_da_12
+C 1003.6 Well ami_da_2
+C 1003.6 y you basically shake your remote , and then it powers up . ami_da_4
+C 1007.54 Yeah . ami_da_9
+A 1008.48 Yeah . ami_da_12
+D 1009.02 Okay . ami_da_12
+B 1009.07 Nah . ami_da_12
+D 1010.1 Well ami_da_2
+D 1010.1 personally I do not think that older people like to shake their remote control before they use it . ami_da_4
+C 1017.24 Yeah . ami_da_9
+C 1017.42 That is true . ami_da_9
+D 1019.23 And besides that you mentioned it would make the docking station obsolete . ami_da_4
+C 1023.66 Oh . ami_da_1
+D 1024.99 And I think our docking station could be one of the marketing issues with which we can get great popularity for our product . ami_da_9
+A 1037.68 Yeah . ami_da_1
+B 1038.0 But ami_da_3
+B 1038.0 what is the function ? ami_da_5
+B 1038.0 Yeah f for loading up the batteries ami_da_4
+D 1038.44 wel ami_da_2
+D 1038.44 Yeah ami_da_9
+D 1038.44 you could load up the batteries , you could insert the find the lost remote control function in there . ami_da_4
+B 1045.02 B b ami_da_3
+B 1045.02 Okay ami_da_12
+B 1045.02 but it wo not use much e energy ami_da_4
+B 1045.02 I I believe . ami_da_4
+B 1058.64 it is just a small display ami_da_4
+B 1058.64 so I believe it will run on one battery for six months or f or or more . ami_da_4
+B 1068.12 So I believe one battery is just enough . ami_da_6
+A 1068.73 well ami_da_2
+A 1068.73 I think elderly people just like to have everything in place . ami_da_4
+B 1072.93 so ami_da_2
+B 1072.93 Okay . ami_da_1
+D 1074.9 That is true . ami_da_9
+A 1080.77 And I do not think they they like remotes just laying everywhere in their rooms . ami_da_4
+A 1087.73 So maybe a docking station will help them give the remote a place . ami_da_4
+B 1090.92 Yeah . ami_da_9
+B 1091.12 That is true . ami_da_9
+B 1091.82 Yeah . ami_da_9
+A 1092.41 And also what you said . ami_da_4
+A 1093.69 you can introduce voice recognition by finding back your remote . ami_da_4
+B 1101.7 Yeah . ami_da_1
+A 1101.87 But I think it is more efficient and cheaper to put it in the docking station . ami_da_9
+A 1109.64 So you have a but button on your docking station which you can push , and then it starts beeping . ami_da_6
+B 1114.8 Okay . ami_da_12
+A 1116.26 And then we can we can still use the voice recognition , but maybe then for only the the channels . ami_da_9
+B 1117.93 Yeah . ami_da_1
+A 1123.23 That is safe . ami_da_9
+D 1123.34 I am wondering what will the voice recognition mean for the production price ? ami_da_5
+D 1123.34 Because in our earlier market research , ami_da_3
+D 1123.34 if you would allow me to go to the flat board , SMARTboard . ami_da_11
+A 1130.24 Yeah . ami_da_9
+A 1130.84 That is a good point . ami_da_9
+C 1131.38 I do not have any information on pricing . ami_da_4
+C 1134.02 So I will have to ask the manufacturing department . ami_da_7
+A 1142.65 Yeah , sure . ami_da_9
+A 1144.38 Go ahead . ami_da_9
+D 1150.59 so ami_da_2
+D 1150.59 it was open here . ami_da_4
+D 1153.62 we also asked if w they would , if people would pay more for speech recognition in a remote control . ami_da_4
+D 1163.69 Well ami_da_2
+D 1163.69 you can see here , our target group would not do that . ami_da_4
+A 1167.87 No . ami_da_9
+D 1168.27 So if that would increase the price for which we are selling our remote control I would greatly advise not to do it . ami_da_9
+A 1176.47 Yeah . ami_da_1
+D 1176.67 I think that would be better to insert in our other product , that is meant for the younger people . ami_da_6
+A 1183.13 Yeah . ami_da_1
+C 1185.32 But that would also go for the LCD screen then I guess . ami_da_4
+B 1185.63 Okay . ami_da_1
+C 1189.47 It is a bit higher percentage , ami_da_4
+C 1189.47 but ami_da_3
+C 1189.47 Okay . ami_da_9
+D 1193.12 well ami_da_2
+D 1193.12 this is ami_da_3
+D 1193.12 Yeah ami_da_2
+D 1193.12 but this is ami_da_3
+D 1193.12 here the question was , would you prefer it . ami_da_4
+D 1199.24 So that does not really mean they would not pay extra for it . ami_da_4
+D 1202.5 And on top of that the LCD screen would help in making the remote control easier to use . ami_da_9
+B 1210.7 Yeah . ami_da_9
+A 1211.95 Yeah . ami_da_9
+D 1212.14 And I think a voice recognition function would not make the remote control much easier to use . ami_da_9
+A 1216.95 Easier to use ? ami_da_12
+A 1216.95 No , I think that is a good point . ami_da_9
+B 1220.11 But is our research about bi large LCD sh display , or just a small one we want to use ? ami_da_5
+B 1220.11 Okay . ami_da_12
+D 1230.63 well ami_da_2
+D 1230.63 this was for like an LCD screen like you would have on a on the the most advanced mobile phones . ami_da_4
+D 1238.48 So pretty large . ami_da_4
+B 1240.02 Yeah . ami_da_12
+A 1240.36 Yeah . ami_da_12
+A 1243.48 I personally think the LCD screen we want to use , with the extra information , I think nobody has anything against it . ami_da_4
+A 1250.54 Because it is just some extra information , and it is easy to ignore as well . ami_da_4
+B 1250.6 No . ami_da_9
+B 1254.68 Yeah . ami_da_9
+A 1255.07 So if you do not want to use it you just do not use it . ami_da_4
+A 1258.42 And yeah ami_da_2
+A 1258.42 I think the ami_da_3
+A 1258.42 Maybe we have to discard the voice recognition . ami_da_6
+A 1268.89 Because it will increase cost signifi significantly . ami_da_4
+A 1274.31 And I do not think the I do not think it will be a lot easier to use , as well . ami_da_9
+B 1280.08 Yeah . ami_da_1
+A 1281.22 So ami_da_2
+A 1281.22 that brings us back to the energy . ami_da_6
+A 1283.72 If we do not have the voice recognition , it will it wo not use a lot of energy to use . ami_da_4
+A 1291.26 So ami_da_2
+A 1291.26 in that case we could use kinetic energy , but I think just a simple battery which you can reload on a docking station is just as good . ami_da_6
+A 1303.56 And much cheaper as well . ami_da_9
+B 1304.78 Yeah . ami_da_1
+A 1305.86 So Okay ami_da_2
+A 1305.86 let me just choose for the battery . ami_da_7
+C 1305.9 And that is the best choice . ami_da_9
+A 1313.53 That brings us to the chip . ami_da_6
+C 1315.52 Well ami_da_2
+C 1315.52 there is not any choice there because we are using the the the the display . ami_da_4
+A 1317.5 Just the advanced . ami_da_4
+C 1319.47 So it is gotta be advanced . ami_da_4
+A 1321.27 Okay ami_da_12
+A 1321.27 , advanced chip . ami_da_16
+D 1321.92 Okay . ami_da_12
+A 1330.09 And then we get to the point of the case . ami_da_6
+A 1334.55 which brings us a little bit back to marketing as well . ami_da_4
+A 1341.19 if we want to choose for wood or the black and grey . ami_da_8
+A 1346.52 Or both ? ami_da_8
+A 1346.52 as we saw there is not ami_da_3
+A 1346.52 Yeah ami_da_2
+A 1346.52 wood is a lot more expensive to produce . ami_da_4
+A 1357.23 but I think it will attract elderly people who want to have something exclusive , which they can show off to their grandkids . ami_da_4
+A 1370.33 Look I have got a new remote control , and ami_da_16
+A 1370.33 Yeah . ami_da_9
+D 1371.39 Well ami_da_2
+D 1371.39 And I think most important factor there is the wooden colour . ami_da_9
+B 1371.88 I dunno . ami_da_9
+D 1378.03 So it would not actually have to be wood , if it is just wood coloured . ami_da_6
+A 1383.51 That is right . ami_da_9
+A 1386.17 But with colour was a lot more expensive ? ami_da_5
+A 1386.17 Or ? ami_da_5
+A 1386.17 You do not know ? ami_da_12
+A 1386.17 I think so ami_da_4
+A 1386.17 because ami_da_3
+A 1386.17 Yeah . ami_da_2
+C 1389.25 I dunno . ami_da_4
+C 1390.61 I will have to research . ami_da_7
+D 1394.59 Probably . ami_da_9
+A 1395.15 It is a lot more difficult to to handle and to to get in the right shape . ami_da_4
+B 1400.79 is it possible to make changeable case . ami_da_11
+B 1404.97 So ami_da_2
+B 1404.97 you because ami_da_3
+B 1404.97 Yeah ami_da_2
+B 1404.97 with mobile phones so like the Nokia mobile phones , when you can change the case of it . ami_da_4
+A 1413.87 Yeah . ami_da_1
+A 1417.83 Change the cases . ami_da_12
+B 1417.83 So ami_da_2
+B 1417.83 maybe it is possible possibility . ami_da_9
+A 1418.96 Yeah . ami_da_12
+B 1421.43 So ami_da_2
+B 1421.43 you have just to make one standard remote control , and ami_da_6
+B 1421.43 yeah you can sell few ami_da_6
+B 1421.43 Yeah . ami_da_9
+A 1432.61 You can sell the cases . ami_da_6
+A 1434.13 Yeah . ami_da_2
+A 1435.44 I think that is a very good option . ami_da_9
+A 1437.94 Because then you can advertise as well ami_da_6
+A 1437.94 with the ami_da_3
+A 1437.94 Give your grandfather a new case for his remote control , or whatever . ami_da_6
+B 1444.43 Yeah . ami_da_1
+A 1448.13 Because that is a it is something extra , it is something other remotes do not have , which we can get a great advantage point . ami_da_4
+B 1452.67 Yeah . ami_da_9
+D 1453.95 Yeah that is true . ami_da_9
+A 1457.96 So ami_da_2
+A 1457.96 and then you can make them with colour . ami_da_6
+A 1459.59 Black and grey , other colours as well . ami_da_6
+B 1460.62 Yeah . ami_da_9
+D 1461.8 Yeah . ami_da_2
+D 1462.46 We would have to look carefully into the design though . ami_da_6
+A 1466.05 Costs . ami_da_6
+D 1468.87 Because we would have to make one w control which would fit in with a wooden cover and a plastic cover . ami_da_4
+A 1477.96 Yeah . ami_da_1
+D 1477.98 The more original one , or the more standard one . ami_da_4
+A 1482.94 Yeah . ami_da_2
+D 1483.0 So that would ami_da_3
+D 1483.0 Well ami_da_2
+D 1483.0 I would not design a telephone ami_da_4
+D 1483.0 but ami_da_3
+D 1483.0 Well ami_da_2
+D 1483.0 no ami_da_4
+D 1483.0 I think w we should just , we should then just design one one remote , but it would have to be fancy with either the wood cover or the plastic one . ami_da_6
+A 1483.57 So ami_da_2
+A 1483.57 you suggest we should design two different telephones on which you can apply , yeah remote controls , on which you can apply different case covers , for example . ami_da_5
+A 1502.18 Remote . ami_da_6
+A 1507.79 Yeah . ami_da_1
+A 1509.86 Okay . ami_da_9
+D 1510.65 So , ami_da_2
+D 1510.65 but that should not be too much of a problem . ami_da_9
+A 1514.24 So ami_da_2
+A 1514.24 everybody is okay with the changing covers ? ami_da_11
+A 1514.24 I think that is a good good option . ami_da_9
+C 1518.39 Yes . ami_da_9
+B 1518.57 Yeah . ami_da_9
+A 1523.88 Changing case covers . ami_da_16
+D 1524.94 I heard our Industrial Designer talk about flat , single and double curved . ami_da_4
+C 1530.81 Yes . ami_da_1
+A 1531.23 Yeah . ami_da_1
+D 1531.51 Could you explain that a little more ? ami_da_5
+C 1533.41 Well ami_da_2
+C 1533.41 the the general like most older remotes are flat , just straight . ami_da_4
+C 1540.6 And our d manufacturing department can also deliver single curved or double curved ca curved cases . ami_da_4
+D 1547.27 And what would single curved and double curved mean ? ami_da_5
+D 1547.27 Okay . ami_da_12
+C 1550.07 it would just only affect the form , for as far as I know . ami_da_4
+C 1556.22 So ami_da_2
+C 1556.22 it is j really just up to the design department what we are going to use . ami_da_4
+C 1560.03 It does not really matter for the price or the functionality . ami_da_4
+D 1562.64 So ami_da_2
+D 1562.64 we can pretty much just do whatever we want . ami_da_5
+C 1564.12 Pick one you like , yes . ami_da_4
+D 1566.64 Okay . ami_da_12
+A 1567.17 Okay . ami_da_12
+D 1567.88 That is good . ami_da_9
+A 1569.32 but the form has to be ami_da_3
+A 1569.32 It has to ami_da_3
+A 1569.32 It is has to be possible to stand up ? ami_da_5
+A 1569.32 Or just only to lie down ? ami_da_5
+A 1569.32 And the the cover of the the docking station is also on top of the television then ? ami_da_5
+A 1569.32 Or not ? ami_da_5
+A 1569.32 And you can just yeah then click it in . ami_da_6
+D 1578.46 No just to lie down . ami_da_4
+B 1580.21 okay . ami_da_16
+D 1581.25 We will go for that . ami_da_6
+D 1587.87 Well ami_da_2
+D 1587.87 or besides it . ami_da_4
+A 1591.8 That is okay . ami_da_12
+A 1593.69 so ami_da_2
+A 1593.69 the interface . ami_da_8
+A 1597.22 What type of interface do we want to use ? ami_da_8
+A 1597.22 maybe you can make a little drawing of it on the on the the board . ami_da_6
+A 1611.44 Does somebody have ideas for a form ami_da_8
+A 1611.44 or ami_da_3
+A 1611.44 Yep . ami_da_1
+B 1615.37 we can just use the regular form of it , ami_da_6
+B 1615.37 but it is not quite fancy . ami_da_9
+B 1621.39 So ami_da_2
+B 1621.39 Yeah . ami_da_16
+D 1624.57 you said you wanted to put the changing channels button on the right side , so you could , so your thumb would be easily ami_da_4
+D 1624.57 Well ami_da_2
+D 1624.57 I think that was a very good point ami_da_9
+D 1624.57 because I pointed out earlier that a lot of remotes cause RSI . ami_da_4
+B 1631.83 Yeah . ami_da_9
+B 1632.95 Yeah . ami_da_9
+D 1641.56 So that would be great for that . ami_da_9
+D 1643.42 I thought maybe we could just make one of those buttons on both the left and the right side . ami_da_6
+B 1650.67 For for ami_da_3
+B 1650.67 Yeah yeah . ami_da_9
+D 1650.95 For left handed users also . ami_da_6
+B 1655.76 Yeah ami_da_2
+B 1655.76 we ami_da_3
+B 1655.76 Is it possible to program it ami_da_11
+B 1655.76 s ami_da_11
+B 1655.76 so you got on the left side or on the right side buttons for for shifting u up and shifting up ? ami_da_11
+B 1655.76 And on the other o other side buttons for shifting , for for the sound ? ami_da_11
+B 1655.76 Or Or is not it ? ami_da_11
+B 1655.76 Yeah okay . ami_da_12
+D 1676.54 For the volume . ami_da_4
+D 1678.6 well ami_da_2
+D 1678.6 that could ami_da_3
+D 1678.6 Yeah ami_da_2
+D 1678.6 we could do that ami_da_9
+D 1678.6 but I am not sure if that would be very good for the easy , ease of use . ami_da_9
+A 1686.81 Usabili ami_da_3
+A 1686.81 Yeah ease of use will be a lot more difficult , ami_da_9
+A 1686.81 and then it is ami_da_3
+A 1686.81 But you have extra buttons . ami_da_4
+D 1693.96 But if we would make a changing channels and changing volume button on both sides , that would certainly yield great options for the design of the remote . ami_da_9
+D 1707.13 Because it could be made all symmetrical and stuff . ami_da_4
+B 1710.79 Yeah ami_da_2
+B 1710.79 but ami_da_3
+B 1710.79 Yeah . ami_da_9
+A 1713.49 So people can get confused . ami_da_4
+B 1714.89 Yeah . ami_da_9
+D 1715.52 That is true . ami_da_9
+B 1716.46 Yeah . ami_da_1
+A 1717.73 Especially if they have the same writings on it . ami_da_4
+B 1722.36 See yeah . ami_da_2
+B 1724.17 Or we have to make a left For lefties ami_da_6
+B 1724.17 and You mean ami_da_3
+B 1724.17 Yeah ami_da_2
+B 1724.17 if ami_da_3
+B 1724.17 no . ami_da_9
+A 1726.41 Ca not we make Ca not we make a remote which you can flip over and use on the same functions as the normal one ? ami_da_11
+A 1726.41 Then you have to Let is see if I ca ami_da_3
+A 1726.41 A blank one . ami_da_16
+A 1750.68 And then you get ami_da_3
+A 1750.68 Here is a little LCD screen . ami_da_4
+A 1777.72 now I have to think . ami_da_16
+A 1804.34 It is a plus and a min . ami_da_4
+A 1808.61 No it is not very handy I think . ami_da_9
+A 1810.69 Because the plus and the min will be opposite ami_da_4
+A 1810.69 and all kinds of ami_da_3
+A 1810.69 No that is not going to work . ami_da_9
+B 1813.07 Yeah . ami_da_9
+D 1813.2 Yeah . ami_da_9
+A 1819.82 I guess . ami_da_9
+A 1821.0 Maybe we should ami_da_3
+A 1821.0 Yeah . ami_da_2
+B 1821.31 Yeah . ami_da_9
+A 1823.49 But is it a problem that left handed persons use a different hand ? ami_da_5
+A 1823.49 I think the functions are that basic that nobody should have any problems with choosing a channel ami_da_4
+A 1823.49 or ami_da_3
+A 1823.49 Y ami_da_9
+A 1823.49 yeah . ami_da_9
+D 1837.99 Yeah . ami_da_9
+D 1839.3 That is true . ami_da_9
+B 1841.79 It is just u using your thumb . ami_da_4
+B 1844.86 So ami_da_2
+B 1844.86 it is ami_da_3
+B 1844.86 Yeah . ami_da_9
+A 1845.89 Yeah . ami_da_9
+A 1847.12 I think we could just leave it a normal shape . ami_da_6
+C 1849.99 Yeah . ami_da_9
+A 1851.92 but maybe we have to make it a l a bit more fancy . ami_da_6
+A 1857.83 In one or ano another way . ami_da_6
+B 1860.06 Yeah . ami_da_9
+B 1860.34 Yeah yeah . ami_da_9
+C 1861.94 I think we should start by by choosing a case . ami_da_6
+C 1865.34 Because that is the basis you are building on . ami_da_4
+A 1868.74 Yeah . ami_da_9
+D 1869.23 Yeah . ami_da_9
+A 1871.44 yeah ami_da_2
+A 1871.44 just ami_da_3
+A 1871.44 Yeah . ami_da_1
+C 1871.76 So ami_da_2
+C 1871.76 I could draw them out . ami_da_7
+C 1880.24 Let is look at the flat case . ami_da_6
+C 1882.71 Oh . ami_da_16
+C 1889.73 It is from the side so it is rather normal . ami_da_4
+C 1893.58 The the single curved so I am not really sure what they are going to look like , but I think it is something like this . ami_da_4
+C 1907.36 So ami_da_2
+C 1907.36 this type should be better for you ami_da_9
+C 1907.36 or better Should prevent repetitive strain injury a bit . ami_da_4
+A 1911.99 Easier ? ami_da_5
+A 1911.99 Okay . ami_da_12
+C 1918.55 And the double curved s looks something like this I guess . ami_da_4
+C 1933.16 So ami_da_2
+C 1933.16 th those are the three options we have . ami_da_4
+A 1938.28 I suggest the single curved , ami_da_6
+A 1938.28 because maybe the curve is pretty good to put the the screen in . ami_da_9
+A 1947.09 so that elderly people can use the remote control and at the same time look easily at the screen , because it is a bit , it has a bit of a angle . ami_da_4
+B 1955.79 So ami_da_2
+B 1955.79 Do you say this ami_da_3
+B 1955.79 S ami_da_2
+B 1955.79 you got like sort of a ami_da_5
+B 1955.79 I believe There ? ami_da_5
+B 1955.79 So ami_da_2
+B 1955.79 you want to put a display over here ? ami_da_5
+B 1955.79 Or not ? ami_da_5
+B 1955.79 Yeah . ami_da_12
+A 1979.09 Yeah . ami_da_4
+A 1979.54 I think so . ami_da_4
+A 1980.3 Yeah . ami_da_4
+B 1981.41 Yeah . ami_da_2
+A 1984.97 But now it is ami_da_3
+A 1984.97 Do you have it upside down ami_da_5
+A 1984.97 or ami_da_3
+A 1984.97 Do you have it ami_da_5
+A 1984.97 this that is top ? ami_da_12
+A 1984.97 Okay . ami_da_12
+B 1985.03 we can make it ami_da_3
+B 1985.03 That is the top . ami_da_4
+B 1990.55 So ami_da_2
+B 1990.55 this top . ami_da_4
+B 1991.94 This down . ami_da_4
+B 1992.83 maybe it is possible to make this side like ami_da_3
+B 1992.83 Let is see . ami_da_2
+B 2000.43 Colour ami_da_16
+B 2000.43 okay . ami_da_9
+B 2010.75 to make this side like the right colour . ami_da_6
+B 2018.5 bit like so in the form of your hand . ami_da_6
+B 2022.17 So ami_da_2
+B 2022.17 it is an ami_da_3
+B 2022.17 So so ami_da_2
+B 2022.17 the remote control have to lay in your hand . ami_da_4
+A 2025.82 Yeah . ami_da_1
+B 2031.57 So ami_da_2
+B 2031.57 it is possib ami_da_3
+B 2031.57 yeah ami_da_3
+B 2031.57 for s ami_da_3
+B 2031.57 so and ami_da_3
+B 2031.57 And to put the the buttons for changing the channel over here ami_da_6
+B 2031.57 Yeah . ami_da_1
+A 2034.61 So ami_da_2
+A 2034.61 get your mouse . ami_da_16
+A 2035.81 Yeah . ami_da_12
+A 2046.92 Yeah . ami_da_9
+A 2048.31 That is a good one . ami_da_9
+C 2049.54 Yeah . ami_da_1
+A 2049.61 But I think it is better to put the screen on top . ami_da_6
+B 2055.08 rem ami_da_3
+B 2055.08 Yeah ami_da_2
+B 2055.08 but this place it is ami_da_3
+B 2055.08 Yeah ami_da_2
+B 2055.08 I dunno ami_da_9
+B 2055.08 Yeah . ami_da_12
+A 2055.63 So ami_da_2
+A 2055.63 just flip it a hundred and eighty degrees around ami_da_6
+A 2055.63 then you get here . ami_da_4
+A 2063.39 If you can have this one , you turn it like this . ami_da_6
+A 2065.92 And then flip it upside down . ami_da_6
+A 2070.43 Because maybe your hand is in the way , if you have the display here . ami_da_4
+C 2076.52 It is more logical to have it on top as well ami_da_9
+C 2076.52 because , like on your mobile phone , it is always above . ami_da_4
+A 2078.6 I think i ami_da_3
+A 2078.6 On top . ami_da_4
+B 2079.05 Yeah ami_da_9
+B 2079.05 so So ami_da_3
+B 2079.05 Five minutes . ami_da_4
+D 2081.37 Yeah . ami_da_9
+A 2086.93 Yeah . ami_da_16
+C 2088.03 Oh ami_da_2
+C 2088.03 maybe you should just s start on a blank page . ami_da_6
+D 2090.56 Yeah . ami_da_9
+A 2091.8 So ami_da_2
+A 2091.8 then we get Here is ami_da_3
+A 2091.8 That is the curve . ami_da_4
+A 2122.81 Here the display , and then buttons . ami_da_6
+A 2125.09 Yeah ami_da_2
+A 2125.09 and then we can have a little bit off here and here maybe . ami_da_6
+A 2131.75 Just that is for left hand and right hand users . ami_da_4
+B 2134.14 Yeah . ami_da_1
+A 2136.08 And then h the rest of the buttons over here . ami_da_6
+B 2138.92 Yeah . ami_da_2
+B 2140.34 But the on off button , still on the top ami_da_11
+B 2140.34 Yeah . ami_da_9
+A 2143.6 Yeah still here ami_da_9
+A 2143.6 jus That is ami_da_3
+A 2143.6 Yeah . ami_da_9
+B 2145.84 Yeah . ami_da_1
+D 2146.73 And I would prefer the corners to be round . ami_da_6
+B 2149.9 Yeah . ami_da_9
+B 2150.63 Okay . ami_da_9
+D 2151.01 Think that would be better . ami_da_9
+A 2151.21 Should be more bit more friendly , yeah . ami_da_9
+D 2154.35 Friendly on the eye . ami_da_9
+A 2155.72 Okay . ami_da_2
+A 2157.59 Supplements . ami_da_9
+A 2159.51 That is okay . ami_da_9
+A 2161.88 Where is my mouse ? ami_da_16
+A 2161.88 Then We have got a general idea of the concepts and the materials we are going to use . ami_da_4
+A 2175.12 So now ami_da_2
+A 2175.12 for the next meeting we will have to look at the look and feel design . ami_da_4
+A 2180.81 It is important that the corporate design image is going to be in the remote . ami_da_9
+A 2185.75 So check out the corporate website maybe . ami_da_6
+A 2188.91 The user interface design , it is the same story . ami_da_4
+A 2192.86 And product evaluation . ami_da_4
+A 2195.27 So the Industrial Designer and User Interface Designer are going to work together on this one . ami_da_4
+A 2201.99 But you are going to get your instructions I think sended by the coach . ami_da_4
+A 2208.54 So ami_da_2
+A 2208.54 just I will put these minutes on the in the folder . ami_da_7
+C 2217.59 Okay . ami_da_1
+A 2218.6 And then we are going to try to finish our project , and make a good design for all the grandfathers and grandmothers , I think . ami_da_6
+A 2230.07 Which are ami_da_3
+A 2230.07 let is see . ami_da_2
+A 2233.95 I am not sure if you are going to start right away to work together ami_da_4
+A 2233.95 or ami_da_3
+A 2233.95 I think you are going to fill in the questionnaires first . ami_da_4
+B 2241.49 Yeah . ami_da_1
+D 2242.05 Yeah . ami_da_1
+A 2242.33 And then you will get a message . ami_da_4
+B 2243.54 Yeah . ami_da_1
+A 2244.81 So ami_da_2
+A 2244.81 that is basically it . ami_da_4
+A 2247.78 Maybe this one ? ami_da_16
+A 2247.78 Then we can save this one in the folders group . ami_da_7
+A 2261.73 yes , it is here . ami_da_4
+D 2263.6 Yeah . ami_da_1
+A 2266.53 SMARTboard , there it it . ami_da_4
+A 2267.88 So ami_da_2
+A 2267.88 if you want to have a look at it , it is over there in the projects folder . ami_da_4
+B 2272.21 Yeah . ami_da_1
+A 2274.52 And then I guess we will start in thirty minutes again . ami_da_6

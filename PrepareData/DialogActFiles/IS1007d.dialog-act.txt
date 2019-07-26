@@ -1,0 +1,664 @@
+A 49.61 So in last meeting we have discussed the conceptual design and we asked you to prepare a prototype for the for the remote control . ami_da_4
+A 65.8 So . ami_da_3
+B 67.03 Okay . ami_da_1
+A 68.27 So let is see the what did you prepare . ami_da_6
+B 71.17 Yeah , ami_da_9
+B 71.17 so can you go out to the shared folder ? ami_da_6
+B 71.17 the shared folder . ami_da_4
+A 76.89 Sh share folder for th your presentation ? ami_da_5
+A 76.89 Because I have here ami_da_3
+A 76.89 Okay just one . ami_da_16
+B 79.0 Yes . ami_da_4
+B 80.07 We have a presentation . ami_da_4
+B 86.27 So I got the participant three . ami_da_4
+B 96.93 W . ami_da_3
+B 99.14 Three . ami_da_4
+B 101.18 It is the final design , ami_da_4
+B 101.18 yeah . ami_da_9
+B 109.54 S ami_da_4
+B 109.54 so so I discussed with Guillaume . ami_da_4
+B 113.86 Right . ami_da_1
+C 114.3 Yeah . ami_da_9
+B 115.15 And so we have ami_da_3
+B 115.15 and we we are both agreed on some two versions of the prototypes , because we were no not decided whether we wanted to have an LCD or not because it is too expensive . ami_da_4
+B 129.38 So we come up with two versions . ami_da_4
+B 132.27 One with and one without LCDs . ami_da_4
+B 135.26 but both comes with a charger and then detachable and or control module . ami_da_4
+B 144.96 And detachable big buttons for all people . ami_da_4
+B 151.11 So . ami_da_3
+C 152.51 S ami_da_7
+C 152.51 okay ami_da_7
+C 152.51 so I will show you the the two prototypes . ami_da_7
+C 157.73 Here we have the first one with the beautiful LCD display . ami_da_4
+C 162.74 You you can s here . ami_da_3
+C 165.69 And you can just browse into the the navigation menu by joystick joystick like button . ami_da_4
+C 174.25 You can choose the direction and if you just push on it it is considered like a enter function . ami_da_4
+C 182.32 You have on the on the side here the microphone for the for the speech recognition system here . ami_da_4
+C 191.47 And here the the switch that control if you want ami_da_4
+C 191.47 Well I I ami_da_3
+C 191.47 I think it is the Yeah ami_da_3
+C 191.47 but ami_da_3
+C 191.47 Yeah . ami_da_9
+A 194.08 Why you why you you put it in the the side ? ami_da_5
+A 194.08 It is not a good place maybe . ami_da_9
+B 203.99 No ami_da_4
+B 203.99 i i ami_da_4
+B 203.99 it is the all around camer microphone is not it . ami_da_4
+B 208.4 The the microphone picks up the speeches from anywhere . ami_da_4
+D 211.4 Is it an only a single mic or a microphone array ? ami_da_5
+C 214.63 Well so it is a microphone array . ami_da_4
+A 217.6 Oh it is very costly , microphone array . ami_da_4
+C 219.6 No ami_da_9
+C 219.6 it is just a single microphone , ami_da_4
+C 219.6 and you ami_da_3
+C 219.6 I ami_da_4
+C 219.6 I think we we put it here because I think when you when you are browsing your LCD you will be close to well it is better to to to place it here th than here , for instance . ami_da_4
+B 220.53 Yeah . ami_da_1
+D 230.23 Yeah . ami_da_1
+B 234.64 Yeah yeah . ami_da_9
+D 235.62 Okay . ami_da_9
+C 237.15 And here is a little switch that control if you want the the speaker recognition system to to be on or off . ami_da_4
+C 247.31 And so this remote control comes up with its charger . ami_da_4
+A 252.73 How much does it cost this one ? ami_da_5
+A 252.73 Fifteen dollars ? ami_da_12
+A 252.73 it is above it is above the budget . ami_da_4
+C 254.87 Well this this prototype is made for about well fi fi fifteen fifteen dollars fifteen dollars , ami_da_4
+C 254.87 but well it is not it is not ami_da_3
+C 254.87 yeah , ami_da_9
+C 254.87 but it is just a prototype and if we if we optimises the the voila . ami_da_4
+B 259.3 For the ami_da_3
+B 259.3 Yeah . ami_da_9
+D 275.62 The cost would be le reduced . ami_da_4
+C 276.72 Yeah ami_da_9
+C 276.72 the and the the production costs ami_da_4
+C 276.72 we we can achieve about ten dollars . ami_da_4
+A 282.74 How many b battery is there ? ami_da_5
+A 282.74 Battery . ami_da_4
+C 285.4 How many , excuse me ? ami_da_12
+C 285.4 Well f battery , we use about ami_da_4
+C 285.4 Yeah . ami_da_9
+B 291.04 Is it n the two AAs batteries in it . ami_da_4
+B 294.86 AA rechargeable batteries . ami_da_4
+C 296.85 Rechargeable of course , because we have the charger . ami_da_4
+B 297.9 Yeah rechargeable batteries . ami_da_9
+B 299.49 We have the charger so it is no problem . ami_da_4
+C 300.77 Yeah and you just ami_da_3
+C 300.77 On yeah one battery . ami_da_4
+A 301.99 So one one battery ? ami_da_5
+A 301.99 It is kinetic reserve . ami_da_4
+D 306.37 Is that two or one ? ami_da_5
+D 306.37 Now what is the whole day rating for that ? ami_da_5
+D 306.37 Whole day is rating . ami_da_4
+B 311.98 Actually it is a flexible thing . ami_da_4
+B 314.93 You just ami_da_3
+B 314.93 n ami_da_3
+B 314.93 Yeah yeah . ami_da_1
+C 318.05 The ami_da_3
+C 318.05 excuse me ? ami_da_12
+C 318.05 Oh yeah ami_da_12
+C 318.05 it is just a r simple battery a rechargeable ami_da_4
+C 318.05 if you like it is exist . ami_da_3
+D 320.58 What type of battery ? ami_da_5
+D 320.58 Something like a two A , A three size batteries ? ami_da_5
+C 330.06 Yeah . ami_da_4
+B 331.42 Yeah . ami_da_4
+C 332.74 So and if you want to charge the battery you just put the remote control like that to plug in the the charger and leave it alone , it is alright . ami_da_4
+B 338.18 Yeah . ami_da_1
+B 340.04 Yeah . ami_da_1
+C 344.52 Then the next time you pick it , oh it works . ami_da_4
+B 348.32 At yeah . ami_da_3
+B 349.7 I forgot to tell you there is only a single button there , ami_da_4
+B 349.7 b this button ami_da_3
+B 349.7 yeah alright . ami_da_9
+C 352.68 Yeah just explain the button Norman . ami_da_6
+B 355.49 This button is like the mouse is like a joystick , you can move in three hundred and sixty degrees of direction ami_da_4
+B 355.49 so you can make a turn and it the additi functions associated to all the actions you ma you have a click you have a double click all in a single button . ami_da_4
+B 372.5 You can move up , down , left , right , or you can do a swing . ami_da_4
+B 376.96 So a swing to the left , a swing to the right defines other functions . ami_da_4
+B 381.22 So even though it is a single button , but it is pretty s flexible because of the three hundred and sixty degree movement . ami_da_4
+D 388.04 And the LCD is this one , on the remote ? ami_da_5
+D 388.04 Yeah . ami_da_1
+B 389.6 Yeah . ami_da_4
+C 390.3 Yep . ami_da_4
+B 390.64 This is the version y that comes with LCD . ami_da_4
+B 393.9 Here I present another version without the LCD . ami_da_7
+A 395.88 I think it is not a good idea ami_da_9
+A 395.88 because after maybe one or two months of function is getting destroyed . ami_da_4
+A 405.49 If you ami_da_4
+B 405.52 okay this is new prototype . ami_da_4
+C 407.0 Yeah it is ami_da_3
+C 407.0 So we have the the second version also with the different button configuration . ami_da_4
+C 414.85 The second version is also simpler , we d we had just I have to put the microphone also . ami_da_4
+C 424.16 So basically th it is the same ami_da_3
+C 424.16 yeah . ami_da_9
+D 425.53 Uh huh and also the switch . ami_da_4
+B 427.23 Yeah yeah . ami_da_1
+D 427.53 Okay . ami_da_1
+C 428.03 Basically it is the same things as I presented before . ami_da_4
+C 432.83 But here we have we have four buttons for navigation . ami_da_4
+C 436.55 Press one button acting as a a enter button . ami_da_4
+C 440.64 So yeah ami_da_4
+C 440.64 according to what you said it is more robust to the user . ami_da_4
+C 448.07 And it is also cheaper to produce . ami_da_4
+C 450.62 We can produce such remote control for about four dollars . ami_da_4
+A 455.65 No four dollars , it is good . ami_da_9
+D 459.99 And I think you forgot a point here to have an button to find the charger , because that is a major that is a ami_da_4
+D 459.99 Okay ami_da_9
+D 459.99 and if you disable speech recognition system then ? ami_da_5
+B 464.5 Oh no ami_da_9
+B 464.5 th actually th we will come to that point in our ami_da_4
+B 464.5 Yeah . ami_da_9
+C 466.55 Yeah ami_da_9
+C 466.55 it is it is it is embed in the speech recognition system . ami_da_4
+C 472.78 So ami_da_3
+C 472.78 so Norman will explain to you . ami_da_4
+B 475.28 W w I will I will come to that point later on . ami_da_4
+A 480.35 And we will we will serve the charger with this ? ami_da_5
+A 480.35 With the remote control . ami_da_4
+B 480.37 Yeah . ami_da_1
+D 480.64 Okay . ami_da_1
+C 483.7 Yeah ami_da_4
+C 483.7 yeah of course . ami_da_4
+B 484.39 Th they either these with the the the charger any ami_da_3
+B 484.39 in either versions you ami_da_4
+B 484.39 they ami_da_4
+B 484.39 they ami_da_4
+B 484.39 ha they use the same charger ami_da_4
+B 484.39 yeah . ami_da_4
+A 492.71 Okay ami_da_2
+A 492.71 so the price of the charger included in the ami_da_5
+B 497.08 it is a standard module so you should get it for a cheap price . ami_da_4
+C 502.52 Thank thank you . ami_da_9
+C 504.94 And so . ami_da_1
+B 505.96 It is that same charger that you can use for the hand phone but again depends on the types . ami_da_4
+B 512.79 I think we have to investigate more on that , but ami_da_6
+B 512.79 Yeah . ami_da_1
+A 514.56 The price should be below twelve and a half Euro . ami_da_4
+B 518.1 Yeah ami_da_9
+B 518.1 but as the Marketing Manager says , people is willing to people are willing to pay more for good design . ami_da_4
+A 518.73 Well that is so ami_da_3
+A 518.73 We have we have just ami_da_3
+A 518.73 The price of selling is twenty five Euros . ami_da_4
+D 526.45 Yeah people are willing to pay more , ami_da_9
+D 526.45 but the company is not willing to invest more at the moment . ami_da_4
+B 531.01 Yeah . ami_da_1
+B 532.69 Yeah . ami_da_1
+A 535.17 And the price of production ami_da_3
+A 535.17 That is for this basis function and if you want more you pay more . ami_da_4
+C 536.82 Alright ami_da_2
+C 536.82 please go on Norman with the special features . ami_da_6
+D 539.32 Or ami_da_3
+D 539.32 Something like customised . ami_da_4
+B 540.08 Yeah ami_da_9
+B 540.08 we will we will come up to that , ami_da_7
+B 540.08 the the the thing that makes this the controller cheap is that it is modular so you want more function you pay more . ami_da_4
+B 548.84 If you want less function i i if you want a reasonable price you pay for the functions that you add on to the system , so is modular . ami_da_4
+B 562.36 Yeah yeah , ami_da_9
+B 562.36 for example the LCD , you can take it you can put it put it back in , or you can use the other one , or the speech recogniser with the microphone ami_da_4
+B 562.36 yeah ami_da_4
+B 562.36 yeah . ami_da_4
+D 565.5 Yeah ami_da_4
+A 565.88 Yeah . ami_da_9
+B 574.5 You want a microphone to put in the speech recogniser you do not wan you pay less for the system you see . ami_da_4
+A 576.59 Okay . ami_da_1
+B 584.38 So ami_da_2
+B 584.38 It is pretty flexible in the yeah price . ami_da_4
+D 584.57 okay . ami_da_1
+C 587.72 You also have the the the two other modules for the parental control that that you ca you can add up to the to your remote control ami_da_4
+C 587.72 i i ami_da_4
+C 587.72 if you if you want to to have more more power on what you do , and which channel you want to choose and so on . ami_da_4
+A 588.51 But ami_da_3
+B 592.57 yeah yeah ami_da_9
+B 592.57 you should present that . ami_da_6
+D 593.51 And this is other one ? ami_da_5
+B 605.66 Yeah . ami_da_1
+C 610.85 H here is just the the the module for the kids and th if the parents want to watch TV , up they come up with their modules , they just plug in it and they can have all the control they want here . ami_da_4
+B 619.67 Yeah . ami_da_1
+C 623.39 We also have this module for old people with big buttons , clearly labelled , and it acts like the previous one , you just plug in and it works . ami_da_4
+B 633.01 Yeah . ami_da_1
+B 637.46 Yeah ami_da_1
+B 637.46 the i the idea ami_da_4
+B 637.46 the the conceptual idea is that simplicity and powerful . ami_da_4
+B 646.06 Simplicity meaning that we have few buttons , powerful is that all the controls with the one you saw we saw earlier in the meetings with lots of buttons n but here you only have few buttons but you retain the the same powerful functionalities . ami_da_4
+B 664.56 But in addition with simplicity . ami_da_4
+B 666.83 So that is the best idea , ami_da_9
+B 666.83 the cond that ami_da_3
+B 666.83 that is our an innovation ami_da_4
+B 666.83 i in this design here . ami_da_4
+B 678.17 Okay now we come to other important features that I did not tell you . ami_da_4
+B 682.36 The first one is the speech recogniser , again it is detachable or add on . ami_da_4
+B 686.74 And then we also have security feature for example ami_da_4
+B 686.74 this here oop ami_da_4
+B 686.74 it is very robust , it does not break ami_da_4
+B 686.74 and the material , what is the material again ? ami_da_5
+C 697.08 The titanium ami_da_4
+C 697.08 and so it is very ami_da_3
+C 697.08 Well so the price to produce For the simplest one , say we start from four dollars to produce such a device . ami_da_4
+A 698.17 Titanium . ami_da_1
+B 701.15 Again and the battery life is is an is an endurable one , again because this is AA batteries you can choose the types of battery you want . ami_da_4
+D 709.33 Yeah that is fine . ami_da_9
+B 710.1 Lithium ion may be a good one , but you can replace it with cheaper one , again you pay for what you get , and then y the other p points are robust and misplacement reminder . ami_da_4
+B 720.2 So when you finish watching your TV and you the you t you turn off the TV , and then there is this message coming out that please put that back to the charger , ami_da_4
+B 720.2 so so that is the or is it ami_da_16
+B 720.2 that is the reminder part . ami_da_4
+D 733.95 Okay . ami_da_1
+B 739.89 Yeah ami_da_1
+B 739.89 and ami_da_2
+B 739.89 And it also use a programmable channel and vocabulary , so we did not define the vocabulary so it is up to the user to define ami_da_4
+B 739.89 so sorry ? ami_da_6
+B 739.89 And then because of the chil because children are using the device so we have also a a of TV programmes by genre , and this can be used by the adult or by the children . ami_da_4
+B 769.94 So instead of choosing the channel you are choosing the TV contents of the night . ami_da_4
+B 775.2 So it is pretty powerful , ami_da_9
+B 775.2 and that is that is why the num buttons are reduced , because of this feature . ami_da_4
+B 781.22 Yeah . ami_da_1
+B 782.69 And and for the materials that is cheap to produce ami_da_4
+B 782.69 I think it is quite clear from yeah . ami_da_3
+B 790.64 And also like the and the fancy designs ami_da_4
+B 790.64 yeah . ami_da_4
+B 794.71 Maybe we can improve more on the design but this is the ami_da_6
+A 795.12 What what is ami_da_3
+A 795.12 Maybe yeah . ami_da_9
+A 797.86 What is the price to p to produce ? ami_da_5
+A 797.86 With with with the charge ? ami_da_5
+A 797.86 Okay . ami_da_1
+C 812.07 it is about it ami_da_3
+C 812.07 The without without the charger it is about well two dollars to produce the microphone and speech recognition systems . ami_da_4
+D 814.43 With the charger ? ami_da_5
+D 814.43 I think we can use Excel . ami_da_6
+C 824.32 Two dollars for the for the add on modules , ami_da_4
+C 824.32 and finally three dollars for the charger . ami_da_5
+C 832.64 So if you sum up everything wi with the LCD , which costs two dollar , you have two plus four plus four plus two plus two . ami_da_4
+A 835.35 We do not have charger . ami_da_4
+C 846.26 It is about ami_da_3
+C 846.26 so the total cost if you if you want all the fuct functionalities will be about fifteen dollars . ami_da_4
+A 848.09 We do not have all the options . ami_da_4
+B 852.05 Yeah ami_da_1
+B 852.05 Yeah . ami_da_1
+A 853.05 Charger we do not have charger here either . ami_da_4
+B 858.95 Yeah . ami_da_1
+A 859.49 No it is ami_da_3
+A 859.49 it is below the the the budget . ami_da_4
+C 860.06 But it is just if you want all functionalities . ami_da_4
+B 864.36 Yeah . ami_da_1
+C 865.48 Excuse me ? ami_da_12
+C 865.48 Yeah . ami_da_1
+A 866.16 It is below the bu the budget . ami_da_4
+D 869.78 Yeah it is a nice input ami_da_9
+D 869.78 but we have an other inputs from the l public demands . ami_da_4
+A 870.34 We ami_da_3
+A 870.34 Yeah . ami_da_9
+D 876.62 I think we will just have a rough look ami_da_6
+D 876.62 and then we can make our statements , and we can finalise the product based on this discu ami_da_6
+D 876.62 I think we can just go to my presentation then . ami_da_6
+B 883.65 Yeah . ami_da_1
+D 889.2 We can wind up . ami_da_6
+D 893.17 Or we could come to some f final conclusions . ami_da_6
+D 907.4 So the marketing made an evaluation criteria and these were some of the findings , and in the market the people are not really interested with LCD , without LCD , with speech recognition interface , or without speech recognition interface , but most of the people what they are interested is first thing is , they want to have an fancy look and feel , it should be very fancy with colourful and very handy to hold . ami_da_4
+D 940.24 And the second thing is it should be much more technologically innovative . ami_da_4
+D 946.58 Of course in that we could put LCD or recognition to be more technologically innovative . ami_da_4
+D 952.8 And the third one is easy to use . ami_da_4
+C 955.52 Well I think that the technical in innovation is is in the product itself since we have not yet a remote who are allowing to to choose interactively with the TV screen with just four buttons . ami_da_4
+D 972.66 Okay and if we go to the next slide , ami_da_6
+D 972.66 here you can find these are the latest fashion updates , and so this in Paris and Milan they have detected this trends that the this year it is going to be an year of fruit and vegetable , so people are really interested to see if they have an remote in the shape of the fruit or a vegetable , or whatever they like . ami_da_4
+B 992.18 Spongy spongy . ami_da_16
+D 999.56 So I think it should be much more customised to make a different shapes . ami_da_4
+D 1006.95 And the second thing is , and if the material , they really do not want it to be very hard , as in the case of very pl plastic or titanium , it should be somewhat spongy . ami_da_4
+C 1018.87 Okay . ami_da_1
+B 1018.94 But the the problem is that is it robust to mishandling ? ami_da_5
+B 1018.94 We have ami_da_3
+B 1018.94 you should find a material that is robust at the same time spongy . ami_da_6
+C 1031.22 A sponge . ami_da_6
+D 1031.3 Yeah so so finally we have these three criterias . ami_da_4
+B 1032.21 Spongy . ami_da_6
+D 1037.61 One is fancy look , second is innovative , and third is easy to use . ami_da_4
+D 1053.19 So these are the f three criteria on which we are going to build our remote . ami_da_4
+D 1058.98 So and we have an evaluation criteria for each one of these , say that we have a seven point scale , from one to seven , ami_da_4
+D 1058.98 and for each of the product you could just give me the scale according to this . ami_da_6
+D 1078.56 So now you have with LCD and without LCD , so on this scale , if it is true , if it is if it has a fancy look you could just tell me one , or if it is false , it does not it looks it does not look much fancy ami_da_4
+D 1078.56 , then you could just tell me seven . ami_da_4
+D 1097.05 So ami_da_2
+D 1097.05 We can make our study on this and ami_da_4
+D 1097.05 No no ami_da_9
+D 1097.05 we have you have designed two products now , one is with LCD and without LCD . ami_da_4
+B 1098.76 So ami_da_3
+B 1098.76 so is the e evaluation depending on us or other users ? ami_da_5
+B 1098.76 Yeah . ami_da_9
+C 1111.17 Yeah . ami_da_9
+B 1112.43 But who will give the scoring we ourself or or a third party ? ami_da_5
+A 1115.62 You . ami_da_4
+D 1116.18 According to you , ami_da_4
+D 1116.18 no ami_da_9
+D 1116.18 according to you designers , ami_da_4
+D 1116.18 how will feel does it with LCD and without LCD ? ami_da_11
+D 1116.18 Okay let us make this L and without LCD . ami_da_6
+D 1131.36 On on this scale the LCD remote control . ami_da_11
+D 1135.7 How do you look how does it look ? ami_da_11
+D 1135.7 D is it very fancy or does not look much fancy ? ami_da_11
+D 1135.7 And you both agree for that ? ami_da_5
+D 1135.7 So I take three on with LCD ? ami_da_11
+D 1135.7 So without LCD how would you rate it ? ami_da_11
+D 1135.7 Four . ami_da_1
+C 1141.08 Well it does not look much fancy I will I will say three or four . ami_da_9
+A 1148.59 And you ? ami_da_11
+B 1150.17 I think we can improve on the design . ami_da_9
+C 1152.69 Yeah . ami_da_9
+B 1153.05 Som someone commented this is like a the stone age design . ami_da_4
+C 1153.09 It is it it ami_da_3
+C 1153.09 Technical aspects . ami_da_4
+B 1160.0 we have been focused all all this time on the on the technical aspect , functional aspect , but also the simplicity . ami_da_4
+B 1170.51 As for the design maybe we c should hire a designer to help . ami_da_6
+C 1174.01 Yeah a three . ami_da_9
+B 1176.21 Yeah . ami_da_1
+C 1178.19 four . ami_da_9
+C 1179.45 I think it is it is more easy to make f fancy things when it is not complicated so removing the LCD ami_da_4
+C 1179.45 gives us a li more liberty to to have a fancy look . ami_da_4
+B 1186.23 Yeah . ami_da_1
+B 1192.05 Yeah . ami_da_1
+D 1194.0 And in the sense of innovativeness , with LCD . ami_da_11
+C 1198.63 Well it is it is the same for both ami_da_4
+C 1198.63 so I will give a five , six . ami_da_9
+D 1204.73 Five with LCD and So without LCD ? ami_da_11
+D 1204.73 No no ami_da_9
+D 1204.73 according to design aspect we want to know how would you feel the innovativeness ? ami_da_11
+D 1204.73 With LCD . ami_da_4
+C 1207.51 Well five also ami_da_9
+C 1207.51 Norman please . ami_da_11
+B 1209.47 Yeah ami_da_1
+B 1209.47 from the innovation aspect I feel that what is most innovative of our prototype compared to the existing prototypes that we saw l in the last meeting is that the retrieval of TV programmes by content , ami_da_4
+B 1209.47 because that is really innovative , ami_da_9
+B 1209.47 and for now and another innovation we have is simplicity and simplicity , few buttons , we have A lot of functionalities . ami_da_4
+A 1210.81 For LCD . ami_da_5
+C 1244.47 With lot of functionalities . ami_da_4
+B 1247.43 So that is that is for both th ami_da_4
+B 1247.43 Our gi ami_da_3
+B 1247.43 I think that the our our product is has the best in all ami_da_9
+B 1247.43 well this is a biased judgement because we designed them . ami_da_4
+B 1263.43 Yeah . ami_da_1
+B 1265.2 the innovation is v is very high I think . ami_da_9
+D 1268.85 And without LCD ? ami_da_11
+D 1268.85 Okay . ami_da_1
+B 1269.23 Both . ami_da_4
+C 1269.93 for both it is the the same innovations . ami_da_4
+B 1270.77 For both . ami_da_4
+B 1272.52 It is the same innovation . ami_da_4
+B 1274.06 So maybe I can put six to seven . ami_da_9
+C 1276.63 six , let is go for six . ami_da_9
+A 1277.36 Without LCD . ami_da_4
+B 1278.55 Both . ami_da_4
+D 1279.23 No ami_da_9
+D 1279.23 actually to make it with LCD you make more efforts . ami_da_4
+D 1283.91 So I there is high innovativeness included if you make it with LCD ami_da_9
+D 1283.91 y then when it is without LCD there is not much innovativeness . ami_da_9
+C 1289.43 Yeah . ami_da_9
+A 1292.4 no innovative yeah . ami_da_9
+D 1293.57 So we ca not go ami_da_3
+D 1293.57 I mean that what you are sayin that is what the design ami_da_4
+D 1293.57 No it is like this , ami_da_4
+D 1293.57 I mean on the LCD , according to what I understand from your model is , you have a joystick here , and you have LCD ami_da_4
+D 1293.57 , you just press your joystick , you get here a programme . ami_da_4
+B 1293.62 there w there was a there was a issue here is that what are what is the display on the LCD ? ami_da_5
+B 1293.62 We have not really determined what are actually actually ami_da_4
+B 1293.62 it is good to have a LCD ami_da_9
+B 1293.62 but what are we going to display on a LCD ? ami_da_5
+B 1293.62 Yeah ? ami_da_1
+B 1293.62 Yeah . ami_da_1
+C 1303.72 Talk about ami_da_6
+C 1303.72 Yeah ami_da_9
+C 1303.72 but you have the same programme on the TV screen . ami_da_4
+A 1316.51 So let is remove it . ami_da_6
+B 1325.08 Yeah ami_da_3
+B 1325.08 but ami_da_3
+B 1325.08 Yes exactly . ami_da_9
+D 1325.67 then ami_da_3
+D 1325.67 No ami_da_9
+D 1325.67 on the TV you do not it does not display on the TV now . ami_da_4
+A 1326.14 But ami_da_3
+A 1326.14 This is the problem . ami_da_4
+C 1333.19 If you have the LCD , ami_da_4
+C 1333.19 but if n ami_da_3
+C 1333.19 Yeah . ami_da_9
+D 1333.99 LCD ? ami_da_16
+D 1333.99 Then there is no meaning in having it on the TV . ami_da_4
+D 1337.56 Or then again you have a channels , volume and all the stuff and what a ami_da_4
+D 1337.56 I mean that depends upon your design , so ami_da_4
+D 1337.56 I mean ami_da_3
+D 1337.56 So without LCD you want to put it fi the same level of innovativeness ? ami_da_4
+D 1337.56 And which do you recommend e easy to use , with LCD or without LCD ? ami_da_11
+D 1337.56 Yeah . ami_da_1
+B 1340.75 But you cannot display all on a LCD . ami_da_4
+B 1349.92 Anyway for for the users who who who opt for LCD we will give them the give them the LCD , we give what the customer wants , right . ami_da_4
+C 1360.05 Yeah . ami_da_1
+C 1377.35 Well I think both are really easy to use ami_da_9
+C 1377.35 because there are few button buttons , and well t p the menu are clear , well organised , so Well with little knowing of the technology you can you can easily use the product ami_da_4
+C 1377.35 so I will give a six for the easy to use . ami_da_9
+B 1387.36 Yeah ami_da_1
+B 1387.36 Yeah . ami_da_1
+B 1388.95 Yeah . ami_da_1
+B 1397.35 Yeah ami_da_1
+B 1397.35 I think ami_da_3
+B 1397.35 sorry . ami_da_14
+A 1400.36 No it is just if I I see the the f the rate ami_da_4
+A 1400.36 I think it is better to do it without LCD . ami_da_4
+A 1414.21 Because that is with LCD just will increase the price , and I thi i ami_da_4
+A 1414.21 they have the same rate so without LCD ami_da_4
+A 1414.21 it will be ami_da_4
+B 1419.67 Yeah . ami_da_1
+D 1420.93 Or we can just go back to the previous slide where we ha we have a few updates . ami_da_6
+D 1428.6 So I mean in the product design you could just amend it to make some few changes ami_da_6
+D 1428.6 according to fruit and vegetable or a spongy touch without LCD and without speech recognition . ami_da_4
+B 1433.15 Yeah . ami_da_1
+B 1435.05 Yeah . ami_da_1
+B 1436.97 Yeah . ami_da_1
+D 1440.22 Even then our product is going to be very good . ami_da_9
+C 1441.86 Yeah , ami_da_9
+C 1441.86 it is cheaper to produce . ami_da_4
+D 1444.3 Yeah . ami_da_1
+B 1445.68 S ami_da_1
+B 1445.68 Yeah . ami_da_1
+C 1445.75 And if the the ami_da_3
+C 1445.75 well if we have less technology we have more liberty to for the shape and things like that so ami_da_4
+C 1445.75 Yep . ami_da_1
+D 1451.08 Yeah that is right . ami_da_9
+B 1453.64 I have another thing to say about the easy to use aspect . ami_da_7
+B 1457.53 I think the easy to use aspect is different for different people . ami_da_4
+B 1462.81 For the young generation easy to use may be very complicated because they w they wants lot of controls with lots of buttons . ami_da_4
+B 1470.52 For kids they want simply the s similarit for the old people they want simplicity , so that is why we have the parental module . ami_da_4
+D 1474.3 Yeah ami_da_9
+D 1474.3 yeah ami_da_9
+D 1474.3 that is right . ami_da_9
+B 1479.18 we can ha have build a more complex design if if they want it , but but what I am trying to say here is that the we have different sets of buttons for different kinds of people . ami_da_4
+B 1493.36 So in terms of easy to use ami_da_4
+B 1493.36 I think it is very user customisable . ami_da_4
+B 1499.14 User customisation is very important ami_da_4
+B 1499.14 yeah . ami_da_1
+C 1502.14 Yeah . ami_da_1
+B 1503.09 Yeah ami_da_1
+B 1503.09 so ami_da_2
+B 1503.09 W ami_da_3
+B 1503.09 I think it is the same . ami_da_4
+D 1505.62 So without LCD I just take it five ? ami_da_6
+D 1505.62 Or you want it to be six ? ami_da_11
+D 1505.62 S s ami_da_9
+D 1505.62 oh I think it is better to have this without LCD . ami_da_9
+C 1506.07 Six . ami_da_9
+C 1511.89 six . ami_da_9
+B 1514.94 Yeah . ami_da_1
+C 1515.81 Yes as you say , with better ami_da_9
+C 1515.81 yeah . ami_da_9
+A 1518.15 Without LCD . ami_da_4
+C 1524.13 And to improve the the look . ami_da_6
+D 1525.11 As our Programme Manager s Pro Project Manager says that without LCD it is going to reduce the cost also , and it is going to be much simpler to use . ami_da_4
+B 1526.29 Yeah . ami_da_1
+A 1530.44 Yeah . ami_da_1
+C 1532.8 Yes and to give us more liberty to have a fancy look ami_da_4
+C 1532.8 so ami_da_4
+C 1532.8 so let is go back to our laboratory and ami_da_6
+C 1532.8 Yeah . ami_da_1
+B 1537.73 Yeah . ami_da_1
+D 1543.47 So . ami_da_2
+A 1543.48 What a what what about the sys speech recognition ? ami_da_5
+A 1543.48 what about the integration of speech recognition ? ami_da_5
+A 1543.48 so it is optional with the okay . ami_da_12
+B 1543.49 To improve on the design . ami_da_4
+B 1546.44 Huh ? ami_da_12
+B 1546.44 The speech recogniser is a add on module . ami_da_4
+B 1552.46 Right ? ami_da_1
+B 1552.46 Yeah . ami_da_1
+D 1552.48 That is going to be an optional . ami_da_4
+D 1554.0 If somebody wants to buy it they can have it , otherwise no . ami_da_4
+D 1558.18 It is an optional . ami_da_4
+C 1559.22 It is optional yeah , since well according to this study people more likes more to have a spongy remote control than ami_da_4
+C 1559.22 Yeah . ami_da_1
+A 1564.92 I think it will be ami_da_3
+A 1564.92 I think ami_da_3
+A 1564.92 i ami_da_3
+A 1564.92 I think it will be better if we have all these modules in the same remote control , ami_da_6
+A 1564.92 because maybe parents will lose these ami_da_4
+A 1564.92 Yeah . ami_da_1
+D 1568.81 Yeah . ami_da_1
+D 1576.74 Yeah , ami_da_9
+D 1576.74 but I mean if you have an add ons , the kids may just hide the parental module and so that their parents ca not use it . ami_da_4
+A 1584.71 Or ma ami_da_1
+A 1584.71 yeah . ami_da_1
+A 1585.69 Or maybe parents they can for forget where they put it or , ami_da_4
+A 1585.69 so mayb better if you have all this in the same ami_da_6
+A 1585.69 Yeah . ami_da_1
+D 1593.08 In the same set , yeah , ami_da_9
+D 1593.08 and and individual buttons to make them work . ami_da_6
+B 1597.78 The problem is if i we are bla if a customer wants a certain component , and does not want the parental control because it is a couple who do not have children when you sell the product in the market you could meet any kind of people , and not all people will need all the functionalities we propose to them . ami_da_4
+B 1617.33 So we might lose the customer because of this . ami_da_4
+B 1619.93 I do not know , ami_da_4
+B 1619.93 what do you think ? ami_da_5
+B 1619.93 Yes exa ami_da_4
+B 1619.93 what do you think , ami_da_5
+B 1619.93 I do not know . ami_da_4
+A 1620.74 So you mean that even if these modules will be will be functional will be optional . ami_da_4
+B 1627.91 You are Marketing Manag . ami_da_4
+D 1628.31 I mean how to how to how to make a marketing survey that how many married couple or how many couples have a TV or to the number or singles who have a television . ami_da_6
+A 1628.63 I think it inc increase . ami_da_9
+B 1631.62 Yeah . ami_da_1
+D 1640.44 So based on that I think ami_da_3
+D 1640.44 But you can make it on a single PC with three different options . ami_da_6
+B 1642.56 Yeah . ami_da_1
+B 1644.95 But the the question is n does those modularity increase the production cost or decrease the production cost ? ami_da_5
+C 1652.31 Well you can if you had something li ami_da_3
+C 1652.31 Oh no , ami_da_9
+C 1652.31 because if you if you add something ami_da_3
+C 1652.31 well yeah maybe ami_da_9
+C 1652.31 because it is three different pieces to to to build but ami_da_4
+C 1652.31 Yeah ami_da_9
+C 1652.31 yeah ami_da_9
+C 1652.31 yeah ami_da_9
+C 1652.31 it is ami_da_9
+C 1652.31 I think it is cheaper if you if you already built the all the functionalities on the same module , ami_da_9
+C 1652.31 but Yeah . ami_da_9
+A 1657.96 I think it i increases . ami_da_9
+B 1687.67 Yeah . ami_da_1
+D 1687.75 On the same PCB ami_da_4
+D 1687.75 yeah yeah . ami_da_9
+B 1689.14 Well well the other aspect is that if in the when they have the ar existing product you you going to maintain the the you are going to keep the same customer , because the same customer will come back to buy other add ons . ami_da_4
+D 1702.0 Yeah that is right . ami_da_9
+B 1702.96 So so ami_da_2
+B 1702.96 Yeah ami_da_9
+B 1702.96 i ami_da_4
+B 1702.96 i so if do not do not buy now they can buy i in the future . ami_da_4
+D 1703.33 I mean you could just provide with an optional . ami_da_4
+B 1709.85 So in in that way you are actually keeping the cus the same customer , attracting them to come back in again and again . ami_da_4
+D 1718.77 So it is something like a Microsoft product update . ami_da_9
+B 1721.93 We are not trying to follow the Microsoft ami_da_4
+B 1721.93 and we do not want to the m ami_da_3
+B 1721.93 Yeah well if the buyers can be up the th would be can be upgraded , it would be a good thing right ? ami_da_9
+B 1721.93 Yeah , it depends on the v production . ami_da_4
+A 1722.0 And and we we we ami_da_4
+A 1722.0 we we ami_da_4
+A 1722.0 we do not want that . ami_da_4
+D 1726.97 Updates and we sell it . ami_da_14
+D 1728.27 We make updates and sell it . ami_da_14
+C 1735.04 Yeah . ami_da_1
+D 1737.76 And what is the idea about the shape of the remote controls ? ami_da_5
+D 1737.76 can they be made into a fruit and vegetable types ? ami_da_5
+D 1737.76 Do you require different types of PCBs and ami_da_5
+D 1737.76 Or it could be like this the PCB would be the same for all , but only the exterior shape is different o for all . ami_da_6
+C 1743.1 Well so ami_da_3
+C 1743.1 Yeah yeah ami_da_1
+C 1743.1 I think we are ami_da_3
+C 1743.1 yeah ami_da_4
+C 1743.1 but we are also the well the components will have to change because we have to deal with the shape ami_da_4
+C 1743.1 and but I do not think it will increase the cost too much ami_da_4
+C 1743.1 so well ami_da_4
+C 1743.1 but it is a bit complicated to if if if you need machines to different machines to well ami_da_4
+C 1743.1 Yeah yeah ami_da_9
+C 1743.1 we can have the same global shape and then add on skins and with with this tex spongy texture things like that . ami_da_6
+B 1775.8 Yeah . ami_da_1
+B 1777.7 What we can change is to propose the customers with skins . ami_da_6
+B 1782.63 For example the i the mobile phones nowaday , they sell different kinds of skin and then people just feel that oh I have a new skin and looks better . ami_da_4
+D 1785.24 Yeah , yeah ami_da_9
+D 1785.24 that is right . ami_da_9
+B 1792.69 Yeah . ami_da_1
+B 1794.99 Yeah . ami_da_1
+D 1795.51 Yeah that is right . ami_da_9
+B 1796.96 Yeah . ami_da_1
+B 1800.6 Yeah you can pl ami_da_3
+B 1800.6 in what material would that be in ? ami_da_5
+B 1800.6 Yeah or furry like a pet dog kind of thing . ami_da_6
+C 1804.82 Sponge . ami_da_4
+D 1804.83 I think you need to look into the material . ami_da_6
+D 1809.63 Yeah yeah . ami_da_1
+C 1815.65 Okay . ami_da_1
+A 1818.81 So ami_da_1
+A 1818.81 Project evaluation project satisfaction , for example . ami_da_16
+C 1821.37 So we finished the prototype presentation if you have something else to say . ami_da_8
+D 1827.43 I think the Project Manager would be interested to look about the financial issues in making these models . ami_da_6
+A 1843.3 I do not know , we have to ask these question . ami_da_4
+A 1845.58 We have to give answers so Project evaluation . ami_da_4
+B 1849.17 I suppose that you this criteria , is it ? ami_da_3
+B 1849.17 Room for creativity . ami_da_4
+B 1859.75 This room is a bit small , but but I think it is okay for us to work with . ami_da_9
+D 1867.35 I feel it is fine , we know we do not need ami_da_9
+D 1867.35 I think it is okay . ami_da_9
+B 1871.27 Yeah . ami_da_1
+C 1873.06 That was good . ami_da_9
+D 1873.08 This is fine for making a presentat for project presentations . ami_da_9
+B 1876.77 Yeah anyway we have the laboratory nearby to build our modules so it is okay . ami_da_4
+C 1877.46 Yeah . ami_da_1
+D 1885.0 And the leadership was excellent . ami_da_9
+A 1886.98 Yeah I think so . ami_da_9
+B 1891.48 Good job good job . ami_da_14
+A 1893.64 He gave you the liberty to talk as you wants . ami_da_4
+D 1895.42 Yeah that is right . ami_da_9
+D 1896.62 Yeah that is right . ami_da_9
+A 1898.93 the teamwork was very very good . ami_da_9
+C 1901.41 Fine ami_da_9
+C 1901.41 yes Very democratic . ami_da_9
+A 1901.69 I was really I am very satisfying to work with with you . ami_da_9
+C 1906.24 Thank you . ami_da_14
+B 1908.42 Thank you . ami_da_14
+A 1910.13 Oh . ami_da_1
+C 1913.27 Alright . ami_da_2
+B 1914.4 Alright . ami_da_2
+D 1915.67 And new ideas found . ami_da_4
+D 1917.68 Any new ideas to make these presentations more interactive and more interesting ? ami_da_5
+D 1917.68 I mean what type of product would you think could we make this more interesting ? ami_da_5
+D 1917.68 Yeah ami_da_9
+D 1917.68 that is within the budget . ami_da_4
+C 1925.06 Come up with new product . ami_da_6
+A 1932.14 Less fancy . ami_da_4
+B 1933.2 we I I know something , we need more cakes , more biscuits on the table while we have meetings . ami_da_6
+C 1939.41 Yeah and also more well more seriously I think it is it is a good idea to have clear clear points whenever we do a meeting prior to the meeting to have well a list with the points who will be discussed or things like that , ami_da_6
+C 1939.41 but I think it is alright . ami_da_9
+C 1965.14 We achieved project goal I think . ami_da_4
+A 1969.0 De ami_da_3
+A 1969.0 Without without LCD , without speech recognition , it will be simple . ami_da_4
+C 1971.39 It is w ami_da_3
+C 1971.39 yes , more or less . ami_da_9
+D 1972.15 And the evaluation was ami_da_4
+D 1972.15 Yeah that is right . ami_da_9
+C 1975.64 Yeah ami_da_9
+C 1975.64 but ami_da_9
+C 1975.64 Alright . ami_da_2
+D 1979.97 And the next is celebration . ami_da_4
+C 1980.45 So . ami_da_2
+D 1982.56 So ami_da_2
+C 1982.84 So coffee machine . ami_da_16
+A 1984.69 Yeah free free coffee ami_da_16
+B 1987.78 Alright then , we finished ? ami_da_5

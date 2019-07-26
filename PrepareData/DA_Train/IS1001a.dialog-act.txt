@@ -1,0 +1,263 @@
+B 14.48 How do you wear this thing ? ami_da_5
+B 14.48 Not too many cables and stuff . ami_da_9
+B 63.09 Original . ami_da_16
+A 78.74 Is recorded ? ami_da_4
+A 78.74 Okay ? ami_da_4
+A 78.74 Okay so welcome everyone . ami_da_14
+A 84.52 So we are here for the kickoff meeting of the process of designing a new remote control . ami_da_4
+A 93.04 So I will first start with a warm welcome opening stuff , then we will see what will be our product and what will be the different step we will have to design it . ami_da_4
+A 111.2 And then we will discuss if we have few ideas and we will end by dispatching the different task you will be you will have to fulfil to complete this process . ami_da_4
+A 126.97 So ami_da_2
+A 126.97 sorry ? ami_da_12
+A 126.97 You have another meeting soon ? ami_da_5
+A 126.97 So you have to be quick . ami_da_11
+B 128.26 Just one thing . ami_da_7
+B 128.92 , you said twenty five minutes , but I have something else to do , so gotta have another meeting soon , ami_da_4
+B 128.92 so maybe you could hurry up a bit ami_da_6
+B 128.92 It is true . ami_da_4
+B 139.11 I have another meeting ami_da_4
+B 139.11 so if you could ami_da_6
+B 139.11 Yeah . ami_da_4
+B 145.71 Yeah , ami_da_9
+B 145.71 for the lawnmower project . ami_da_4
+A 148.29 Okay . ami_da_12
+B 149.03 Okay . ami_da_9
+A 149.79 So the the goal is to have a remote control so to have an advantage over our competitors ami_da_4
+A 149.79 we have to be original , we have to be trendy and we have to also try to be user friendly . ami_da_4
+A 166.1 So the design step will be divided in three main points . ami_da_4
+A 171.72 First it will be the functional design . ami_da_4
+A 175.76 Third is the conceptual design and then is the desired design . ami_da_4
+A 180.1 So the functional design is to identify the main user needs , the technical function the remote control should fulfil . ami_da_4
+A 190.42 And then we will move to f conceptual design where we will specify the different component involved , what kind of user interf interface we want and what are the different trend in user interface and stuff like that . ami_da_4
+A 205.97 And then the desired devi design will consist in specifically implementing and detailing the choice we have made in the second point . ami_da_4
+A 220.8 So I will now ask you which is very important for the design of a new remote control for to each of us to to draw your favourite animal on the white board . ami_da_6
+B 234.57 What an original idea . ami_da_15
+A 238.12 Do you have any idea of which animal you want to show us ? ami_da_5
+A 238.12 Okay that is good . ami_da_9
+B 242.6 Orangutan . ami_da_4
+C 248.33 No no ami_da_9
+C 248.33 n ami_da_9
+C 248.33 You should write y the name I think . ami_da_6
+A 248.99 n n You should ami_da_3
+A 248.99 If you want to react about this wonderful drawing I will let you comment . ami_da_4
+B 250.06 Can I give you the ami_da_5
+B 250.06 no ? ami_da_12
+B 250.06 But I do not have to say anything . ami_da_4
+B 255.93 When I am drawing the orangutan . ami_da_4
+B 270.06 It is an abstract drawing of an orangutan . ami_da_4
+A 272.05 Okay it is an abstract drawing . ami_da_12
+B 273.71 Yes . ami_da_9
+A 277.41 I think it is nice and original . ami_da_9
+B 282.28 I do not have a red colour . ami_da_4
+B 284.01 Usually orangutans have red hair so this is a very important ami_da_4
+B 284.01 but I do not have red pen , so ami_da_4
+B 284.01 Yes . ami_da_1
+A 288.12 Okay . ami_da_1
+A 289.68 You want to draw something Christine ? ami_da_8
+A 289.68 Of course your animal is recorded so it is not lost . ami_da_4
+D 300.26 Okay ami_da_1
+D 300.26 sorry . ami_da_14
+D 306.01 You have to imagine a little bit . ami_da_6
+D 312.66 This ami_da_3
+D 312.66 Sorry too . ami_da_14
+B 322.27 Yes . ami_da_9
+B 322.6 I know . ami_da_4
+A 343.85 Is this ami_da_3
+A 343.85 okay ami_da_12
+A 343.85 it is pretty . ami_da_9
+B 343.95 Wha what is this strange beast ? ami_da_5
+B 343.95 Is it a monster ? ami_da_5
+B 343.95 It is a cat ? ami_da_12
+B 343.95 I thought these things did not exist . ami_da_15
+D 344.59 Is it beautiful ? ami_da_5
+D 344.59 Do you know ? ami_da_11
+D 344.59 It is a cat . ami_da_4
+D 353.56 Is not it ? ami_da_11
+D 353.56 Yes yes ami_da_1
+D 353.56 is it like that . ami_da_16
+C 356.61 Me ami_da_3
+C 356.61 yeah . ami_da_12
+D 358.83 Is it better ? ami_da_11
+D 358.83 Okay . ami_da_1
+B 359.3 yeah ami_da_12
+B 359.3 Does have a name ? ami_da_5
+B 359.3 Caramel . ami_da_1
+C 360.83 Yeah . ami_da_12
+D 362.92 It is my cat . ami_da_4
+A 364.55 Okay it is your cat . ami_da_9
+D 365.95 Yeah . ami_da_1
+D 367.49 The name is Caramel . ami_da_4
+C 369.91 Caramel . ami_da_1
+B 370.04 Ah ha . ami_da_1
+D 370.18 Yeah . ami_da_1
+A 370.93 Okay . ami_da_1
+A 372.21 Olivier , do you want to ami_da_6
+A 372.21 Okay I go , ami_da_7
+A 372.21 but next time you will do something I am sure . ami_da_4
+C 372.34 And you ami_da_3
+C 372.34 I think I am too short for the cables . ami_da_9
+B 383.55 Next time I concentrate . ami_da_7
+A 388.94 I am a bit short on cable . ami_da_9
+A 390.54 Okay . ami_da_8
+A 391.46 So what could I draw ? ami_da_8
+A 391.46 Maybe I can draw like a very simplified cow . ami_da_7
+A 402.68 I do not know if it looks like a cow ami_da_9
+A 402.68 Like a what ? ami_da_12
+A 402.68 I dunno it it looks more like a donkey in fact I would say . ami_da_9
+B 406.27 He looks like a bong . ami_da_9
+B 409.49 Okay . ami_da_1
+B 409.9 Sorry . ami_da_14
+B 411.32 No . ami_da_1
+C 412.5 Quite squarey . ami_da_9
+B 414.52 Scary ? ami_da_12
+B 414.52 I I think we will be finished this ami_da_9
+B 414.52 Is it for for putting a for logos , no . ami_da_5
+C 415.57 He also . ami_da_3
+A 423.47 Okay so I hope that it helps you in the process of designing a remote control . ami_da_11
+B 433.67 That is ami_da_3
+B 433.67 I is there a matter for a new remote control ? ami_da_5
+B 433.67 Is it a single device remote control or is it a multi device remote control ? ami_da_5
+B 433.67 this is not defined at all ? ami_da_5
+B 433.67 , okay . ami_da_12
+A 433.92 Okay . ami_da_2
+A 435.65 Let is move on . ami_da_6
+A 436.68 So Here the financial objective of our project . ami_da_4
+A 444.1 That is to say to to have a production cost lower than twelve point five Euros and have a selling price of twice that price t in order to target a profe profit of fifty million Euros . ami_da_4
+A 465.63 Yeah if it is trendy , original I d fulfil the user needs . ami_da_4
+A 475.01 We have to discuss that point . ami_da_4
+A 476.74 On ami_da_3
+A 476.74 yeah ami_da_4
+A 476.74 you you can suggest points like this . ami_da_4
+A 480.71 So what what ami_da_3
+A 480.71 so we have to decide for example if it can control one device or multiple . ami_da_4
+A 491.33 So what is what are your ideas about that ? ami_da_11
+A 491.33 Maybe I can have the your opinion from the marketing side ? ami_da_11
+A 491.33 Okay , so if it selled by its own ami_da_11
+A 491.33 i it ami_da_11
+A 491.33 it would rather be for multiple device . ami_da_11
+B 496.64 Well do we sell other stuff ? ami_da_5
+B 496.64 if if we bundle the remote control with something to sell then it could be a single device , otherwise it could be programmable one ami_da_4
+B 496.64 otherwise who would buy a remote control from us . ami_da_11
+B 515.48 Yeah . ami_da_9
+A 516.84 Do you agree ? ami_da_11
+A 516.84 Yeah . ami_da_1
+A 519.5 So maybe it should be for multiple devices . ami_da_6
+A 526.85 And do you have any ideas of design ideas or any technical requirement we we should fulfil ? ami_da_8
+A 526.85 Few buttons . ami_da_9
+C 540.69 I think we should not have too many b for my part . ami_da_6
+B 543.03 No , I couldn ami_da_9
+B 543.03 I cannot fi think of any requirements right now . ami_da_9
+C 543.93 I think If we do not have so many buttons could be nice . ami_da_6
+A 551.41 Okay . ami_da_9
+A 552.63 And do you have it also to be to be lighted in order to be used in the dark ? ami_da_11
+A 552.63 Might be a good idea . ami_da_9
+C 560.66 Yeah . ami_da_9
+A 565.18 Okay . ami_da_2
+A 565.94 And do you have any any idea of the trend the trend in domain , what it should not it should look like , or things like that ? ami_da_8
+A 565.94 With rou ami_da_12
+A 565.94 okay . ami_da_12
+C 577.74 Something which is not squarey maybe , not a box . ami_da_6
+A 584.7 Like for okay . ami_da_3
+B 585.59 Something like that , least fits in your hand . ami_da_6
+C 587.92 Yeah . ami_da_1
+A 587.99 Okay . ami_da_1
+B 588.5 Yeah . ami_da_1
+B 589.69 The basic requirement . ami_da_6
+A 590.53 So . ami_da_9
+A 592.04 Fit in your hand , yeah . ami_da_9
+B 596.04 Only a buck . ami_da_14
+A 597.43 And also it have , i it may be it may be important for the remote control to be To , to resist to various shocks that can happen if it fall . ami_da_6
+B 608.82 Waterproof . ami_da_6
+A 610.5 Water proof as well . ami_da_9
+C 612.84 And I think we should have a device ami_da_3
+C 612.84 Sorry . ami_da_14
+A 613.13 Maybe it is original because you can use it in your in your bath whereas the others ca not . ami_da_6
+A 621.33 Maybe water proof would be very original . ami_da_4
+A 624.84 Havin having a water proof remote control so that the people can use it in their bath . ami_da_4
+A 631.29 That could be ami_da_3
+A 631.29 Yeah but , it is still something you have to buy ami_da_4
+A 631.29 and that is not maybe very ami_da_3
+A 631.29 Yeah , ami_da_3
+A 631.29 mayb B ami_da_3
+A 631.29 But maybe we can bulk it with already this plastic thing and the waterproof stuff as well . ami_da_6
+B 631.52 B it seems so , ami_da_9
+B 631.52 but if you do not have an waterproof remote control it means you can just cover it with some plastic and you can sort of f ami_da_6
+B 631.52 And , and that is one of the that is one of the shock I mean there are people that have a remote control and they are worried that it is going to break and they put some extra plastic around it . ami_da_4
+B 652.87 That is people they actually do it themselves . ami_da_4
+C 659.92 Yeah . ami_da_1
+C 662.44 directly . ami_da_3
+B 662.68 I it will look a bulky in that case . ami_da_9
+A 664.87 Yeah . ami_da_9
+C 665.65 Yeah . ami_da_1
+A 665.78 Maybe we can sell all that together , so so plastic protection and and a waterproof box as well . ami_da_6
+A 677.83 That might be good track to follow . ami_da_6
+B 680.6 Like as an optional thing . ami_da_6
+A 682.74 Optional or selled with it ? ami_da_8
+A 682.74 Yeah . ami_da_1
+C 683.59 And I I think we should have something , ami_da_6
+C 683.59 most of the time I I lose my remote control . ami_da_4
+C 689.6 We should have s special bu button on the TV to make the remote control beeping . ami_da_6
+A 692.87 Maybe we can have ami_da_3
+A 692.87 But we do not design the TV . ami_da_4
+C 697.25 yeah . ami_da_1
+A 697.32 Maybe we can have something you whistle and the remote control beep . ami_da_6
+C 703.05 Yeah . ami_da_1
+B 703.5 Barks . ami_da_6
+A 704.44 Yeah , barks , yeah . ami_da_9
+C 704.67 Barks . ami_da_1
+A 707.14 So we can have a whistle remote control ? ami_da_4
+A 707.14 I do not know , whistle able ? ami_da_11
+A 707.14 Th ami_da_3
+A 707.14 Whistle tracking ami_da_9
+A 707.14 yeah . ami_da_9
+C 710.38 Yeah . ami_da_9
+C 712.79 Yeah whistle . ami_da_9
+C 718.12 Whistle tracking . ami_da_6
+A 721.55 Whistle tracking remote control . ami_da_16
+A 723.71 That is a good idea , that is very original and that is can improve . ami_da_9
+B 726.19 That is that is quite cool , ami_da_9
+B 726.19 but of course we you do not normally need any audio recording stuff on your remote control ami_da_4
+B 726.19 right ? ami_da_4
+B 726.19 So i it is just going to add t to the cost . ami_da_4
+A 735.81 Yeah d d . ami_da_3
+A 739.92 Yeah but s still we have to we have to have an advantage over our competitors . ami_da_4
+A 746.07 I think this is a good advantage . ami_da_9
+B 747.79 It is cool . ami_da_9
+B 748.39 I think I like the idea , but I am not sure about the what you , ami_da_9
+B 748.39 who is giving who is giving who is giving our budget . ami_da_5
+A 751.08 Yeah . ami_da_3
+A 751.7 We have to ask ami_da_3
+A 751.7 Yeah . ami_da_4
+B 753.59 Who is ami_da_5
+B 753.59 Yeah . ami_da_1
+A 754.13 We have to ask the quest of that is design to the Industrial Designer . ami_da_4
+B 756.66 Yeah . ami_da_1
+C 760.2 Yeah . ami_da_1
+A 761.23 Which is you . ami_da_4
+B 761.54 Okay . ami_da_1
+C 762.3 yeah ami_da_1
+C 762.3 Okay . ami_da_9
+A 764.11 Okay so try to find that for next meeting . ami_da_6
+A 769.55 Okay . ami_da_2
+A 770.13 So ami_da_2
+A 770.13 next meeting is in thirty minutes or ami_da_4
+A 770.13 so . ami_da_14
+C 773.89 Do not panic . ami_da_14
+A 775.04 Do not pani . ami_da_14
+A 776.35 So so I will ask the Industrial Designer to find out more about this industrial design so any working any working function we have discussed . ami_da_4
+A 788.59 So then I will ask the User Interf Interface Designer to to think about the point we discussed like the number of buttons , the the fact that is lighted or not , things like that , and what would be convenient for the user . ami_da_4
+A 805.28 And also I will ask the Market Expert to try to find out what are the absolute requirements , what is absolutely needed in a remote control for the user . ami_da_4
+A 821.24 So . ami_da_2
+A 822.55 And then I will just ask you to think about that ami_da_6
+A 822.55 and look at your mail because you will receive some good advice soon . ami_da_4
+A 834.95 So . ami_da_2
+A 836.72 Thank you ami_da_14
+A 836.72 I think that is all for this point . ami_da_4
+B 838.44 Good . ami_da_9
+B 848.1 , so we come back in five minutes ? ami_da_14
+A 858.05 Anyway you will receive some messages . ami_da_4
+A 869.13 Be careful . ami_da_6
+A 872.23 You eat it ? ami_da_5
+A 872.23 Does it move ? ami_da_5
+A 872.23 Okay , ami_da_9
+A 872.23 but I do not know if it is still correctly ami_da_9

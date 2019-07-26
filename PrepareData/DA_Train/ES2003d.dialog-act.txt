@@ -1,0 +1,867 @@
+B 0.04 That should hopefully do the trick , . ami_da_6
+B 16.99 Okay . ami_da_2
+B 17.43 Sorry about the small delay . ami_da_14
+B 20.27 Falling a little bit behind schedule . ami_da_4
+B 24.44 And that is fifteen twenty five . ami_da_4
+B 34.24 Okay . ami_da_2
+B 35.05 So ami_da_2
+B 35.05 just to try and roughly go over what we agreed in the last one , ami_da_7
+B 35.05 we are going to go for something how was it ? ami_da_5
+B 35.05 The new black , I believe . ami_da_4
+B 49.23 something that looks good because that seems to be in preference to actual functionality in the end , though we should never avoid functionality , of course . ami_da_4
+B 58.39 many of our components are going to be standard , off the shelf , but it seemed like we were going to require at least an advanced chip ami_da_4
+B 58.39 and we were still very much for the idea of using an LCD display . ami_da_4
+B 69.33 other things were we were hoping to use rubber , most likely going to be double curved , etcetera . ami_da_4
+B 77.66 Okay . ami_da_2
+B 79.42 So ami_da_2
+B 79.42 due to your hard work , we might as well let the two designers go first , and show us the prototype . ami_da_6
+A 87.07 Okay , ami_da_2
+A 87.07 it is a ami_da_3
+A 87.07 I think if we both step up and outline our ideas . ami_da_6
+B 89.22 Quite how the best way to do this is , I am not sure , ami_da_6
+B 89.22 but ami_da_3
+B 89.22 Okay . ami_da_1
+A 98.94 Okay . ami_da_2
+A 100.11 Now ami_da_2
+A 100.11 do doing the prototype gave us a bit more insight into the ergonomics of the design . ami_da_4
+A 107.66 for one thing , it turned out that the only point at which it needs to be articulated for handedness is is h i is down here for the LED . ami_da_4
+A 122.26 As it turned out , the whole thing transfers from the right to left hand fairly well from the point of view of operating the function buttons and joystick , ami_da_9
+A 122.26 though it might be an idea to be able to a adjust the positions for the base of the joystick just a little bit ami_da_6
+A 122.26 for ami_da_3
+A 122.26 ju just a thought . ami_da_4
+A 144.5 You could simply have a slightly ovoid shaped joystick that could then just be turn twisted round , so that the sticky so that the bit that sticks out a bit more is on one side or the other . ami_da_6
+A 158.5 But as you as you see with the with holding it in the left hand , the L the LCD is nowhere useful , ami_da_9
+A 158.5 so that would need to be articulated if we are going to retain ergonomic design . ami_da_6
+A 174.1 now ami_da_2
+A 174.1 I I got your note about keeping the cost down . ami_da_4
+B 180.46 I am afraid ami_da_9
+B 180.46 yeah . ami_da_9
+A 181.26 Yeah . ami_da_2
+B 181.79 We will go into that a bit more , but please go on . ami_da_6
+A 184.79 this design could be done with with plastic casing . ami_da_6
+A 194.46 Though I would recommend around the grip part here in the middle , having maybe just a rubber grip over that ami_da_6
+A 194.46 which would allow for a slightly more sort of bio morphic form , and a bit more ergonomic as well . ami_da_4
+A 205.95 As for the as for the single curve , well this edge and this edge , like I say it would be nice to have some curvature to it , ami_da_6
+A 205.95 but it is not absolutely necessary . ami_da_9
+A 219.51 Really the curve that is most needed is the underside ami_da_6
+A 219.51 so that the jo so that the joystick rests over the the edge of the hand like this . ami_da_4
+A 229.65 and you have the transmitter here and a wee speaker for the for the for the fi for the remote control finder . ami_da_4
+A 241.85 So . ami_da_2
+A 244.36 Any further comments ? ami_da_5
+D 245.79 obviously it is going to be bulkier than how it looks , because it is going to be flat on one side , ami_da_6
+D 245.79 so the LCD will be s sticking down like this , ami_da_4
+D 245.79 wo not it ? ami_da_11
+D 245.79 Because it you ca not get it curved . ami_da_4
+A 255.87 Yeah . ami_da_9
+D 258.64 because of costs . ami_da_4
+A 258.66 Yeah , I mean ami_da_2
+A 258.66 the ami_da_3
+A 258.66 Yeah . ami_da_1
+D 260.41 And it is plastic as well , ami_da_4
+D 260.41 so it wo not be as comfortable on the hand . ami_da_9
+A 264.93 Yeah . ami_da_2
+A 265.21 I mean with the with the rubber design it could i ami_da_4
+A 265.21 you know it could pretty much mould very much to the to the user is hand . ami_da_4
+A 272.18 One nice wee feature ami_da_9
+A 272.18 if we could if we could still do the rubber , I though of was to have the rubber extend beyond the end of the of the rigid substructure . ami_da_6
+A 285.08 So it has a wee sort of tail that you just drape over your wrist ami_da_6
+A 285.08 so it stays in position nicely . ami_da_9
+A 291.67 Lovely . ami_da_9
+D 295.23 Yeah , . ami_da_9
+B 298.06 Okay , ami_da_2
+B 298.06 yeah . ami_da_9
+B 298.62 Great . ami_da_9
+C 299.4 Right . ami_da_1
+C 301.16 Yeah ami_da_2
+C 301.16 I have got a ami_da_3
+C 301.16 if you load up my evaluation document . ami_da_6
+B 304.2 Yeah , okay . ami_da_9
+A 305.27 Okay . ami_da_16
+B 306.68 Excellent work . ami_da_9
+C 322.12 evaluation . ami_da_4
+C 329.94 Basic point have a list of criteria that we need to rate the prototype by . ami_da_4
+C 336.2 then we will ami_da_3
+C 336.2 it is a seven s seven seven step kind of evaluation process . ami_da_4
+C 343.84 So ami_da_2
+C 343.84 not seven steps , ami_da_9
+C 343.84 seven scale . ami_da_4
+C 348.24 So ami_da_2
+C 348.24 after we have finished doing all the ratings for each criteria , we average that and that will give us some type of confidence in our prototype . ami_da_4
+C 358.19 And the criteria based on Real Reactions' kind of goals and policies , marketing strategies , and also those I put together from the user requirements phase . ami_da_4
+C 372.85 Okay . ami_da_2
+C 373.77 if you flip the ami_da_6
+C 373.77 So , ami_da_2
+C 373.77 those are the criteria . ami_da_4
+C 382.67 And perhaps I could have put them a bit better , ami_da_9
+C 382.67 but you notice a few things that we have totally abandoned , ami_da_6
+C 382.67 which means that the product will score very badly on some of those points . ami_da_4
+C 396.81 Put it mildly . ami_da_9
+C 397.97 So ami_da_2
+C 397.97 we have true ? ami_da_4
+C 397.97 One , t Seven , eight , ami_da_4
+C 397.97 oh . ami_da_4
+C 414.58 Fourth . ami_da_4
+C 415.07 Okay , so ami_da_2
+C 415.07 we have to go through each point . ami_da_4
+C 417.72 If we imagine it is actually straight , ami_da_6
+C 417.72 and just give it a a score . ami_da_4
+C 421.78 So ami_da_2
+C 421.78 how well would you say the prototype is ami_da_3
+C 421.78 how well have we realised the dream of being able to stop remotes from from being lost , or to be able to find them once they are lost . ami_da_11
+C 433.83 I mean , is the homing thing still the locator , is that still ami_da_5
+C 433.83 Sure . ami_da_12
+A 437.83 Yeah , that is still part of the design . ami_da_4
+C 439.97 And Adam , we can keep that in ? ami_da_5
+C 439.97 Okay . ami_da_1
+B 441.76 Yeah , I believe so . ami_da_4
+B 442.97 So ami_da_2
+B 442.97 I mean I do not think anybody could actually stop a remote being lost , because that would mean doing something about the human element , but I would like to think that we have done something about finding the damn thing once we have . ami_da_4
+C 449.5 Sure . ami_da_9
+C 451.23 T ami_da_3
+C 451.23 Sure . ami_da_1
+A 455.78 And making it a bright colour helps ami_da_9
+A 455.78 with the ami_da_3
+A 455.78 personally I would have gone for purple . ami_da_6
+C 460.77 Bright colour . ami_da_12
+C 461.37 So ami_da_2
+C 461.37 we still have that noise thing , ami_da_4
+C 461.37 yeah ? ami_da_11
+C 461.37 Os ami_da_3
+C 461.37 on a scale of one to seven , how would you guys rate it for finding finding it once it is lost ? ami_da_11
+C 461.37 Number one ? ami_da_12
+C 461.37 Okay . ami_da_12
+A 471.74 I would say number one . ami_da_9
+D 473.2 One . ami_da_9
+D 473.87 Yeah . ami_da_9
+C 474.78 Number number one for the first criteria . ami_da_4
+A 478.31 I think w if it was just the sounder then th ami_da_3
+A 478.31 I mean something I have found with w w ami_da_3
+A 478.31 with say tr trying to find a cordless phone or a m mobile , you can hear it , but you ca not quite pin it dow pin down where it is . ami_da_4
+C 495.0 Yeah ami_da_9
+C 495.0 you can tell what room ami_da_4
+C 495.0 the mobile is ami_da_4
+C 495.0 Yeah . ami_da_9
+D 497.78 What about what if the the volume on the TV is turned up massively and you just want to turn down the volume ca not find remote . ami_da_8
+A 498.05 Bu ami_da_3
+A 498.05 Yeah . ami_da_9
+D 508.76 Suppose you have to go to the TV and do it manually . ami_da_6
+C 512.9 Yeah . ami_da_16
+D 513.66 Like y you would not hear the speaker . ami_da_4
+B 513.72 just before we go through all of the steps here , well what we will do is ami_da_3
+B 513.72 if we can look at the criteria you are going to evaluate , and then we will come back to the product evaluation ami_da_6
+B 513.72 if that is alright . ami_da_11
+C 518.67 You want to say something ? ami_da_5
+C 518.67 That is fine . ami_da_9
+B 530.89 Yeah , is that ami_da_11
+B 530.89 so ami_da_2
+B 530.89 is there anything here that you that you wanted to cover as in the criteria that you have covered ? ami_da_5
+B 530.89 And then we will come back pretty much promptly to this . ami_da_6
+C 531.94 Oh that is that is fine . ami_da_9
+C 546.9 What do you mean ami_da_12
+C 546.9 cr is there anything I want to ami_da_12
+C 546.9 , a few . ami_da_4
+B 548.23 I is there any of these criteria that need any explaining ? ami_da_5
+B 548.23 Or is there anything that yous thought tha really would stand out compared to the others ? ami_da_5
+B 548.23 Okay . ami_da_12
+C 558.88 Something I neglected from my initial research is that Real Reactions has a a goal strategy that all of the products be inspired by material fashion , and clothing fashion . ami_da_4
+C 571.47 That is why fruit and veg being popular in the home and in clothing was important and they want all their products to be somehow inspired by current trends in fashion . ami_da_4
+C 583.33 So they say we put the fashion in electronics , ami_da_4
+C 583.33 well ami_da_2
+C 583.33 they really mean it ami_da_4
+C 583.33 they ami_da_4
+C 583.33 they are very big on fashion , ami_da_4
+C 583.33 so . ami_da_3
+C 590.28 That is this bit right here . ami_da_4
+C 592.88 And this bit is this one easy to use for visitors or for anybody ? ami_da_4
+C 592.88 I guess it is just the same as saying easy to use interface , so it is kind of condensed into one . ami_da_4
+C 605.15 And we can come back to it , you said . ami_da_4
+C 606.36 So . ami_da_3
+B 606.55 Okay . ami_da_1
+B 607.58 No ami_da_2
+B 607.58 and which we will do very very shortly . ami_da_6
+B 616.92 Okay . ami_da_2
+B 619.82 Slight problem we had was that we have an amazing four Euros over budget for what we were hoping to do . ami_da_4
+B 628.1 most of it stems from the use of the LCD which I think in the end accounted for about half of our expenditure because of course we required a chip as well . ami_da_4
+B 639.25 the only way to get this down was either to ditch the a LCD , at which point we have removed a large part of how we were going to interface , require more buttons , etcetera . ami_da_4
+B 652.08 Or what we did was that we we as in I as I was quickly going over it was altering the actual structure . ami_da_4
+B 660.52 changing it to plastic and a solid unit with a single curve design would allow us to come back into the proposed costs and we are just scraping it in , we have got point two of a Euro left over there . ami_da_4
+B 673.89 So we are just managing it really . ami_da_4
+B 676.48 Even then as well , there was no criteria technically defined for a joystick ami_da_4
+B 676.48 so I have used what I think is appropriate . ami_da_4
+B 683.46 With any luck that wo not mean that we have incurred more cost than we can actually afford to . ami_da_16
+B 689.82 It blows a lot of our really good ideas kind of slightly to one side , for example the possibility of having a USB connection is definitely not viable now . ami_da_4
+C 700.45 Different languages ? ami_da_5
+C 700.45 Yeah . ami_da_1
+B 702.23 That should still be viable . ami_da_4
+B 703.51 We have got an advanced chip , we have got the use of the LCD . ami_da_4
+B 705.95 So being able to communicate in multiple languages is still very much a possibility . ami_da_4
+B 711.79 but what is something we need to decide on is how we are going to go from here . ami_da_8
+B 717.52 We do need to try and come up with an idea which could be continued with other people if need be . ami_da_6
+B 725.19 We can ami_da_3
+B 725.19 I can bring the excel up sheet up and show you if you wish . ami_da_7
+B 729.96 I really think as m much as it pains me ami_da_9
+B 729.96 is that we might have to go with plastic and some kind of solid design , ami_da_6
+B 729.96 possibly meaning that the LCD would not be in this perfect place . ami_da_4
+B 741.03 It might be s stuck like slightly between what would be good for left handed and what would be good for a right handed person . ami_da_4
+A 747.22 I suppose o one thing that could be done is h is have it circular and have it s so that the the pink actually goes a bit over the pinkie finger . ami_da_6
+B 757.49 Okay . ami_da_9
+A 758.99 So that th ami_da_3
+B 760.76 It very much is about making concessions , unfortunately . ami_da_4
+C 765.41 Do you have any data on how much different prints cost ? ami_da_5
+C 765.41 I mean can you get the entire thing printed with a design ? ami_da_5
+B 774.05 b b b da is you mean on the plastic , or ? ami_da_5
+B 774.05 Let is have a look . ami_da_6
+B 779.42 You now have as much information as I do . ami_da_4
+C 781.72 Yeah , ami_da_1
+C 781.72 yeah . ami_da_1
+B 785.19 So ami_da_2
+B 785.19 as you can see here , for example , the battery really not very little choice in that one . ami_da_4
+B 790.75 We have gone for one of the cheaper options as well . ami_da_4
+B 793.05 Unfortunately we require the advanced chip if we are going to do what we are needing to . ami_da_4
+B 797.65 I have said single curved . ami_da_4
+B 799.01 We really do need it to be that way for the ergonomics of it . ami_da_4
+B 802.73 plastic for some reason incurs no cost , which I have had to very much make advantage of , despite the fact that rubber is only got a value of two Euros per unit . ami_da_4
+B 811.45 Problem comes here as you can see in the interface . ami_da_9
+B 814.63 if I have read this thing correctly , then we can save point five of a Euro here in that it is not per push button . ami_da_6
+B 823.06 That might make sense , ami_da_9
+B 823.06 because then a numeric keypad would come in at what , four point five Euros , ami_da_4
+B 823.06 which is an awful lot , so that could well be wrong . ami_da_9
+B 831.84 Even if we save point five there , it would just mean that we are most likely placing it in actually just gaining a colour for the unit , ami_da_6
+B 831.84 which has had to be put to one side . ami_da_4
+B 840.27 As you can see , the use of an LC display advanced chip and what would determine the scroll wheel here as well ami_da_3
+B 840.27 because it is an integrated scroll scroll wheel push button that was not quite what I think they had in mind with a joystick . ami_da_4
+C 855.37 Why would why would that be more expensive than an individual push button and scroll wheel together ? ami_da_5
+C 855.37 That is quite significantly expensive . ami_da_4
+B 864.55 I ami_da_3
+B 864.55 that is something you will have to take up with the bean counters . ami_da_6
+B 868.81 as you can see I mean that is taken up well over half of the price . ami_da_4
+A 870.62 yeah . ami_da_2
+C 874.16 Yeah . ami_da_1
+B 875.03 So ami_da_2
+B 875.03 I am very much open to suggestions of where we go , ami_da_8
+B 875.03 but because we need to shed what was four Euros off of the the price of for what we really desired , this one comes in under price as you can see , but this was the one that sacrificed the material for the case and for the actual case design . ami_da_4
+C 899.62 We do not even have speakers here . ami_da_4
+C 901.46 The ami_da_3
+C 901.46 like ami_da_2
+C 901.46 we ami_da_3
+C 901.46 what about speakers and transmitters and stuff like that ? ami_da_5
+C 901.46 Have we factored that in ? ami_da_5
+C 901.46 Transmitter , receiver , speakers . ami_da_4
+B 908.73 no , we have not , not ami_da_4
+B 908.73 That will it literally would just be a button . ami_da_6
+C 914.48 Plus the extra device itself that is going to be on a TV . ami_da_4
+C 917.67 Is that going to be a button , or ami_da_8
+C 917.67 Yeah . ami_da_1
+D 922.65 That is too expensive ami_da_4
+D 922.65 is not it ? ami_da_11
+D 922.65 Yeah . ami_da_4
+B 922.7 We might have to It looks like almost nothing ami_da_3
+B 930.47 Oh ami_da_2
+B 930.47 good call , ami_da_9
+B 930.47 I missed that . ami_da_4
+C 932.66 I I mean it is not on here , ami_da_4
+C 932.66 but . ami_da_3
+B 935.2 that is a very valid point . ami_da_9
+C 938.37 Did they s ami_da_3
+C 938.37 do we have to use an advanced chip for the LCD ? ami_da_5
+C 938.37 Okay . ami_da_12
+C 943.95 Well ami_da_2
+C 943.95 that is yeah . ami_da_3
+B 945.63 So if we are going to go with the LC display , then that is ami_da_3
+B 945.63 I believe so , yeah . ami_da_4
+C 949.67 What is a hand dyna dynamo ? ami_da_5
+C 949.67 You have to wind it up ? ami_da_5
+C 949.67 Technology . ami_da_9
+B 956.2 That would probably not be in keeping with the the fashion statement and such , yeah . ami_da_9
+D 960.08 Fashion . ami_da_9
+C 960.97 Yeah . ami_da_9
+C 963.92 Okay . ami_da_1
+D 963.97 So basically ami_da_2
+D 963.97 the only new thing is the LCD on the remote now . ami_da_4
+B 967.8 Being manipulated by the joystick , yeah . ami_da_4
+D 969.84 Oh , and joystick , ami_da_12
+D 969.84 yeah . ami_da_9
+B 971.71 Which I am defining as scroll wheel . ami_da_4
+C 978.12 And we could not replace the joystick , ami_da_4
+C 978.12 right ? ami_da_11
+C 978.12 Because we would need four extra buttons to replace it , up down left and right , and that would be more expensive ami_da_4
+C 978.12 than a ami_da_3
+C 978.12 but is a scroll wheel not just back and forward ? ami_da_5
+C 978.12 Yeah . ami_da_9
+B 989.49 Yeah it is just because there was no actual definition for what a joystick might be , that that is what I have labelled it for the purposes of this evaluation . ami_da_4
+D 995.54 So ami_da_2
+D 995.54 The LCD basically is the big selling point of the remote . ami_da_9
+B 1001.46 If we remove the LC display , we could save ourselves a fair amount . ami_da_6
+B 1009.57 Which you could ami_da_3
+B 1009.57 It is a shame . ami_da_9
+D 1009.86 But that is what makes it original though , ami_da_9
+D 1009.86 is not it ? ami_da_11
+D 1009.86 It can be s ami_da_3
+D 1009.86 yeah , ami_da_9
+D 1009.86 it can still be single curved , ami_da_6
+D 1009.86 but You just . ami_da_3
+A 1012.71 I think if we remove the the LC display then there was absolutely no point to any of these meetings ami_da_9
+A 1012.71 and we just we could just put our branding on any other remote control . ami_da_6
+C 1022.4 Yeah . ami_da_9
+C 1023.22 Yeah . ami_da_9
+C 1024.99 k Does this does this bear in mind that ami_da_3
+C 1024.99 I mean it is a bit ridiculous ami_da_9
+C 1024.99 that they are going to charge us what is it , like this much money for three million if we are going to buy three million components , ami_da_4
+C 1024.99 you know . ami_da_13
+B 1028.09 We should possibly have ami_da_3
+B 1028.09 If we could have increased the price we could have manufactured that ami_da_6
+B 1028.09 and we could have got something far closer to what we were hoping to . ami_da_6
+B 1050.59 Again , you will have to argue with the accountants on that one . ami_da_6
+B 1053.3 but for the purposes of this meeting , I am we are going to have to stick with these figures . ami_da_6
+C 1059.07 Okay . ami_da_9
+B 1061.09 So , ami_da_2
+B 1061.09 I would say that it would seem like the general opinion is we are going to keep the LC display ami_da_6
+B 1061.09 because it is about what really separates us , despite the cost it is going to incur . ami_da_4
+C 1068.69 I think so . ami_da_9
+B 1071.39 are people maybe not happy with , but are willing to go ahead with this in going for a plastic solid case , to keep the LCD ? ami_da_11
+B 1071.39 It is hard to tell . ami_da_4
+A 1085.14 yeah ami_da_2
+A 1085.14 I mean ami_da_2
+A 1085.14 one thing , ami_da_7
+A 1085.14 I mean ho how much extra would it be to to keep ami_da_5
+A 1085.14 I mean keep the the articulation ? ami_da_5
+A 1085.14 This is what I am wondering . ami_da_4
+B 1096.39 I would say that you are at least going to take double curved , and even then I am not quite sure if that is incorporating the idea of articulation . ami_da_4
+C 1105.65 Yeah . ami_da_1
+A 1106.02 Oh ami_da_2
+A 1106.02 no , I think I I it ami_da_9
+A 1106.02 d that it need not require it to be double curved . ami_da_9
+A 1112.98 It is it is just it is just it is just that the case would come in t would be made in two parts and then joined together with an articulation . ami_da_6
+B 1113.76 Single curved with articulation ? ami_da_5
+B 1113.76 But the curves all o over hand , ami_da_4
+B 1113.76 is it ? ami_da_11
+B 1113.76 We would not actually save a lot by reducing it anyway , ami_da_4
+B 1113.76 so I mean for the purposes of this meeting maybe we can state that single curve still allows articulation . ami_da_6
+C 1121.42 Could we could we not get rid of the curvy the curvous the curvaceousness and focus on the menu being the best interface ? ami_da_6
+C 1121.42 Because like we ami_da_3
+C 1121.42 do we have re restrictions on software ? ami_da_5
+C 1121.42 Oh ami_da_12
+C 1121.42 but there has to be ami_da_3
+C 1121.42 joystick . ami_da_9
+D 1133.28 That is what we need for the joystick I think though . ami_da_4
+A 1136.39 Yeah , I mean ami_da_2
+A 1136.39 and I mean the ami_da_3
+A 1136.39 I mean if you look if you look closer at the at the prototype here , ami_da_6
+A 1136.39 the lines here along the grip are actually quite straight . ami_da_4
+A 1148.23 I mean ami_da_2
+A 1148.23 yeah , ami_da_9
+A 1148.23 on the on the LCD I mean although we have done it with a curve it ami_da_4
+A 1148.23 could just as easily be done without curves . ami_da_6
+A 1159.63 The curve that is really needed is up here , ami_da_6
+A 1159.63 to put to keep the joystick in a good ergonomic position for it to have it rest on the top of the hand . ami_da_4
+C 1169.56 Okay . ami_da_12
+C 1170.21 Sure . ami_da_12
+C 1171.32 Okay , ami_da_2
+C 1171.32 my bad . ami_da_15
+B 1184.21 unless we hear otherwise we could go ahead with that proposal . ami_da_9
+C 1190.42 So ami_da_2
+C 1190.42 I think the product is not going to perform so well for my criteria . ami_da_9
+B 1196.9 Which is what we can get onto now . ami_da_6
+B 1198.59 As long as so are we going to say w ami_da_3
+B 1198.59 we have to keep an eye on the time as well , but we are going to say single curved design ami_da_6
+B 1198.59 It could well be , ami_da_4
+B 1198.59 but at a cost of ami_da_3
+B 1198.59 Okay , ami_da_12
+B 1198.59 yeah ami_da_9
+B 1198.59 we will definitely wo not go with that one . ami_da_6
+C 1206.05 Oh , ami_da_2
+C 1206.05 wait a minute . ami_da_6
+C 1208.02 Sample speaker ? ami_da_5
+C 1208.02 What is a sample speaker ? ami_da_5
+C 1208.02 Is that somewhat similar to what we want ? ami_da_5
+C 1208.02 Yeah . ami_da_1
+A 1214.72 no that is that voice response thing that we got the email about . ami_da_4
+D 1216.98 Costs four . ami_da_4
+A 1219.54 But I thought it was just completely pointless . ami_da_9
+C 1221.92 You got a email about voice response ? ami_da_12
+C 1221.92 I did not , ami_da_4
+C 1221.92 so . ami_da_3
+A 1223.87 Yeah . ami_da_4
+A 1225.61 Alright . ami_da_12
+A 1226.25 B ami_da_4
+A 1226.25 i basically it was saying that our labs had come up with a chip that you could , you know , say hello to , and it would say hello back in a friendly female voice . ami_da_4
+C 1239.06 We wo not go with that one , did you say ? ami_da_12
+C 1239.06 I mean I ami_da_3
+C 1239.06 we ami_da_3
+C 1239.06 Okay , okay . ami_da_12
+B 1241.43 Yeah , that is voice recognition , so . ami_da_4
+B 1248.24 So , okay yeah , ami_da_2
+B 1248.24 battery definitely , ami_da_6
+B 1248.24 It looks like it unless we can manage to put it in under point two Euros , . ami_da_9
+C 1250.86 So ami_da_2
+C 1250.86 it looks like we are going to get rid of the whole loca locator thing . ami_da_6
+D 1254.98 Yeah . ami_da_9
+C 1260.1 Okay . ami_da_12
+C 1263.8 Okay . ami_da_12
+B 1264.42 Maybe even slight ami_da_3
+B 1264.42 well ami_da_2
+B 1264.42 oh yeah , pretty much point ami_da_9
+B 1264.42 two Euros , I would say . ami_da_9
+B 1268.9 So we will leave that one for now . ami_da_6
+B 1270.8 we will just have It is a case of ami_da_3
+B 1270.8 I am slightly unsure . ami_da_9
+D 1270.85 Are we going for a special colour at all ? ami_da_11
+D 1270.85 Well ami_da_2
+D 1270.85 I was for a case . ami_da_3
+B 1279.52 One point five of a Euro for one push button does not sound quite right . ami_da_9
+B 1282.84 So maybe it is a case of a push button is maybe one or more . ami_da_4
+B 1290.28 At which point if ami_da_3
+B 1290.28 Well ami_da_2
+B 1290.28 you got point five there . ami_da_4
+D 1293.51 Or had you already incorporated that ? ami_da_5
+D 1293.51 Think it is ten minutes left . ami_da_4
+C 1295.66 Oh , special colour for the case . ami_da_12
+B 1299.32 It is literally a case of whether or not this is correct . ami_da_4
+B 1302.47 I am not quite sure if they are ami_da_3
+B 1302.47 I do not think they mean point five Euros per button . ami_da_4
+A 1307.19 Okay , well ami_da_2
+A 1307.19 l let is say that ami_da_6
+A 1307.19 and then we can have our special coloured case ami_da_6
+A 1307.19 and then we at least have make it a little harder to lose . ami_da_4
+B 1308.57 So ami_da_2
+B 1308.57 There we go . ami_da_9
+A 1315.22 Because most m most remotes are a fairly dingy colour ami_da_9
+A 1315.22 that gets camouflaged under any pile of crap in a living room . ami_da_4
+C 1321.16 W what is the default colour ? ami_da_5
+C 1321.16 White or black ? ami_da_5
+C 1321.16 Right . ami_da_1
+B 1324.48 Black is probably the normal colour you would say , ami_da_4
+B 1324.48 yeah . ami_da_9
+A 1326.14 Or grey . ami_da_4
+B 1327.98 I quite like that colour that you are fetching there , ami_da_9
+B 1327.98 it is definitely for ami_da_3
+B 1327.98 make it glow in the dark even better . ami_da_6
+A 1328.58 Yellow . ami_da_4
+C 1334.34 Yeah . ami_da_1
+B 1336.29 So ami_da_3
+B 1336.29 will we go with that then ? ami_da_11
+B 1336.29 It is not and we can see ami_da_3
+B 1336.29 we will come back to your evaluation ami_da_6
+B 1336.29 which you are probably now going to pan us ami_da_15
+B 1336.29 but there we go . ami_da_16
+A 1341.33 Okay . ami_da_9
+C 1342.16 Yeah . ami_da_9
+C 1345.25 Sure . ami_da_9
+C 1349.01 Okay . ami_da_9
+C 1350.33 Okay . ami_da_9
+C 1351.94 So ami_da_2
+C 1351.94 Right okay . ami_da_9
+B 1353.81 Just to give you an idea , you want to go maybe a bit quickly as well , ami_da_6
+B 1353.81 I am not sure how much time . ami_da_4
+B 1358.67 We have not hit the five minute mark warning yet , ami_da_4
+B 1358.67 but . ami_da_3
+C 1361.18 Okay . ami_da_9
+B 1363.51 Ten . ami_da_12
+C 1363.92 Okay . ami_da_2
+C 1364.51 Ability to stop remotes from being lost or to find them once they are lost . ami_da_11
+C 1370.31 Okay . ami_da_2
+D 1370.49 Special colour . ami_da_4
+C 1371.63 Special colour . ami_da_12
+B 1372.87 four ? ami_da_9
+B 1372.87 Three ? . ami_da_9
+C 1373.7 four . ami_da_12
+C 1377.65 Three if we are being generous , I feel . ami_da_9
+A 1377.97 Three . ami_da_9
+A 1379.09 I think we can do three . ami_da_9
+D 1380.5 Three . ami_da_9
+C 1380.92 Think we are being generous here with three . ami_da_9
+A 1381.54 Th the special colour does not would I think make a difference . ami_da_4
+A 1384.37 It makes it stand out ami_da_4
+A 1384.37 from ami_da_3
+A 1384.37 you know ami_da_2
+A 1384.37 it is lost in a big pile of crap , it stands out from the rest of the crap . ami_da_4
+C 1389.61 Yeah . ami_da_9
+B 1390.84 Okay . ami_da_1
+C 1391.1 Okay . ami_da_9
+C 1392.02 Reduce the number of unused buttons . ami_da_11
+C 1393.73 We are down to t two buttons , ami_da_4
+C 1393.73 is it ? ami_da_11
+C 1393.73 Okay , ami_da_2
+C 1393.73 so that is a one . ami_da_9
+B 1395.62 Two buttons . ami_da_9
+A 1395.64 Two buttons and a joystick . ami_da_9
+C 1397.97 You know , ami_da_2
+C 1397.97 where that is ami_da_3
+C 1397.97 Okay , ami_da_2
+C 1397.97 that was good . ami_da_9
+A 1398.6 Totally . ami_da_9
+B 1398.94 Yeah . ami_da_9
+B 1399.73 I would say we are doing well there . ami_da_9
+C 1402.78 Easy to use interface , buttons menu , menus ami_da_11
+C 1402.78 that is ami_da_3
+C 1402.78 yeah ami_da_2
+C 1402.78 that is good . ami_da_9
+C 1408.98 Okay ami_da_2
+C 1408.98 that is ami_da_3
+C 1408.98 we are not doing so badly . ami_da_9
+C 1410.97 easy to use ami_da_3
+C 1410.97 oh okay , ami_da_2
+C 1410.97 let is forget that one . ami_da_6
+C 1415.52 Fancy looking . ami_da_11
+B 1418.65 As he models the I would ami_da_3
+B 1418.65 Yeah . ami_da_1
+A 1418.77 It does not get much fancier . ami_da_9
+C 1420.37 Sure . ami_da_9
+C 1420.91 And we could do whatever we like with the L LCD . ami_da_4
+C 1424.32 Yeah ami_da_9
+C 1424.32 let is just assume it is a good LCD display . ami_da_6
+C 1427.24 Maybe I was panicking for no reason . ami_da_14
+D 1428.4 Are we going one on ? ami_da_5
+D 1428.4 I would say we go two , ami_da_9
+D 1428.4 because like f the fanciest would be the double curved . ami_da_4
+C 1436.04 Yeah , ami_da_9
+C 1436.04 w maybe you would be a bit too ami_da_3
+C 1436.04 yeah . ami_da_9
+D 1436.13 Would not it ? ami_da_11
+D 1436.13 With the articulators . ami_da_9
+C 1439.28 There we go . ami_da_9
+C 1439.92 Yeah , ami_da_9
+C 1439.92 that is m ami_da_3
+C 1439.92 that is that is better too . ami_da_9
+D 1440.03 With bells on it . ami_da_9
+C 1445.19 More accurate numbers . ami_da_9
+C 1446.89 Technologically innovative . ami_da_11
+C 1449.85 Well , ami_da_2
+C 1449.85 we are getting rid of the locator thing ami_da_6
+C 1449.85 which which ami_da_3
+C 1449.85 yeah ami_da_9
+B 1452.52 Which is a shame . ami_da_9
+A 1455.52 I would give it a three for this for that . ami_da_9
+D 1455.7 No need for teletext . ami_da_4
+A 1458.97 Yeah . ami_da_4
+A 1460.01 I mean the menus thing is something you do not normally see on on a remote , but you see it in a lot of other places . ami_da_4
+C 1460.09 Okay . ami_da_1
+C 1472.2 Yeah , ami_da_9
+C 1472.2 mobile phones . ami_da_4
+C 1474.25 And y what you are doing is moving the menu from the television to the remote control , ami_da_4
+C 1474.25 so it is ami_da_3
+C 1474.25 You say three ? ami_da_5
+C 1474.25 I might go as far as two on that . ami_da_9
+C 1483.35 Three . ami_da_16
+A 1484.61 I would give it a three . ami_da_9
+B 1484.85 I would be tempted with three , yeah . ami_da_9
+C 1486.49 Three . ami_da_12
+C 1487.05 Okay . ami_da_9
+C 1489.87 Okay . ami_da_2
+B 1489.97 We will get panned on the next one , anyway . ami_da_9
+C 1492.19 Materials that people find pleasing . ami_da_11
+C 1494.78 Sponginess is what they really would have wanted , apparently . ami_da_4
+B 1494.82 Yeah , ami_da_2
+B 1494.82 w ami_da_3
+B 1494.82 It is , yeah . ami_da_9
+B 1498.44 Do not blame them . ami_da_14
+B 1499.83 because of the way that we have minimalised the number of buttons and such . ami_da_4
+C 1505.56 Yeah . ami_da_1
+B 1507.29 Plastic , it sucks . ami_da_9
+B 1508.94 But it is no worse than any of the other pl remote controls we have . ami_da_9
+C 1512.31 That is true . ami_da_9
+C 1512.99 It is not a step backwards . ami_da_9
+D 1516.03 five ? ami_da_9
+D 1516.03 Six ? ami_da_9
+D 1516.03 Six , . ami_da_9
+A 1516.91 I would s I ami_da_9
+A 1516.91 I would give it a six , to be honest . ami_da_9
+C 1520.28 Yeah , okay let is give it a six . ami_da_9
+C 1524.22 Okay , ami_da_2
+C 1524.22 that is totally thrown everything off balance . ami_da_9
+C 1527.66 Inspired by the latest interior and clothing fashion . ami_da_11
+C 1530.48 W we could . ami_da_3
+C 1531.72 What colour were we going to make it ? ami_da_8
+C 1531.72 I know , ami_da_12
+C 1531.72 but ami_da_3
+C 1531.72 But by this I think it is more a case of fruit and veg , ami_da_4
+C 1531.72 Yeah . ami_da_1
+D 1532.74 Put a leopard print on it . ami_da_6
+A 1533.86 Well ami_da_2
+A 1533.86 I ami_da_6
+A 1533.86 I ami_da_6
+A 1533.86 I would sa ami_da_6
+A 1533.86 I would say give a s give a selection of colours . ami_da_6
+A 1538.54 we went with yellow ami_da_4
+A 1538.54 we went with yellow for the prototype because we had yellow . ami_da_4
+A 1543.01 If I were buying one , I would go for purple . ami_da_6
+A 1545.65 Leopard print would be cool . ami_da_6
+D 1550.42 Yeah ami_da_2
+D 1550.42 we gotta . ami_da_3
+D 1551.06 I would say the colour of the border there world you would find that , that is that would stand out . ami_da_4
+B 1558.53 Like yellow , ami_da_6
+B 1558.53 yeah . ami_da_9
+B 1559.23 It would also help keep the the product placement ami_da_4
+B 1559.23 s ami_da_3
+B 1559.23 yeah . ami_da_9
+D 1562.96 Logo , brand . ami_da_4
+D 1565.71 okay . ami_da_1
+C 1565.77 But Th th they are referring to the fruit and veg thing . ami_da_4
+B 1565.83 Is it inspired by clothing fashion ? ami_da_5
+B 1565.83 Yes . ami_da_2
+C 1573.69 Is this like a banana type colour ? ami_da_5
+C 1573.69 Could we stretch ami_da_11
+C 1573.69 no still , ami_da_9
+C 1573.69 it is not shaped like a banana is ami_da_4
+C 1573.69 Oh ami_da_2
+C 1573.69 is that because it is flat ? ami_da_5
+C 1573.69 What is what fruit or veg is flat ? ami_da_5
+C 1573.69 Yeah . ami_da_9
+B 1579.7 It is kind o it ami_da_3
+B 1579.7 probably ami_da_9
+B 1579.7 Well ami_da_2
+B 1579.7 I mean it is probably more fruit and veg than most other things out there bar fruit and veg , ami_da_9
+B 1579.7 so , what , four ? ami_da_11
+B 1579.7 Is that being too generous ? ami_da_5
+B 1579.7 Oh dear , . ami_da_3
+A 1580.02 That is kind of i ami_da_3
+A 1580.02 it wo not be when it is been budgeted . ami_da_4
+A 1589.72 I ami_da_4
+A 1589.72 I think s ami_da_4
+A 1589.72 I ami_da_4
+A 1589.72 I think this is not not particularly fruit and veggie . ami_da_4
+C 1596.14 Or we might have to suffer badly for this one as well . ami_da_9
+D 1597.81 Yellow courgette . ami_da_4
+C 1610.07 Four ? ami_da_12
+C 1610.07 Oh that is it is very ambitious , ami_da_9
+C 1610.07 yeah , . ami_da_4
+A 1614.29 I would I would I do not think fruit and veg is the sole criterion . ami_da_4
+C 1619.05 Sure . ami_da_1
+A 1619.66 Is the sole criterion for being fashion fashionable or inspired by current fashions . ami_da_4
+C 1622.8 Inspired by . ami_da_3
+A 1626.76 I would g ami_da_9
+A 1626.76 I would rate I would rate this fairly highly from that point of view actually . ami_da_9
+D 1631.72 Well ami_da_2
+D 1631.72 this this what we are going to t this is their motto , like . ami_da_4
+C 1634.73 Yeah . ami_da_9
+D 1635.3 And we are we are not doing well on it . ami_da_9
+C 1636.62 This is their strategy . ami_da_4
+C 1638.79 I m imagine we actually had some money invested in this ami_da_6
+C 1638.79 and the amount that we invest is going to be proportional to the marks . ami_da_4
+C 1645.56 Might we might want to be a bit more skepible sceptical about this one . ami_da_6
+B 1653.52 What would you think yourself ? ami_da_11
+B 1653.52 Well , ami_da_2
+B 1653.52 it is kind of curved ami_da_4
+B 1653.52 and we can make it yellow , ami_da_6
+B 1653.52 and that is pretty much banana like . ami_da_9
+C 1654.84 I would say ami_da_3
+C 1654.84 I mean it is it is not at all , right ? ami_da_9
+C 1654.84 In any way or shape or form . ami_da_9
+C 1662.87 We did not m ami_da_3
+C 1662.87 Okay , the the yellow banana like thing is I think is okay . ami_da_9
+B 1671.52 Si ami_da_3
+B 1671.52 it is got a curve to it . ami_da_4
+C 1673.67 Right ami_da_2
+C 1673.67 five . ami_da_9
+C 1674.48 Is that sound reasonable ? ami_da_11
+C 1674.48 Five . ami_da_12
+B 1677.63 Am I ami_da_3
+B 1677.63 do you think I am stretching the the use of the banana ? ami_da_11
+B 1677.63 It is not bad ami_da_9
+B 1677.63 and considering the ami_da_3
+B 1677.63 do not pick the pen . ami_da_15
+D 1677.85 Yeah , I will go with five . ami_da_9
+C 1681.24 Yeah . ami_da_9
+C 1686.73 Okay , so ami_da_2
+C 1686.73 we have one , two , three , four , five , six , seven . ami_da_16
+C 1693.73 So five , seven , ten , sixteen , twenty one . ami_da_16
+C 1699.66 Which gives us an average of three . ami_da_4
+C 1703.44 It is ami_da_3
+C 1703.44 well ami_da_2
+C 1703.44 this would be in the middle . ami_da_4
+C 1707.71 So we ami_da_3
+C 1707.71 it is it is not bad . ami_da_9
+C 1710.84 It is in the good section . ami_da_9
+C 1717.69 Oops . ami_da_16
+C 1718.3 Sorry . ami_da_14
+C 1720.55 I am I am sorry . ami_da_14
+B 1723.16 Y ami_da_3
+B 1723.16 oh and you have knocked batteries out . ami_da_15
+B 1726.84 right okay ami_da_2
+B 1726.84 it is ami_da_3
+B 1726.84 considering the price we had to get this in , to have a positive you know , even based on the four of us being heavily biased , it was going to be quite hard to get anything standing out I would say possibly , based on the the cost features . ami_da_9
+D 1727.39 Is bad design , that thing . ami_da_9
+C 1739.87 Yeah . ami_da_1
+D 1754.0 , yeah . ami_da_9
+C 1754.79 Even if we were to increase this entire thing by by seven , we were to go down a grade to to four , ami_da_4
+C 1754.79 we would have to do ami_da_3
+C 1754.79 I mean we did not ami_da_3
+C 1754.79 we were not that kind of optimistic too optim overly optimistic . ami_da_4
+C 1769.71 You know like ami_da_2
+C 1769.71 we did not we did not add ami_da_3
+C 1769.71 we did not subtract a whole seven points from these things , ami_da_4
+C 1769.71 so I think we are definitely on the good bit . ami_da_9
+C 1776.72 Even if we gave this one seven and this one seven , that is still only three extra points over seven . ami_da_4
+C 1783.33 You know , ami_da_2
+C 1783.33 it is ami_da_3
+C 1783.33 yeah , ami_da_2
+C 1783.33 we did it w ami_da_3
+C 1783.33 it was okay . ami_da_9
+C 1786.37 It was good . ami_da_9
+A 1787.56 Personally , I think given that the product only replaces a single remote control that you have already got , ami_da_4
+A 1787.56 are people really going to shell out twenty five Euros for something that is only marginally good ? ami_da_5
+D 1812.54 Well , ami_da_2
+D 1812.54 it depends who your who is what the target people are , like you would say maybe the fashion conscious women would be going , oh look at that , is cool , ami_da_4
+D 1812.54 it looks like a ami_da_3
+D 1812.54 it is yellow , looks like a banana , it is cool ami_da_4
+D 1812.54 it is gotta look good in the sitting room . ami_da_4
+B 1824.2 Maybe it is been targeted ami_da_3
+B 1824.2 Hide it in the fruit basket . ami_da_14
+D 1835.06 Rather than the LCD ami_da_3
+D 1835.06 whereas more technical like like more people in with the latest technology it is good , it is got an LCD screen is only got two buttons and a joystick . ami_da_4
+D 1850.07 So , ami_da_2
+D 1850.07 which which kind of people would be more likely to buy it ? ami_da_5
+B 1857.76 Probably the people technologically . ami_da_4
+B 1859.27 They are usually the ones that buy pointless stuff . ami_da_4
+C 1861.17 I think so . ami_da_9
+C 1862.55 I mean my mum still has not learnt how to use text messaging on her phone , and she is had it for a long time , ami_da_4
+C 1862.55 you know . ami_da_13
+C 1868.97 She uses it to make phone calls and that is it . ami_da_4
+C 1872.92 Yeah . ami_da_2
+C 1873.88 So ami_da_2
+C 1873.88 I think if sh if my mum saw a remote control like this with only two buttons and a joystick , I mean that will probably be the first one she decides not to buy , ami_da_4
+C 1873.88 you know . ami_da_13
+C 1883.54 She would be like is this a remote control , ami_da_4
+C 1883.54 I do not ami_da_3
+C 1883.54 how do you use it , and stuff like that . ami_da_4
+C 1887.96 So even if it is really user friendly to us , but we are used to using menus all the time . ami_da_4
+A 1894.5 I s ami_da_4
+A 1894.5 I suppose one thing is that b because it is technically innovative , for someone who is sort of technophobic , the fact that it simply looks unfamiliar would be daunting . ami_da_4
+C 1906.56 Yeah . ami_da_9
+C 1908.69 Yeah . ami_da_9
+C 1909.27 I think it is totally radical to have a remote control with no no numbered buttons , ami_da_9
+C 1909.27 yeah . ami_da_9
+D 1912.62 Yeah . ami_da_9
+D 1914.31 Yeah . ami_da_1
+C 1916.18 But like radical good , maybe . ami_da_9
+B 1918.85 Okay . ami_da_2
+B 1919.4 do not know how lo much longer we have got . ami_da_5
+B 1921.81 At least five minutes I think . ami_da_4
+B 1923.78 quickly we will pop onto project evaluation . ami_da_6
+B 1930.74 So , ami_da_2
+B 1930.74 we have got these four criteria here for satisfaction . ami_da_4
+B 1940.05 Does anybody want to do you have any opinions on any of them ? ami_da_11
+B 1940.05 For example we will work backwards I suppose . ami_da_6
+B 1950.53 The ability to work on this project using the technology we have been presented with . ami_da_11
+B 1956.79 people made good use of the pen and paper ? ami_da_5
+B 1956.79 I would say ami_da_3
+B 1956.79 I am not quite sure what the advantage for us using a digital pen might be . ami_da_5
+A 1964.5 Yeah , got notes and doodles . ami_da_4
+D 1965.57 Yeah . ami_da_1
+C 1967.32 Wrote nearly a page , ami_da_4
+C 1967.32 but not . ami_da_3
+C 1975.94 I think tracking . ami_da_4
+A 1976.24 Well ami_da_2
+A 1976.24 I think this is a ami_da_4
+A 1976.24 I think the digital pen is mostly for the benefit of the of the researchers studying this . ami_da_4
+A 1982.31 It is all p goes into their corpus . ami_da_4
+A 1984.93 Though it would have been nice to be able to transfer the transfer our n our paper notes onto the computer ourselves . ami_da_6
+B 1984.93 It must ami_da_3
+B 1984.93 It does seem like the paper is still a heavy consideration for taking notes . ami_da_4
+C 1994.58 Yeah , that woulda been pretty good . ami_da_9
+B 2001.85 So maybe this is literally just a way around it . ami_da_4
+B 2003.73 I dunno . ami_da_9
+B 2007.66 How are people satisfied with the teamwork we have managed to display today ? ami_da_11
+B 2007.66 Leadership . ami_da_11
+D 2012.83 Good . ami_da_9
+C 2013.18 I would ami_da_3
+C 2013.18 yeah ami_da_9
+C 2013.18 I liked it , yeah . ami_da_9
+B 2020.98 As much as can be leadered in this thing . ami_da_11
+D 2023.56 Very good . ami_da_9
+C 2024.3 I li ami_da_3
+C 2024.3 yeah , top marks . ami_da_9
+B 2027.02 last one we have got is room for creativity . ami_da_11
+C 2030.56 Well yeah . ami_da_2
+B 2030.8 Now , ami_da_2
+B 2030.8 I think we got ami_da_3
+B 2030.8 Yeah ami_da_9
+B 2030.8 I think of in the end , ideas that can be used sadly . ami_da_3
+A 2031.55 Unti until until accounts came along , squish . ami_da_9
+D 2036.24 We are burs bursting with creativity . ami_da_15
+C 2039.4 We we are not lacking in ideas , ami_da_4
+C 2039.4 you know ami_da_2
+C 2039.4 it is ami_da_3
+C 2039.4 that was not the problem . ami_da_9
+B 2051.72 Not so much that we were not full of ideas , but of ones that are going to allow us to actually build the thing . ami_da_4
+B 2057.02 It is a bit of a pity . ami_da_9
+B 2058.55 I would have to agree on that . ami_da_9
+B 2061.48 I think we needed a larger budget . ami_da_9
+C 2063.46 Yeah . ami_da_9
+B 2064.1 If you are going to aim your a product maybe at the technological kind of sector , then you can afford to maybe jack the price up slightly from what it is . ami_da_6
+B 2072.67 Because they will pay outrageous cash to first on the market . ami_da_4
+A 2072.75 Yeah . ami_da_1
+A 2076.32 I mean I th ami_da_4
+A 2076.32 I mean I think to r retaining the s the more sort of bio morphic form in the articulation would gain more in s would gain more profit in sales than it would lose in in added expense . ami_da_4
+D 2096.37 And the price was like it was twice the w assembly cost . ami_da_4
+D 2102.56 And would it have to be twice that ? ami_da_5
+D 2102.56 It could be like coulda had the assembly like maybe fifteen Euro . ami_da_6
+B 2112.14 It could even ami_da_3
+B 2112.14 That is true , yeah . ami_da_9
+D 2112.2 We will still settle for twenty five . ami_da_6
+D 2115.31 Maybe . ami_da_9
+B 2116.78 I suppose these are all that will have to be taken up with a at a different group at I guess . ami_da_6
+B 2123.73 As to a the costs involved . ami_da_6
+B 2128.5 But I mean we have got a a prototype . ami_da_4
+A 2133.87 Such as it is . ami_da_9
+B 2136.46 So ami_da_2
+B 2136.46 I dunno , I ami_da_9
+B 2136.46 I think it is gone okay today , considering the information that we have had at our disposal , and such . ami_da_9
+C 2143.84 Maybe the counts wou woulda been better if we had a list or more ami_da_6
+C 2143.84 Yeah , to begin with . ami_da_6
+C 2150.68 Yeah . ami_da_9
+B 2152.21 Probably would have ami_da_3
+B 2152.21 mean we could have come up with a lot more solid design in the end , ami_da_4
+B 2152.21 I would have to agree . ami_da_9
+C 2155.22 Yeah . ami_da_9
+B 2157.56 It is very much a pity to get so far into the stage and then find out that maybe some of your ideas are just a bit too expensive . ami_da_9
+B 2167.6 Always hard to tell until you know the costs . ami_da_4
+B 2175.58 Okay . ami_da_2
+B 2178.07 Are the costs within budget ? ami_da_5
+B 2178.07 Well , ami_da_2
+B 2178.07 they are now ami_da_4
+B 2178.07 that we have our slightly less than capable product . ami_da_9
+C 2184.58 Okay . ami_da_1
+B 2185.56 We have evaluated it , and we can say that we came out with a value of three . ami_da_4
+C 2190.07 Yeah . ami_da_1
+A 2192.0 Actually I want th ami_da_3
+A 2192.0 one thing I would say ami_da_7
+A 2192.0 I mean something that could perhaps be part of the product the m product testing market research process would be to produce mock ups of both versions and see just how much of a difference the over going over budget m would make to sales . ami_da_6
+B 2215.04 It is ami_da_3
+B 2215.04 yeah ? ami_da_9
+B 2215.04 And then the final one where you get to call it Hal . ami_da_14
+C 2216.09 And like response from consumers . ami_da_3
+A 2218.53 And we could even you know , market two versions . ami_da_6
+A 2225.49 Wee cheapie version with the nice bio morphic rubber . ami_da_6
+B 2234.89 But we will go into that later . ami_da_6
+A 2235.01 Yes . ami_da_9
+C 2236.14 Sure . ami_da_1
+B 2237.58 Right ami_da_2
+B 2237.58 is there anything else that anybody would like to to add , anything they think that is not been covered , ami_da_5
+B 2237.58 before I quickly write up a final report . ami_da_7
+B 2254.82 I dunno , ami_da_9
+B 2254.82 I mean we have got a product . ami_da_4
+B 2257.89 We maybe are not as happy with it as we would like to be , ami_da_9
+B 2257.89 but we have got something we think we can maybe stick onto the the market and sell . ami_da_4
+B 2268.45 And of course something we have been avoiding talking about because of we have no information is selling them directly to the manufacturers . ami_da_4
+C 2275.32 Yeah . ami_da_1
+B 2275.56 There is a huge market . ami_da_4
+B 2276.41 I mean we have briefly touched on it ami_da_4
+B 2276.41 but we have no more knowledge ami_da_4
+B 2276.41 then there is little we can say on that . ami_da_4
+C 2280.28 Yeah . ami_da_1
+B 2286.78 Yeah . ami_da_2
+B 2289.79 So ami_da_2
+B 2289.79 unless anybody is got anything they would like to add , we can maybe round this up slightly earlier than we would need to ami_da_6
+B 2289.79 and then we can finish up the writing and such . ami_da_6
+A 2300.47 And I can get my bus . ami_da_7
+B 2303.99 Yeah ? ami_da_11
+B 2303.99 thank you for your participation . ami_da_14
+A 2304.4 Okay . ami_da_9
+C 2304.42 Yeah . ami_da_9
+C 2306.62 Okay , let is ami_da_9
+C 2306.62 Thank you . ami_da_14
+C 2318.76 I was actually kind of upset you know at the budget , and that we had to cut a lot of stuff . ami_da_9
+C 2324.66 It is like man , we we ca not have the locator thing . ami_da_4
+C 2328.95 And s ami_da_3
+C 2328.95 yeah that is just bad . ami_da_9

@@ -1,0 +1,423 @@
+A 34.27 Here we go . ami_da_4
+A 37.14 Welcome everybody . ami_da_14
+A 39.15 , I am Abigail Claflin . ami_da_4
+A 43.32 You can call me Abbie . ami_da_6
+A 46.43 Is see . ami_da_16
+A 47.63 PowerPoint , that is not it . ami_da_16
+A 50.2 There we go . ami_da_16
+A 51.33 So this is our kick off meeting . ami_da_4
+A 55.53 and I guess we should all get acquainted . ami_da_4
+A 62.17 Let is shall we all introduce ourselves ? ami_da_6
+A 62.17 I think we will get around to that , yeah . ami_da_9
+D 65.0 Hi I am Chiara , I am the Marketing Expert . ami_da_4
+D 70.04 , would you like me to talk about my aims at the moment , or would you like me to just say my name ami_da_11
+D 70.04 and then we can talk about business later ? ami_da_11
+D 70.04 We will get round to that later . ami_da_9
+A 78.99 So this is just introductions ami_da_4
+A 78.99 yeah . ami_da_4
+D 80.51 My name is Chiara and I am the Marketing Expert . ami_da_4
+A 82.98 Okay . ami_da_9
+A 83.64 I forgot to s say I am the Project Manager ami_da_4
+A 83.64 but I figured you all knew that already , ami_da_4
+A 83.64 so . ami_da_2
+C 89.02 I am Stephanie and I am the User Interface Designer . ami_da_4
+B 93.94 I am Krista and I am the Industrial Designer . ami_da_4
+A 96.02 Okay . ami_da_9
+A 98.26 so f here is our agenda for today . ami_da_4
+A 102.23 we are going to do some tool training , project plan and discuss then close . ami_da_4
+A 111.99 so . ami_da_2
+A 116.57 So our aim is to produce a remote control that is original , trendy and user friendly . ami_da_4
+A 124.27 And to do this , we have to there is certain things we have to consider about functional aspects and conceptual design of the thing . ami_da_4
+A 135.79 So . ami_da_2
+A 137.29 We will get to that . ami_da_4
+A 139.55 Oh there it is . ami_da_16
+A 140.41 Right . ami_da_4
+A 141.19 Functional design , conceptual design and detailed design . ami_da_4
+A 144.35 So throughout our next couple of meetings we will we will be covering these things . ami_da_4
+A 150.87 so we are going to try out our white board . ami_da_4
+A 157.03 If we will all draw our favourite animal , to sum up the characteristics of that animal . ami_da_4
+C 166.81 So you want us to draw it and then talk about it ? ami_da_5
+C 166.81 Or just draw it ? ami_da_5
+C 166.81 Okay . ami_da_9
+A 166.85 Okay . ami_da_1
+D 172.05 I think both . ami_da_4
+A 173.16 Yeah . ami_da_9
+C 173.91 Why do not we do both . ami_da_9
+A 174.02 Both . ami_da_9
+A 174.84 Yeah . ami_da_9
+D 175.8 Who starts ? ami_da_5
+D 175.8 We ought to decide who starts and all that . ami_da_6
+C 175.93 Right . ami_da_9
+D 180.01 No ? ami_da_11
+D 180.01 Uh huh . ami_da_1
+A 180.64 Any volunteers ? ami_da_8
+A 180.64 Does anyone know what they want to draw ? ami_da_8
+A 180.64 I do not think so . ami_da_4
+C 184.17 , I gotta think about it for a second like . ami_da_7
+C 186.7 Does it have to be functional , trendy and user friendly ? ami_da_5
+C 200.05 Okay , I will draw . ami_da_7
+C 200.66 I will draw one . ami_da_7
+C 203.5 Make sure my things here . ami_da_16
+C 220.69 Uh oh . ami_da_16
+C 229.48 Right . ami_da_2
+C 239.31 Okay , my favourite animal is ami_da_4
+C 239.31 see . ami_da_16
+C 261.76 Oops . ami_da_16
+A 265.48 A dolphin . ami_da_4
+C 266.6 Yeah , it is ami_da_9
+C 266.6 Yeah , I guess it has a fin on top too , yeah . ami_da_4
+A 269.33 Is like playing Pictionary . ami_da_9
+C 279.83 It is my dolphin . ami_da_4
+A 280.98 So what characteristics do you like about your animal ? ami_da_5
+A 280.98 They are graceful . ami_da_4
+C 284.36 I like its tail . ami_da_4
+C 286.18 , no , I think dolphins are really I dunno , they are smart and ami_da_4
+C 286.18 they they are cute and they like swimming and that is cool , like ami_da_4
+C 286.18 they are graceful ami_da_9
+C 286.18 yeah , ami_da_9
+C 286.18 and they are so ami_da_3
+C 286.18 Yeah they are sleek ami_da_9
+C 286.18 and they look intelligent ami_da_4
+C 286.18 and I do not know , they are ami_da_2
+C 286.18 I guess it is the whole like binocular vision thing . ami_da_4
+A 302.85 Sleek . ami_da_4
+A 309.22 I do not know how intelligent that one looks . ami_da_14
+C 311.39 Yeah he he does not look that smart . ami_da_9
+C 314.42 He is a I dunno they are ami_da_2
+C 314.42 I think it is cool the the the interaction ami_da_4
+C 314.42 that or the th things that the reasons people seem to like you know you get ex ami_da_4
+C 314.42 you know people are sitting on the beach and ami_da_4
+C 314.42 p they are like ami_da_4
+C 314.42 oh look ami_da_4
+C 314.42 there is dolphins and it is kind of like ami_da_4
+C 314.42 but they are ami_da_4
+C 314.42 you know they jump around in the water ami_da_4
+C 314.42 and they are happy ami_da_4
+C 314.42 and they are mammals , but they swim . ami_da_4
+A 338.96 Yes . ami_da_1
+A 339.12 Does anybody else want to draw their animal ? ami_da_8
+B 346.66 Suppose I can draw an animal , yeah . ami_da_7
+A 376.08 Uh oh there goes the ten . ami_da_9
+A 379.03 It is a cat . ami_da_4
+B 379.95 Yeah . ami_da_4
+B 386.04 I do not know . ami_da_2
+B 386.53 They sleep all day , they are easy to draw . ami_da_4
+A 394.66 Do you want to anything ? ami_da_8
+A 394.66 I dunno if the the ami_da_3
+D 395.22 yeah . ami_da_7
+D 396.26 Well I had the cat as well , but I have got a spare one . ami_da_4
+B 396.66 I think the pen is running out of ami_da_4
+B 396.66 Two million . ami_da_5
+D 401.49 So I will use the spare one . ami_da_7
+D 405.32 but it is harder to draw . ami_da_4
+C 408.26 And the pen is dying . ami_da_4
+A 414.06 A horse . ami_da_4
+C 414.39 Horse . ami_da_4
+D 419.01 I do not really know how the legs go , ami_da_4
+D 419.01 but anyway I will do that . ami_da_7
+A 421.19 That is very good . ami_da_9
+D 425.91 , and the main reason is they are pretty . ami_da_4
+D 429.69 I think they are very pretty and they go well with the environment , and I like the way they run ami_da_4
+D 429.69 and I used to do horse riding ami_da_4
+D 429.69 and they are just very sort of sturdy and nice animals . ami_da_4
+D 439.71 And I like the way they feel ami_da_4
+D 439.71 , sort of under under the hand , I think that is pretty much it . ami_da_4
+D 448.85 How many should we sell then ? ami_da_5
+D 448.85 , a lot , two two two million , two mi ami_da_4
+D 448.85 no , more f four million . ami_da_4
+A 450.4 Yeah . ami_da_1
+A 458.82 This cord is ami_da_4
+A 469.2 Right . ami_da_2
+A 470.69 Actually I have not thought of anything yet . ami_da_4
+A 474.12 It is a pig . ami_da_4
+A 491.62 So I am thinking we should design a remote control that is water resistant , strong and furry . ami_da_14
+A 498.73 What do you think , yeah ? ami_da_11
+A 498.73 This is ami_da_3
+A 498.73 yeah , well like a cat , you know , soft ami_da_9
+A 498.73 yeah . ami_da_9
+C 502.1 And furry . ami_da_14
+C 505.36 Textile tactile , tactile remote control . ami_da_9
+A 508.46 Although ami_da_3
+A 508.46 I will just put there . ami_da_16
+A 511.04 Right . ami_da_2
+C 515.09 You are dragging a you have a tail . ami_da_4
+A 517.2 Oh my gosh , this is disastrous . ami_da_9
+A 521.83 Sorry about that . ami_da_14
+A 525.5 Okay . ami_da_2
+A 527.26 So moving on . ami_da_4
+A 530.49 Our selling price goal is twenty five Euro and profit aim is fifty million Euro . ami_da_4
+A 539.18 So I am guessing that we are not actually in Scotland , we are in some European country . ami_da_4
+A 546.58 , and we will hope to sell this internationally . ami_da_4
+C 551.61 Sorry can you just say that what is the what are our price goals again ? ami_da_5
+C 551.61 Okay . ami_da_1
+A 555.49 selling price is twenty five Euro . ami_da_4
+A 558.88 Profit aim fifty million Euro . ami_da_4
+A 571.73 Anyone a mathematician ? ami_da_5
+A 571.73 So f that is a fifty percent . ami_da_4
+D 578.64 Four million . ami_da_4
+D 580.19 And it ami_da_2
+D 580.19 well it is the profit so if a profit for each is twelve fifty , that will do four million . ami_da_4
+B 584.77 Oh , yeah . ami_da_9
+D 597.77 It is a lot . ami_da_9
+A 619.56 , I do not know what these mean because I did not actually make the slide show . ami_da_4
+A 625.91 Experience with remote control . ami_da_4
+A 628.35 So I guess we have to reflect on our experiences with remote controls to decide what we would like to see in a convenient , practical , nice remote control . ami_da_6
+A 643.51 so do we have any initial ideas for how this remote control should be designed or formatted or the the buttons it should have . ami_da_8
+D 654.15 , I think one thing is that it should be easy to find ami_da_6
+D 654.15 bec yeah bec ami_da_3
+D 654.15 Yeah , ami_da_9
+D 654.15 yeah ami_da_9
+D 654.15 yeah ami_da_9
+D 654.15 yeah ami_da_9
+D 654.15 yeah . ami_da_9
+C 658.36 I was thinking that too . ami_da_4
+A 659.66 Yeah . ami_da_1
+C 659.66 I think we should design something that has like a ami_da_2
+C 659.66 so you can like somehow like you ami_da_2
+C 659.66 I mean you always know where your TV is , so just have a call button , ami_da_6
+C 659.66 I have always wanted that , ami_da_4
+C 659.66 so like you can push a button on your TV ami_da_6
+C 659.66 Yeah , ami_da_9
+C 659.66 yeah ami_da_9
+C 659.66 yeah ami_da_9
+C 659.66 yeah , ami_da_9
+C 659.66 so you should have a call button on your television to be able to find your remote control . ami_da_6
+A 668.26 Yeah . ami_da_9
+A 669.45 I mean you have it for the portable phone , so why not ami_da_9
+A 669.45 yeah . ami_da_9
+D 674.61 Yeah . ami_da_1
+D 676.52 And even I think a little light . ami_da_6
+D 678.82 or even a maybe a vib a vibrating thing . ami_da_6
+D 683.24 I dunno but someth because it is usually under the sofa . ami_da_4
+C 687.41 Yeah . ami_da_9
+D 687.55 In which case you are going to be l ami_da_3
+D 687.55 but if it has a sort of signal which is not any sound I do not know if it is expensive maybe to ami_da_4
+D 687.55 Maybe call is enough . ami_da_9
+C 688.06 Yeah . ami_da_9
+C 692.38 Yeah . ami_da_1
+C 693.94 I do not ami_da_3
+C 693.94 yeah ami_da_3
+C 693.94 I mean it ami_da_3
+C 693.94 but like ami_da_3
+C 693.94 I mean ami_da_3
+C 693.94 just I mean like your phone even just has so like it can vibrate , it can light up and make noise ami_da_4
+C 693.94 and I dunno ami_da_4
+D 696.45 But yeah . ami_da_16
+D 701.17 Yeah ami_da_9
+D 701.17 yeah ami_da_9
+D 701.17 yeah . ami_da_9
+D 704.23 Yeah . ami_da_1
+A 712.88 What if it had something like just like a magnet on the back of it ami_da_6
+A 712.88 and you could ami_da_2
+A 712.88 I mean j just to have some place to put it besides like a base . ami_da_4
+C 724.86 Yeah . ami_da_1
+A 725.17 You know like a portable phone has a base , like just to have a home for it . ami_da_4
+C 725.85 Yeah , ami_da_1
+C 725.85 or if it had a ami_da_3
+C 725.85 yeah . ami_da_1
+D 730.69 Yeah ami_da_9
+D 730.69 yeah ami_da_9
+D 730.69 yeah ami_da_9
+D 730.69 yeah . ami_da_9
+C 731.8 Yeah , ami_da_9
+C 731.8 I mean ami_da_3
+C 731.8 Yeah . ami_da_9
+A 732.56 Because people just stick it on top of their TV , but the point of having a remote is not to have to walk over to the TV , so ami_da_4
+A 732.56 Yeah . ami_da_1
+B 738.32 Well that is why it is always in the couch . ami_da_9
+C 739.79 Yeah , in in the couch . ami_da_9
+C 742.47 I dunno , it seems like though that that would be hard , because you not you are not going to be lazy anyway and ami_da_9
+C 742.47 Yeah so we the project is now couches and remote controls . ami_da_14
+A 745.76 Yeah . ami_da_1
+A 747.22 Maybe we should design couches that have the remote control in the side arm . ami_da_14
+D 751.96 But even just a thing to attach it to the w you know if you had a thing , a pretty object attached to the wall . ami_da_6
+D 757.78 But that would really make it more expensive . ami_da_9
+C 758.47 Yeah . ami_da_1
+D 760.21 But it is only a plastic thing , r really , the thing on the wall . ami_da_4
+C 763.74 Yeah . ami_da_1
+A 764.06 Yeah . ami_da_1
+D 765.42 Something like that . ami_da_4
+D 766.52 And the other thing is ami_da_3
+D 766.52 Not ami_da_2
+D 766.52 well it needs to be sort of ami_da_6
+D 766.52 Yeah . ami_da_9
+A 766.76 Do you think it needs to be bigger to not lose , or does that not factor in ? ami_da_11
+A 766.76 Like Hand ami_da_2
+A 766.76 hand held size , yeah . ami_da_9
+C 771.01 Bigger . ami_da_12
+C 774.43 Hand sized . ami_da_4
+D 776.03 I do not think you need a ami_da_9
+D 776.03 But definitely not well I do not know . ami_da_9
+A 777.62 Not not huge , but ami_da_9
+A 777.62 Huh . ami_da_1
+C 781.67 It ca not be that hard to put some kind of a noise on it . ami_da_4
+D 784.93 No , it ca not be , uh uh . ami_da_9
+B 785.67 No it really would not be . ami_da_9
+C 786.02 Or like or like a light thing . ami_da_6
+C 789.06 You know . ami_da_16
+C 790.07 I dunno ami_da_16
+D 790.56 Like spaceship . ami_da_6
+C 791.61 Yeah . ami_da_9
+D 792.88 Oh dear . ami_da_9
+C 793.03 Or make it mobile so it runs around and comes come find you ami_da_14
+C 793.03 yeah . ami_da_14
+C 798.65 That would be really ami_da_3
+C 798.65 I am sure we could do that for twenty five Euros a pop . ami_da_14
+A 800.95 Little homing device . ami_da_14
+C 802.76 Yeah . ami_da_9
+A 805.9 Okay . ami_da_2
+A 807.07 So what do we think this remote control should ami_da_3
+A 807.07 Five minutes . ami_da_4
+A 814.08 Till the meeting ami_da_16
+A 814.08 oh right . ami_da_16
+A 815.91 This is what we have left . ami_da_4
+C 818.79 I also think though that it should not have too many buttons , ami_da_6
+C 818.79 because I hate that when they have too many buttons and ami_da_9
+C 818.79 I mean I know it has to have enough functions ami_da_4
+C 818.79 but like , I do not know you , ami_da_4
+C 818.79 just have like eight thousand buttons and you are like , ami_da_4
+C 818.79 no , you never use half of them . ami_da_4
+A 819.02 , oh we just ami_da_3
+A 819.02 Yeah . ami_da_1
+B 822.2 Yeah , I agree . ami_da_9
+B 823.76 B button and the F button , they do not do anything . ami_da_4
+D 823.78 Yeah , ami_da_9
+D 823.78 yeah ami_da_9
+D 823.78 yeah . ami_da_9
+A 832.09 You ami_da_2
+A 832.09 what if may be a little fancy ami_da_9
+A 832.09 but what if it had like a little screen , so it has less buttons but it still has all the functions . ami_da_6
+C 832.24 So . ami_da_4
+C 841.87 That would be cool . ami_da_9
+A 842.32 Like the way a mobile phone does . ami_da_4
+D 842.58 Yeah . ami_da_1
+C 844.08 Yeah . ami_da_9
+C 845.57 I mean it just seems like ami_da_3
+C 845.57 yeah . ami_da_9
+A 846.74 So you could like like if you have I dunno if you have satellite if you have a hundred channels ami_da_4
+A 846.74 , you can the way you do it on your radio is that you ami_da_4
+A 846.74 what do you call it ami_da_5
+A 846.74 s y ami_da_4
+A 846.74 yeah ami_da_4
+A 846.74 but you can programme , ami_da_4
+A 846.74 so you can programme like your favourite channels , ami_da_6
+A 846.74 so like if you had a s ami_da_3
+A 846.74 That is something we could decide . ami_da_6
+D 855.47 Select . ami_da_4
+D 862.76 But , would you have the screen on the thing , or would you have it on the telly transmitting the screen . ami_da_8
+C 868.88 I guess they would go together somehow ? ami_da_9
+C 868.88 I dunno . ami_da_9
+D 868.88 Because ami_da_3
+D 868.88 Because , I do not know if it is ami_da_2
+D 868.88 I think it is e expensive , ami_da_4
+D 868.88 if you have ami_da_2
+D 868.88 if you use the telly screen , because the telly is already a screen , then you can pro sort of have a programming function , really easy sort of arrow up and down , on the remote , and then use the telly as a screen . ami_da_6
+A 877.82 Yeah . ami_da_1
+A 885.6 Yeah . ami_da_1
+A 889.78 Right . ami_da_9
+D 889.91 But ami_da_2
+D 889.91 But yeah for sure . ami_da_9
+C 892.85 I am thinking kind of ami_da_3
+C 892.85 Or like you h you see those you know people I am thinking of like celebrity cribs kind of things when like they have all those these things that at their house you know their their entire house is so electronic , and they have like this one master control that and it is like a hand held like turns on everything sort of control and it has like a screen and like ami_da_4
+C 892.85 so I think it should be possible to have some kind of a screen , ami_da_9
+C 892.85 I do not know if it must be it would probably ami_da_2
+C 892.85 must be ex too expensive though t like I dunno . ami_da_9
+D 894.09 Something like not it is not on the button but it is telling you what to do , ami_da_4
+D 894.09 is that what you mean ? ami_da_5
+D 894.09 Right . ami_da_9
+A 897.83 Yeah . ami_da_9
+A 898.82 Yeah . ami_da_4
+D 923.13 Yeah . ami_da_1
+D 927.84 But like mobile phones have screens and they are cheap . ami_da_4
+C 929.5 Yeah , ami_da_9
+C 929.5 yeah . ami_da_9
+C 930.77 Yeah that is true . ami_da_9
+A 930.78 Yeah . ami_da_9
+A 931.96 I mean , we have to remember our budget is twelve point twelve fifty for to actually make the device . ami_da_4
+D 935.17 Yeah . ami_da_1
+A 940.66 but it is something to think about , yeah . ami_da_9
+C 940.7 Well , I guess we have to get to that later , ami_da_6
+C 940.7 yeah . ami_da_6
+A 942.98 I mean we will have to see how much that would be . ami_da_6
+D 945.27 Or some it i ami_da_2
+D 945.27 we can find out probably on the internet how much it is ami_da_4
+A 948.6 Yeah . ami_da_1
+D 953.93 Yeah , ami_da_2
+D 953.93 and the other thing you said that thing about robust and water ami_da_4
+D 953.93 What was the word ? ami_da_5
+D 953.93 Water resistant . ami_da_4
+C 960.98 Furry . ami_da_4
+A 962.2 Oh I was just ami_da_3
+A 962.2 Yeah . ami_da_1
+D 963.79 No ami_da_2
+D 963.79 but it is ami_da_2
+D 963.79 I thought , , spot on . ami_da_9
+D 967.04 Good feel , tact tactile , good tactile feel , ami_da_6
+D 967.04 maybe something didn does not make your hands sweat lot . ami_da_6
+C 974.61 Yeah . ami_da_9
+D 975.78 That is quite annoying . ami_da_9
+A 980.74 Maybe just like a simple thing to have a clip on it , like so you can clip it to your ami_da_6
+A 980.74 like that is another ami_da_3
+C 986.93 Yeah . ami_da_9
+D 989.2 Yeah , clip . ami_da_9
+D 991.69 Ooh . ami_da_16
+A 999.35 We should probably start wrapping up , ami_da_6
+A 999.35 we have got some initial ideas that we can all look into . ami_da_4
+A 1005.45 , and come up with some new ones for the next meeting , ami_da_6
+A 1005.45 which will be in another thirty minutes . ami_da_4
+A 1014.97 So . ami_da_2
+A 1017.38 Yeah . ami_da_2
+A 1018.25 The Industrial Designer , ami_da_4
+A 1018.25 what does that stand for , ID , ami_da_5
+A 1018.25 yeah ami_da_9
+A 1018.25 is going to be looking more into the working design . ami_da_4
+B 1021.85 Yeah I think so . ami_da_4
+A 1026.76 So I guess you would be looking at lots of the things we discussed about screen and that sort of thing . ami_da_4
+A 1035.32 The something , ami_da_4
+A 1035.32 what is the UI ? ami_da_5
+A 1035.32 Yeah , what does it stand for again ? ami_da_5
+A 1035.32 User Interface Designer . ami_da_12
+B 1038.69 User . ami_da_4
+C 1039.55 That is me . ami_da_4
+C 1041.22 , User Interface design . ami_da_4
+A 1044.16 So that is going to be more technical . ami_da_4
+A 1048.85 I guess that maybe the working design has also to do with like the physical feat like just the way it looks and the way ami_da_4
+A 1048.85 it w ami_da_4
+A 1048.85 Yeah , ami_da_9
+A 1048.85 yeah . ami_da_9
+C 1055.07 So technical function . ami_da_4
+B 1056.53 The working design is the structure . ami_da_4
+C 1060.88 What is technical functions exactl ami_da_5
+C 1060.88 I I do not really know what ami_da_4
+C 1060.88 It does but ami_da_9
+C 1060.88 it I just do not really ami_da_9
+C 1060.88 Yeah . ami_da_1
+A 1063.89 , I guess you would have to find out . ami_da_6
+D 1067.15 It says on that email but it ami_da_4
+D 1067.15 It said It said ami_da_2
+D 1067.15 Yeah ami_da_9
+D 1067.15 like ami_da_3
+D 1067.15 Be a medium between you and the telly I think , ami_da_4
+D 1067.15 that is ami_da_3
+D 1067.15 Marketing . ami_da_4
+B 1068.68 It was in the email . ami_da_4
+B 1070.18 I wrote down what mine were . ami_da_4
+C 1075.1 What effect should the thing ha should it have , ami_da_4
+C 1075.1 okay . ami_da_9
+C 1078.71 Alright . ami_da_9
+C 1079.64 And working design . ami_da_4
+C 1080.64 Okay . ami_da_9
+C 1083.04 Yeah , ami_da_9
+C 1083.04 yeah . ami_da_9
+C 1084.35 Alright . ami_da_9
+C 1085.53 And how it works , ami_da_4
+C 1085.53 okay . ami_da_9
+C 1086.74 Right . ami_da_9
+A 1088.3 And the ME , what does that stand for ? ami_da_5
+A 1088.3 M ami_da_5
+A 1088.3 Marketing , right . ami_da_12
+D 1093.56 Oh it is written here , but . ami_da_4
+A 1096.93 So we will be working on the user requirements , ami_da_4
+A 1096.93 Yeah . ami_da_2
+A 1103.77 So I guess that wraps it up . ami_da_9
+A 1106.88 I will see you all in thirty minutes . ami_da_4

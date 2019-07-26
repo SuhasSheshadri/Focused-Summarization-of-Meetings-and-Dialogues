@@ -1,0 +1,209 @@
+C 34.29 Oops ami_da_16
+C 38.76 That is as far as it goes . ami_da_4
+A 49.14 Hi guys good morning everybody here . ami_da_14
+A 53.08 And I want to introduce myself , ami_da_7
+A 53.08 my name is Shrida Daseri and I am a project manager for this new project which we are going to discuss now . ami_da_4
+A 63.74 So I want to introduce first of all the names and the colleagues here . ami_da_6
+A 71.67 And what you are drawing ? ami_da_6
+A 71.67 how you spell your name ? ami_da_5
+A 71.67 ED okay . ami_da_12
+B 73.92 sure ami_da_9
+B 73.92 my name is Agnes and I am an user usability user interface designer . ami_da_4
+D 85.82 My name is Ed and I do accounting . ami_da_4
+D 89.97 ED . ami_da_4
+A 93.27 And ? ami_da_6
+A 93.27 So only accounting ? ami_da_5
+A 93.27 Okay . ami_da_1
+C 95.46 Do you also do marketing ? ami_da_5
+C 95.46 And I am Christine , and my role in this scenario is to be the industrial designer . ami_da_4
+D 97.12 No . ami_da_4
+D 100.86 Accounting , yes . ami_da_4
+A 102.84 And ? ami_da_6
+A 109.84 Industrial designer . ami_da_12
+C 111.59 But I am not really one . ami_da_4
+A 115.67 So who is marketing , nobody in the market ami_da_5
+A 115.67 It is you , okay . ami_da_9
+D 117.24 Marketing is , is me . ami_da_4
+A 121.56 So thanks for coming for the meeting first of all , ami_da_14
+A 121.56 and we have a long time , just twenty five minutes to discuss about this project and the the project initiation . ami_da_4
+A 135.12 First of all I want to ask Mister Ed about your marketing plan and your product plan and ami_da_6
+A 135.12 but do you already have like a functional design or a technical design or ami_da_5
+A 135.12 Oh for the moment not yet , okay , ami_da_9
+A 135.12 but what is what is your ami_da_3
+A 135.12 do you have some project plan , something with you or ami_da_5
+D 144.8 Well I think that we will see that throughout the day in how we are going to put this together as a marketing to to market the product . ami_da_4
+D 151.98 We will have to see on a through discussion on where we are going to go from here and from with this . ami_da_6
+D 161.25 for the moment not yet . ami_da_4
+D 172.15 Good question . ami_da_9
+D 173.93 No , this is like I said that we have to be discussed between all of us and we will go from there . ami_da_4
+D 177.47 We will have to simply we will have to work on it together . ami_da_4
+A 180.11 Okay , ami_da_12
+A 180.11 so by when you think you can give me some kind of project plan , okay , ami_da_5
+A 180.11 a discussion with ami_da_3
+A 180.11 By next meeting , okay that will be great . ami_da_9
+D 188.42 Certainly by the next meeting . ami_da_4
+A 197.58 Okay , ami_da_2
+A 197.58 so there is any questions or first of all about this project ? ami_da_5
+A 197.58 the goal of the project I think maybe I will hand out to the Ed , okay , so to explain what is the project because he is in the sales and the accounting . ami_da_6
+C 206.96 What is the goal of the project ? ami_da_5
+C 206.96 no , I I have not begun working on the design , ami_da_4
+C 206.96 and I ami_da_2
+C 206.96 I actually did not know we were designing a remote control , I thought we were designing a new monitor . ami_da_4
+D 218.24 I am in the sales I am supposed to explain them what to do . ami_da_9
+D 221.7 We have to define exactly what our product is , from From what I had in mind we are supposed to be marketing coffee , ami_da_4
+D 221.7 is that right ? ami_da_11
+D 221.7 Remote controls , ami_da_12
+D 221.7 because I had two different things . ami_da_4
+A 227.65 Yes , ami_da_9
+A 227.65 so can you explain what exactly the product is ? ami_da_6
+A 227.65 Oh I think , if I am not wrong , we are making the remote control . ami_da_4
+B 238.65 I was wondering ami_da_3
+D 244.26 I had a first part of mine was to make a remote control for a new f remote control for television , and afterward I had a discussion about coffee so ami_da_4
+D 244.26 we will start with the remote control for television then . ami_da_6
+A 253.76 Yes . ami_da_1
+D 258.07 So we are have to design something that is very user friendly . ami_da_4
+D 261.5 Something visual that has something that will will draw people to buy the product , because I think everybody is experienced with remote controls , and some remote controls are are worth throwing out the window . ami_da_4
+D 278.14 th most of them ar ami_da_3
+D 278.14 I do not know ami_da_2
+D 278.14 we are have to come up with a new idea on how to make it a lot easier to use , because a lot of times spend half a day through the instruction book trying to figure out how to use it . ami_da_4
+A 294.28 And what abo ami_da_3
+A 294.28 Christine , what about your the industrial design plan ? ami_da_8
+A 294.28 Are you have a design already on this product or you are still working on the design ? ami_da_5
+C 321.19 the website I went to look at had some announcements about an introduction of a some sort of a seven inch monitor , and I understood that that was the project goal . ami_da_4
+C 338.39 So I am glad I did not d do any work ahead of time because I clearly did not understand the project goal . ami_da_4
+A 345.98 Okay . ami_da_1
+C 346.55 I just did s see that we were starting a new project together and there was going to be a four member team composed of these people , and that is about that is ami_da_4
+C 346.55 and I I read through the different steps , and what my responsibilities were relative to the steps . ami_da_4
+A 363.76 So you will be leading the team for your design team or how many members is working in the team , for the design ? ami_da_5
+A 363.76 Yes . ami_da_4
+C 369.71 for the industrial design ? ami_da_5
+C 369.71 well , I would th think that depends on how much money you give us . ami_da_4
+A 376.23 Okay . ami_da_1
+A 377.53 That is ami_da_3
+A 377.53 Yeah , but before we talk about the finance , okay , do you have some idea how we can sell this product or project in the market and how much is going to benefit to the company and of course it is to the individual also . ami_da_8
+C 377.74 because , you know , you can you can make it you have different choices with different financial models . ami_da_4
+C 402.66 Well , you know , ami_da_2
+C 402.66 I kind of think that in general you have to do y ami_da_6
+C 402.66 you have to have something that is very fashionable ami_da_6
+C 402.66 , that is very attractive that people see and recognize its goal , and they immediately want to have it have one of their own . ami_da_6
+C 423.78 So it would really would need to ami_da_3
+C 423.78 something like the iPod would be good , seems to have caught on fairly well , ami_da_6
+C 423.78 so d ami_da_2
+C 423.78 you know , I do not care what it does , just so it looks cool . ami_da_4
+A 436.88 Okay , ami_da_2
+A 436.88 but when you think you can give me like a kind of design on the functional design or the technical design ? ami_da_5
+A 436.88 Yeah , ami_da_4
+A 436.88 but I need something in the writing , ami_da_4
+A 436.88 so like what is your functional design ami_da_6
+A 436.88 , what is your technical design , and how many people you need for this project , and what is the time frame you are looking , okay , and what is the budget , maybe initial budget you are looking , okay , and how is going to the market , okay , ami_da_6
+A 436.88 so you have you have had to meet with the marketing team and how they are going to market and what are the marketing strategic plan ami_da_6
+A 436.88 , okay , when are you going to introduce , okay , and by the time you introduce the product and you know there there would be a competition , ami_da_6
+A 436.88 okay , so I need some kind of the plan in the writing from you . ami_da_4
+C 447.86 Well , I have got a lot of other projects I am doing right now ami_da_4
+C 447.86 and so I will have to wait and see how those how those go . ami_da_4
+C 455.39 If they go quickly then it could be a month . ami_da_4
+C 458.77 If if I run into any problems in my other projects it might be six months . ami_da_4
+A 501.29 Okay , and it is po ami_da_3
+A 501.29 B as soon as possible . ami_da_4
+C 502.02 And when would you like that ? ami_da_5
+C 502.02 well if if we have enough time then d do you think two weeks is a is close enough ? ami_da_11
+C 502.02 are there other people who will be contributing to the plan ? ami_da_5
+C 502.02 Okay , I will get back to you on that . ami_da_4
+A 517.22 Yes I think that would be good , ami_da_9
+A 517.22 because I need to go to the management and tell them what we are going to do , and what cost is , okay , and what is the time frame and what is the project plan , because without any documentations , I cannot go to the management and say , so we are going to do this ami_da_4
+A 517.22 and we need this much money , ami_da_4
+A 517.22 okay , so then it is it is difficult for me to say , ami_da_4
+A 517.22 okay , that is the reason I need some kind of plan from you , initially , okay , then we can have the further discussion again . ami_da_4
+A 549.32 Yes , of course , ami_da_4
+A 549.32 if you need some help , so let me know . ami_da_6
+A 552.14 So , who are the people you need from the marketing or the technical side or the administration point of view , okay , to add in any documentation , or some technical point of view , so just let me know so I can coordinate all the teams . ami_da_6
+A 567.03 Yes . ami_da_9
+A 567.35 Thank you . ami_da_14
+A 568.12 Okay . ami_da_1
+A 568.94 And Ed so what is what do you think about this project for the remote control ami_da_11
+A 568.94 and d do you have some already planned something for your marketing strategy or the sales strategy ? ami_da_5
+D 581.18 Well not yet other than doing research and taking remote controls and looking what other companies have to do , what they are building , their designs , their ideas , also have to pinpoint which market we are going to go into . ami_da_4
+D 595.4 It should be a fairly large market because the number of people that the competition , ami_da_4
+D 595.4 th I agree it has to be something it has to be something new , ami_da_9
+D 595.4 it has to be something that that draws people saying eh , I like this . ami_da_4
+D 609.67 Whether it works or not , they have to first say I like this , I like the design , and then it is gotta be simple to use . ami_da_4
+A 615.16 Yes , so what I prefer maybe you need to interact more with the Christine , okay , ami_da_6
+A 615.16 because you know what she is going to do it , ami_da_4
+A 615.16 okay , ami_da_4
+A 615.16 and you know how to sell it . ami_da_4
+A 627.53 Okay , because she is doing the design , but you are the core because you are in the marketing , okay , so because you need to sell and you are the responsible for the all the money , the finance , okay , tomorrow . ami_da_4
+D 630.68 Yeah . ami_da_1
+A 639.16 So , what I prefer , okay , so you need to interact with the Christine more and within her team , okay , who is using the functional design or technical design , okay , and you need to come up with some kind of plan , okay , how we are going to do the your sales plan , okay , ami_da_6
+A 639.16 th Th ami_da_3
+A 639.16 That that is ami_da_3
+A 639.16 Yes , that is you have to decide , okay , ami_da_4
+A 639.16 so the best thing is you both of the Christine and you discuss with yourself , okay , and come up with the cost , and how we are going to compete in the market , okay , in the the technically , or in the sales wise , okay , the commercial wise , okay . ami_da_6
+D 654.66 Do we already have a cost limit on this , th an idea of how much we want to market this for , how much it is going to sell for ami_da_5
+D 654.66 , that is up that is up to us to decide , eh ? ami_da_5
+D 654.66 Very good . ami_da_9
+A 682.18 Then we have to design , okay , how long it will take the whole project , okay , how much is going to cost us , and how much we are going to benefit for the company . ami_da_4
+A 691.08 Okay , of course it is it is of benefit for everybody individually . ami_da_4
+A 696.53 Okay , so I think it is maybe if we can give me some kind of your the sales plan , okay , including the technical what she is going to talk to you within the team , okay , then it will help me to discuss with the management for further , okay , and put it in the the proper project plan . ami_da_6
+A 715.1 Okay , and if you need any coordination in between compared to the maybe the some technical vendors or commercial vendors , okay , depends if you want to have some marketing plan or technical plan , okay , so you let me know . ami_da_4
+A 728.85 Okay , I can coordinate , ami_da_4
+A 728.85 or maybe , you are my coordinator , am I right ? ami_da_5
+A 728.85 Between all the coor ami_da_3
+A 728.85 Yeah . ami_da_1
+D 729.44 Very good . ami_da_1
+B 737.41 Well , no , not exactly . ami_da_4
+B 739.14 I mean my job from what I understood was to look at the usability requirements and make sure that the product is usable , it is acceptable to the people who are going to use it and look at the best ways to do that . ami_da_4
+B 751.47 So I think I will have to interact with Christine and discuss with her , so that she is not designing something that my studies will show right off the bat that it is not going to work , ami_da_7
+B 751.47 and so it is sort of it is a loop that feeds in , but I do not think necessarily that I am in a coordinating position for it . ami_da_4
+A 753.58 Th Christine , yeah . ami_da_1
+A 757.93 Which is ami_da_3
+A 757.93 Yes . ami_da_1
+A 771.51 Yeah , so basically you need to interact with Christine more , okay , for the user acceptability , okay , and the testing , okay , ami_da_4
+A 771.51 then you will ami_da_3
+A 771.51 Yes . ami_da_1
+B 777.88 Yeah . ami_da_1
+B 780.68 Which will also feed into the marketing , because depending on what users want , depends on how you sell it , what tag lines you attach to it , how you try to make it more attractive to users . ami_da_4
+A 785.9 Yes . ami_da_1
+A 787.09 Yeah . ami_da_1
+A 788.97 Yeah . ami_da_1
+A 791.03 Yeah . ami_da_1
+B 791.63 So I think all three groups will need to interact quite a bit . ami_da_4
+B 797.2 , and then ami_da_2
+B 797.2 I guess build the plan based on all of that , ami_da_6
+B 797.2 because I think you need to take all the factors into account . ami_da_4
+A 805.18 Yep . ami_da_1
+A 805.79 But what I request , okay , keep Ed in the loop , okay , in between your meeting and Christine meeting , because he should know what is happening . ami_da_4
+B 808.72 Yeah , of course . ami_da_9
+B 814.28 Yeah , we can CC him on any discussions or documents that are passed around . ami_da_7
+A 815.11 Yes . ami_da_1
+A 815.83 Okay and please please copy all the mails , okay , all the discussions to me , okay , ami_da_6
+A 815.83 so I need to submit to the management . ami_da_4
+B 820.23 Sure . ami_da_9
+B 822.24 No problem . ami_da_9
+A 825.75 So any questions for time being ? ami_da_5
+A 825.75 Yes . ami_da_4
+B 834.51 So , the immediate next step is to start determining the functional design , or ami_da_5
+B 834.51 okay . ami_da_9
+A 841.59 Okay . ami_da_1
+A 843.81 To come up with the functional design and to discuss with Ed , okay , and how it is going to be work , and first of all with your user acceptance , okay , how it looks like and how it is going to be work in the market , ami_da_4
+A 843.81 okay , so then we can discuss about further things . ami_da_4
+B 859.6 Okay . ami_da_9
+A 859.83 So , we will meet when the we will discuss on the further meeting . ami_da_4
+A 864.74 It is okay ? ami_da_13
+A 864.74 Thanks for coming . ami_da_14
+C 866.98 Would you mind at the conclusion of our meeting could could you send us a copy of your slides ? ami_da_8
+A 872.71 Yes , I will . ami_da_7
+B 873.27 yeah , that would be useful . ami_da_4
+A 874.47 Yes . ami_da_7
+A 875.56 I will copy , ami_da_3
+A 875.56 le let us keep all the emails and all the copies , okay , share each other , ami_da_6
+A 875.56 okay ami_da_6
+A 875.56 , so you know everybody what is happening , ami_da_6
+A 875.56 okay ? ami_da_6
+A 875.56 And if anything you need anytime so please either you can call me , or just send me email , or just come and knock my door , okay , ami_da_6
+A 875.56 so I am available here . ami_da_4
+B 884.07 Sure . ami_da_9
+A 896.61 It is good ? ami_da_13
+A 896.61 Okay , thanks for coming and I wish you a nice time then . ami_da_14
+B 897.3 Okay . ami_da_12
+B 898.72 Thanks . ami_da_14
+A 901.89 Okay , see you later . ami_da_14

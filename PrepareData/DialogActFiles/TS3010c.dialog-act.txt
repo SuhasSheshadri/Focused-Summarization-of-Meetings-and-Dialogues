@@ -1,0 +1,705 @@
+A 47.5 Okay . ami_da_2
+A 50.11 Well , let is start . ami_da_6
+A 54.11 What are we doing ? ami_da_16
+A 54.11 Oops . ami_da_16
+C 60.8 , pinball . ami_da_16
+A 63.67 Okay . ami_da_14
+A 64.09 Okay . ami_da_14
+A 65.15 Not doing . ami_da_14
+A 67.52 Very good . ami_da_9
+B 67.85 Oh . ami_da_16
+D 67.99 Hey . ami_da_16
+D 69.93 Now I have my screen back too . ami_da_4
+A 77.55 Okay . ami_da_2
+D 80.05 Yeah . ami_da_1
+A 80.65 we have presentations . ami_da_4
+A 81.96 So first , it is your turn . ami_da_6
+B 85.32 Mine . ami_da_14
+B 85.96 Oh , great . ami_da_14
+A 86.13 Yeah . ami_da_14
+C 86.64 Huh . ami_da_3
+A 87.24 Is not it amazing . ami_da_14
+D 90.55 Yeah . ami_da_9
+D 92.5 Very interesting . ami_da_9
+B 95.14 Yes , well ami_da_2
+B 95.14 let is talk about the interface concept . ami_da_7
+A 111.46 Industrial Designer . ami_da_16
+A 115.08 Interface concept . ami_da_16
+B 124.04 , first I will I will discuss the buttons we just chose , show you some samples , discuss some colours and design maybe , already . ami_da_7
+B 135.49 And my personal preferences . ami_da_7
+B 139.4 Well we chose the power button to switch the television on and off . ami_da_4
+B 142.65 The bu ami_da_2
+B 142.65 the mute button to switch the volume on and o on and off . ami_da_4
+B 147.63 The channels buttons , one to nine , ami_da_4
+B 147.63 and off ami_da_2
+B 147.63 zero to nine , and the button to choose higher channels than nine . ami_da_4
+B 157.38 the volume and channel quadrants , left and right , up and down arrows , to do the volume and channel . ami_da_4
+B 165.05 And the menu menu button to man manipulate the LCD display . ami_da_4
+B 170.88 , I found some interesting samples . ami_da_4
+B 177.16 Examples . ami_da_4
+B 178.25 , well what is pretty standard is that it is that they are all pretty high ami_da_4
+B 178.25 Yeah . ami_da_9
+D 185.85 Large . ami_da_4
+D 186.89 A lot a lot of buttons buttons . ami_da_4
+B 187.13 Yeah . ami_da_9
+B 187.36 Large and and and pretty thin and and long . ami_da_4
+B 192.06 , power buttons are mostly at the top left or right . ami_da_4
+B 201.25 , well we see the the the same arrows . ami_da_4
+B 206.14 Like there . ami_da_4
+B 208.53 And ami_da_2
+B 208.53 Yeah , well arrow b buttons can be blue . ami_da_4
+B 214.76 And what is interesting is the the the icons on the buttons . ami_da_4
+B 219.41 Some buttons have icons like the play and stop , but we do not use that . ami_da_4
+B 222.55 But , these we we have to choose the right icons , or or letters . ami_da_4
+B 226.93 this is the V for volume , but they are both a V . ami_da_4
+B 231.09 So it is it is not really very clear what is the function of that . ami_da_4
+D 236.09 Yeah . ami_da_9
+B 237.16 Yeah . ami_da_3
+B 239.9 So , that is ami_da_3
+B 239.9 , well ami_da_2
+B 239.9 Yeah . ami_da_9
+A 241.56 Can you go back one page ? ami_da_6
+A 241.56 For the menu , what do we use for that ? ami_da_5
+A 241.56 We do not have buttons for the menu . ami_da_4
+A 253.3 Or we may have to use channel of the volume and channel . ami_da_4
+B 258.74 I thought that was our idea . ami_da_4
+A 260.35 Okay . ami_da_9
+B 261.22 So , how ami_da_3
+B 261.22 Like this . ami_da_4
+A 261.49 But ami_da_3
+A 261.49 You have to put it on the ami_da_4
+A 261.49 Yeah . ami_da_9
+B 268.32 Or or this . ami_da_4
+B 271.06 And that the menu button is okay . ami_da_9
+A 272.97 Yeah but , has to be clear that you can use the arrows . ami_da_9
+B 275.9 Yeah , okay . ami_da_9
+D 276.45 Yes . ami_da_1
+B 277.05 , so the The icons on the arrows , as well , you mean . ami_da_5
+A 282.58 Yes . ami_da_4
+A 282.89 The second one . ami_da_4
+B 284.12 Yeah . ami_da_9
+B 287.08 , well that is something to think about . ami_da_4
+A 289.27 Okay . ami_da_9
+C 289.76 , maybe I will have something in my presentation . ami_da_4
+C 292.08 And you will see it . ami_da_4
+B 293.05 Okay . ami_da_1
+D 293.4 Okay . ami_da_1
+B 296.9 , well I do not I do not know if we have to discuss this already , or in the next meeting . ami_da_4
+B 302.77 But , as we have to to to design the the case and the whole remote control in our our our corporate company colours and the logo , I would recommend a yellow case . ami_da_6
+B 318.86 , round edges . ami_da_6
+B 320.64 The logo at the bottom . ami_da_6
+B 322.65 And , well maybe each each set of buttons has has his own colour . ami_da_6
+B 327.44 So , it is good . ami_da_4
+B 328.76 , recognisable . ami_da_4
+B 329.91 K ami_da_9
+B 329.91 so , I think . ami_da_9
+A 332.79 Not too much colours . ami_da_9
+B 334.86 , no . ami_da_9
+B 335.14 Not too much . ami_da_9
+B 335.94 But ami_da_2
+B 335.94 No , no , no . ami_da_9
+A 336.28 No , it is not flower power . ami_da_9
+B 338.1 But this has to be has to be trendy ami_da_4
+B 338.1 and and ami_da_3
+B 338.1 , yeah so good good icons on the buttons , and and big buttons is my personal opinion . ami_da_6
+A 340.31 S ami_da_9
+A 340.31 okay . ami_da_9
+A 356.79 Okay . ami_da_9
+B 357.99 That was that . ami_da_4
+A 358.93 Thank you . ami_da_14
+A 361.09 So , you are next . ami_da_6
+C 362.78 I am next , okay . ami_da_7
+C 383.36 Yes . ami_da_16
+C 384.2 No . ami_da_16
+C 384.95 Here we go . ami_da_16
+C 388.55 , at first we will I will f say something about what younger people want , ami_da_7
+C 388.55 our group w w we want to sell our remote controls to . ami_da_4
+D 389.12 Okay . ami_da_1
+C 399.5 And then , I will discuss what my opinion is about the costs , about what battery is in it , what kind of buttons also . ami_da_7
+C 408.58 First , the younger people , they want like soft mat materials and primary colours . ami_da_4
+C 415.04 Like , totally yellow , totally red . ami_da_4
+C 417.58 , so it is visible . ami_da_4
+C 420.76 , the shapes are curved and round , like you also said . ami_da_4
+C 425.39 Maybe it is nice to get a remote control not like all the other ones , straight and flat and long . ami_da_6
+C 432.66 But to give him the shape of your hand , so you it is easier to use or something like that . ami_da_6
+C 438.08 But that is just an idea . ami_da_4
+C 440.97 And then , I will have to discuss about the costs of all the things for the remote control . ami_da_7
+C 450.48 The battery , there are few options . ami_da_4
+C 452.97 , I think the best option is to use the basic battery . ami_da_6
+C 457.23 So , everybody can buy it at the at the supermarket . ami_da_4
+C 461.78 Or use a k kinetic battery like within a watch . ami_da_6
+C 467.38 When you shake it a few times , it it is loaded . ami_da_4
+C 471.74 , the the form of the remote control , I think it is also nice have it curved . ami_da_6
+C 477.41 And maybe like it is hand shaped . ami_da_6
+C 480.5 , so you take it here in your hand and here are the buttons . ami_da_4
+C 485.67 material , you use plastic . ami_da_6
+C 488.17 Hard plastic ami_da_6
+C 488.17 because it wo not have to burst like in the in one time . ami_da_4
+C 494.27 And also rubber ami_da_6
+C 494.27 because the younger people like that , what we see in the research . ami_da_4
+C 499.83 the push buttons . ami_da_4
+C 501.05 We have one new thing discovered . ami_da_4
+C 503.41 It is a scroll push thing like a mouse . ami_da_4
+C 507.32 Maybe it is easy to use for the channels . ami_da_4
+C 511.87 When you want to go m move up , you just scroll up and click on the button , if you want to see the next , if you want to see that channel . ami_da_4
+C 520.92 And also for the mouse , for the volume , it is also easy to use . ami_da_4
+C 526.0 Just scroll a bit up , scroll a bit down . ami_da_4
+C 529.28 And that is also easy just w when you have a thing like this , and you get it here . ami_da_4
+C 534.2 You can do it with your thumb . ami_da_4
+C 536.32 And with your l left hand you can push the buttons if you push channel one , you can see channel one . ami_da_4
+C 543.32 The electrics with a scroll push button , we must use regular chips . ami_da_4
+C 551.4 There are also simple chips . ami_da_4
+C 553.18 They are cheaper . ami_da_4
+C 555.82 , but then we have just a basic remote control , and I think there are a lot of those things , and people wo not buy it any more . ami_da_4
+C 566.53 They have seen enough of it . ami_da_4
+C 568.71 And you have also advanced chips . ami_da_4
+C 572.21 But that is with the LCD screen . ami_da_4
+C 575.0 And the costs will increase a lot more . ami_da_4
+C 578.43 And I think our budget is too low to use and an LCD , and the chip who is more expensive . ami_da_4
+C 586.9 And maybe it is also then thoughtful if we ami_da_6
+C 586.9 u use as different kind of shapes for the for remote control , that we then use the primary colours . ami_da_6
+C 602.09 Like , you get a yellow remote control , red one , blue one , et cetera . ami_da_6
+C 608.6 You have any more questions about this ? ami_da_13
+C 608.6 I think the main thing is we look at the costs . ami_da_6
+D 614.02 Yep . ami_da_1
+C 617.61 And not too basic , not a basic remote control , who everybody already has . ami_da_6
+D 619.46 Yeah . ami_da_1
+D 621.2 But , thi i ami_da_2
+D 621.2 This is with an LCD ? ami_da_5
+D 621.2 No , ami_da_5
+D 621.2 not . ami_da_12
+C 624.91 Not with an LCD . ami_da_4
+A 626.26 No , is not . ami_da_5
+C 626.68 No . ami_da_4
+A 627.2 But the LCD is easy when you use the scroll buttons . ami_da_9
+A 633.1 Then you can scroll , you see what number , and then you push . ami_da_4
+C 635.13 Yeah . ami_da_1
+C 636.72 But then , what I say , the costs will get a lot higher . ami_da_9
+A 641.03 But then it is not easy to use scroll wheel . ami_da_9
+C 645.7 Th then you will see it on the television . ami_da_4
+A 646.1 If you do not ami_da_3
+A 646.1 , yes . ami_da_4
+A 649.55 But then . ami_da_4
+A 650.28 Yeah , then you go one down one up . ami_da_4
+A 653.79 When you scroll . ami_da_4
+C 653.79 Yeah ami_da_9
+C 653.79 but l when you see a menu on the television , it is like you see one to twenty ami_da_4
+C 653.79 , you go s scroll up , and push number tw twenty . ami_da_4
+A 661.11 Yeah ami_da_9
+A 661.11 but like we said before , it has to be used on every television . ami_da_4
+A 666.31 So you may not be ami_da_3
+A 666.31 No . ami_da_16
+A 673.93 The television must do that . ami_da_4
+A 677.54 So ami_da_3
+A 677.54 Yeah ami_da_9
+A 677.54 but young people have to have all their room . ami_da_4
+C 678.39 Yeah , I think the younger people will have newer televisions , which can provide our remote control . ami_da_4
+A 689.72 And mostly they are smaller . ami_da_4
+C 692.77 Yes . ami_da_9
+A 693.1 So ami_da_3
+A 693.1 Most the times that are not advanced televisions . ami_da_4
+C 694.74 But that wo not be a problem . ami_da_9
+C 697.12 I think . ami_da_9
+C 702.65 No , ami_da_9
+C 702.65 but then we will get to the regular remote controls . ami_da_4
+C 706.22 And I think , what I said , everybody has them has them already . ami_da_4
+C 710.76 And they go to a supermarket and buy them for two Euros . ami_da_4
+C 714.91 , and ge and get the most cheapest thing . ami_da_4
+C 719.22 And I think we must look further to to devel d develop something news . ami_da_6
+A 725.96 Okay . ami_da_9
+D 726.47 , can you give an indication in b in the cost difference between the chip with LCD or without ? ami_da_5
+D 726.47 Because it ami_da_2
+D 726.47 I think if we have an LCD , it will also sell a lot better . ami_da_9
+C 734.62 I got it on my screen and it was higher . ami_da_4
+C 737.44 But I do not know how much higher . ami_da_4
+A 740.03 That is important . ami_da_9
+C 743.59 That is true . ami_da_9
+D 744.84 And that might bring back the costs ami_da_9
+D 744.84 Huh . ami_da_16
+C 748.52 But then we will ami_da_2
+C 748.52 I think we must discuss who what will be better . ami_da_6
+C 753.03 If we have a better shape of the remote control , or better options on it . ami_da_6
+C 759.89 With a scroll menu , a w scroll thing , and a LCD . ami_da_11
+C 763.18 And then a flat remote control . ami_da_11
+C 766.2 Or , a more hand shaped remote control , with scroll , without LCD . ami_da_11
+A 773.88 Yeah . ami_da_1
+A 775.38 Maybe you can look how how much it is for the LCD . ami_da_6
+C 780.51 I can look on my ami_da_7
+C 780.51 Note that the push button requires a simple chip chip . ami_da_4
+A 783.17 It is very important . ami_da_9
+C 798.58 A scroll wheel requires minimally a regular chip , which is a higher price range . ami_da_4
+C 804.45 The display requires a advanced chip , which is which in turn is more expensive than the regular chip . ami_da_4
+A 811.46 Yeah , more expensive . ami_da_9
+A 812.66 But how much ? ami_da_5
+A 812.66 Oh . ami_da_16
+C 814.88 Does not say . ami_da_4
+A 819.35 Okay . ami_da_9
+C 823.15 That is from my manufacturing division . ami_da_4
+A 826.9 Okay . ami_da_9
+D 827.61 Okay . ami_da_1
+A 830.03 Well , thank you . ami_da_14
+D 831.02 My turn ? ami_da_5
+C 831.41 Yes ? ami_da_4
+C 831.41 Changing covers . ami_da_6
+A 831.92 Next . ami_da_4
+D 840.77 So So Yeah . ami_da_2
+D 850.31 So , my presentation is about trend watching . ami_da_4
+D 853.22 , I did some trend watching . ami_da_4
+D 856.05 It is very important to keep up with latest trends . ami_da_4
+D 859.73 Because if you do not , you wo not sell . ami_da_4
+D 863.02 So , well how we did do that ? , ami_da_4
+D 863.02 well we made an investigation of the market , by Trendwatchers . ami_da_4
+D 868.72 They watch in cities like Paris and Milan . ami_da_4
+D 873.14 Of course , well known for their trend trends . ami_da_4
+D 878.34 And well , what did you find ? ami_da_4
+D 878.34 , we have two groups , young and trendy , and the old and rich . ami_da_4
+D 883.04 Well th and the young and trendy , they they starting to like fruit and vegetables as a theme for n clothes , shoes , and also products . ami_da_4
+D 898.26 And , material ? ami_da_4
+D 898.26 That should feel have a spongy feeling . ami_da_4
+D 903.71 And to get a feeling for what it is , here is an image of it . ami_da_4
+D 909.97 Then the old and rich . ami_da_4
+D 911.34 They like dark colours , and simple , recognisable shapes . ami_da_4
+D 915.83 And , they also like familiar material , especially wood . ami_da_4
+D 920.57 Now , another picture . ami_da_4
+D 922.8 To get a feeling for this . ami_da_4
+D 925.67 Well , then already come to my personal preferences . ami_da_4
+D 929.17 We aim at the younger market . ami_da_4
+D 930.98 So , we should also be look at their trends . ami_da_6
+D 935.14 However , with trends it is always if there is it is now . ami_da_4
+D 938.12 It it it might last one year , and next year it be can be totally different . ami_da_4
+D 943.16 And I think we want to sell our product for longer than one year . ami_da_9
+D 946.79 So , we m must not just only look at what the trend is now , ami_da_6
+D 946.79 as it might be totally different next year . ami_da_4
+D 953.25 So , that is one thing to keep in mind . ami_da_4
+D 959.94 Yeah . ami_da_1
+D 965.48 Any questions ? ami_da_13
+D 965.48 Yeah . ami_da_1
+C 966.86 Nope . ami_da_4
+B 967.53 No . ami_da_4
+A 967.69 No . ami_da_4
+A 968.57 It is clear . ami_da_4
+A 974.06 So now , it is ami_da_3
+A 974.06 , let is see . ami_da_16
+A 988.43 Now , w we have to decide ami_da_2
+A 988.43 Well , we have to decide on the concept . ami_da_6
+A 1003.66 So , we have to look at Is next . ami_da_6
+A 1008.88 Components and user interface concept . ami_da_6
+A 1012.5 So ami_da_2
+A 1012.5 Now , we have to make some concept . ami_da_6
+A 1018.8 Maybe one of you can paint it on the board . ami_da_6
+A 1023.8 First , user interface . ami_da_4
+C 1028.34 , uh uh . ami_da_2
+C 1031.38 How w how we how we make it ? ami_da_5
+C 1031.38 Should not we first discuss about like what w we all ami_da_6
+C 1031.38 Yeah , but if I paint with ami_da_9
+C 1031.38 More like something ami_da_5
+C 1031.38 M like ami_da_2
+C 1031.38 Yeah I ca not dr I ca not draw it . ami_da_4
+A 1033.28 Yes , a concept on Just ami_da_3
+A 1033.28 Yeah , ami_da_9
+A 1033.28 but maybe we can paint it . ami_da_6
+A 1041.98 , what do we want ? ami_da_6
+A 1041.98 I will paint . ami_da_7
+A 1047.56 Okay . ami_da_7
+A 1050.45 Well ami_da_2
+A 1050.45 Something like this ? ami_da_6
+A 1050.45 Or ami_da_6
+A 1050.45 Shapes or What do we need ? ami_da_8
+A 1050.45 Yes , okay . ami_da_9
+B 1060.55 , yes . ami_da_9
+D 1067.09 Can make several concepts . ami_da_6
+B 1067.43 What ? ami_da_12
+D 1070.46 We have this , and we had the idea of an a more like sh in the shape of your hand . ami_da_6
+A 1075.94 Okay . ami_da_9
+D 1076.87 Yeah I ami_da_4
+D 1076.87 I ami_da_4
+D 1076.87 I yes . ami_da_4
+C 1080.89 I have to . ami_da_14
+A 1080.97 And you have to . ami_da_6
+A 1083.69 Yeah . ami_da_9
+C 1084.24 I am not a designer . ami_da_9
+C 1086.74 It is more three D . ami_da_4
+C 1088.08 Like , when you have a part here . ami_da_4
+C 1096.69 This is the remote control . ami_da_4
+C 1099.09 And then you have something like th this under it . ami_da_4
+C 1104.26 So , it is easier to get it like this . ami_da_4
+B 1107.55 Yeah . ami_da_1
+D 1108.23 Yeah . ami_da_1
+C 1108.72 It is like a gun . ami_da_4
+D 1109.7 A g ami_da_3
+A 1110.9 So , it has to be soft ? ami_da_5
+A 1110.9 Okay . ami_da_9
+C 1112.54 And it has to be soft , yeah . ami_da_4
+C 1115.52 So , you can squeeze in it and ami_da_3
+C 1115.52 Sorry ? ami_da_12
+C 1115.52 Buttons on top of it . ami_da_4
+A 1115.88 And , the buttons ? ami_da_5
+A 1115.88 Buttons . ami_da_4
+C 1122.47 And here . ami_da_4
+C 1124.21 The scrolling . ami_da_4
+C 1125.61 You can do it with your thumb . ami_da_4
+B 1128.98 But but i that is the only scroll button on it then ? ami_da_8
+B 1128.98 Yeah , okay . ami_da_9
+C 1133.23 But now we use one scroll button and the other one is here . ami_da_6
+A 1133.25 No , it wo not . ami_da_3
+C 1136.2 One till zero till nine . ami_da_6
+A 1139.96 But , well there one for the sound and one for the channels . ami_da_6
+B 1140.28 But but how ami_da_3
+B 1140.28 Yeah . ami_da_9
+D 1140.4 Yeah . ami_da_1
+C 1140.44 And the b ami_da_3
+C 1140.44 Yeah ? ami_da_11
+C 1140.44 Or two buttons . ami_da_6
+B 1143.45 How ami_da_3
+B 1143.45 Okay . ami_da_9
+D 1146.52 And i if we go to ami_da_3
+D 1146.52 But if we have a me ami_da_3
+D 1146.52 Yeah . ami_da_3
+A 1146.72 , two scroll wheels . ami_da_9
+C 1148.34 If Okay c If we do ami_da_2
+C 1148.34 If we use one , then we will have just a switch on it , and you will just switch it , and now it is the sound to switch back with the menu button . ami_da_4
+A 1156.52 That is th that is more difficult . ami_da_9
+A 1158.84 It is better in ami_da_3
+A 1158.84 But if we do not have a LCD we do not have a menu . ami_da_4
+D 1160.43 If we have a menu , how do we choose other options ? ami_da_5
+D 1160.43 Yeah . ami_da_1
+C 1166.38 And then you also can scroll scroll in it . ami_da_4
+C 1169.26 Just not like all the other ones , with this thing , and here an arrow , here an arrow , here an arrow , here an arrow . ami_da_4
+C 1176.16 Because , from h hundred remote controls , ninety nine have it . ami_da_4
+B 1180.61 Yeah . ami_da_1
+C 1185.16 , then we have it on the TV , the menu . ami_da_4
+D 1185.41 Uh uh . ami_da_1
+A 1188.1 Yeah , but again maybe th ami_da_5
+A 1188.1 How do we know the TV can handle it ? ami_da_5
+A 1188.1 You do not know . ami_da_4
+A 1196.44 So , there is no menu . ami_da_4
+C 1196.72 I do not know . ami_da_9
+C 1198.88 It is like some sort of teletext option , but we do not have teletext . ami_da_4
+A 1202.95 No . ami_da_9
+A 1203.97 So you ca not use it . ami_da_9
+C 1206.69 And if we put an LCD thing on it , then the costs will be much higher . ami_da_4
+A 1213.05 Okay , ami_da_9
+A 1213.05 we make two concepts . ami_da_6
+A 1214.6 One with LCD . ami_da_6
+A 1215.68 One without LCD . ami_da_6
+C 1217.4 Okay . ami_da_9
+C 1219.33 But you all like this kind of thing . ami_da_11
+C 1222.11 With the scroll button . ami_da_4
+A 1223.38 Good concept . ami_da_9
+A 1224.75 But ami_da_3
+A 1224.75 That is one . ami_da_9
+C 1227.9 And and this one has to be soft . ami_da_6
+D 1229.39 Uh uh . ami_da_1
+C 1231.66 And this has to be harder , ami_da_6
+C 1231.66 because when it falls , it mu mu must not burst . ami_da_4
+C 1237.08 Or some kind of rubber around it . ami_da_6
+A 1246.16 It is one . ami_da_9
+A 1247.79 Two . ami_da_8
+A 1248.67 Number two . ami_da_8
+B 1249.27 And you can and you can make the the power button as a trigger . ami_da_6
+B 1253.24 Like Just to Oh , like a ami_da_3
+B 1253.24 Yeah . ami_da_1
+C 1253.33 Yeah . ami_da_9
+C 1254.2 Yeah . ami_da_9
+C 1254.79 that is nice . ami_da_9
+C 1256.05 Here . ami_da_9
+C 1256.34 Trigger . ami_da_9
+A 1258.84 No . ami_da_9
+A 1259.84 But when you handle it , you put it on and off . ami_da_9
+A 1263.46 It is not good to use . ami_da_9
+A 1267.99 Yeah , but I will zap . ami_da_14
+A 1271.41 Fuck . ami_da_14
+A 1271.92 Out . ami_da_14
+A 1274.66 No , it is not good . ami_da_9
+D 1277.14 Yeah . ami_da_9
+A 1277.76 Now , second concept . ami_da_8
+A 1279.75 One with LCD , one without LCD . ami_da_6
+A 1283.52 Then ami_da_2
+A 1283.52 Paint it . ami_da_6
+C 1287.45 Paint it ? ami_da_12
+C 1287.45 With the scroll thing on , like this ? ami_da_8
+C 1287.45 So ? ami_da_3
+C 1287.45 Draw it . ami_da_6
+A 1290.17 One with two scroll buttons and one with without . ami_da_6
+A 1294.07 Yeah . ami_da_9
+A 1295.78 , one with a with a menu , and one without a menu . ami_da_6
+A 1299.1 And the one with with a menu has an LCD . ami_da_6
+A 1303.59 Unbelievable . ami_da_14
+A 1306.02 Do I have to do everything . ami_da_14
+A 1309.56 Blank . ami_da_16
+A 1311.72 You have ami_da_3
+A 1311.72 Not so difficult . ami_da_9
+B 1384.99 But if you put push the the menu button ami_da_5
+B 1384.99 Yeah , wh what ami_da_3
+B 1384.99 Yes , but you do not know which of the scroll buttons you have to choose . ami_da_9
+D 1385.1 Yeah . ami_da_1
+A 1388.08 , that is the menu . ami_da_4
+A 1389.74 There for the LCD screen . ami_da_4
+A 1396.74 You have to ami_da_3
+A 1396.74 For the menu . ami_da_5
+B 1399.09 Yeah . ami_da_4
+A 1404.2 One that way . ami_da_4
+A 1408.65 And one that way . ami_da_4
+A 1415.22 So ami_da_2
+A 1415.22 Then it depends on the cost . ami_da_4
+A 1421.32 S On and off . ami_da_4
+C 1423.92 But is it easy to use ? ami_da_11
+C 1423.92 When you have it on your left side , ami_da_9
+C 1423.92 and ami_da_3
+C 1423.92 Separate , more separate , h yeah . ami_da_6
+A 1428.11 When it is not too big . ami_da_9
+A 1430.07 Just like a a phone . ami_da_9
+D 1435.14 M ami_da_6
+D 1435.14 yeah , maybe it is better if the scroll wheels are ami_da_6
+D 1435.14 more separate , yeah . ami_da_9
+A 1440.87 Yes , okay . ami_da_9
+D 1440.89 Like , you have the menu button in between ami_da_6
+D 1440.89 Yeah . ami_da_1
+C 1443.16 Yeah . ami_da_9
+C 1443.58 On the left a scroll button , and on the right a scroll button . ami_da_6
+C 1453.81 But would it be easy to use then ? ami_da_11
+C 1453.81 If it is like you have a big ami_da_3
+C 1453.81 I also think this concept is not what the young people were looking for . ami_da_9
+A 1493.78 Very good . ami_da_9
+A 1497.51 Is it better ? ami_da_11
+A 1497.51 When you the menu , you have to go there there there there . ami_da_4
+C 1510.33 They were like round curves , ami_da_4
+C 1510.33 different ami_da_3
+C 1510.33 Okay , okay , okay . ami_da_9
+A 1514.48 Yeah , okay . ami_da_9
+A 1515.2 That is that is the outside . ami_da_9
+A 1516.93 But now the ami_da_2
+A 1516.93 First the buttons . ami_da_6
+D 1525.51 Think we have we have now two buttons missing . ami_da_4
+D 1528.8 The ami_da_2
+D 1528.8 The mute button . ami_da_4
+A 1533.59 Sorry ? ami_da_12
+A 1533.59 Mute . ami_da_9
+D 1534.21 We have two buttons missing . ami_da_4
+D 1535.15 The mute button . ami_da_4
+D 1535.98 And , the to to have to numbers ami_da_4
+D 1535.98 Okay . ami_da_9
+A 1543.12 And the other . ami_da_9
+A 1546.68 Yeah . ami_da_9
+A 1547.5 Not so difficult . ami_da_9
+D 1549.02 But , ami_da_3
+D 1549.02 Okay . ami_da_1
+C 1552.16 Personally , I think two scroll buttons are not easy to handle . ami_da_9
+A 1558.38 But how do you want to solve it ? ami_da_8
+A 1558.38 Yeah but on the menu that is not easy . ami_da_9
+C 1560.7 With the switch button . ami_da_6
+A 1566.72 Then you go down , you switch , you go into the right , you switch , ami_da_4
+A 1566.72 you go down . ami_da_4
+C 1566.72 No ami_da_9
+C 1566.72 like ami_da_3
+C 1566.72 Oh , you mean like that . ami_da_12
+A 1572.37 Yeah . ami_da_9
+C 1572.58 , then you can also have like th ami_da_6
+C 1572.58 Yeah , and joystick , I think . ami_da_9
+A 1576.15 A joystick . ami_da_6
+A 1579.42 Yeah . ami_da_9
+A 1580.32 But is it ami_da_2
+A 1580.32 Does that break , a joystick ? ami_da_5
+A 1580.32 Or a small one just like in a laptop . ami_da_6
+C 1587.66 Yeah like in a laptop , s s some sort of thing . ami_da_9
+C 1590.06 A little bit bigger , ami_da_6
+C 1590.06 with easier thi ami_da_3
+C 1590.06 I do not know . ami_da_4
+A 1592.58 Mean , it is better . ami_da_9
+A 1593.59 But how expensive it is ? ami_da_5
+A 1593.59 Oh . ami_da_14
+A 1600.91 Why do I pay you for ? ami_da_14
+A 1600.91 , well ami_da_2
+A 1600.91 Better ideas . ami_da_8
+C 1620.1 Or no scroll things . ami_da_6
+C 1622.15 Just a shape . ami_da_6
+C 1624.9 And ami_da_2
+C 1624.9 No , no . ami_da_9
+A 1627.4 For the young peoples I think scroll button is good . ami_da_9
+C 1627.63 It wo not work . ami_da_9
+C 1629.41 Yeah . ami_da_9
+C 1630.36 Uh huh . ami_da_9
+A 1634.91 So ami_da_2
+A 1634.91 Think we have to keep them . ami_da_6
+C 1641.89 Or a remote control more like joystick . ami_da_6
+A 1645.49 Yeah , but is it ami_da_3
+A 1645.49 That is not expensive than Joystick is better . ami_da_9
+A 1650.39 A small one . ami_da_6
+C 1651.53 A small one like this , like a Nintendo k ami_da_9
+C 1651.53 Playstation thing . ami_da_6
+A 1654.58 No ami_da_9
+A 1654.58 just like in a a laptop . ami_da_6
+A 1658.66 Small , round . ami_da_6
+A 1662.12 Then it is not so big . ami_da_4
+C 1665.78 No , no , no . ami_da_9
+C 1666.27 I mean the the shape of the remote control . ami_da_4
+A 1668.53 Oh the sh ami_da_3
+A 1668.53 Yeah , ami_da_9
+A 1668.53 but then you can ami_da_9
+C 1669.91 Just like a Playstation thing . ami_da_4
+C 1674.45 Yeah . ami_da_9
+A 1678.79 So ami_da_2
+A 1678.79 Maybe , if it is possible , it is not too expensive , I think a joystick is better . ami_da_9
+A 1687.01 A small one . ami_da_9
+A 1688.72 So , please look at it . ami_da_6
+C 1692.73 No , that is okay , ami_da_9
+C 1692.73 I got ami_da_3
+C 1692.73 they are not in details . ami_da_4
+D 1712.27 And on the LCD , how much it costs ? , it costs extra ? ami_da_5
+D 1712.27 Yeah . ami_da_1
+C 1725.08 It is more expensive or less expensive , huh ? ami_da_4
+C 1725.08 Then I have to come with it . ami_da_7
+A 1727.11 Yeah we I think you get it . ami_da_9
+A 1734.7 So , after this meeting you have half an hour to fix it . ami_da_6
+A 1744.51 Yes . ami_da_9
+C 1744.79 I got my personal costs . ami_da_4
+C 1745.89 I I do not I do not know the costs . ami_da_4
+A 1749.0 Your problem . ami_da_14
+A 1751.3 Not mine . ami_da_14
+C 1755.63 Then I will make something up . ami_da_14
+A 1757.79 Okay . ami_da_2
+A 1759.06 So , do we have other concepts ? ami_da_8
+A 1759.06 Then for the components , we use a normal battery . ami_da_6
+B 1772.71 , yeah . ami_da_9
+A 1772.72 Then it is Ch cheapest way , I think . ami_da_4
+C 1774.64 Yeah , or the or the kinetic with normal battery . ami_da_6
+A 1777.08 No , no kinetic . ami_da_9
+C 1777.5 Yeah , I think it is , yeah , ami_da_3
+C 1777.5 more expensive . ami_da_9
+A 1777.96 Kinetic is ch makes it more expensive . ami_da_4
+C 1780.41 Yeah . ami_da_9
+A 1780.76 So we use a normal battery . ami_da_6
+B 1783.03 Yeah . ami_da_9
+C 1783.19 Okay . ami_da_9
+D 1783.24 Yes . ami_da_9
+A 1795.09 Chip . ami_da_4
+A 1796.17 Depends on the LCD . ami_da_4
+C 1797.92 Depends on the scroll . ami_da_4
+A 1800.29 Scroll . ami_da_9
+C 1800.88 If we use a scroll , then we have the regular chip . ami_da_4
+C 1804.6 If we do not use a scroll , then we can use the simple chip . ami_da_4
+C 1807.81 And that is ami_da_3
+C 1807.81 the most expensive . ami_da_4
+A 1807.91 Yeah . ami_da_9
+A 1808.53 And , we If you use the LCD , we have to ami_da_5
+A 1808.53 Yes , okay . ami_da_9
+C 1812.79 Yeah . ami_da_9
+A 1813.76 So , depends on the LCD and the scroll . ami_da_4
+C 1815.67 If we ami_da_3
+C 1815.67 Yeah . ami_da_9
+A 1817.2 Okay . ami_da_9
+C 1817.26 If we ami_da_3
+C 1817.26 No okay scroll wheel . ami_da_16
+C 1818.83 So , I have this . ami_da_4
+C 1819.79 So , it will be the advanced chip , or the regu or the regular chip . ami_da_4
+A 1826.84 Okay . ami_da_9
+A 1828.39 So , the shapes of the design depends on the LCD ami_da_4
+A 1828.39 and ami_da_3
+A 1828.39 But , it has to be small . ami_da_6
+A 1843.25 I think . ami_da_9
+C 1844.17 Or shall we just put it on the pistol thing ? ami_da_6
+C 1844.17 And then just put also on LCD on it ? ami_da_6
+C 1844.17 Just use your thumb . ami_da_4
+A 1849.93 If you have pistol , it LCD is not easy . ami_da_9
+A 1854.86 Y y ami_da_3
+A 1854.86 Yeah ami_da_3
+A 1854.86 but ami_da_3
+A 1854.86 If you use a phone . ami_da_9
+C 1860.51 If you ami_da_3
+C 1860.51 Yeah . ami_da_9
+C 1862.03 I use my thumb . ami_da_9
+A 1862.45 k ami_da_2
+A 1862.45 Yeah , ami_da_2
+A 1862.45 but but then you have it . ami_da_2
+A 1865.21 Like , th if you have pistol , you have it so . ami_da_4
+C 1867.94 Yeah . ami_da_1
+A 1868.03 And the screen is ami_da_2
+A 1868.03 Well , then you have to keep it this way to look at the screen . ami_da_4
+C 1869.89 If you have a joystick on ami_da_3
+C 1869.89 No , ami_da_9
+C 1869.89 if you have like an a ni a Playstation game controller . ami_da_4
+A 1879.28 Yeah . ami_da_1
+C 1879.91 And you move up , f forward , down , left . ami_da_4
+C 1881.91 Then you have just , yeah , a little bit curved . ami_da_4
+C 1885.41 It is not just straight . ami_da_4
+A 1887.53 No . ami_da_9
+A 1888.05 No , no . ami_da_9
+C 1890.03 That is how we use it . ami_da_4
+D 1890.9 , yeah , but ami_da_3
+D 1890.9 Yeah . ami_da_1
+C 1891.23 That is why they make joysticks like that , I think . ami_da_4
+A 1895.33 Yeah , but then you look forward . ami_da_4
+A 1897.01 And then you can y ami_da_4
+A 1897.01 N ami_da_4
+A 1897.01 well , if you have to look at it . ami_da_4
+C 1899.46 Yeah ? ami_da_5
+C 1899.46 Okay . ami_da_4
+D 1901.93 If you ami_da_3
+D 1901.93 If we have then something standing here , with the LCD . ami_da_4
+C 1905.37 Here is our designer . ami_da_4
+C 1914.71 Yeah . ami_da_9
+A 1916.66 Then it goes like this . ami_da_4
+C 1922.17 Yeah , why not . ami_da_9
+A 1922.98 If th n well ami_da_3
+A 1922.98 Yes , of course . ami_da_9
+C 1926.39 It is for the younger people . ami_da_4
+C 1928.24 It is something new . ami_da_4
+B 1930.05 It is ami_da_3
+B 1930.05 Or you can turn it inside . ami_da_6
+A 1930.1 That is good good . ami_da_9
+A 1930.99 But the , ami_da_2
+A 1930.99 it may not break . ami_da_4
+C 1935.37 Now we put rubber around it . ami_da_6
+A 1938.14 Okay . ami_da_9
+A 1939.31 If that is possible . ami_da_9
+D 1939.95 , Yeah . ami_da_9
+C 1940.56 Hard plastic , the shape , and around it hard around it rubber . ami_da_6
+C 1945.19 And the the hand shape is also rubber . ami_da_6
+A 1949.02 Okay . ami_da_9
+D 1950.28 I ca not see the . ami_da_3
+D 1954.25 But , the easy of ami_da_2
+D 1954.25 , th the ease of use was not the most important aspect of it . ami_da_4
+B 1954.97 But that is ami_da_3
+B 1954.97 No , that is true . ami_da_9
+C 1961.34 Huh . ami_da_1
+D 1963.56 , for us it is about to sell it . ami_da_4
+D 1965.21 One . ami_da_5
+A 1966.62 Yeah of course . ami_da_9
+C 1966.89 This is something new . ami_da_4
+A 1968.19 Okay . ami_da_9
+A 1970.76 Then this is the design . ami_da_4
+A 1973.57 And the buttons are on the next page . ami_da_4
+A 1976.01 So , depends on the cost . ami_da_4
+A 1978.68 So , ami_da_2
+A 1978.68 we have one minute . ami_da_4
+C 1979.78 Costs are okay . ami_da_9
+A 1986.32 I think . ami_da_4
+D 1986.53 No . ami_da_9
+A 1986.85 No . ami_da_5
+D 1986.9 You have more . ami_da_4
+A 1987.81 More . ami_da_5
+A 1988.13 Seven . ami_da_5
+D 1988.22 You have still ten . ami_da_4
+A 1991.31 Next meeting . ami_da_4
+A 1992.78 Thirty minutes . ami_da_4
+A 1993.84 So hurry up . ami_da_6
+C 1997.46 Oh , that is us together . ami_da_4
+A 1998.88 You two stay here . ami_da_6
+A 2001.92 Paint it . ami_da_6
+B 2003.05 Okay . ami_da_9
+A 2003.8 Now you have to . ami_da_4
+A 2005.59 So ami_da_2
+A 2005.59 I think it is clear . ami_da_9
+A 2010.63 Check your mail . ami_da_6
+A 2012.53 So ami_da_2
+A 2012.53 It has to be ready in the next meeting . ami_da_4
+D 2013.81 Yeah . ami_da_9
+C 2014.41 Yes . ami_da_9
+A 2019.81 So ami_da_2
+A 2019.81 Next meeting is called the detailed design . ami_da_4
+D 2019.87 What ? ami_da_12
+D 2019.87 Okay . ami_da_9
+A 2029.4 So ami_da_2
+A 2029.4 Everyth everything has to be ready . ami_da_4
+D 2036.39 Okay . ami_da_9
+C 2038.37 Okay . ami_da_9

@@ -1,0 +1,262 @@
+A 71.42 Right , so ami_da_2
+A 71.42 start of the first meeting . ami_da_4
+A 81.45 Right , so agenda of the first meeting . ami_da_4
+A 85.42 Where we We have twenty five minutes for this meeting . ami_da_4
+B 91.88 Okay . ami_da_1
+A 92.6 We are to get acquainted . ami_da_4
+A 99.57 So does everyone want to say who they are ? ami_da_6
+A 99.57 that seem sensible ? ami_da_11
+A 99.57 And I am Alastair and I am the project leader . ami_da_4
+D 102.98 Yeah . ami_da_9
+D 104.86 I am Robin . ami_da_4
+D 105.6 I am the Marketing Manager . ami_da_4
+C 107.64 I am Louisa . ami_da_4
+C 108.53 I am the User Interface Designer . ami_da_4
+B 110.4 I am Nick . ami_da_4
+B 111.02 I am the Industrial Designer . ami_da_4
+A 117.87 Alright okay , ami_da_2
+A 117.87 so tool training . ami_da_4
+A 125.87 Project plan . ami_da_16
+A 127.46 So does anyone have any thoughts as to the tool training that is required ? ami_da_5
+A 127.46 Neither am I . ami_da_4
+C 137.09 I am not exactly sure what you mean by tool training . ami_da_12
+A 145.91 Oh I see , ami_da_12
+A 145.91 so we should not really be ami_da_3
+A 145.91 Oh right okay , ami_da_12
+A 145.91 so . ami_da_12
+A 158.68 So we have the project team , which is to basically to come up with a new r remote control device . ami_da_4
+A 165.89 we have the starting base was the original which has been in existence now for a period of time . ami_da_4
+A 176.82 And our idea is to to make the new remote control device more user friendly than the previous one , and to to be trendier , to be with it , and therefore to to get a bigger market share and bigger audience . ami_da_4
+B 192.77 Tool training ami_da_1
+B 192.77 Yeah . ami_da_1
+A 197.08 So ami_da_2
+A 197.08 method of doing this is split up as you can see into the functional design , the conceptional design , and the detailed design ami_da_4
+A 212.87 So ami_da_2
+A 212.87 in each of these phases we will basically be handing over to yourselves , the designers of this this device . ami_da_4
+B 223.86 Yes . ami_da_1
+A 229.2 And having meetings so that we can during the course of the day come up with a better better inst implement than we had before . ami_da_4
+A 242.21 And therefore have a successful conclusion to the day . ami_da_4
+A 248.01 and you will be doing various designs throughout the day to meet this end . ami_da_4
+D 254.75 , okay . ami_da_1
+A 257.33 So we have got tool training . ami_da_4
+A 259.42 Try out whiteboard . ami_da_4
+A 265.3 So we will . ami_da_4
+A 268.04 Right so everyone is to supposedly draw their favourite animal over on the white board over there . ami_da_4
+A 274.12 I guess this is make sure the whiteboard works . ami_da_4
+A 277.74 So I do not know who wishes to go first . ami_da_8
+B 277.82 Okay . ami_da_1
+A 282.21 Do you wish to go f Have a first bash at whatever . ami_da_8
+C 282.25 I do not mind . ami_da_7
+D 282.39 I dunno . ami_da_1
+C 288.72 Let is see . ami_da_16
+C 290.25 Good job I got pockets today . ami_da_9
+D 291.78 Your microphone is just ami_da_4
+D 291.78 Yeah . ami_da_1
+A 291.89 But now you you you will move out from the microphone and the camera . ami_da_4
+A 297.07 I take it that I would I would guess so . ami_da_4
+C 297.1 Are we supposed to do this right now , do you think , or ? ami_da_5
+C 297.1 Oh . ami_da_1
+A 300.71 Or ami_da_3
+A 300.71 Technical problems . ami_da_4
+B 301.64 You have lost your microphone there . ami_da_4
+D 301.98 I do not know . ami_da_1
+C 305.47 Right here we go . ami_da_4
+A 306.61 I mean you designers are meant to come up with these sort of things . ami_da_14
+C 322.68 Okay . ami_da_4
+C 323.96 I think that I would have to say that my favourite animal is the cat . ami_da_4
+C 336.08 Little smiley cat there . ami_da_4
+C 339.58 and this would be because they are very independent , they are very intelligent , compared to dogs maybe . ami_da_4
+C 349.81 and they can be very very affectionate . ami_da_4
+C 353.62 Some people do not think so ami_da_4
+C 353.62 but I know very affectionate cats . ami_da_4
+C 359.65 and they can look after themselves . ami_da_4
+A 365.28 Next . ami_da_8
+B 365.73 Okay , yeah . ami_da_7
+B 366.41 I will I will Shall I see if I can get across without just tangling everything . ami_da_7
+C 366.52 Shall I rub that out , actually ? ami_da_5
+C 366.52 That is quite good . ami_da_9
+A 368.72 I do not see as there is any need to . ami_da_4
+A 370.49 There is plenty of space . ami_da_4
+A 372.14 I mean whatever . ami_da_16
+D 374.17 We can have have a whole menagerie . ami_da_14
+A 376.45 Exactly . ami_da_9
+B 383.65 Okay . ami_da_1
+B 384.03 There is one . ami_da_16
+A 384.18 We have had more time to prepare over this side , so we have all stuck our bits and pieces in our pockets . ami_da_4
+B 389.4 Did not think of that . ami_da_4
+B 392.93 Okay ami_da_1
+B 392.93 pens are over here . ami_da_4
+A 394.66 The three pens are underneath . ami_da_4
+B 395.81 I will try the red pen . ami_da_4
+B 400.08 Okay . ami_da_2
+B 404.13 I am going to go for the bear ami_da_4
+B 404.13 which I am be able to draw very well , ami_da_14
+B 404.13 but I will have a bash at it . ami_da_7
+A 412.96 You get marks for artistic impression . ami_da_14
+B 423.06 Ooh ooh ami_da_16
+B 423.06 I lost it there . ami_da_4
+B 425.17 I think I have just knocked the microphone . ami_da_4
+A 428.54 So you are just doing the face . ami_da_14
+B 430.82 We will g then we will go for a a s small small bear . ami_da_4
+B 442.44 and I like my animal that looks nothing like a bear because I dunno maybe because there is so many cartoon characters made up after the bear like the jungle book characters and stuff like that . ami_da_4
+B 456.58 Great . ami_da_1
+D 460.6 Right . ami_da_2
+D 470.84 Hello . ami_da_14
+D 471.31 I am going to go for the dog , and I am going to draw one badly as well . ami_da_4
+D 485.83 looks like it is going to be a dachshund or something . ami_da_9
+D 502.76 Right . ami_da_4
+D 503.31 There is my dog . ami_da_4
+D 504.0 I like dogs because they are very loyal . ami_da_4
+D 508.01 And they are always happy , so whenever whenever you are feeling sort of a bit a bit down or tired , they are always coming up and they are always quite excited . ami_da_4
+D 517.07 So you can always have a lot of fun with a dog . ami_da_4
+D 520.4 And they are also good for exercise as well . ami_da_4
+D 522.43 You can sorta get out and they they sorta never get tired . ami_da_4
+D 524.92 And and when they are tired they are quite cute as well , so . ami_da_4
+D 529.0 Okay , that is why I like dogs . ami_da_4
+A 536.17 Right , . ami_da_2
+A 540.28 Well I have not actually had too many pets over my time because to be honest with you ami_da_4
+A 540.28 I am not too keen on them anyway . ami_da_4
+A 552.27 Not to worry . ami_da_16
+A 552.76 So what my daughters have got at the moment is they have got a few fish ami_da_4
+A 552.76 and so hopefully wo not prove too difficult to draw . ami_da_4
+A 561.63 As you can see that my artist artistic work is useless as well . ami_da_9
+A 581.13 Anyway . ami_da_3
+A 583.55 And one of the best things about fish is that they do not really take too much looking after because with most of the animals if you are going away on holiday or whatever , you have gotta spend money or get a friend or whatever to look after them for you . ami_da_4
+A 601.47 Whereas if you got fish , you just gotta put the food in a a a dripper feed which feeds them over the couple of weeks that you are away and change the water every couple of months , and buy in a few plants , so . ami_da_4
+A 615.97 Other than the fact that they keep dying , fish are are not are are are reasonable pets in that they are low maintenance . ami_da_4
+D 628.58 Great . ami_da_9
+A 629.73 Right . ami_da_2
+A 633.1 Okay , ami_da_2
+A 633.1 if we are still all with us . ami_da_14
+A 637.14 Right okay , ami_da_2
+A 637.14 so . ami_da_2
+A 641.7 Work has been done on this project where by twenty five Euros is the expected selling price . ami_da_4
+A 656.12 That information has come from our marketing manager here . ami_da_4
+D 659.95 Yeah . ami_da_1
+A 663.08 So we are looking to sell internationally , not just in Europe . ami_da_4
+A 666.62 We are looking at having our production costs limited to twelve and an half Euro per unit . ami_da_4
+A 677.0 And therefore making a profit margin of well not actually a profit margin it is because obviously you are going to have overheads and various other costs to take from from that to give you your profit margin per unit . ami_da_4
+A 696.93 And so depending what the the overhead costs are will determine how many units we are looking to sell or projecting to sell at this point in time . ami_da_4
+A 710.03 So ami_da_2
+A 710.03 Experience with remote control , first ideas . ami_da_16
+A 719.87 New remote . ami_da_16
+A 720.9 So I guess we are looking at having a discussion at this point in time to help you folks design our our new model as it were . ami_da_4
+B 733.44 Yes . ami_da_9
+A 735.26 So any any thoughts ? ami_da_5
+A 735.26 Okay , so so basically we are looking for some we are looking for a device that is robust and and therefore wo not get damaged too easily . ami_da_4
+B 739.49 I with some remote controls the buttons were a little small so they are quite hard to press ami_da_4
+B 739.49 so maybe we make something with easy to press buttons . ami_da_6
+B 749.34 As that is the main function . ami_da_4
+B 763.04 Yes . ami_da_9
+A 769.69 we are looking for a device that is ami_da_4
+A 769.69 What was the other things you said there ? ami_da_5
+A 769.69 Easy to use . ami_da_16
+B 779.49 sort of easy to use so the buttons are accessible . ami_da_4
+A 783.93 Use . ami_da_16
+B 786.28 is easy to use and see . ami_da_4
+A 788.33 And see . ami_da_12
+B 789.08 Yes . ami_da_4
+A 789.71 Okay . ami_da_9
+C 792.66 Can I just check ? ami_da_7
+C 792.66 Is this just a television remote ? ami_da_5
+C 792.66 Because a lot of systems are kind of TV video combined now , or TV DVD combined . ami_da_4
+C 802.82 And one of the most annoying things is having like five remotes in the house . ami_da_4
+C 806.42 So if you have got a combined system , it could be a combined remote . ami_da_6
+C 810.87 Or is it just a television that we are supposed to be doing ? ami_da_5
+C 810.87 Comes to your whistle . ami_da_6
+A 814.12 Oh I w ami_da_3
+A 814.12 basically I will get back to you on that . ami_da_4
+A 816.51 But it seems to me sensible , ami_da_9
+A 816.51 because as you rightly said , there is nothing more annoying than having three or four devices littered about the about the room . ami_da_4
+D 824.72 Yeah . ami_da_9
+A 825.64 And ami_da_3
+A 825.64 So a device for for all remotes . ami_da_4
+D 839.39 I have ami_da_3
+D 839.39 Okay . ami_da_7
+B 839.42 Sorry , ami_da_14
+B 839.42 you go . ami_da_8
+B 840.21 You go . ami_da_8
+D 841.34 Yeah . ami_da_7
+D 841.96 one of the things we found from the market research is that people often get confused by the number of buttons on them as well . ami_da_4
+D 848.82 Because there is quite often lots and lots . ami_da_4
+D 851.7 And sometimes they sort of remote controls defeat their own purpose because you are sat in the chair and the remote is somewhere else in the room . ami_da_4
+D 862.88 So whereas in the past you would have to get up to change the channel , now you have to get up to sort of pick up the remote . ami_da_4
+D 868.59 So so I do not ami_da_3
+D 868.59 we need to sort of maybe think about how we could maybe develop a remote control which moves around the room . ami_da_6
+D 882.6 That is that is maybe something for the future when you can talk to your television , but ami_da_4
+D 882.6 Yeah . ami_da_1
+B 886.06 Yeah . ami_da_1
+A 887.36 But is it in a sense it is r mutually exclusive . ami_da_4
+A 890.62 You ca not have both the th the one device and then have few buttons on it to because you want you want simplicity as well , you want any idiot to be able to use it . ami_da_4
+D 903.72 Yeah . ami_da_1
+A 903.87 Whilst at the same time you want , as you rightly said , one remote for all . ami_da_4
+A 910.04 And so these are probably mutually exclusive options ami_da_4
+A 910.04 that ami_da_3
+A 910.04 you could argue that experience of using devices and similar devices as people get more and more used to using remotes , therefore they are more with handling them , therefore you can make them more complicated as time goes on . ami_da_4
+B 914.84 Yes . ami_da_1
+B 927.57 Yeah . ami_da_1
+B 930.97 Maybe we could have better instructions with the remote . ami_da_6
+B 933.48 Or are we just doing the design of the remote control itself , or sort of the instructions that would come with it ? ami_da_5
+B 933.48 Okay . ami_da_1
+A 939.86 Better instructions . ami_da_4
+D 941.78 Yeah . ami_da_9
+D 943.34 I mean we have done some research about sort of you know what the cutting edge sort of hand held devices are , and a lot of them sort of use you know they are like they are like mini laptops . ami_da_4
+D 957.14 So it is possible that we could devise a system where where you are ami_da_6
+D 957.14 you are basically sort of holding a a miniature computer which is controlling all your your sort of your television , your stereo , and where you know if you buy a new thing then it sort of you can link it to that as well , maybe . ami_da_6
+A 974.53 Okay . ami_da_2
+A 975.6 well we have got five minutes before the end of the meeting . ami_da_4
+A 978.67 So we have to start winding up . ami_da_4
+A 982.53 is there ami_da_3
+A 982.53 Next meeting in thirty minutes . ami_da_4
+D 989.88 Okay . ami_da_1
+A 990.64 So ami_da_2
+A 990.64 Right , so we have got ID ami_da_3
+A 990.64 the ami_da_3
+A 990.64 Come on , ami_da_16
+A 990.64 where is my ami_da_5
+A 990.64 Oh there we go . ami_da_9
+D 1000.31 If you just click return it should be okay . ami_da_4
+D 1003.14 It will get rid of the message . ami_da_4
+B 1008.35 Or not . ami_da_9
+D 1011.49 If you hit just hit return and it should get rid of the message . ami_da_6
+D 1026.33 Oh you have got . ami_da_3
+A 1027.16 Yeah . ami_da_9
+A 1028.21 That is what I was looking for . ami_da_4
+A 1030.26 Right . ami_da_3
+A 1031.32 So we have got function ami_da_3
+A 1031.32 Oh what happened to the ami_da_5
+A 1031.32 Right . ami_da_1
+C 1037.57 I think that might be back to the start . ami_da_4
+D 1039.7 Yeah . ami_da_9
+C 1039.73 if you grab the kind of slide to the left and pull it down ? ami_da_6
+C 1039.73 I am not exactly clear on what we are designing the rem remote for . ami_da_12
+B 1042.52 slide four ami_da_3
+B 1042.52 Okay . ami_da_1
+D 1044.98 Yeah . ami_da_1
+A 1062.7 Right . ami_da_2
+A 1064.1 Sorry about that . ami_da_14
+A 1065.64 Okay , so we have got the working design for ID . ami_da_4
+A 1070.79 For UID the technical functions design . ami_da_4
+A 1073.97 Marketing , the user requirement specification . ami_da_4
+A 1077.41 Specific instructions will be sent to you by your person by your personal coach . ami_da_4
+A 1083.79 So . ami_da_2
+A 1085.65 Are we all clear what objectives we are looking to meet in the next thirty minutes ? ami_da_13
+A 1085.65 And I guess I will try and write up some minutes of this meeting to to give it to you for the next meeting . ami_da_7
+B 1090.49 Yes . ami_da_12
+B 1098.68 Okay , yes . ami_da_9
+C 1103.43 Is this a mun multi functional one or do we decide that ourselves as we go away and work on it ? ami_da_5
+C 1103.43 Right . ami_da_9
+B 1109.09 I think you just said at the start it was a television remote control , ami_da_4
+B 1109.09 so maybe we should just stick to that unless we get told otherwise . ami_da_6
+A 1111.1 Television remote control . ami_da_16
+A 1115.11 That is true , ami_da_9
+A 1115.11 because during during the course of our day we might make decisions based on information or meetings that would change where we are going . ami_da_4
+D 1124.06 Okay cool . ami_da_12
+A 1125.27 But at this point in time I think you are right that shall we make it just a TV . ami_da_4
+A 1131.41 Okay ? ami_da_13
+A 1131.41 So we will depart . ami_da_4
+B 1132.28 Okay ami_da_1
+A 1135.41 We will stay here and and break off . ami_da_4
+A 1139.45 And I will do minutes ami_da_7
+A 1139.45 and and we will see you in half and hour . ami_da_4
+A 1143.91 Okay . ami_da_16

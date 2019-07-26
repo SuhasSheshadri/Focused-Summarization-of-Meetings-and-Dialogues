@@ -1,0 +1,1185 @@
+B 38.11 So , ready ? ami_da_5
+B 38.11 Sorry , ami_da_14
+B 38.11 I I ami_da_2
+B 38.11 I am afraid ami_da_3
+B 38.11 thi this remote control will stay a prototype . ami_da_14
+D 39.45 No not really ami_da_4
+C 39.88 Okay ami_da_1
+D 41.34 Just ami_da_3
+D 41.34 Crap . ami_da_16
+D 45.79 Okay . ami_da_4
+C 49.56 It is perfect . ami_da_14
+A 53.09 Your judgement it is is biased . ami_da_14
+D 57.65 Okay , ami_da_2
+D 57.65 so whe where is the remote control ? ami_da_5
+D 57.65 Yep . ami_da_9
+A 59.95 So , ami_da_2
+A 59.95 we are ami_da_3
+A 59.95 So ami_da_2
+A 59.95 let is go for our detailed design meeting . ami_da_6
+C 60.17 Where ? ami_da_12
+C 60.17 It is here . ami_da_4
+B 67.97 Okay . ami_da_1
+A 72.92 So I will still play the role of the secretary , ami_da_4
+A 72.92 and ami_da_2
+A 72.92 we will have first the project presentation by our User Interface Designer , David Jordan , and our Industrial Designer , Baba . ami_da_4
+C 84.45 Okay . ami_da_1
+C 87.62 Yeah . ami_da_9
+B 87.82 Yeah . ami_da_9
+B 91.97 Yeah . ami_da_9
+C 93.56 Okay . ami_da_9
+A 94.27 So we will have to evaluate the your proposed remote control , and have an idea of the price that this thing will cost . ami_da_6
+A 108.87 And in case ami_da_3
+A 108.87 if we are we all agree on the fabrica of building of this remote control , we will evaluate the production . ami_da_6
+A 120.75 So ami_da_2
+A 120.75 maybe I will let the our two designers talk about so their ami_da_6
+A 120.75 You have s ami_da_3
+A 120.75 oh , sorry . ami_da_14
+C 126.42 I have slides . ami_da_4
+B 127.62 Okay . ami_da_1
+A 129.27 Oops . ami_da_16
+B 132.2 Effectively one slide ami_da_4
+B 132.2 and maybe we can discuss everything . ami_da_6
+C 134.37 Product prod ami_da_3
+C 134.37 Yep . ami_da_1
+D 135.28 What slides ? ami_da_12
+D 135.28 Yeah . ami_da_1
+C 137.52 Okay . ami_da_9
+C 140.82 Okay . ami_da_2
+C 142.92 So , this is our product or prototype . ami_da_4
+C 148.44 This is made by clay . ami_da_4
+A 150.62 Looks strange . ami_da_9
+C 151.59 Yeah . ami_da_9
+C 153.92 the basic colour is yellow and red . ami_da_4
+C 158.36 Yellow is our company colour , red it is is more attractive . ami_da_4
+A 161.65 Okay . ami_da_1
+C 166.23 So we used two basic colour , yellow and red . ami_da_4
+C 169.77 And the shape , there is two basic shape . ami_da_4
+C 171.67 The first is a circle and the second is a triangle s piece . ami_da_4
+C 177.61 It is ami_da_3
+C 177.61 we call it a mushroom design . ami_da_4
+B 177.62 Okay . ami_da_1
+C 179.93 It is looks like some mushroom , so we call it mushroom design . ami_da_4
+B 180.96 Yeah . ami_da_1
+B 183.16 Yeah , ami_da_9
+B 183.16 yeah ami_da_9
+B 183.16 I am sure . ami_da_9
+C 183.81 So this is a introduction of our product . ami_da_4
+C 186.41 Next a mo ami_da_3
+C 186.41 Okay , ami_da_7
+C 186.41 yeah , ami_da_4
+C 186.41 so next slide . ami_da_4
+A 186.51 Genetically modified mushroom I will say , but ami_da_14
+A 186.51 keep on speaking . ami_da_6
+C 192.79 So there are several key features of our pr prototype . ami_da_4
+C 196.34 The first is that it is fuzzy . ami_da_4
+C 198.78 I am sure this would be the unique design the market . ami_da_9
+A 201.86 Oh . ami_da_1
+A 202.92 Maybe , I hope so . ami_da_9
+C 204.11 Yeah , so it is a fuzzy design , and a unique design . ami_da_9
+B 207.46 Yeah , that is true . ami_da_9
+C 208.08 , and ami_da_2
+C 208.08 the second key feature is that s circle channel selection . ami_da_4
+C 217.18 In the traditional key traditional controller use button to to select the channel but now we have a s circle , so we can turn this ball to t to select channel . ami_da_4
+C 229.21 So it is quite convenient for user to use it . ami_da_9
+A 229.61 Chan ami_da_3
+A 229.61 Yeah , okay , ami_da_9
+A 229.61 but do not touch do not destroy your prototype . ami_da_6
+C 232.79 Yeah , s ami_da_1
+C 232.79 okay . ami_da_9
+C 236.5 the third feature is a stable triangle base . ami_da_4
+C 240.55 this sta this triangle base is very stable , so ami_da_4
+C 240.55 so it is it is ami_da_2
+C 240.55 it is unlikely you cannot found it . ami_da_4
+C 250.92 So it is v , you can put it in the table so you can turn the the ball to cha to select the channel and there is some cute button . ami_da_4
+C 261.35 You c can can you can see the the shape of the buttons n is a mushroom , so ami_da_4
+C 261.35 Yeah , everything is mushroom . ami_da_9
+A 267.36 Everything is mushroom . ami_da_9
+B 268.63 Yeah . ami_da_1
+A 268.99 So we can call our remote control the mushroom . ami_da_6
+C 270.52 Mush ami_da_3
+C 270.52 Mushroom design , yeah . ami_da_9
+B 272.07 Yeah but it is not like really mushroom because you have you know like lemon shape , you know , centre is yellow and t d ami_da_9
+B 272.07 To integrate , you know ami_da_3
+B 272.07 yeah . ami_da_3
+C 277.96 Yeah ami_da_1
+A 278.73 Okay . ami_da_1
+C 279.72 Yeah , ami_da_9
+C 279.72 th that is why if you put it in the table , be careful , somebody will eat it . ami_da_14
+B 285.36 I do not think ami_da_3
+B 285.36 I hope nobody will eat it ami_da_14
+B 288.18 You know , to integrate the fruit aspect , ami_da_6
+B 288.18 you know the the in ami_da_3
+B 288.18 Really ? ami_da_9
+B 288.18 But ami_da_3
+B 288.18 Fruit and vegetable , ami_da_1
+B 288.18 so mushroom was a kind of you know ami_da_3
+B 288.18 Mushroom ? ami_da_16
+B 288.18 Oh , I am not sure . ami_da_9
+A 290.95 Oh . ami_da_1
+D 291.12 Yeah , because mushroom was not in the trends . ami_da_4
+D 294.07 I mean there was fruits ami_da_4
+D 294.07 yeah . ami_da_4
+A 294.97 Fruits and vegetables . ami_da_4
+A 297.42 Vegetables . ami_da_4
+D 297.53 Yeah . ami_da_4
+A 298.14 Mushroom is a vegetable . ami_da_4
+D 299.51 I do not think it is . ami_da_9
+C 300.59 Yeah ami_da_1
+C 300.59 Yeah . ami_da_1
+A 301.49 It is vegetable . ami_da_4
+C 302.7 Yeah . ami_da_9
+A 304.4 So th it is something eatable . ami_da_9
+B 305.89 We can ami_da_3
+B 305.89 it is a veg a kind of vegetable , ami_da_9
+B 305.89 but you know we we integrated them with different colour . ami_da_4
+D 306.32 Yeah . ami_da_1
+C 308.32 Yeah . ami_da_1
+D 309.94 But anyway this is not a mushroom anyway , so it is fine . ami_da_9
+C 312.53 Yeah . ami_da_1
+B 313.15 I think we take into account what you said about fruit and vegetable you know . ami_da_6
+B 318.55 This , you know , very enlighted colours , you know . ami_da_9
+D 319.57 No , I mean , ami_da_1
+D 319.57 yeah ami_da_1
+D 319.57 yeah . ami_da_1
+D 321.54 Inspira inspiration is ami_da_3
+D 321.54 True . ami_da_9
+B 322.27 And inspired colour and and very sophisticated material , so . ami_da_9
+C 328.98 Yeah . ami_da_1
+B 329.0 And so ami_da_2
+B 329.0 So what we w ami_da_3
+B 329.0 what I can add is that , you know ami_da_7
+B 329.0 he talk about what is outside , so what is inside is what we dis what we talked before about , you know , the chip , it is a low level chip , and ami_da_4
+B 329.0 You know , we do not need to k . ami_da_14
+A 332.43 Next slide . ami_da_6
+C 333.82 , no this our only two slides . ami_da_4
+C 341.39 Yeah . ami_da_1
+C 347.48 So we cut it to see . ami_da_14
+B 350.56 You know wi ami_da_3
+B 350.56 the low level chips inside and ami_da_4
+B 350.56 you know the LCD button and the i ami_da_4
+B 350.56 The battery it is under . ami_da_4
+C 356.85 Okay . ami_da_1
+C 357.84 So where is the battery battery ? ami_da_5
+C 357.84 Base . ami_da_1
+B 360.7 It is in th in in the base , yeah . ami_da_4
+A 360.97 In the base . ami_da_4
+A 362.27 In the basement . ami_da_4
+C 362.73 Here ? ami_da_5
+A 363.09 In the basement . ami_da_4
+A 364.09 And where is the solar solar cell ? ami_da_5
+A 364.09 Where is the solar cell ? ami_da_5
+A 364.09 Oh . ami_da_1
+D 364.58 But we say we sa we said solar . ami_da_4
+B 367.49 In fact this this this this is a kind of you know revolutionary solar receptor that we can put outside and ami_da_4
+B 367.49 I do not think so , but it it is might be okay , so . ami_da_9
+A 374.48 Do you think it wo not be It wo not cris increase the price ? ami_da_11
+A 374.48 Okay , we will see after . ami_da_9
+A 381.4 We will have first to ami_da_3
+A 381.4 so , mister money , what is your opinion according to this remote control ? ami_da_11
+B 382.73 I it might be okay . ami_da_9
+B 384.31 So ami_da_9
+B 384.31 Yeah . ami_da_1
+D 387.74 Yeah . ami_da_16
+D 391.02 I mean , we going to try to measure how good it is ami_da_4
+D 391.02 instead of just talking about ami_da_3
+D 391.02 we had three keys key points to for this remote control design , and first one was fancy look and feel . ami_da_4
+C 416.48 Okay ami_da_1
+C 416.48 Yeah . ami_da_1
+D 417.75 So w we will try to judge this feature with a one to seven scale , ami_da_6
+D 417.75 one being no , I think . ami_da_4
+D 426.7 just let me check . ami_da_16
+B 429.4 So , four point three point five , it means it is acceptable . ami_da_4
+D 432.6 One one being true , and seven being false . ami_da_4
+D 435.8 Okay . ami_da_2
+B 436.85 Oops . ami_da_16
+D 437.46 Ouch . ami_da_16
+D 439.71 So ami_da_2
+D 439.71 Do we have a fancy look and feel , according to you ? ami_da_11
+D 439.71 But is it ami_da_3
+D 439.71 I will agree it is unique , ami_da_9
+D 439.71 but is it really ami_da_11
+D 439.71 Yeah I mean , fancy was was defined by s fruit and vegetable look . ami_da_4
+C 441.97 Okay . ami_da_1
+C 444.4 Yeah , I think so . ami_da_9
+B 445.35 I think you have nice colours . ami_da_9
+B 447.34 I do not ami_da_3
+B 447.34 The sha the bowl shape people like . ami_da_9
+C 449.33 Yeah , the shape is unique , and the colour ami_da_9
+C 449.33 So it depend on how d do you define fancy . ami_da_11
+B 455.17 Is it really fancy ? ami_da_11
+B 455.17 But it is ami_da_3
+B 455.17 you have the lemon aspect of this th this this thing . ami_da_4
+D 469.98 Yeah . ami_da_9
+A 471.63 Maybe if you change if you take the buttons out , and maybe do things like that ami_da_6
+A 471.63 It would be bet more like a lemon ? ami_da_11
+A 471.63 Yeah . ami_da_9
+B 474.62 Do Do not do that , please . ami_da_9
+D 476.97 I dunno where the lemon is , but I mean it is not obvious . ami_da_9
+B 479.69 I it is it is i this shape is a lemon like , so ami_da_9
+B 479.69 Yeah . ami_da_1
+D 485.52 If ami_da_3
+D 485.52 I dunno , maybe improving the texture of like having it less smooth or ami_da_6
+D 485.52 Yeah . ami_da_9
+B 488.64 Because i ami_da_3
+B 488.64 Less button . ami_da_6
+C 494.79 so , my mush . ami_da_3
+A 498.69 Looks like more fruit . ami_da_9
+B 500.47 Yeah , but you do not have any button now . ami_da_9
+A 500.68 Maybe a pineapple ? ami_da_11
+A 500.68 And you know , you have the finger here , with the buttons ? ami_da_6
+A 500.68 It looks more like a pineapple . ami_da_9
+D 503.57 I dunno . ami_da_9
+C 508.82 Yeah . ami_da_1
+B 510.54 That is yeah , is that ami_da_3
+B 510.54 that is a good idea . ami_da_9
+D 511.83 Yeah , it is getting ami_da_3
+D 511.83 Okay . ami_da_1
+B 512.84 So that is great . ami_da_9
+B 515.33 That is great . ami_da_14
+A 515.73 Sorry . ami_da_14
+A 516.64 What is the use for that ? ami_da_5
+A 516.64 And where is the voice recognition ? ami_da_5
+A 516.64 Okay . ami_da_9
+C 517.8 , for turn turn the ball . ami_da_4
+B 518.09 I have no idea , so . ami_da_4
+C 519.16 If you want to turn the ball , it is very it is very convenient for you to to to turn the ball to change the channel . ami_da_4
+B 520.65 I have no idea ami_da_4
+B 520.65 what ami_da_4
+B 520.65 If it is fancy or not . ami_da_11
+C 530.56 , it is embedded , your microphone . ami_da_4
+D 532.96 Yeah , that is ami_da_3
+D 532.96 Wait th that is the second point . ami_da_4
+C 533.44 Th this th th there is two two functions . ami_da_4
+C 535.94 This is microphone array ami_da_4
+C 535.94 Okay . ami_da_9
+D 536.36 First one is we have to judge the fancy look and feel . ami_da_11
+A 540.08 Okay . ami_da_9
+A 540.87 Is it better like that ? ami_da_11
+A 540.87 Looks okay , ami_da_9
+A 540.87 let is say it is a pineapple now . ami_da_6
+D 541.97 I mean ami_da_3
+D 541.97 No , the colour is okay , that is fine . ami_da_9
+B 542.42 So we can we can say t ami_da_3
+B 542.42 The colour , is the colour acceptable ? ami_da_11
+B 542.42 So the shape now . ami_da_11
+D 548.75 I mean it is ami_da_2
+D 548.75 but I would say there is more too much red . ami_da_9
+A 549.94 It looks like a ami_da_3
+A 549.94 now you took it . ami_da_16
+B 552.87 It is too much red ? ami_da_11
+B 552.87 In the basement ? ami_da_11
+B 552.87 I will give I will I will gi ami_da_3
+B 552.87 I will give two or three . ami_da_9
+D 553.81 if ami_da_3
+D 553.81 Right . ami_da_11
+A 555.71 It looks like a pineapple with cherry on top . ami_da_9
+D 562.84 So , from one to seven ? ami_da_11
+D 562.84 No , seven is false and one is true . ami_da_4
+A 566.09 Seven is the ma the maximum ? ami_da_5
+A 566.09 Three , I will say three . ami_da_9
+B 575.65 Three , it is okay . ami_da_9
+B 577.24 Three , three . ami_da_9
+D 577.67 Three ? ami_da_11
+D 577.67 Okay . ami_da_9
+B 577.89 Three is fine for me . ami_da_9
+D 582.58 Three . ami_da_9
+A 582.97 Is not it bitter like that ? ami_da_11
+A 582.97 Feasible ? ami_da_4
+A 582.97 You said previously that you there is microphone inside an ami_da_5
+A 582.97 Oh . ami_da_1
+C 584.15 Okay ami_da_9
+C 584.15 Yeah ami_da_9
+C 584.15 yeah ami_da_9
+C 584.15 yeah . ami_da_9
+D 584.68 Then let me ami_da_16
+D 584.68 The other criterion is is it technologically technologically in innovative . ami_da_4
+B 587.11 What other ami_da_3
+B 587.11 Is it easy to use ? ami_da_4
+B 587.11 Embedded . ami_da_4
+C 601.19 Yeah , this is microphone array , in fact . ami_da_4
+B 603.23 It is a micro array , okay . ami_da_1
+C 603.52 There four microphone . ami_da_4
+A 604.79 Okay , ami_da_1
+A 604.79 and you have the ami_da_3
+A 604.79 there is the technology inside that recognise simple vocal comments ? ami_da_5
+A 604.79 And you can turn it ami_da_5
+A 604.79 so maybe it is techno technologically ami_da_5
+A 604.79 innov innovative ? ami_da_5
+A 604.79 We have tactile buttons . ami_da_9
+C 604.86 So they they ami_da_4
+C 604.86 they ami_da_4
+C 604.86 they there is a microphone array . ami_da_4
+C 610.8 Yeah , ami_da_4
+C 610.8 yeah . ami_da_4
+C 612.59 So you can capture voice ami_da_4
+C 612.59 yeah , ami_da_4
+C 612.59 you c ami_da_4
+C 612.59 Yeah , so you can capture ami_da_4
+C 612.59 s voice from different directions . ami_da_4
+B 613.93 Oh yeah , ami_da_1
+B 613.93 yeah . ami_da_1
+B 616.28 And I think you you have never seen a rou a round remote control , so it is ami_da_9
+B 616.28 I W ami_da_3
+B 616.28 Yeah , ami_da_3
+B 616.28 but ami_da_3
+B 616.28 I see , you have microphone array embedded . ami_da_9
+D 619.97 Yeah bu but when you say technologically it is more I dunno , in the core , or single . ami_da_9
+C 620.02 Yeah . ami_da_4
+B 631.55 You have ami_da_3
+B 631.55 That is good . ami_da_9
+D 631.88 No , that is good . ami_da_9
+D 632.37 Yeah . ami_da_9
+A 635.76 Oh , yeah . ami_da_1
+D 636.83 Yeah , th that is another really good point . ami_da_9
+D 638.97 Maybe okay . ami_da_2
+B 640.37 I think technically it is acceptable , so Yeah . ami_da_9
+A 643.07 Maybe two ? ami_da_9
+A 643.07 Two ? ami_da_9
+A 643.07 I would say two ami_da_9
+D 644.18 So using the same scale , two ? ami_da_9
+D 644.18 Okay . ami_da_9
+B 645.84 Two , yeah , two . ami_da_9
+B 646.36 It is it is fine , so . ami_da_9
+A 647.96 You agree ? ami_da_11
+A 647.96 It is better like that , ami_da_9
+A 647.96 is not it ? ami_da_11
+A 647.96 Okay . ami_da_1
+C 648.56 Yeah , I agree . ami_da_9
+D 649.8 Now maybe the most critical one . ami_da_9
+B 652.22 Most ami_da_3
+B 652.22 Eh , for th the vocal command yes , it is might be easy . ami_da_9
+D 653.37 L last one w I would like to judge is ami_da_6
+D 653.37 is it easy to use ? ami_da_11
+D 653.37 Yeah but this this turning ami_da_9
+D 653.37 can you can you just re explain me the ami_da_5
+D 653.37 Please . ami_da_14
+B 664.68 But it is just speaking . ami_da_9
+C 664.98 Yeah , it is very easy . ami_da_9
+B 666.13 You just need the command . ami_da_9
+C 666.97 You can use this in this way . ami_da_9
+B 670.49 As a principle . ami_da_12
+C 671.48 Yeah . ami_da_7
+C 673.27 Th this is the base . ami_da_4
+D 674.71 Yeah . ami_da_1
+C 674.79 So you can turn to change the channel . ami_da_4
+D 678.4 Yeah but how how intuitive is it to turn things to change channels ? ami_da_11
+D 678.4 Like if you want to go from ami_da_4
+D 678.4 Yeah but imagine you y ami_da_3
+D 678.4 Yeah I am I am no ami_da_9
+D 678.4 I am not definitely convinced it is it is the best way to if you want to jump from , I dunno , one to twenty ? ami_da_9
+D 678.4 How can you go directly to twenty , for example ? ami_da_5
+D 678.4 Yeah . ami_da_1
+C 681.27 You just tu turn d ami_da_9
+C 681.27 d ami_da_9
+C 681.27 Yeah . ami_da_9
+B 682.71 I think maybe if you he ami_da_3
+B 682.71 If you hear some click ami_da_4
+B 682.71 Oh yeah , that is difficult . ami_da_9
+A 683.99 Oh , ok I understand . ami_da_12
+A 685.81 You take take the remote , so ami_da_4
+A 685.81 and you can turn like that to change the channel ? ami_da_9
+A 685.81 I think it is quite easy to so s zapping , but maybe it will be too fast . ami_da_9
+C 691.7 Yeah . ami_da_1
+C 705.23 Yeah . ami_da_1
+B 706.47 That is dif that is difficult . ami_da_9
+C 709.59 No , no , no . ami_da_9
+C 710.65 I if y if ami_da_3
+C 710.65 it depend on the the angle you turn the I if if this is a channel one . ami_da_4
+D 714.96 Yeah . ami_da_9
+B 715.59 Yeah ami_da_3
+B 715.59 but y ami_da_3
+B 715.59 how ami_da_3
+B 715.59 you need to know I ami_da_9
+B 715.59 I think something that ami_da_3
+B 715.59 Yeah . ami_da_1
+D 715.69 I agree . ami_da_9
+D 716.15 I agree . ami_da_9
+D 716.57 But I mean if you are fro from two ? ami_da_5
+D 716.57 Yeah ju just imagine you have fifty fifty channels ami_da_9
+D 716.57 We are not talking ami_da_3
+D 716.57 Yeah . ami_da_1
+C 719.67 So it c it could be channel two , channel three , channel four , channel five . ami_da_4
+A 723.48 Yeah , you have a , like that , and so on . ami_da_4
+C 723.8 So change . ami_da_4
+C 724.98 Yeah . ami_da_9
+B 725.5 And you you can ami_da_3
+B 725.5 I think you can if you have a scale , so ami_da_4
+B 725.5 Yeah , it is a bit difficult . ami_da_9
+A 727.98 Oh yeah . ami_da_1
+C 729.52 Y fifth channel divided by the num by the by three hundred thirteen degree . ami_da_4
+C 735.42 So you got how many degree you you it ami_da_4
+C 735.42 No ami_da_4
+C 735.42 no , you do not have to y ami_da_4
+C 735.42 no it is when you when you stop t when you stop , the the turn , then the angle you stop is the angle ami_da_4
+C 735.42 you is the channel ami_da_4
+C 735.42 you ami_da_4
+C 735.42 It is it is very easy , because you kn ami_da_4
+C 735.42 you know how many channel are there in the ami_da_4
+C 735.42 Yeah , yeah , yeah . ami_da_4
+A 737.73 Yeah but y ami_da_9
+A 737.73 but you have to go through all the channels if you want to go ami_da_9
+D 753.01 Yeah . ami_da_1
+D 753.78 How d how do you know this angle is th is the correct one ? ami_da_5
+D 753.78 So you you count one degree , two degrees , no . ami_da_5
+C 765.85 You can do it . ami_da_4
+D 767.44 I do not think so . ami_da_9
+C 768.39 I think so I think so you can do it . ami_da_9
+C 772.71 I think so , you can just change . ami_da_9
+B 774.0 I think b but the the vocal command is easy too . ami_da_9
+B 776.48 You can say fifty and fifty it is okay , so ami_da_9
+B 776.48 , yeah , ami_da_1
+B 776.48 and y that is ami_da_1
+B 776.48 yeah . ami_da_1
+D 777.02 Yeah voc vocal command is okay . ami_da_9
+D 779.13 But w we have said previously that maybe it is not going to be th l the main ami_da_4
+D 779.13 And this would be more for browsing , . ami_da_9
+C 782.06 There is also a number , you know . ami_da_4
+A 782.74 Yeah , but when you are zapping you are changing from one channel to the other , so you are passing through all the channels . ami_da_4
+A 788.45 So , when you say I want to go to the channel number twenty that is you have decided to go to channel twenty , so you can say channel twenty , or channel four , because you really want to go on this channel . ami_da_4
+A 797.67 But if you really want to to do zapping you ami_da_4
+A 797.67 you do not really know what you want to do , you can turn it . ami_da_4
+D 800.52 Yeah . ami_da_3
+B 802.98 Yeah . ami_da_3
+A 803.06 Just go through all the channels and maybe stop if there is something interesting ? ami_da_4
+A 803.06 Seems to be good . ami_da_9
+B 804.36 To see ami_da_3
+B 804.36 yeah ami_da_1
+B 804.36 Yeah . ami_da_1
+C 805.52 Yeah . ami_da_1
+C 806.25 Yeah . ami_da_1
+C 810.35 Yeah . ami_da_9
+A 811.84 Good choice , mister David Jordan . ami_da_14
+C 813.27 Yeah . ami_da_14
+D 815.48 Yeah , I mean you are famous . ami_da_14
+B 816.32 And but I would ami_da_3
+B 816.32 It is a turn off t turn off button , maybe . ami_da_4
+C 816.64 And also you can , if you i ami_da_3
+C 816.64 You ca you can turn this . ami_da_4
+D 817.55 You . ami_da_14
+A 818.68 yeah , what is what is this cherry ? ami_da_5
+A 818.68 Okay . ami_da_9
+C 820.45 Or you ca you ami_da_4
+C 820.45 can you can also turn this . ami_da_4
+C 823.01 For this you can tune it is for tune . ami_da_4
+C 825.0 You you if you want to skip from channel one to channel two , you you skip this . ami_da_4
+C 829.11 If you want to from skip from channel one to channel ten you tune this . ami_da_4
+C 833.75 It is like fine , from coarse to fine . ami_da_9
+C 835.78 This is coarse , this is fine . ami_da_4
+B 837.23 Yeah , ami_da_9
+B 837.23 yeah ami_da_9
+B 837.23 yeah . ami_da_9
+B 837.81 That is ami_da_9
+B 837.81 that is very technologic , so . ami_da_14
+C 838.28 So it is coarse to fine design . ami_da_9
+B 840.78 Yeah . ami_da_14
+C 840.8 Yeah . ami_da_1
+D 840.95 Okay the th this looks better . ami_da_9
+D 842.34 Yeah . ami_da_9
+C 842.5 Yeah is is ami_da_2
+C 842.5 this is , from one channel to maybe to ten channel . ami_da_4
+B 844.49 S ami_da_5
+B 844.49 But I di ami_da_5
+B 844.49 I did not see where the t f the turn off t turn on turn off button so much activates ami_da_5
+B 844.49 maybe one of the it is k ami_da_3
+B 844.49 on off , yeah . ami_da_1
+C 846.68 This is from one channel to ami_da_3
+C 846.68 Yeah . ami_da_1
+A 850.58 Yeah , th you have the vocal commands . ami_da_4
+C 850.94 Yeah . ami_da_1
+C 853.15 Yeah . ami_da_1
+A 853.77 On off . ami_da_4
+D 855.66 Yeah , but it has to be on to recognise fas , that is not the ecological part , yeah . ami_da_9
+A 858.25 Most of the time you have the ami_da_2
+A 858.25 yeah it is a sleeping remote control . ami_da_4
+B 862.21 Yeah , sleeping . ami_da_1
+A 865.31 That is true . ami_da_9
+A 865.74 W that why we have the solar ti ami_da_4
+A 865.74 yeah . ami_da_4
+D 867.46 Solar . ami_da_4
+B 868.03 To compensate . ami_da_9
+B 870.36 Yeah . ami_da_1
+C 870.55 Okay . ami_da_1
+A 871.5 So ami_da_2
+A 871.5 three . ami_da_9
+D 871.51 So , which number ? ami_da_11
+D 871.51 So reasonably , is four , is one ? ami_da_11
+D 871.51 So , three . ami_da_9
+B 874.04 Easy to use , it is very relative but three ami_da_9
+B 874.04 it is fine , I think , it is reasonable three . ami_da_9
+A 878.67 Do you agree ? ami_da_11
+A 878.67 Three ? ami_da_11
+A 878.67 And what is your opinion ? ami_da_11
+A 878.67 It is not what you said previously . ami_da_9
+C 879.38 Yeah , agree , agree . ami_da_9
+B 882.5 Three f three for me , it is o ami_da_9
+B 882.5 it is okay . ami_da_9
+B 888.08 Four or three . ami_da_9
+B 889.25 Maybe you can vote to see how many everybody gives and no and just take the mean . ami_da_6
+D 894.92 we would not say , I mean , ami_da_2
+D 894.92 those are sort of agreed but this one would be more five to me . ami_da_9
+B 895.06 Will you give four ? ami_da_11
+B 895.06 Five ? ami_da_11
+B 895.06 Yeah , ami_da_3
+B 895.06 so maybe if Yeah but y you know ami_da_3
+B 895.06 You just push two button , zero and and one . ami_da_4
+C 907.49 w w what do y what ami_da_2
+C 907.49 you compare with traditional tr traditional controller ? ami_da_11
+C 907.49 I think it is easier than traditional controller . ami_da_9
+D 911.82 Yeah . ami_da_1
+C 916.78 If you use traditional controller you have to put a button , but now you do not have to put button ami_da_4
+C 916.78 , you have you just turn the turn the ball . ami_da_4
+C 923.53 There is two kind of balls , the smaller the the the ami_da_4
+C 923.53 so you can c ami_da_4
+C 923.53 you can c ami_da_4
+C 923.53 you can control the scale . ami_da_4
+D 923.64 So you have ami_da_3
+D 923.64 yeah . ami_da_1
+C 928.58 But in the traditional controller , how do how can you control the scale ? ami_da_5
+C 928.58 Yeah , ami_da_9
+C 928.58 yeah , ami_da_9
+C 928.58 yeah , ami_da_9
+C 928.58 y you ami_da_9
+C 928.58 you can do it , ami_da_9
+C 928.58 but you can also do it in the b if you you do not wa if you do not want to browsing all the channel you can just p there is also a button here . ami_da_4
+D 932.41 by pushing zero after after the first one . ami_da_4
+B 936.23 And that is ami_da_3
+B 936.23 Are there some buttons ? ami_da_5
+B 936.23 Okay . ami_da_5
+D 938.05 Yeah . ami_da_1
+C 947.52 Yeah , this function is just for your browsing , from one channel to th the next one , ami_da_4
+C 947.52 the next s ami_da_4
+C 947.52 sn s , the th the third one . ami_da_4
+A 955.18 Previously you said that turning this was the fine ami_da_9
+A 955.18 Fine to coarse . ami_da_4
+D 955.4 Yeah , if you are changing your mind . ami_da_9
+D 959.61 Fine to coarse . ami_da_4
+C 961.08 Yeah , ami_da_1
+C 961.08 yeah . ami_da_1
+A 961.59 And from ten to ten channels here . ami_da_4
+C 963.92 Y one to ten , ten to twelve , ten to t twenty . ami_da_4
+C 968.16 Ten to twenty and this one , t one two three four five six , like this . ami_da_4
+A 972.02 Okay . ami_da_9
+C 972.95 there is different scale , so you can you can choose how much do you want to sc ami_da_4
+D 975.91 Okay . ami_da_1
+D 977.44 But this this has to stay on the table , right ? ami_da_5
+D 977.44 This has to stay on the table . ami_da_5
+C 984.56 I ami_da_4
+C 984.56 i ami_da_4
+C 984.56 this is just a base . ami_da_4
+B 985.42 In fact on a flat place ami_da_4
+B 985.42 You can ami_da_3
+B 985.42 Oh yes , that is right . ami_da_9
+C 987.16 You can just ami_da_3
+C 987.16 Yeah . ami_da_1
+D 989.62 Yeah but then when you turn turn it ami_da_9
+D 989.62 Just It is ami_da_3
+D 989.62 Yeah . ami_da_1
+A 990.8 Oh ami_da_1
+A 990.8 Yeah , no no , no . ami_da_4
+A 994.12 You ca not put it out . ami_da_4
+A 995.6 It is just your turning from the base . ami_da_4
+A 997.42 You need to have everything in hand . ami_da_4
+A 999.02 If you want to turn , you ca not use it and turn . ami_da_4
+A 1002.08 It is impossible . ami_da_4
+A 1003.22 You need to put it on and turn . ami_da_4
+D 1004.42 You know tha that is the weak point , because with a traditional one you just have one hand . ami_da_9
+B 1005.45 Oh ami_da_1
+B 1005.45 my God . ami_da_16
+C 1006.51 You use your y ami_da_3
+C 1006.51 So th this is a d next generation controller . ami_da_14
+A 1007.85 Yeah , but nobody would be able to take it in the pocket and bring it in the kitchen and say I have lost the remote control . ami_da_9
+A 1015.0 Nobody would take it . ami_da_9
+D 1016.3 Sure . ami_da_1
+D 1017.45 Yeah , you would never you would never lose this one , yeah . ami_da_9
+A 1018.17 So nobody w will lost lose it . ami_da_9
+B 1023.69 yeah ami_da_14
+B 1023.69 maybe , maybe may it is the next prototype , maybe we cou ami_da_14
+B 1023.69 Four . ami_da_9
+D 1023.93 Yeah . ami_da_1
+C 1024.59 Yeah . ami_da_14
+C 1028.37 Okay okay ami_da_1
+C 1028.37 , okay . ami_da_1
+A 1029.59 S maybe we can change from th ami_da_3
+A 1029.59 Four ? ami_da_1
+A 1029.59 Easy to use , four . ami_da_9
+B 1031.04 Maybe four , it is okay . ami_da_9
+C 1031.33 Four . ami_da_9
+C 1031.8 Okay . ami_da_9
+B 1032.52 I will put four . ami_da_7
+A 1034.14 Gonna say four . ami_da_7
+D 1034.14 Four . ami_da_9
+B 1034.64 Yeah , four it is more reasonable . ami_da_9
+D 1035.33 it is even easier to maybe . ami_da_9
+B 1038.46 You can you can erase with this er ami_da_4
+B 1038.46 yeah . ami_da_4
+D 1040.46 Ok ami_da_12
+C 1042.79 Okay . ami_da_1
+B 1048.12 Yeah , four it is more reasonable , so . ami_da_9
+B 1050.71 So it is nine , nine over three . ami_da_4
+D 1050.76 So , average ? ami_da_5
+D 1050.76 Three ? ami_da_5
+D 1050.76 Okay , so ami_da_2
+D 1050.76 Yeah , especially on the easy to use target . ami_da_9
+C 1053.97 Three ? ami_da_5
+C 1053.97 Trois . ami_da_1
+A 1054.96 Trois . ami_da_4
+A 1055.71 Three . ami_da_4
+B 1055.71 Oh yeah , it is . ami_da_9
+B 1060.18 It need maybe some wo further work , but it is ami_da_6
+B 1060.18 Yeah , s yeah . ami_da_9
+C 1065.03 Yeah . ami_da_1
+B 1066.47 Might it might be fine . ami_da_9
+A 1067.27 So , th the project is accepted ? ami_da_11
+A 1067.27 But I d m ami_da_6
+A 1067.27 I think that it will be good to do some more work to transform this into a pineapple . ami_da_6
+D 1067.71 Okay . ami_da_1
+C 1070.39 Yeah . ami_da_9
+B 1071.28 Yeah , b I think ami_da_3
+B 1071.28 Yeah , ami_da_1
+B 1071.28 yeah . ami_da_1
+C 1080.58 Yeah . ami_da_1
+C 1082.16 Yeah . ami_da_1
+A 1082.53 If you re we really want to have a fruitful remote control . ami_da_6
+C 1088.91 Okay . ami_da_9
+A 1094.81 So . ami_da_2
+B 1096.34 That is the finance . ami_da_6
+A 1098.08 Okay ami_da_9
+A 1098.08 and we we had a project prototype presentation with the evaluation . ami_da_9
+A 1104.19 So as we all agree to accept , under certain conditions , the prototype , we will have look to the final sh financial view . ami_da_6
+B 1109.6 Yeah . ami_da_1
+C 1111.32 Okay . ami_da_1
+A 1121.12 So ami_da_2
+A 1121.12 we need to calculate the production cost . ami_da_6
+A 1127.02 As I said in the first meeting we need to have so a remote control that would cost not more than twelve and point fifty Euros . ami_da_6
+A 1136.42 And if not if it is not the case ami_da_6
+A 1136.42 y you would have to redesign it . ami_da_6
+B 1139.95 Oh yeah . ami_da_1
+C 1140.61 Yeah . ami_da_1
+A 1141.17 So , just have a look at the okay here is the Excel sheet , so ami_da_6
+A 1141.17 so it has the energy source . ami_da_4
+A 1158.32 We have hand dynamo . ami_da_4
+A 1160.15 No , we do not use that . ami_da_4
+D 1160.73 No . ami_da_1
+A 1162.93 We have battery , right ? ami_da_5
+A 1162.93 Kinetic , we do not have it , I suppose , ami_da_5
+A 1162.93 but we have solar cells . ami_da_4
+B 1164.16 Yeah , we have battery . ami_da_4
+B 1166.96 No , solar cells , yeah . ami_da_4
+A 1169.62 , how many do y do you need , solar cells ? ami_da_5
+A 1169.62 Do you think one would be enough , or such as ami_da_5
+A 1169.62 as number of branches ? ami_da_6
+A 1169.62 Three ? ami_da_11
+A 1169.62 So , ami_da_2
+A 1169.62 electronic . ami_da_8
+B 1176.63 I think in each ball you have three ami_da_6
+B 1176.63 three ami_da_9
+B 1176.63 yeah , ami_da_9
+B 1176.63 three , ami_da_9
+B 1176.63 yeah . ami_da_9
+B 1180.0 Three three solar cells . ami_da_9
+A 1185.12 Single simple chip on print ? ami_da_11
+A 1185.12 Just one would be necessary ? ami_da_11
+A 1185.12 One ? ami_da_11
+A 1185.12 Zero for the others . ami_da_4
+B 1186.98 S s simple , simple , ami_da_9
+B 1186.98 yeah . ami_da_9
+B 1189.07 Yeah . ami_da_9
+A 1194.07 And sample sensor , sample speaker . ami_da_4
+A 1198.76 One ? ami_da_11
+A 1198.76 As we have voice recognition , I think . ami_da_9
+B 1199.67 One maybe , yeah . ami_da_9
+B 1201.83 Yeah ami_da_1
+B 1201.83 yeah ami_da_1
+B 1201.83 yeah . ami_da_1
+A 1204.2 So the case . ami_da_8
+B 1204.22 Is it Is sh it ami_da_1
+B 1204.22 Wooden . ami_da_4
+D 1208.44 So we are all already nineteen . ami_da_9
+A 1213.04 Okay , ami_da_2
+A 1213.04 just keep on going , just to have an idea . ami_da_6
+C 1214.31 The solar cell is too expensive . ami_da_9
+D 1215.84 Yeah . ami_da_1
+B 1218.79 Is Yes a wooden pl ami_da_4
+B 1218.79 I and that is There is no wood , ami_da_4
+B 1218.79 so plastic just only , I think . ami_da_4
+A 1220.91 Well ami_da_2
+A 1220.91 yeah , ami_da_8
+A 1220.91 but what what about case ? ami_da_8
+A 1220.91 Uncurved , flat , single curved , double curved . ami_da_11
+A 1226.85 I think it is more like double curved . ami_da_9
+D 1227.54 That is going to be double curved , yeah . ami_da_9
+B 1228.14 Double curve , yeah , double curve . ami_da_9
+A 1229.69 One ? wood ? ami_da_11
+A 1229.69 do we need special colour ? ami_da_8
+A 1229.69 Y maybe , two ? ami_da_11
+A 1229.69 We have two special colours . ami_da_4
+B 1231.11 One , you have . ami_da_9
+B 1239.95 But it is yeah , ami_da_3
+B 1239.95 a a rubber ami_da_6
+B 1239.95 Yeah , ami_da_1
+B 1239.95 yeah . ami_da_1
+D 1240.53 Rather four buttons . ami_da_6
+D 1241.91 Oh no , interface . ami_da_3
+D 1246.09 Yeah , yeah ami_da_1
+D 1246.09 that is special colours , sure . ami_da_1
+B 1246.66 Y y ami_da_1
+B 1246.66 yeah , ami_da_1
+B 1246.66 yeah . ami_da_1
+A 1249.22 Push button . ami_da_5
+C 1251.61 Yeah , we have four . ami_da_4
+B 1254.18 Five ? ami_da_5
+B 1254.18 I think that this will be like a scroll wheel , actually . ami_da_9
+C 1255.09 Five . ami_da_4
+A 1256.01 Okay . ami_da_9
+A 1260.84 Scroll wheel . ami_da_5
+C 1261.72 No . ami_da_4
+A 1261.73 We don no . ami_da_1
+A 1264.08 It it is more like integrated scor . ami_da_9
+C 1266.48 No no . ami_da_9
+D 1267.17 Yeah tha that is wheel . ami_da_9
+B 1268.08 Y you tu ami_da_9
+B 1268.08 you turn you turn it , so ami_da_9
+B 1268.08 Yeah , true . ami_da_1
+C 1268.37 No no ami_da_9
+C 1268.37 no ami_da_9
+C 1268.37 , it ami_da_9
+C 1268.37 Okay . ami_da_9
+A 1271.56 Yeah , maybe two scroll wheel , as we have the coarse coarse to fine scroll wheel . ami_da_9
+D 1272.3 Yeah . ami_da_1
+B 1274.21 Yeah , ami_da_1
+B 1274.21 yeah . ami_da_1
+B 1274.67 Yeah . ami_da_1
+B 1276.47 Okay , ami_da_1
+B 1276.47 yeah , ami_da_1
+B 1276.47 yeah . ami_da_1
+B 1277.26 Scr ami_da_1
+B 1277.26 LC display , maybe . ami_da_6
+A 1280.23 So , no button supplements ? ami_da_11
+A 1280.23 Okay . ami_da_9
+D 1280.41 I think the price is okay . ami_da_9
+C 1282.58 No . ami_da_9
+D 1283.56 no . ami_da_9
+A 1287.99 Okay we I think we have problem . ami_da_9
+B 1291.41 Interface . ami_da_6
+A 1292.92 I think we s if we keep on adding things ami_da_9
+A 1292.92 so we have to Maybe ami_da_6
+A 1292.92 if w t if suppose if we change and we g put just one ? ami_da_6
+A 1292.92 Has it changed . ami_da_5
+B 1295.95 It is okay . ami_da_9
+B 1297.14 fine . ami_da_9
+D 1299.28 Yeah w one of the m key point is solar cells . ami_da_9
+D 1309.89 Yeah . ami_da_9
+B 1313.05 Yeah , it was stage one , so . ami_da_4
+D 1313.7 No y ami_da_4
+D 1313.7 i it did change , but ami_da_4
+D 1313.7 just imagine we have ami_da_6
+D 1313.7 Yeah . ami_da_9
+A 1315.35 Okay . ami_da_1
+C 1315.91 We have change the electronics to from from the the the sample sensor to regular chip . ami_da_6
+B 1320.91 So ami_da_1
+B 1320.91 I think you can transform the wood into plastic , maybe . ami_da_6
+C 1323.91 Oh . ami_da_6
+C 1326.02 We have to delete the the sample sensor , I think . ami_da_6
+A 1328.45 Yeah , but we have you the the voice recognition , ami_da_9
+A 1328.45 no ? ami_da_11
+A 1328.45 Okay . ami_da_1
+D 1333.3 Yeah but this one one of the feature we were not really ami_da_9
+D 1333.3 Yeah . ami_da_1
+C 1335.54 Yeah it is the one it is ami_da_2
+C 1335.54 m maybe we ha we have two versions , the first version , the basic version . ami_da_6
+C 1340.3 Advanced version we have speak . ami_da_6
+B 1342.47 Because it seems that this can be ami_da_3
+B 1342.47 yeah , wood into plastic and it it should be fine . ami_da_9
+D 1342.85 Yeah , if Yeah . ami_da_1
+A 1343.75 Or it would be better . ami_da_9
+C 1351.62 Plastic is free . ami_da_4
+A 1356.02 So , do we need special colour ? ami_da_11
+A 1356.02 Because we have red . ami_da_4
+D 1358.13 Yeah , that is one of the requirement . ami_da_4
+B 1360.67 Yeah , red and yellow . ami_da_4
+C 1361.17 Wait . ami_da_3
+A 1361.43 Red and yellow . ami_da_12
+D 1362.48 We could turn we could turn everything in either yellow or black . ami_da_6
+B 1362.52 Fancy . ami_da_9
+C 1362.66 We ami_da_3
+C 1362.66 we ami_da_3
+C 1362.66 can we can we c ami_da_3
+C 1362.66 yellow . ami_da_6
+D 1366.76 Black then is a regular colour , so . ami_da_9
+A 1369.03 I think so we need if we try to have a kind of pineapple bee . ami_da_6
+D 1372.37 Yeah , one . ami_da_1
+D 1374.36 Yeah . ami_da_1
+D 1376.39 So push button ami_da_8
+D 1376.39 then it is it is the next expensive one . ami_da_8
+A 1379.55 Yeah . ami_da_1
+A 1380.18 An ami_da_4
+A 1380.18 but we have integrated scroll wheel with push dut button . ami_da_4
+A 1382.84 And I think this is one . ami_da_9
+D 1384.34 Yeah , thi this might be . ami_da_9
+A 1384.55 Integrated scroll wheel push button ami_da_4
+A 1386.73 So we will we have only one ? ami_da_6
+A 1386.73 And push button . ami_da_4
+D 1393.57 Close to . ami_da_3
+A 1395.05 So if we have all integrated i in the scroll wheel and push button , it is ami_da_9
+A 1395.05 Something flat . ami_da_6
+B 1396.61 One . ami_da_1
+B 1400.98 I can remove ami_da_3
+B 1400.98 maybe f you have five with push buttons , so we can just , I dunno , try to modify some of them to have ami_da_6
+B 1400.98 yeah . ami_da_6
+D 1412.28 Okay , so what is the bottleneck ? ami_da_11
+D 1412.28 Double curved . ami_da_16
+C 1416.84 How about we change the sale ? ami_da_6
+C 1416.84 we have one ami_da_3
+C 1416.84 Okay . ami_da_9
+B 1418.18 Double curve . ami_da_6
+B 1418.82 We can transform the double curve into single c ami_da_6
+B 1418.82 yeah . ami_da_6
+B 1422.07 F some ami_da_3
+B 1422.07 Single curve . ami_da_6
+D 1422.98 Yeah , but flat ami_da_9
+D 1422.98 Case , what is the ca ami_da_3
+D 1422.98 And then one Euro left . ami_da_4
+A 1424.76 S uncurved . ami_da_9
+A 1426.85 Yeah , maybe not . ami_da_9
+A 1429.19 Yeah . ami_da_1
+B 1429.6 Single curve should be fine , so . ami_da_9
+B 1434.79 Oh , what ami_da_3
+B 1434.79 It is it is a bad idea , so . ami_da_9
+A 1438.87 Nearly . ami_da_9
+A 1446.48 Maybe do not bat no battery , only solar cells . ami_da_6
+D 1454.3 So we have one button , one wheel . ami_da_9
+A 1454.98 I think there is a problem with the push push button . ami_da_9
+A 1457.49 We only need maybe just one . ami_da_6
+B 1458.55 Two ? ami_da_6
+B 1458.55 One . ami_da_12
+A 1460.06 Just one . ami_da_6
+A 1463.23 Yeah . ami_da_9
+B 1464.31 That is fine . ami_da_9
+C 1465.37 Okay . ami_da_9
+B 1465.88 That is fine . ami_da_9
+C 1466.38 Agree . ami_da_9
+A 1468.45 So yeah , you will have So one button , and s scroll wheel with push button on it . ami_da_9
+B 1468.84 One s one scroll wheel , so And the vocal chord , it is fine . ami_da_9
+B 1479.44 It I th it is fine . ami_da_9
+A 1481.56 So ami_da_2
+A 1481.56 So , yeah . ami_da_14
+D 1482.53 It is good they are not charging anything for that . ami_da_9
+A 1487.3 It think we we have done good job , as the cost is ami_da_14
+A 1487.3 twelve fifty e ami_da_14
+A 1487.3 Yeah , but it is under or equal . ami_da_4
+C 1490.44 Cou could we have look ami_da_2
+C 1490.44 Could we have look at the p the the prod the p the cost ? ami_da_8
+C 1490.44 Okay . ami_da_9
+D 1493.54 Yeah y actually it is wrong . ami_da_4
+D 1494.65 We are not under twelve Euros and a half . ami_da_4
+A 1499.1 It is not written . ami_da_4
+B 1499.62 It is fine . ami_da_9
+A 1499.8 Sometimes it is under or equal . ami_da_4
+B 1501.38 It is under or equal . ami_da_9
+D 1501.94 Okay . ami_da_9
+B 1502.23 It is fine , so It is fine , ami_da_9
+B 1502.23 twelve fifty ami_da_9
+B 1502.23 The solar cells , r is i is it ? ami_da_5
+B 1502.23 Yeah , to be able to si to sell it . ami_da_9
+D 1503.18 Okay . ami_da_9
+C 1505.12 So let is say ami_da_6
+C 1505.12 Wha what ami_da_2
+C 1505.12 yeah . ami_da_9
+A 1507.0 Twelve fifty . ami_da_6
+C 1509.84 Which part is the most expensive part ? ami_da_5
+C 1509.84 Yeah , I think it is not t t ami_da_4
+C 1509.84 Cheaper . ami_da_6
+D 1512.68 Solar cells . ami_da_4
+A 1513.84 Yeah , I think . ami_da_4
+A 1517.96 I think , yeah . ami_da_9
+A 1519.21 But it would i be interesting for our marketing team , to make a lot of advertisement concerning these solar cells to be ami_da_6
+A 1519.21 Yeah but it will be technologically innova innovative , so . ami_da_9
+D 1526.71 Yeah . ami_da_1
+D 1528.12 That is nice argument , but if it is it is still four our of twelve . ami_da_9
+B 1529.08 Yeah , with mi ami_da_9
+B 1529.08 It is it is really really really very very expensive , though . ami_da_9
+D 1534.9 Yeah . ami_da_1
+B 1536.15 Maybe if okay . ami_da_3
+C 1537.83 Okay . ami_da_1
+B 1540.35 Yeah , ami_da_1
+B 1540.35 yeah . ami_da_1
+D 1541.54 Yeah but we just have one button . ami_da_9
+A 1544.84 So it is easy to use and powerful , as the remote control a has only one button . ami_da_9
+D 1552.98 Easy . ami_da_9
+D 1553.49 I do not know about powerful . ami_da_9
+D 1555.4 Yeah . ami_da_9
+B 1556.18 It is easy to use . ami_da_9
+A 1556.47 Easy , powerful . ami_da_9
+B 1556.91 It is very easy to use . ami_da_9
+A 1562.0 So I do not think we need to redesign the p the product . ami_da_6
+B 1567.65 No . ami_da_9
+D 1567.79 that is what we have just done . ami_da_9
+B 1570.51 We have done it with it is under the if it was low , high or so . ami_da_9
+A 1571.02 Yeah . ami_da_1
+D 1571.43 Yeah . ami_da_1
+D 1577.24 okay . ami_da_1
+A 1577.72 So Now ami_da_2
+A 1577.72 So ami_da_2
+A 1577.72 So did you enjoy your clay modelling ? ami_da_11
+A 1577.72 Yeah ? ami_da_11
+A 1577.72 Was it a nice way to create your remote control ? ami_da_11
+A 1577.72 And for the marketing guy ? ami_da_11
+A 1577.72 And new ideas about new products , maybe , wi which would be fashion and and yellow . ami_da_6
+B 1581.38 So ami_da_1
+B 1581.38 So what are we going to do with this project evaluation ? ami_da_8
+B 1581.38 Okay , okay , it is fine . ami_da_9
+D 1587.6 Well I think we have just have to discuss if ami_da_6
+D 1587.6 I dunno . ami_da_1
+C 1596.53 Yes . ami_da_9
+C 1597.31 Of course . ami_da_9
+C 1598.23 This is my job . ami_da_9
+C 1604.28 Yeah , it is it is good , to to create a control instead of a computer . ami_da_9
+B 1617.05 Yeah , I think I find it really funny and amazing and interesting to go through all the process to from the beginning to the end . ami_da_14
+B 1625.22 And designing , looking at the chips , the solar cells and and it was very informative for . ami_da_9
+C 1628.21 Yeah . ami_da_1
+D 1636.03 tha that was good ami_da_6
+D 1636.03 but we should have more brainstorming like meetings , maybe . ami_da_6
+B 1641.37 Yep . ami_da_1
+D 1641.65 Because we just presenting one is presenting his stuff next one his stuff ami_da_9
+D 1641.65 and then we try to combine afterwards , ami_da_9
+D 1641.65 so it . ami_da_9
+C 1645.57 Okay . ami_da_1
+B 1648.5 Okay , okay . ami_da_1
+B 1662.99 Yellow . ami_da_16
+B 1663.47 I think you can think about a yellow TV now after a fruit TV or I dunno . ami_da_6
+B 1669.21 It can be an interesting ami_da_9
+B 1669.21 I do not know ami_da_9
+B 1669.21 Yeah , ami_da_9
+B 1669.21 just a lemon TV it would be yellow lemon . ami_da_9
+A 1670.97 Yes , just lemon . ami_da_6
+C 1674.33 Yeah , ami_da_4
+C 1674.33 but y you know the traditional TV it is ami_da_4
+C 1674.33 Yeah yeah it is flat , yeah the shape is very boring . ami_da_9
+B 1677.38 It is flat , ami_da_4
+B 1677.38 Yeah , that is right . ami_da_9
+A 1679.03 Squared ? ami_da_4
+A 1679.03 , the lemon TV with the pineapple remote control . ami_da_14
+C 1681.91 Could we come up with new TV with such as this kind of TV ? ami_da_6
+C 1681.91 So you can you have base , triangle base ami_da_6
+C 1681.91 so you the TV you can ami_da_6
+C 1681.91 Yeah . ami_da_1
+B 1682.27 It is really boring , yeah . ami_da_9
+B 1684.56 Yeah . ami_da_1
+B 1694.97 Yeah , that is that would be really interesting , actually . ami_da_9
+C 1697.16 Yeah . ami_da_3
+C 1697.52 Because the TV you also ami_da_3
+C 1697.52 Yeah . ami_da_1
+A 1698.81 Oh , that is interesting . ami_da_9
+A 1699.88 You could f we could do a kind of fruit collection of electronics things . ami_da_6
+B 1704.59 Device devi ami_da_3
+B 1704.59 The fruit ? ami_da_16
+B 1704.59 Yeah . ami_da_16
+A 1706.07 Electronic device . ami_da_6
+D 1706.43 Yeah , but just do not trust too much the trends . ami_da_6
+C 1707.46 Yeah . ami_da_1
+D 1711.12 Because fruit and vegetables it wo not last for ten years . ami_da_9
+A 1711.27 Maybe ami_da_3
+A 1711.27 Yeah , maybe la next year it will be insects . ami_da_9
+B 1714.71 Yeah , it is ami_da_3
+B 1714.71 But I think it is good to follow the f flow ami_da_9
+B 1714.71 and you know make it now and after , you know , if the people change their mind you change also the product . ami_da_9
+D 1715.13 Maybe two years it is dead . ami_da_9
+D 1717.13 Yeah . ami_da_1
+D 1719.88 Yeah . ami_da_1
+D 1724.91 Yeah , but this is good because it is not a long long life product . ami_da_9
+B 1728.74 Yeah . ami_da_1
+D 1729.38 TV is more like fifteen years , maybe , so . ami_da_9
+B 1732.5 Yeah , ami_da_9
+B 1732.5 yeah . ami_da_9
+D 1732.57 If you have a lemon lemon TV for fifteen years ami_da_9
+D 1732.57 Yeah , ami_da_1
+D 1732.57 yeah . ami_da_1
+B 1732.91 That is a yeah ami_da_9
+B 1732.91 , yeah . ami_da_9
+B 1735.72 We can think about TV with you know where you can change you know the aspects o like for the cell phones , you know . ami_da_6
+A 1741.32 Customable TV . ami_da_9
+B 1742.24 Yeah , you customise it every ti so every ti if people change , you just change the appearance , and y y you can keep ami_da_6
+B 1742.24 Yeah , you can keep the global appearan The mood of persons , the fashions ami_da_6
+B 1742.24 We int ami_da_3
+B 1742.24 Yeah , TV , yeah . ami_da_1
+A 1746.82 such yeah . ami_da_1
+A 1747.81 You have already said mobile phones . ami_da_16
+D 1748.02 Tha that would that would make it . ami_da_9
+C 1748.46 Okay . ami_da_1
+D 1749.36 Yeah . ami_da_9
+A 1751.11 Yeah , and following ami_da_6
+C 1755.61 Yeah . ami_da_1
+A 1757.2 It is interesting , maybe we can create a a line of TV with a a tr ami_da_6
+A 1757.2 So I think the costs are within the budget . ami_da_9
+C 1764.24 Yeah . ami_da_1
+B 1764.55 A TV for autumn and a TV for winter , you know , so it is ami_da_6
+B 1764.55 So what i and do w is it Okay . ami_da_3
+C 1767.26 Yeah . ami_da_1
+A 1781.5 We are just at twelve fifty Euros . ami_da_4
+B 1782.4 Yeah , the pr at ami_da_9
+B 1782.4 Yeah but I think f ami_da_2
+B 1782.4 it is really a celebrating object . ami_da_14
+C 1782.89 Yep . ami_da_1
+D 1783.38 Yeah . ami_da_1
+A 1787.85 So ami_da_2
+A 1787.85 do you think you can celebrate your creation ? ami_da_11
+A 1787.85 Oh , thanks a lot . ami_da_14
+C 1794.87 And you can celebrate your leadership . ami_da_14
+A 1799.4 Thank you , mister David Jordan . ami_da_14
+B 1804.58 So it is yellow and very ami_da_14
+B 1804.58 a ami_da_14
+B 1804.58 very ha it is very happy , so . ami_da_14
+C 1806.5 Yeah . ami_da_1
+D 1808.1 Yeah . ami_da_14
+D 1808.53 It is party party remote control . ami_da_14
+B 1808.55 it is it is a pr ami_da_3
+B 1808.55 it is like ami_da_3
+B 1808.55 yeah . ami_da_3
+A 1811.87 The thing now is to to sell it . ami_da_6
+C 1814.96 Yeah , it is your job . ami_da_6
+B 1816.59 Yeah , ami_da_1
+B 1816.59 right , go and sell it . ami_da_14
+C 1817.33 Sell it . ami_da_14
+B 1820.76 Goo and good luck , so ami_da_14
+B 1820.76 It should be fine . ami_da_9
+D 1821.12 Yeah . ami_da_1
+C 1821.99 Yeah . ami_da_1
+C 1823.8 Okay and the twelve fifty twelve twelve ami_da_4
+C 1823.8 Twenty five Euros , ami_da_1
+C 1823.8 yeah . ami_da_1
+D 1827.76 Uh huh . ami_da_1
+D 1828.42 Twenty five Euros . ami_da_4
+D 1830.19 Yeah , I think it is ami_da_3
+D 1830.19 It is cheap , yeah . ami_da_9
+C 1831.97 Twenty five Euros . ami_da_1
+A 1832.4 It is maybe a little bit expensive . ami_da_9
+D 1836.55 No , I ami_da_3
+D 1836.55 I am not so happy about the fruit shape , you know . ami_da_9
+C 1837.13 No , it is not so expensive . ami_da_9
+B 1840.72 Wh really ? ami_da_16
+B 1840.72 It should be it should be fine , you know , actually . ami_da_9
+C 1848.16 Okay . ami_da_1
+B 1848.34 S ami_da_9
+B 1848.34 I ami_da_9
+B 1848.34 I think I like the the colour ami_da_9
+B 1848.34 a the colour are very good , so actually so It is perfect , and ami_da_9
+B 1848.34 I p is th y ami_da_2
+B 1848.34 the the yellow ball thing that ami_da_3
+B 1848.34 f like y we can we can put some double R ami_da_6
+B 1848.34 Okay yeah , ami_da_9
+B 1848.34 yeah . ami_da_9
+A 1850.47 Maybe what you can do a test . ami_da_14
+D 1851.08 Yeah . ami_da_1
+A 1852.55 Put it outside , and if bees come , it is really fruit . ami_da_14
+C 1861.15 Okay . ami_da_1
+A 1863.05 But do not put sugar in it , it is not working . ami_da_14
+D 1866.6 No , the colours are it is perfect , yeah . ami_da_9
+D 1869.49 True . ami_da_1
+D 1869.85 yeah , another thing is the logo is missing still . ami_da_4
+A 1873.56 Yeah , but the colour , I think the colour is more is most important , because I I do not think you have ever seen something like that before for a remote control . ami_da_9
+D 1876.16 Still that was one of the requirements we had . ami_da_4
+D 1884.71 It is yeah ami_da_9
+D 1884.71 but it I do not think it is such a problem just putting the logo somewhere . ami_da_9
+A 1889.51 Yeah , but we decided to have something yellow and red , for the costs . ami_da_6
+D 1893.46 Yeah . ami_da_1
+A 1894.23 So maybe we can just integrate it on th on one side , the double R . ami_da_6
+D 1899.75 Yeah . ami_da_1
+B 1900.24 That is actually good idea , so It is not a mushroom . ami_da_9
+A 1902.64 So we have the logo , we have the colour , and we have the fashion in electronics , so we have the slogan too . ami_da_4
+C 1906.9 So we have to give a ami_da_3
+C 1906.9 So we have give him give it a cute name . ami_da_6
+D 1913.21 Cute na ami_da_1
+D 1913.21 You cannot say mushroom because it is not the trend . ami_da_9
+A 1913.29 Yeah th no , it is the it is the pineapple control remote control . ami_da_9
+C 1913.38 Mush mushroom controller . ami_da_6
+A 1918.21 It is a pineapple now , it has changed . ami_da_4
+D 1919.15 It is not the trend . ami_da_9
+B 1919.49 It is a pineapple remote controls . ami_da_4
+A 1920.53 It is a pineapple . ami_da_4
+C 1921.64 Pa Pine apple . ami_da_12
+A 1922.04 Pineapple . ami_da_4
+B 1924.34 Yeah , pineapple remote remote control . ami_da_1
+D 1925.48 Yeah , but just flying saucer , or ami_da_6
+D 1925.48 I would say flying saucer . ami_da_9
+A 1926.45 With cherry on top . ami_da_14
+C 1928.06 Okay . ami_da_9
+B 1929.39 Oh , that ami_da_3
+B 1929.39 Oh unid unidentified remote control , so ami_da_14
+B 1929.39 That is that is pineapple remote control . ami_da_9
+D 1931.65 It is more appropriate , somehow . ami_da_9
+C 1933.97 Okay . ami_da_1
+C 1936.48 Okay . ami_da_1
+B 1938.47 I think it is fine . ami_da_9
+C 1939.72 Okay . ami_da_1
+A 1940.06 Will you buy one ? ami_da_5
+A 1940.06 Try to . ami_da_1
+B 1940.16 Yeah . ami_da_14
+B 1941.53 Yeah I will try I will try . ami_da_14
+C 1944.0 Twenty five Euro . ami_da_14
+A 1944.15 Okay ami_da_1
+A 1944.15 One thing I like is the shape , because you know it is not like the the remote controls you can put in your pocket , on in your jacket . ami_da_9
+B 1946.54 I can hel I will try versions so to see how easy easy to manage ami_da_14
+B 1946.54 Yeah I always lose my ami_da_4
+B 1946.54 Yeah , ami_da_9
+B 1946.54 so so ami_da_9
+B 1946.54 i if it is a universal one I can use it with my TV , so it would be ami_da_9
+B 1946.54 I think I would choose this one because of the colour . ami_da_9
+C 1948.71 Okay . ami_da_1
+C 1949.65 Yeah you told me you h you d you d you lost your control your TV ami_da_4
+C 1949.65 so you need to buy one . ami_da_6
+C 1958.08 Okay . ami_da_1
+C 1962.86 Traditional one ? ami_da_5
+C 1962.86 Yeah . ami_da_1
+C 1965.69 So this one and this one . ami_da_11
+C 1967.14 What do you choose ? ami_da_11
+C 1967.14 What do you choose ? ami_da_11
+C 1967.14 Okay . ami_da_1
+A 1969.71 I prefer the laser remote control . ami_da_14
+A 1977.16 No . ami_da_14
+B 1977.77 It is it is will enlight your house , your home and your TV , so . ami_da_9
+C 1982.6 Okay . ami_da_1
+B 1983.28 Yeah . ami_da_1
+A 1983.52 Oh . ami_da_6
+A 1983.99 Maybe next if we decide to do something we would can put light inside . ami_da_6
+B 1988.16 Yeah , yeah that would be an idea . ami_da_9
+D 1989.19 Yeah but that is going to be expensive , you know . ami_da_9
+A 1990.71 Yeah . ami_da_1
+D 1991.16 We had some problems going to twelve Euros and I dunno . ami_da_9
+A 1992.91 I think it it would be interesting to just to see if we can if people will buy this one , and maybe add some features to it after yeah . ami_da_6
+D 2000.87 Yeah , afterwards , if if it is a new trend . ami_da_9
+C 2002.29 Yeah . ami_da_1
+C 2002.52 Yeah . ami_da_1
+D 2007.76 Okay . ami_da_1
+A 2008.63 So ami_da_2
+A 2008.63 Champagne , mister Baba . ami_da_14
+B 2008.69 Yeah that is that fine . ami_da_9
+B 2010.14 So we can celebrate now . ami_da_14
+B 2011.76 That is our new product . ami_da_9
+D 2013.82 We should celebrate . ami_da_14
+B 2015.74 Yes . ami_da_14
+B 2017.44 It is it is fine . ami_da_9
+B 2018.26 It is I like it . ami_da_9
+C 2023.2 So buy one . ami_da_14
+B 2025.09 Next time . ami_da_14
+B 2026.79 Well , I will buy one here . ami_da_14
+C 2028.16 Yeah . ami_da_1
+A 2030.8 So ami_da_2
+A 2030.8 Okay , I will close this . ami_da_7
+B 2042.54 Yeah . ami_da_1
+B 2043.24 No ? ami_da_1
+B 2043.24 Okay . ami_da_1
+A 2046.14 So I think we have finished the designing and the evaluation of our remote control and we have a nearly final product . ami_da_9
+B 2053.65 Okay . ami_da_1
+D 2054.17 Yeah . ami_da_1
+B 2061.54 Final prototype , yeah , ami_da_1
+B 2061.54 yeah . ami_da_1
+A 2062.07 Final prototype , right . ami_da_1
+C 2063.56 Prototype , yeah . ami_da_1
+A 2065.45 So , ami_da_2
+A 2065.45 thank you very much . ami_da_14
+C 2066.74 Okay . ami_da_1
+B 2067.71 Okay . ami_da_1
+C 2069.2 Okay . ami_da_1
+B 2069.42 Okay . ami_da_1
+C 2071.31 Okay . ami_da_1

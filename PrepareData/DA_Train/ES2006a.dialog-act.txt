@@ -1,0 +1,344 @@
+C 8.7 Okay . ami_da_2
+C 10.69 So , this is first meeting of this design project . ami_da_4
+C 17.72 and I like to show you the agenda for the meeting , ami_da_7
+C 17.72 I do not know if it was sent round to all of you . ami_da_5
+D 28.03 , yeah . ami_da_2
+C 29.66 Maybe not . ami_da_9
+D 29.94 I did not receive it yet . ami_da_4
+C 30.27 Anyway , ami_da_2
+C 30.27 this is the the plan for today is meeting is firstly just to introduce the project briefly , although I am sure you have actually got some of the information already . ami_da_4
+C 45.12 Then the main purpose is to so that we get to know each other a little bit more . ami_da_4
+C 50.09 then we want to practice using some of the tools that we will be using during the the course of the design project and the meetings , specifically the whiteboard over there . ami_da_4
+C 64.3 then we need to go through the specifics of our project plan ami_da_4
+C 64.3 and discuss ami_da_3
+C 64.3 come up with some preliminary ideas about it . ami_da_4
+C 76.88 And then that is it . ami_da_4
+C 78.66 So we have got twenty five minutes to do that , that is until eleven twenty five . ami_da_4
+C 85.17 S so any any questions ? ami_da_5
+C 85.17 Is i ami_da_3
+C 85.17 not at this point . ami_da_9
+A 86.5 so sh . ami_da_3
+D 89.3 Not at this point . ami_da_4
+C 94.72 So this is our project . ami_da_4
+C 96.94 What we are aiming to do is to create a new remote control for a television . ami_da_4
+C 103.73 we want it to be something original , something trendy and also something user friendly , so it has to be quite intuitive that people are able to use this product . ami_da_4
+C 139.03 The method that we are going to use to complete the project , that has three components as such . ami_da_4
+C 150.09 There is the functional design of the the remote control . ami_da_4
+C 157.43 We are going ami_da_3
+C 157.43 the way we will do that I think is to to work individually initially and then come together for meetings to to work on that . ami_da_4
+C 167.58 similarly with the conceptual design , we will start off by working individually with our own expertise on our own laptops and then we will bring what we have done together . ami_da_4
+C 181.63 and then the detailed design will come after that . ami_da_4
+C 186.88 We will pull it all together . ami_da_4
+A 188.69 I am a bit confused about what is the difference between the functional design and conceptual design ? ami_da_4
+A 188.69 i is it just more detail , as I understand it ? ami_da_5
+A 188.69 Right . ami_da_12
+C 199.01 I think it th w we are talking the the functional design is more your area of things where you will be we want to look at what functions we need in the remote control and what what specific things ami_da_4
+C 199.01 it it has to do ami_da_4
+C 199.01 but the conceptual design is perhaps bigger than that and includes the how people are going to use it and and that kind of thing . ami_da_4
+A 221.67 How how it will be done . ami_da_4
+A 227.37 So ami_da_2
+A 227.37 whe where do we identify the components of our product ? ami_da_5
+A 227.37 I think it is it is in the conceptual design phase that we identify the ami_da_3
+A 227.37 it is in the conceptual design phase that we identify the components of our product ? ami_da_11
+A 227.37 Okay . ami_da_9
+C 244.45 I think we will we will start that initially with the functional design already ami_da_4
+C 244.45 but then ami_da_4
+C 244.45 yeah . ami_da_16
+C 258.04 Okay , so that is just a brief overview of the p the the project itself . ami_da_4
+C 262.97 what I would like us to do now is simultaneously introduce ourselves and start using some of the tools that we are using for for the project , ami_da_6
+C 262.97 specifically the whiteboard . ami_da_4
+C 279.87 So ami_da_2
+C 279.87 each person in turn , I would like us to go up to the whiteboard , ami_da_6
+C 279.87 the pen is just underneath it there ami_da_4
+C 279.87 and draw your favourite animal and then tell everyone what the f your favourite characteristics of that animal are and while you are doing that tell us your name , what your role is and perhaps how your animal relates to the role that you are taking in this project . ami_da_6
+B 306.41 Why are you looking at me ? ami_da_5
+B 306.41 Do I have a choice ? ami_da_5
+B 306.41 Okay . ami_da_9
+C 311.26 Would you like to go first ? ami_da_8
+C 311.26 Oh , yeah , ami_da_1
+C 311.26 p put them in pockets . ami_da_6
+B 316.35 Ooh ooh , things falling everywhere . ami_da_16
+B 318.67 Right , okay . ami_da_2
+B 325.98 Cool . ami_da_14
+C 328.14 You do not have to hurry , we have got plenty of time . ami_da_4
+B 328.23 Okay . ami_da_2
+B 331.49 So , my name is Cat ami_da_4
+B 331.49 and I am really not very good at this whole drawing malarkey ami_da_14
+B 331.49 so ami_da_1
+B 331.49 Okay . ami_da_16
+C 352.69 It is got no eyes . ami_da_4
+B 354.5 Oh , good point . ami_da_9
+B 356.86 , the eyes always ruin it . ami_da_15
+B 358.44 Right . ami_da_2
+B 358.78 Okay , what do it is eyes like ? ami_da_16
+B 358.78 Okay , cool . ami_da_14
+B 371.77 this is a rabbit . ami_da_4
+C 374.64 I thought it might be a cat . ami_da_9
+D 375.5 Yeah ami_da_9
+D 375.5 well origi ami_da_3
+D 375.5 at first I thought it was going to be cat . ami_da_4
+B 379.17 Yeah , I do not think it is furry enough , ami_da_9
+B 379.17 so we will make it a fluffy rabbit . ami_da_7
+D 380.88 Yeah now I now I understand now , yeah . ami_da_9
+C 383.12 Yeah ami_da_1
+C 383.12 I can see by the ears . ami_da_9
+D 385.49 Yeah . ami_da_9
+B 386.2 Okay , right , ami_da_2
+B 386.2 it is a fluffy rabbit , blue . ami_da_4
+B 389.17 Rabbits do not come in blue ami_da_9
+B 389.17 but you know . ami_da_9
+B 391.49 okay ami_da_9
+B 391.49 and I like it because it is small ami_da_9
+B 391.49 and it is fluffy . ami_da_9
+B 397.98 And one day you will be able to getical genetically modify them and they will come in pink . ami_da_14
+B 404.78 Okay ? ami_da_11
+B 404.78 I am the ami_da_3
+B 404.78 I need my notebook , ami_da_4
+B 404.78 ooh ami_da_16
+B 404.78 top banana . ami_da_14
+C 405.18 Excellent , ami_da_9
+C 405.18 and what is your what is your role within the team ? ami_da_5
+B 415.33 Thank you . ami_da_14
+B 416.12 Okay , cool , ami_da_2
+B 416.12 I am the Marketing Expert ami_da_4
+B 416.12 so like ami_da_2
+B 416.12 I am going to be doing the apparently according to the little guy in the computer that knows everything the user g requirements specification of the functional design , trend watching in the conceptual design and product evad valuation in the detailed design ami_da_4
+B 416.12 so yeah . ami_da_16
+A 440.02 Okay . ami_da_1
+C 442.28 And more about yourself , ami_da_6
+C 442.28 you are from ? ami_da_5
+A 442.5 Okay . ami_da_1
+B 444.69 I am from Leicester , second year . ami_da_4
+B 449.51 what else do you want to know ? ami_da_5
+B 449.51 I like sports yeah , aerobics , kickboxing , spinning ami_da_4
+B 449.51 and ami_da_3
+B 449.51 not with rabbits , no no . ami_da_9
+C 462.11 But not with rabbits . ami_da_14
+B 465.7 And vets , I like vets as well . ami_da_4
+B 469.23 And yeah ami_da_4
+B 469.23 and I like cocktails , especially pink ones . ami_da_4
+B 473.41 Okay ? ami_da_11
+B 473.41 Cool . ami_da_14
+A 473.85 Cool . ami_da_1
+C 473.99 Excellent , to match the rabbit . ami_da_9
+D 484.51 Okay . ami_da_2
+D 485.87 so my name is Maarika . ami_da_4
+D 488.72 Where is the pen ? ami_da_4
+D 488.72 Okay . ami_da_9
+C 494.34 There is a an ami_da_3
+C 494.34 if you have not enough room there is an eraser there ami_da_4
+C 494.34 and you can rub it off . ami_da_4
+D 499.12 Yeah , well , ami_da_9
+D 499.12 or I can make it smaller . ami_da_7
+D 502.48 so ami_da_2
+D 502.48 I am the Interface Designer in this project ami_da_4
+D 502.48 and my favourite animal , ami_da_3
+D 502.48 I m ami_da_14
+D 502.48 I mean I am not so sure because I am not so so very familiar with all kinds of animals , ami_da_14
+D 502.48 but I do like dogs . ami_da_4
+D 516.14 Oh , sorry , maybe I should have should not have said it beforehand but ami_da_14
+D 524.91 well , there are different kinds of dogs , but ami_da_4
+D 524.91 okay . ami_da_4
+A 538.74 That is not bad at all . ami_da_9
+C 539.59 it looks like a dog . ami_da_9
+A 541.39 Yep . ami_da_1
+D 541.52 Okay . ami_da_14
+B 541.91 Is a bit more impressive than my rabbit . ami_da_9
+B 543.64 I think it needs four legs if it is going to walk though . ami_da_9
+D 546.03 Yeah , ami_da_9
+D 546.03 maybe it has some colourful patches , yeah . ami_da_14
+D 549.41 yeah ami_da_4
+D 549.41 and I do like dogs because they are good friends to people ami_da_4
+D 549.41 and they are loyal . ami_da_4
+C 549.57 the other legs are on the other side . ami_da_4
+D 560.39 well that is compared to some other animals like cats . ami_da_4
+D 564.24 they are really much more fun because they are not so independent . ami_da_4
+D 568.62 yeah ami_da_4
+D 568.62 maybe maybe the fact that they protect their home as well , ami_da_4
+D 568.62 yeah . ami_da_4
+D 577.98 what it has to do with with my role in the project is hard to say . ami_da_4
+D 581.84 I hope to be loyal to the project and not to n not to let people doing similar projects know the details of our project or something , yeah . ami_da_4
+C 593.65 And where where are you from ? ami_da_5
+C 593.65 Estonia . ami_da_9
+D 595.21 I am from Estonia ami_da_4
+D 595.21 , yep . ami_da_9
+D 598.93 so is there anything else you would like to know ? ami_da_5
+D 598.93 Oh , right , my roles , ami_da_12
+D 598.93 so in the different stages of the design , so at first I will be responsible for for yeah , designing the technical functions of the of the remote control then in the in the conceptual design stage I need to come up with interface concept and then in the last stage I will be responsible for the int infa for the user interface design . ami_da_4
+D 642.39 Okay , that is it . ami_da_4
+A 642.45 Thank you . ami_da_14
+A 647.84 Okay I will do some ami_da_3
+A 647.84 I will rub the features and let the drawing stay . ami_da_7
+A 660.86 Okay ami_da_1
+A 660.86 my name is Gaurav . ami_da_4
+A 668.95 my favourite animal ami_da_16
+A 668.95 one of my favourite animals is a cow . ami_da_4
+A 675.2 I have got no idea how to draw a cow . ami_da_4
+C 677.04 Good luck . ami_da_14
+A 681.18 this is going to be ami_da_9
+A 681.18 Yeah , that will do . ami_da_9
+B 684.08 They are not just like a big round body and then some really skinny legs and then just some horns . ami_da_6
+A 688.55 Okay , so let let me draw the body first . ami_da_7
+A 692.04 Big , round body , really skinny legs ami_da_16
+A 692.04 and they have got a long tail and a long face . ami_da_4
+C 702.71 It is eating . ami_da_9
+B 704.02 It looks like Eeyore . ami_da_9
+A 704.9 And there is some grass there . ami_da_4
+C 706.5 Yeah . ami_da_9
+A 708.34 So this is what I like about cows that they just keeps sitting there eating grass , they do not disturb anybody they are kind of Buddhist in a way . ami_da_4
+B 712.87 Horns , draw some horns . ami_da_6
+A 721.68 So yeah , I like cows . ami_da_4
+A 724.95 my my role in the project is the industrial designer , so I am supposed to design all the details of of the product ho how it works and whatever it will take during the functional role ami_da_4
+A 724.95 , what are the various functions that have to be performed by it during the conceptual design , ami_da_4
+A 724.95 what are the various components of it ami_da_4
+A 724.95 and finally , ami_da_2
+A 724.95 I am not too sure what was the last part . ami_da_4
+A 755.26 the detailed design , ami_da_16
+A 755.26 I I guess it will again be the identification of the components and how they integrate with each other . ami_da_4
+A 764.21 I am from India . ami_da_4
+A 766.93 I am doing my PHD in Psycholinguistics , I sit at the Department of Psychology . ami_da_4
+A 773.3 Yeah . ami_da_16
+C 774.46 Excellent . ami_da_9
+A 774.69 Thank you . ami_da_14
+D 775.18 Thanks . ami_da_14
+C 776.64 Right , now now it is my turn obviously . ami_da_7
+C 791.24 Okay , here is a space . ami_da_16
+A 791.39 That does not look like a cow , does it ? ami_da_9
+A 791.39 No way . ami_da_9
+D 793.54 It looks very very cute . ami_da_9
+C 795.7 Yeah , I like the cow . ami_da_9
+C 797.28 I am Jen . ami_da_4
+D 797.32 Yeah . ami_da_1
+C 799.64 I like dogs too , but I ca not do that already because I ca not draw a dog as well as you can . ami_da_4
+C 805.98 I like ami_da_16
+B 825.48 Is that a lizard ? ami_da_5
+B 825.48 Is there a difference ? ami_da_5
+B 825.48 If you right click on it ami_da_6
+B 825.48 you can ami_da_6
+B 825.48 Yeah , I was looking at the website , ami_da_3
+B 825.48 and the other things that they have made and I like put down some like inspirational words like that I got from looking at the pictures . ami_da_4
+D 833.75 Wow . ami_da_9
+C 837.53 It is a gecko . ami_da_4
+D 838.84 , a gecko , okay . ami_da_12
+A 839.01 okay . ami_da_12
+C 839.92 Yeah . ami_da_9
+D 841.74 Is a ar are they also like lizards or are they ami_da_5
+D 841.74 yeah , they are . ami_da_12
+C 842.32 They are ami_da_3
+C 842.32 Yeah , they are l ami_da_4
+C 842.32 it is a kind of lizard . ami_da_4
+C 846.91 And I I like geckos because they remind me of warm places and , and where I was living in Cambodia they used to live in my house and they were on the ceiling and they would make little gecko noises in the evening . ami_da_4
+A 851.96 Uh huh . ami_da_1
+D 862.59 I hope you do not like snakes , ami_da_9
+D 862.59 do you ? ami_da_5
+D 862.59 Okay . ami_da_9
+C 865.0 I do not like snakes . ami_da_4
+C 865.94 I come from Australia and we have nasty snakes . ami_da_4
+C 868.71 That is where I am from , Australia . ami_da_4
+C 871.71 I am from Melbourne ami_da_4
+C 871.71 and I am your Project Manager for today and my role is basically to keep things going and make sure that you all work together in a productive way , so that by the end of the day we come up with a great product . ami_da_4
+D 894.02 Wonderful . ami_da_9
+C 896.37 Okay . ami_da_2
+A 897.51 Thank you . ami_da_14
+C 905.52 So , let is see what is next in the PowerPoint presentation . ami_da_6
+C 911.94 So , I have just thought ami_da_3
+C 911.94 yeah ami_da_9
+C 911.94 I have just thought about this that we could even put it much more professionally as ami_da_7
+C 911.94 there we go . ami_da_16
+C 921.81 Okay , so this is the overall budget for our project . ami_da_4
+C 930.48 We have got ami_da_3
+C 930.48 we are planning to sell these remote controls for ami_da_4
+C 930.48 let is make that go away , ami_da_7
+C 930.48 that means we have got five minutes . ami_da_4
+C 938.27 we are planning to sell the remote controls for twenty five Euros each . ami_da_4
+C 944.61 and with that we are aiming for a profit of fifty million Euros . ami_da_4
+C 952.07 And that is selling them on the international market , not just in the UK . ami_da_4
+C 957.83 so to do that our finance people estimate that we need production costs of maximum twelve and a half Euro so that we can reach that profit target . ami_da_4
+C 990.27 So that is something to keep in mind while you are designing . ami_da_6
+C 997.36 Okay . ami_da_9
+C 1005.72 This is ami_da_3
+C 1005.72 let me just skip ahead to see ami_da_7
+C 1005.72 that is the last thing , ami_da_4
+C 1005.72 okay . ami_da_9
+C 1010.68 We have only got a couple of minutes . ami_da_4
+C 1012.84 Does anyone have any first ideas to bounce around about what we are thinking of this remote control ? ami_da_8
+D 1020.27 Yep . ami_da_4
+D 1021.37 I am just wondering whether whether there is like any special feature that we want to have w want this remote control have as opposed to the already existing ones . ami_da_8
+C 1040.05 I think that is probably something that w it is best if we take away with us , but if we all have a think , when we go away from the meeting , what specific things could be included in this remote control that that are out of the ordinary . ami_da_6
+A 1055.43 I think i in the beginning one thing was that was mentioned was that it should be trendy , user friendly and original ami_da_4
+A 1055.43 so I think your point is relevant as far as the originality is concerned , ami_da_9
+A 1055.43 that we should provide some features that are quite unique to this . ami_da_4
+C 1072.22 Something something new . ami_da_4
+B 1084.27 So the motto is we put the fashion in electronics ami_da_4
+B 1084.27 and so it is something that is sleek and stylish ami_da_4
+B 1084.27 but it is still functional , you know ? ami_da_4
+B 1084.27 So I am kind of thinking , you know like those phones that they have , the new generation ones , where they do not actually have any buttons on them and stuff like that . ami_da_5
+C 1104.21 Uh huh . ami_da_4
+A 1104.28 Alright . ami_da_4
+B 1104.76 You know , so something heading towards that , ami_da_6
+B 1104.76 so it is not overly ami_da_3
+B 1104.76 I mean I do not know what h most of the buttons do on my remote controls , so I figure how many do you need , you know ? ami_da_4
+B 1104.76 Okay . ami_da_1
+C 1115.45 So perhaps some sort of menu based thing , or ami_da_6
+B 1119.58 Something that is a little less crowded than this , ami_da_6
+B 1119.58 like I mean you know , theoretically you can do all kinds of things with your TV , right ? ami_da_4
+B 1119.58 But what do most people do ? ami_da_5
+B 1119.58 They turn it on , they watch certain specified channels , you know , and then they turn it off again . ami_da_4
+C 1126.29 Yeah . ami_da_9
+A 1128.64 Yeah . ami_da_1
+C 1130.44 Yeah . ami_da_9
+A 1132.94 There is a lot of functionality in there that is not used ninety percent of the time , but will be used ten percent of the time , ami_da_4
+A 1132.94 yeah . ami_da_4
+B 1133.19 Sometimes they play a movie . ami_da_4
+B 1137.15 Yeah , ami_da_9
+B 1137.15 so ami_da_3
+B 1137.15 there is no need to have buttons on it to do that , ami_da_4
+B 1137.15 maybe to do ami_da_3
+B 1137.15 Yeah . ami_da_9
+C 1137.27 Yeah . ami_da_9
+C 1139.43 So , ami_da_3
+C 1139.43 no . ami_da_9
+A 1141.87 Yep . ami_da_9
+C 1142.32 It could be one button for a menu or something , if you really need to go and do that . ami_da_6
+A 1145.15 And then use the ami_da_3
+B 1145.93 So , if you are the kind of sad case that knows how your remote control works , then you know that is fine and you can do it on the screen rather than everybody else having to have those buttons , which just confuse them . ami_da_4
+C 1157.8 Excellent . ami_da_14
+B 1159.65 Because like if you look at the train , it is just very like , there is no extra bits on it , the train on the website ami_da_4
+B 1159.65 and I dunno if you can put it up on the thing ami_da_6
+B 1159.65 but it is just like a long like thing used for mu moving people , ami_da_4
+B 1159.65 but it looks really pretty too . ami_da_9
+C 1166.92 Oh I have not had a look yet , ami_da_4
+C 1166.92 yep . ami_da_1
+C 1179.7 Great . ami_da_14
+C 1180.58 Any other immediate thoughts before we move along ? ami_da_5
+A 1188.84 we can aim for ami_da_3
+A 1188.84 I mean we can think about all these little things , but we can aim for something wi that gives a high battery life , ami_da_6
+A 1188.84 although I do not think that it is a huge problem for remote controls anyway , battery life , every now ami_da_4
+A 1188.84 and then you need to replace the batteries . ami_da_4
+C 1203.25 Yeah . ami_da_9
+D 1208.62 Yeah ami_da_4
+D 1208.62 but I mean e even though it has to be re original we should not go like too far away from from the usual ones , because otherwise the new users will just have a lot of problems ami_da_4
+D 1208.62 with l learning , yeah , ami_da_9
+D 1208.62 yeah . ami_da_9
+A 1216.33 Yeah . ami_da_1
+A 1218.19 A big learning curve , yeah . ami_da_4
+A 1221.17 Yeah . ami_da_1
+A 1222.24 So , i it should kind of fit in as well , ami_da_4
+A 1222.24 and the stereotype of a ami_da_3
+A 1222.24 yeah . ami_da_9
+C 1225.62 It is like those fancy websites that you ca not access because you have no idea how to get in , but the designers thought they were great . ami_da_4
+C 1236.66 Okay , ami_da_2
+C 1236.66 so we need to wrap it up now , so that we can go away and get on with some of this . ami_da_4
+C 1242.04 we have got another meeting in thirty minutes , ami_da_4
+C 1242.04 so ami_da_2
+C 1242.04 you are ami_da_3
+C 1242.04 you will be getting specific instructions once you go back to your workspace , but im ami_da_4
+C 1242.04 basically you are looking at the working design , you are looking at the technical functions design , and for you it is the user requirements specification , like you said at the start . ami_da_4
+A 1258.1 Alright . ami_da_12
+C 1269.67 Okay ? ami_da_13
+C 1269.67 Thanks for that . ami_da_14
+D 1272.06 Okay . ami_da_12
+D 1273.61 Thank you . ami_da_14
+C 1274.52 I will see you in half an hour . ami_da_4
+C 1278.36 Carry the laptops back again . ami_da_3
+C 1279.85 Do we need to unplug things ? ami_da_5

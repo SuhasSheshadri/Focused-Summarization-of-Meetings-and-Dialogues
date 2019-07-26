@@ -1,0 +1,861 @@
+A 44.08 So ami_da_2
+A 44.08 let is start our second me meeting on conceptual design . ami_da_6
+A 51.29 So , ami_da_2
+A 51.29 as the previous meeting I will be the secretary and we will have three presentations and we will have to decide on the remote control concept and finally we will close the decision . ami_da_4
+A 69.72 So ami_da_2
+A 69.72 I will first ami_da_7
+A 69.72 What ? ami_da_12
+A 69.72 I I think I will let our User Interface Designer speak first , Mister David Jordan . ami_da_6
+D 74.96 No y you do the minutes first , ami_da_9
+D 74.96 or ? ami_da_3
+D 74.96 No ? ami_da_11
+D 74.96 Okay . ami_da_9
+C 87.8 Yep . ami_da_9
+A 88.77 So , we will S ami_da_3
+A 88.77 technical accessoire ? ami_da_5
+A 88.77 Interface ? ami_da_5
+A 88.77 This . ami_da_5
+C 93.96 Yeah . ami_da_1
+C 97.66 No no no . ami_da_4
+C 98.74 Yeah . ami_da_4
+C 105.24 So ami_da_2
+C 105.24 first I will present the concept of user interface . ami_da_7
+C 110.91 there is three concepts in the user interface . ami_da_4
+C 115.51 So first one it is a Google controller . ami_da_4
+C 119.06 The second is a fancy controller . ami_da_4
+C 122.29 The last one is intelligent controller . ami_da_4
+C 125.06 So there are three concepts in our controller . ami_da_4
+C 128.66 n next I will explain one by one , ami_da_7
+C 128.66 the first is Google controller . ami_da_4
+C 134.34 , so ami_da_2
+C 134.34 I want the controller to be easy to use , but with sophisticated functions . ami_da_6
+C 140.53 So it is a combination of easy to use and sophisticated functions . ami_da_4
+C 146.9 this is a first concept of our controller . ami_da_4
+C 150.85 The second concept is a fancy controller , ami_da_4
+C 150.85 so ami_da_2
+C 150.85 we want give the customers the impression that our controller is very attractive , they can easy recognise our controller among a lot of products , ami_da_4
+C 150.85 so so ami_da_2
+C 150.85 the u the user f the the u user interface should be very very cute , very very g attractive . ami_da_6
+B 177.33 A nice one . ami_da_6
+C 178.72 Such like this , there are several examples in the slides . ami_da_4
+A 183.11 I am not sure the one in the middle is very attractive . ami_da_9
+C 186.28 Yeah , ami_da_2
+C 186.28 it is very , ami_da_3
+C 186.28 you know ami_da_2
+C 186.28 if you are ami_da_3
+C 186.28 Yeah . ami_da_9
+A 187.83 It is very big , ami_da_4
+A 187.83 yeah . ami_da_9
+C 190.27 It is hard ami_da_3
+C 190.27 f ami_da_3
+C 190.27 i ami_da_3
+C 190.27 it is easy for you to remember it . ami_da_9
+C 193.53 Or to recognise it , yeah . ami_da_9
+A 196.19 Okay . ami_da_12
+A 197.16 Yeah , why not . ami_da_9
+C 197.17 Yeah . ami_da_1
+C 198.41 Yeah . ami_da_1
+A 199.12 We will have big discussion I suppose after that , ami_da_6
+A 199.12 so . ami_da_3
+B 200.49 Yeah . ami_da_9
+C 201.89 Yeah . ami_da_9
+B 202.13 Yeah . ami_da_9
+C 202.83 So ami_da_2
+C 202.83 the last concept is intelligent . ami_da_4
+C 206.29 We want we want our controller to be smart , ami_da_4
+C 206.29 so maybe we should use technology , such as speech recognition technology and gesture recognition technology , so we need to have coop some cooperation with some research institute on speech recognition and gesture recognition . ami_da_6
+C 233.02 With this advanced features we I think we can attract a lot of user . ami_da_4
+A 239.08 Okay . ami_da_2
+C 240.34 Okay . ami_da_4
+A 240.5 Something else ? ami_da_5
+A 240.5 I just have one question , ami_da_7
+A 240.5 because for the intelligent controller , you said that we can use the voice recognition or the gesture recognition , but as the expert told us , most of the people want to use the remote control to zap t to zap between channels . ami_da_4
+C 241.53 No . ami_da_4
+C 242.61 There ami_da_3
+C 242.61 this is the three concepts of our controller . ami_da_4
+B 244.97 Yeah . ami_da_1
+C 247.16 Yeah . ami_da_9
+C 249.48 Yeah . ami_da_1
+C 265.04 Yeah , so ami_da_2
+C 265.04 Y ami_da_1
+C 265.04 I think some time it is very convenient to use voice interface and gesture interface than use button . ami_da_9
+A 265.11 Do you think they will be able to use gestures ? ami_da_5
+A 265.11 Because , if they do all the time the same gesture , as you said previously in the last meeting , maybe they will get injuries because of that ? ami_da_9
+A 265.11 or if you say channel three channel three two three four six five , I think they will be bored after a while . ami_da_9
+B 276.4 Yeah . ami_da_9
+B 276.74 Maybe . ami_da_9
+A 283.54 You do not think so ? ami_da_11
+A 283.54 Yeah , sure . ami_da_9
+C 292.88 For example , if you cannot find your controller , you can just just just speak something such as , yeah , one two . ami_da_4
+A 295.2 I ami_da_3
+A 295.2 That is true . ami_da_9
+B 295.25 Oh yeah , that is a good that is a good point , so . ami_da_9
+B 300.73 One and ami_da_3
+B 300.73 Yep . ami_da_1
+A 301.3 Yeah , ami_da_2
+A 301.3 but suppose you got a cold . ami_da_4
+A 303.39 You have a mute remote controller . ami_da_4
+C 303.47 Yeah . ami_da_1
+C 305.88 So you can use your gesture . ami_da_6
+C 307.39 That is no problem . ami_da_9
+D 308.34 Yeah ami_da_2
+D 308.34 but how how is how risky is it to trust like speech recognition or gesture recognition ? ami_da_11
+D 308.34 Okay . ami_da_12
+A 310.38 Broken arm ? ami_da_8
+A 310.38 Yeah , ami_da_2
+A 310.38 but suppose you have a family watching TV , and if they want to use their private remote control in the same time , do you think it will work ? ami_da_5
+A 310.38 Everybody wanting to change channel in the same time ? ami_da_5
+A 310.38 Why ? ami_da_5
+A 310.38 If you have one brother and one sister and they want to watch their favourite TV programme , so they say oh channel four channel three channel four channel three all the time , ami_da_4
+A 310.38 so . ami_da_3
+C 315.85 For limited vocabulary speech recognition is very reliable and for s limited vocabulary gesture recognition is also very ami_da_9
+C 315.85 Yeah . ami_da_1
+D 320.05 Okay . ami_da_12
+D 333.57 But this this but this would never happen anyway . ami_da_4
+C 336.15 Yeah , ami_da_9
+C 336.15 they cannot speak at the same time . ami_da_4
+D 338.18 Yeah ami_da_9
+D 338.18 Yeah , ami_da_2
+D 338.18 but the ami_da_3
+D 338.18 Yeah ami_da_2
+D 338.18 but this ami_da_3
+D 338.18 Yeah . ami_da_1
+B 346.38 Yeah ami_da_2
+B 346.38 but Yeah ami_da_2
+B 346.38 but the same can happen even with it you know this kind of remote control ami_da_4
+B 346.38 because the ami_da_3
+B 346.38 That is right . ami_da_9
+C 346.66 Yeah , ami_da_2
+C 346.66 it is very interesting . ami_da_9
+C 351.67 Yeah . ami_da_1
+D 351.94 I do not think it ami_da_3
+D 351.94 Oh , okay , okay , ami_da_12
+D 351.94 you mean it could be a problem for this kind of stuff . ami_da_5
+A 352.17 Yeah , ami_da_2
+A 352.17 but you have the remote control , so maybe you can keep it f with you . ami_da_4
+A 356.29 You are not you are not obliged to share it . ami_da_4
+A 359.49 Yeah , ami_da_4
+A 359.49 we can ami_da_3
+A 359.49 yeah . ami_da_4
+C 360.04 Yeah , ami_da_2
+C 360.04 that is that is the advantage of intelligent controller . ami_da_9
+C 362.82 Even you h you have the controller , I can I can say channel three , so it is c come to channel three , ami_da_4
+C 362.82 I do not have to ami_da_3
+C 362.82 It is advantage . ami_da_9
+D 363.46 No . ami_da_9
+B 365.38 It is it is ami_da_3
+B 365.38 And mayb maybe we can have the switching mode to pass from you know voice controller to manual controllers , eh . ami_da_6
+D 367.25 No , but this is disadvant disadvantage . ami_da_9
+A 368.72 Yeah , I think it is a disadvantage . ami_da_9
+D 370.71 Yeah . ami_da_9
+A 375.67 Yeah , ami_da_2
+A 375.67 but one other question . ami_da_7
+A 377.34 How how much will it cost ? ami_da_5
+A 377.34 Yeah . ami_da_4
+B 380.07 No , ami_da_2
+B 380.07 more expensive maybe . ami_da_4
+C 380.39 How much ? ami_da_12
+C 380.39 No no ami_da_9
+C 380.39 we ami_da_3
+C 380.39 we d ami_da_3
+C 380.39 we we just are use ami_da_3
+C 380.39 No no ami_da_9
+C 380.39 we just have some cooperation with some research institute , ami_da_6
+C 380.39 we do not have to do some basic research on this field . ami_da_4
+A 381.59 Because I suppose we need to do research to have something working . ami_da_4
+D 386.64 if you if if you use the basic ami_da_3
+D 386.64 But it is it is changing how the remote control is going to be built . ami_da_4
+A 387.07 Some some efficient . ami_da_4
+A 396.65 So ami_da_2
+A 396.65 you think it wo not cost an Not a lot for us ? ami_da_5
+A 396.65 Or ? ami_da_3
+A 396.65 Yeah , ami_da_2
+A 396.65 but ami_da_3
+A 396.65 Mm mm . ami_da_1
+C 401.06 Yeah , ami_da_4
+C 401.06 I think it is ami_da_3
+C 401.06 because this technology is for limited wor or limited wor lexical recognition , ami_da_4
+C 401.06 it is very it is ami_da_3
+C 401.06 yeah . ami_da_9
+C 412.86 It is ami_da_3
+C 412.86 No ami_da_2
+C 412.86 it is Even for the f because the the vocabulary the ami_da_3
+C 412.86 The vocabulary is very small , ami_da_4
+C 412.86 so that is not a problem . ami_da_9
+D 417.34 Because then you need ami_da_3
+D 417.34 I mean this does not have the power to do recognition , for example . ami_da_4
+B 424.34 Well ami_da_2
+B 424.34 y y you have also the language problem , ami_da_9
+B 424.34 you know ami_da_2
+B 424.34 when you ami_da_3
+B 424.34 Because it it have to be universal , ami_da_4
+B 424.34 so . ami_da_3
+A 430.77 Yeah . ami_da_9
+A 431.24 I agree with ami_da_9
+A 431.24 Yeah , ami_da_2
+A 431.24 but there is one problem that Baba talked about is the international remote control . ami_da_4
+D 433.0 Yeah . ami_da_1
+B 437.03 Yeah . ami_da_1
+C 437.19 Yeah . ami_da_1
+A 441.62 We need something that is international . ami_da_4
+A 443.75 Suppose we are we want to sell it in France . ami_da_4
+C 446.84 Yeah . ami_da_1
+A 447.7 The recognition system will be able to understand French . ami_da_4
+A 450.61 If you want to go to England , it will be able to understand English , ami_da_4
+A 450.61 so . ami_da_3
+C 452.52 Yeah . ami_da_1
+C 454.74 Yeah , ami_da_2
+C 454.74 the key , the key the key of our the key feature of our controller is that it is it has some some adaptation mechanism . ami_da_6
+D 455.92 Yeah , ami_da_2
+D 455.92 this could be downloaded by the web maybe , ami_da_6
+D 455.92 or ami_da_3
+D 455.92 Yeah . ami_da_12
+B 466.16 Yeah ami_da_2
+B 466.16 but you know . ami_da_3
+B 467.44 The product ami_da_3
+B 467.44 The pro ami_da_3
+B 467.44 It is a very smart , it is a very smart controller maybe ami_da_4
+B 467.44 Oh yeah ami_da_12
+B 467.44 yeah ami_da_12
+B 467.44 yeah ami_da_12
+B 467.44 yeah . ami_da_12
+C 467.56 It is It is it means when you when you sell this controller in China ami_da_4
+C 467.56 it is can recognise Chinese . ami_da_4
+C 473.13 It is r if you sell this controller in France it can recognise French . ami_da_4
+A 477.54 , okay . ami_da_12
+C 478.84 Yeah , ami_da_9
+C 478.84 it is ami_da_3
+C 478.84 Because of this product this technology has already been developed . ami_da_4
+A 479.48 And with no increase in the pri production price of the remote control ? ami_da_5
+A 479.48 Yeah , ami_da_9
+A 479.48 but how will you ami_da_3
+A 479.48 Oh . ami_da_12
+B 483.54 But ami_da_3
+B 483.54 Yeah ami_da_2
+B 483.54 but the problem is how to s ami_da_3
+B 483.54 you know ami_da_2
+B 483.54 if this is a push button controller , you can send this con this remote control everywhere in the world , the same one . ami_da_4
+C 487.02 So ami_da_3
+C 487.02 Yeah . ami_da_1
+C 495.99 Yeah . ami_da_1
+B 497.41 If you have the language , you have to develop for each country . ami_da_4
+C 499.15 Oh ami_da_9
+C 499.15 n ami_da_9
+C 499.15 Yeah , ami_da_9
+C 499.15 yeah ami_da_9
+C 499.15 tha that is why we have to do language adaptation . ami_da_4
+B 502.87 Yeah , ami_da_9
+B 502.87 but for each country you have to do one , ami_da_4
+B 502.87 because the for example for Se ami_da_3
+B 502.87 Oh really ? ami_da_5
+B 502.87 That is Comple ami_da_3
+B 502.87 A microphone maybe . ami_da_16
+C 504.71 Yeah . ami_da_9
+C 506.87 Even for each f for even for different family we have to do d ami_da_4
+C 506.87 yeah ami_da_4
+C 506.87 we would we have to do adaptation to ami_da_4
+C 506.87 No , it is not so complex . ami_da_9
+D 513.67 Yeah , ami_da_2
+D 513.67 but then w ami_da_3
+D 513.67 Yeah , ami_da_9
+D 513.67 we have to take care of the twelve Euros problem . ami_da_4
+A 514.18 Seems to be quite complex . ami_da_9
+A 518.87 And what about voice recognition , do we have microphones ? ami_da_5
+A 518.87 And where will be they ? ami_da_8
+A 518.87 Do you think if we are far from television it will work ? ami_da_5
+A 518.87 Yeah , ami_da_12
+A 518.87 but where is the controller ? ami_da_5
+A 518.87 Yeah . ami_da_4
+C 523.48 No no no ami_da_4
+C 523.48 it is not ami_da_3
+C 523.48 I think that is n that is not a problem because you you do not have to wear a microphone . ami_da_4
+C 532.62 It it just the microphone is embedded in the controller . ami_da_4
+D 537.7 Okay . ami_da_1
+C 539.58 Where is the controller ? ami_da_12
+C 539.58 It is in your family , in your home . ami_da_4
+D 543.64 No , ami_da_2
+D 543.64 but then it is it is like this ami_da_3
+D 543.64 Yeah . ami_da_1
+A 543.81 Yeah , ami_da_12
+A 543.81 but we are ami_da_3
+A 543.81 here it is an object . ami_da_4
+A 547.36 But here you say you want to use i s technology . ami_da_4
+C 547.43 Yeah . ami_da_1
+C 549.03 Yeah ami_da_2
+C 549.03 you can you can embed it microphone here . ami_da_6
+A 551.94 Yeah , ami_da_2
+A 551.94 but wha what is the use of voice or gesture recognition if you have a remote control li like this , if you have an object . ami_da_5
+A 558.78 If you want to use voice or gesture you need to be free , without any object . ami_da_6
+B 561.16 To talk to the to the TV maybe . ami_da_4
+A 563.34 You just want to interact with television . ami_da_4
+C 564.46 Yeah yeah ami_da_2
+C 564.46 just you just put the controller here , then you you use your command and you do s your gesture . ami_da_6
+B 568.77 I if you say one , he switch to channel , ami_da_6
+B 568.77 yeah . ami_da_9
+A 572.13 Yeah , ami_da_2
+A 572.13 but you can lose it . ami_da_4
+C 576.28 No no ami_da_9
+C 576.28 it is n y if you lose it ami_da_3
+C 576.28 Yeah . ami_da_1
+B 579.06 So well ami_da_2
+B 579.06 for example if it is somewhere in the room if i maybe if it is in the table there you can always say s channel one and the t the remote control gives the order to the TV to switch to channel one . ami_da_6
+A 587.81 Okay ami_da_2
+A 587.81 you so you can build a kind of black box and put it on TV and just to recognize gestures and voice . ami_da_6
+B 590.28 Devic ami_da_3
+B 590.28 Yeah . ami_da_1
+B 594.45 Yeah . ami_da_1
+B 596.31 Yeah ami_da_2
+B 596.31 but so you need a camera ami_da_4
+B 596.31 and you know a microphone inside your remote control . ami_da_4
+C 599.43 Yeah . ami_da_1
+D 601.24 But you would still have the buttons . ami_da_6
+D 602.78 Or is it ami_da_3
+D 602.78 do you think it should be only voice recognition and gesture recognition ? ami_da_8
+D 602.78 Or you you still have the possibility to use buttons ? ami_da_8
+D 602.78 Okay , ami_da_12
+D 602.78 so you ami_da_3
+D 602.78 yeah . ami_da_9
+C 611.73 think it we should give the flexibility to the user ami_da_6
+C 611.73 and we think ami_da_3
+C 611.73 yeah . ami_da_2
+A 617.09 Yeah , ami_da_9
+C 617.83 You can see they can switch form one modality to another . ami_da_6
+D 621.09 Yeah , ami_da_12
+D 621.09 I dunno . ami_da_9
+D 622.34 It is a bit risky risky . ami_da_9
+B 623.87 Yeah . ami_da_1
+A 624.14 I think so . ami_da_9
+C 624.17 No , that is quite inter quite attractive . ami_da_9
+A 624.7 And maybe it will be quite ami_da_3
+A 624.7 Okay . ami_da_2
+B 626.66 But I think that , you know , switching from one country to to another will be a problem , ami_da_9
+B 626.66 so although y y ami_da_3
+B 626.66 Yeah ami_da_2
+B 626.66 but i i ami_da_3
+B 626.66 Yeah , we should . ami_da_9
+C 631.33 Well , ami_da_2
+C 631.33 if you do language adaptation , there should be no problem . ami_da_9
+D 635.16 Yeah , ami_da_2
+D 635.16 I dunno . ami_da_9
+C 643.72 We should have confidence in technology . ami_da_6
+A 652.34 So , ami_da_2
+A 652.34 what do you think ? ami_da_11
+A 652.34 We will try the controllers you would prefer . ami_da_6
+D 658.4 What ? ami_da_12
+D 658.4 If if ami_da_3
+D 658.4 I mean , ami_da_2
+D 658.4 I am sure if the user pays the same price , he is happy to have recognition . ami_da_4
+A 659.06 Which kind of controller would you prefer to use , you as a remote control user ? ami_da_11
+A 659.06 So ami_da_2
+A 659.06 I think it would be better not to do any intelligent controller and to stay with the Google controller or a fancy controller . ami_da_6
+C 669.54 More features , ami_da_4
+C 669.54 yeah . ami_da_9
+D 670.88 But if if if it like doubles no one would would be interested . ami_da_4
+B 671.03 Yeah , but ami_da_2
+B 671.03 I think he need a control that is very reliable , ami_da_4
+B 671.03 so . ami_da_3
+A 684.47 Maybe try to mix the Google controller and the fancy controller ? ami_da_6
+A 684.47 Just want to have something controller which is in a kind of intelligent controller , easy to use , sophisticated and fancy . ami_da_4
+B 688.53 Yeah . ami_da_1
+B 688.73 Yeah . ami_da_1
+C 697.16 Yeah ami_da_2
+C 697.16 but if if you stick to stick to the first two parts . ami_da_5
+A 697.3 You think it is possible ? ami_da_11
+A 697.3 Yeah , ami_da_2
+A 697.3 but we want so ami_da_3
+A 697.3 Yeah , ami_da_2
+A 697.3 but w we we want something th that works all the time , every day , every hour , for everyone . ami_da_4
+C 703.08 So what is the difference between our controller with other products in the market ? ami_da_5
+C 703.08 There is no k features of our controller , so is there is there any necessary to design new controller without any breakthrough features ? ami_da_4
+C 703.08 Would y would you replace your controller with a controller with similar function if you do not have some some function inside it that ami_da_5
+C 703.08 Yeah , ami_da_2
+C 703.08 you y that is a fun that is not the function of the controller ami_da_4
+C 703.08 , that is a function of TV . ami_da_4
+D 714.19 Yeah . ami_da_1
+B 714.21 Yeah . ami_da_1
+D 716.61 No , ami_da_9
+D 716.61 I mean ami_da_2
+D 716.61 Y ami_da_3
+D 716.61 No , ami_da_2
+D 716.61 but you need you need new remote controller then . ami_da_4
+B 722.57 It is not really the we ami_da_3
+B 722.57 we can add for example some function like for browsing in internet , so or something like that . ami_da_6
+B 731.13 But I think a user need Do not have a the the ami_da_3
+B 731.13 Yeah ami_da_2
+B 731.13 if we can send email from it . ami_da_4
+C 737.51 You can replace your TV with a new TV with internet browsing function , ami_da_4
+C 737.51 but ami_da_3
+C 737.51 Okay . ami_da_12
+D 743.72 Because if you want to browse internet or , I do not know , if you want to type something , ami_da_4
+D 743.72 or ami_da_3
+D 743.72 No . ami_da_9
+C 750.07 But it is not the only the problem only the issue of controller , it is it is also the issue of the TV . ami_da_9
+D 753.41 No . ami_da_9
+B 755.59 Because the p the problem I can see with with the voice or the gesture itself wh what can happen in a family i i for example ami_da_3
+B 755.59 if ami_da_3
+B 755.59 Yeah ami_da_1
+B 755.59 And for all the person of the family maybe , ami_da_4
+B 755.59 so , ami_da_2
+B 755.59 yeah . ami_da_9
+D 760.1 Cause for example ami_da_3
+D 760.1 yeah . ami_da_3
+C 762.2 Yeah , ami_da_2
+C 762.2 but we do we do we ami_da_3
+C 762.2 we ami_da_3
+C 762.2 we cannot rely one hundred percent on these features to u to use the controller , ami_da_9
+C 762.2 but with the features of our controller such as you have the feature of voice recognition in your mobile but you seldom use it , your mobile , but you when you choose a new mobile , you choose the one with voice recognition . ami_da_4
+D 766.74 Yeah . ami_da_1
+D 779.72 Yeah , ami_da_9
+D 779.72 you wou you would ami_da_3
+D 779.72 True . ami_da_9
+C 782.61 That is ami_da_3
+C 782.61 the feature is not one hundred percent reliable , but it is a feature to distinguish our product from our from other products . ami_da_9
+C 796.04 Yeah . ami_da_9
+C 798.36 Yeah , ami_da_9
+C 798.36 Yeah , ami_da_2
+C 798.36 if if if if you are if you ar if you already have a product it works one hundred percent reliable , would you replace it with another one ? ami_da_5
+C 798.36 Yeah . ami_da_1
+A 801.03 You do not need to tune it . ami_da_4
+A 809.68 Yeah , why not ? ami_da_4
+A 809.68 If it is ami_da_3
+A 809.68 Not too expensive too . ami_da_4
+D 811.14 I mean , for example the goo ami_da_3
+D 811.14 y ami_da_3
+D 811.14 you say we would we would to have a Google like controller . ami_da_4
+B 812.42 Because you have new ami_da_3
+B 812.42 Okay . ami_da_9
+C 816.46 Yeah . ami_da_1
+D 818.48 I do not see how adding speech or gesture recognition would make the remote control look more like Google . ami_da_5
+D 826.83 Google is is simple , works fine , ami_da_4
+D 826.83 so I I guess if can have a remote control that is really basic , simple and works fine , it is already a lot . ami_da_9
+C 830.37 Yeah . ami_da_1
+C 836.66 Yeah . ami_da_1
+C 839.72 Oh yes , ami_da_9
+C 839.72 but there is no big difference between the traditional controller . ami_da_4
+D 840.19 thi this I mean , ami_da_2
+D 840.19 the user is not only interested in having speech or gesture recognition ami_da_4
+D 840.19 or ami_da_3
+D 840.19 if he has something that works fine and is really fancy , looks nice and it is easy easy to use , easy to use . ami_da_4
+C 848.4 The then nn ami_da_3
+C 848.4 no . ami_da_9
+C 849.72 Tha ami_da_3
+C 849.72 But the there is there is ami_da_4
+C 849.72 n there is n not enough motivation for them to replace their old controller with a new one if there is no key feature in the new controller . ami_da_4
+D 860.98 See ami_da_2
+D 860.98 That is the problem , yeah . ami_da_9
+C 863.67 That is the same ami_da_3
+C 863.67 yeah . ami_da_1
+D 865.11 I mean , I I know it is more interesting to develop a remote controller with speech and gesture and whatever . ami_da_9
+C 870.2 Yeah . ami_da_1
+D 870.48 But you have to think , the user is the one who going to buy the product ami_da_6
+D 870.48 and so . ami_da_3
+C 875.25 Yeah . ami_da_1
+A 877.03 Okay . ami_da_2
+D 877.33 I mean , that is the point . ami_da_3
+A 877.85 So ami_da_2
+A 877.85 let is go to the Industrial Designer . ami_da_6
+C 880.64 Okay . ami_da_9
+A 881.58 Maybe we will be able to take a decision after that , ami_da_6
+A 881.58 so . ami_da_2
+B 884.49 Okay . ami_da_1
+C 884.49 Yeah . ami_da_1
+A 889.12 Two ? ami_da_5
+A 889.12 Working ? ami_da_5
+A 889.12 I can ami_da_7
+A 889.12 Okay . ami_da_12
+B 889.6 Yeah , participant two ami_da_4
+B 889.6 Yeah , working design , ami_da_4
+B 889.6 so . ami_da_3
+B 896.02 So ami_da_2
+B 896.02 I think ami_da_3
+B 896.02 Can you go to the next one ? ami_da_6
+B 896.02 I ami_da_3
+B 896.02 it is not this one . ami_da_4
+B 904.4 It is oth the oth ami_da_3
+B 904.4 so I ami_da_3
+B 904.4 It is the working design . ami_da_4
+B 907.51 Sorry . ami_da_14
+B 909.13 Component design . ami_da_4
+A 909.51 It is okay ami_da_14
+A 909.51 I think there is something wrong with your ami_da_9
+A 909.51 Maybe you you record it somewhere else . ami_da_4
+B 910.48 So this ami_da_3
+B 910.48 yeah ami_da_3
+B 910.48 so this is the described use ami_da_3
+B 910.48 What ? ami_da_5
+B 910.48 Are you inst ami_da_3
+B 910.48 I do not think so . ami_da_9
+C 921.35 It did did not r receive it . ami_da_4
+C 922.83 Did not receive it . ami_da_4
+C 931.65 Participant one . ami_da_6
+C 936.92 Participant one . ami_da_6
+A 939.51 Interface concept . ami_da_16
+A 941.98 No . ami_da_4
+B 947.57 Oh . ami_da_16
+B 951.22 Maybe I record recorded directly on the Computer . ami_da_4
+D 956.96 Yeah . ami_da_9
+D 962.35 Dunno . ami_da_4
+A 962.4 Nope . ami_da_4
+B 964.02 Okay , okay . ami_da_16
+B 964.88 Yes . ami_da_16
+A 964.99 It seems that we have a problem with the ami_da_9
+A 964.99 Yeah , ami_da_2
+A 964.99 so ami_da_6
+A 964.99 No , I think it will be more interesting to start with ami_da_9
+A 964.99 Yeah . ami_da_9
+D 967.72 I dunno if you remember what you had to say ami_da_5
+D 967.72 or ami_da_3
+D 967.72 I think it is more interesting what he says , okay . ami_da_9
+B 970.42 I can say it to you without . ami_da_4
+C 973.67 Yeah , ami_da_2
+C 973.67 maybe we can first come to to Frahan . ami_da_6
+C 979.25 With Frahan , then you can prepare your slides , then present it later . ami_da_6
+B 982.57 Yeah , ami_da_9
+B 982.57 exac ami_da_3
+B 982.57 Okay . ami_da_1
+A 983.6 You will had s some more information in ami_da_3
+A 983.6 I think it will be interesting after your presentation to have Baba is presentation . ami_da_9
+B 987.89 Yeah . ami_da_1
+D 988.8 Yeah , true . ami_da_9
+B 991.11 Yeah . ami_da_2
+C 991.41 Okay . ami_da_9
+B 992.06 In fact , I do not know , ami_da_9
+B 992.06 I s ami_da_3
+B 992.06 because i in my presentation I do not have here with ami_da_4
+B 992.06 so ami_da_3
+B 992.06 It was in fact the design use to show you the design of what is inside a what is inside and what are the different component of the r of the remote control . ami_da_4
+A 992.84 So . ami_da_2
+A 993.66 Okay . ami_da_6
+A 997.73 Okay , never mind . ami_da_9
+C 1003.09 Okay . ami_da_1
+C 1009.65 Okay . ami_da_1
+B 1009.97 So it will be interesting so I could show you some some picture of what is inside ami_da_9
+B 1009.97 and so . ami_da_3
+C 1014.84 Okay . ami_da_1
+B 1019.0 So ami_da_2
+B 1019.0 I in fact the the f ami_da_3
+B 1019.0 something I want to discuss is which kind of material are we going to use , ami_da_8
+B 1019.0 so ami_da_2
+B 1019.0 will it will be wooden wooden di wooden remote control or a a plastic remote control like this one . ami_da_11
+B 1035.55 So and ami_da_2
+B 1035.55 in which which which kind will be the the different bu button , ami_da_8
+B 1035.55 so ami_da_2
+B 1035.55 it can be some , you know , classic pushbutton like this one , or you have also some button like LCD where you know , the button the buttons are unlighted during the night , or , you know , you can see them in the darkness . ami_da_6
+A 1057.01 Okay . ami_da_1
+C 1058.43 Okay . ami_da_1
+B 1059.05 And the other thing I want to discuss also is which kind of alimentation , electric alimentation do you want to have , ami_da_8
+B 1059.05 so will it be for example d solar energy alimentation or will it be a battery like the classical battery ami_da_11
+B 1059.05 so . ami_da_2
+C 1072.82 Uh huh . ami_da_1
+B 1077.96 And I think that for example for the alimentation it would be good to have both of them , ami_da_6
+B 1077.96 so so ami_da_2
+B 1077.96 for example in some country where you are in the the countryside and you are far from , you know , the cities for example in some place in in S Senegal , so if you have electric if you have solar alimentation , you just , when you want to have recharger or remote control power you just put it on the sun and after one hour you can come ami_da_4
+B 1077.96 and so it can be interesting for people to have this kind of remote con ami_da_9
+B 1077.96 It can be something interesting to make people buy it , for example . ami_da_9
+A 1115.62 Yeah , I think it is an added value to the remote control ami_da_9
+A 1115.62 and maybe it can attract all the ecological k ami_da_4
+A 1115.62 yeah ami_da_4
+A 1115.62 consumers ami_da_4
+A 1115.62 and ami_da_3
+A 1115.62 but about the the price of adding this solar battery , would it be something really that will increase the price of production more , ami_da_9
+A 1115.62 no ? ami_da_11
+A 1115.62 So . ami_da_2
+B 1116.54 Yeah . ami_da_1
+B 1118.19 Yeah , ami_da_9
+B 1118.19 yeah . ami_da_9
+B 1121.78 Ecologists , ami_da_4
+B 1121.78 yeah , ami_da_9
+B 1121.78 yeah , ami_da_9
+B 1121.78 yeah , ami_da_9
+B 1121.78 yeah , ami_da_9
+B 1121.78 yeah . ami_da_9
+D 1122.67 Yeah . ami_da_1
+D 1124.08 Yeah . ami_da_9
+B 1134.21 Alrigh ami_da_12
+B 1134.21 In fact , having them both will ami_da_3
+B 1134.21 if we want to have battery , regular battery and and the solar energy battery it could be it will it will add a little bit of the price , but it will be an added value also ami_da_9
+B 1134.21 that will be compensated , ami_da_4
+B 1134.21 so . ami_da_2
+D 1151.49 Yeah . ami_da_9
+A 1152.14 Okay . ami_da_12
+A 1156.53 And what tha what about the materials ? ami_da_8
+A 1156.53 Impersonal , . ami_da_9
+B 1160.93 And the materials , ami_da_12
+B 1160.93 it depends ami_da_4
+B 1160.93 for example you if you have a wooden material it can be more ami_da_3
+B 1160.93 the plastic material is more common it is very resistant ami_da_9
+B 1160.93 but , you know , something wooden will be like , ami_da_9
+B 1160.93 I do not know high cl so a special high class , ami_da_9
+B 1160.93 or you know , you can have some ami_da_3
+B 1160.93 Yeah , even if it is not completely wood , but just a part of the , you know , will be wooden , in wood and it can be interesting . ami_da_9
+A 1174.79 Yeah . ami_da_1
+D 1174.79 Special for ami_da_4
+A 1177.8 Yeah , ami_da_2
+A 1177.8 and i if you we want to put fashion in electronics maybe we can try to do something with wood . ami_da_6
+D 1183.37 Yeah . ami_da_9
+A 1190.39 okay , ami_da_2
+A 1190.39 seems to be interesting , . ami_da_9
+B 1191.09 And so ami_da_2
+B 1191.09 the last point is y also would do you want to have some very cheap integrated cir circuits , chips , or do you have low level or or very very expensive , ami_da_8
+B 1191.09 it depends , but I think that low level will be , you know , it is an interim module . ami_da_6
+A 1211.52 Yeah , ami_da_2
+A 1211.52 we want something easy to use ami_da_4
+A 1211.52 and so I think maybe something very low level wou would be enough . ami_da_6
+B 1213.19 Yeah . ami_da_1
+B 1216.24 Yeah . ami_da_9
+B 1216.57 Yeah , ami_da_9
+B 1216.57 yeah . ami_da_9
+A 1218.32 And you think that we will be ami_da_5
+A 1218.32 Okay . ami_da_9
+B 1220.28 Yeah , I think it will fit on the price we want , twel twelve Euros , ami_da_4
+B 1220.28 so . ami_da_3
+A 1223.61 So ami_da_2
+A 1223.61 wood . ami_da_4
+A 1224.27 And what about the buttons ? ami_da_8
+A 1224.27 No ami_da_2
+A 1224.27 it is fashion , yeah . ami_da_4
+B 1226.44 I think the buttons I pr I prefer , you know , the LCD you know lighted buttons ami_da_6
+B 1226.44 because , you know , it is I do not know yeah , ami_da_4
+B 1226.44 in the dark , it is fashion and it is related to how beautiful it is or if you want to watch TV in the darkness or if you want to lo find your find your your remote control that is lost , you know in the darkness ami_da_4
+B 1226.44 it is very easy so , right . ami_da_9
+D 1252.87 What about the touch scr touch screen ? ami_da_11
+D 1252.87 For example . ami_da_11
+D 1257.08 It is it is expensive ami_da_9
+D 1257.08 I I guess . ami_da_9
+B 1261.24 I think a touch screen will be t as expensive as the LCD buttons so . ami_da_9
+B 1267.92 But And it is a kind of other design , I mean . ami_da_4
+B 1270.81 It can also be interesting to have this kind of ami_da_9
+D 1270.93 Yeah . ami_da_1
+C 1278.09 So ami_da_2
+C 1278.09 you got email ? ami_da_5
+A 1279.72 I dunno . ami_da_4
+A 1281.31 I think we have only five minutes left . ami_da_4
+D 1286.96 Okay . ami_da_12
+A 1288.26 Participant four ? ami_da_5
+A 1288.26 Functional requirements ? ami_da_5
+A 1288.26 This one ? ami_da_5
+A 1288.26 Okay . ami_da_1
+D 1291.25 no , trend watching . ami_da_4
+D 1294.48 The other one . ami_da_4
+D 1300.12 Yeah . ami_da_4
+D 1301.18 , I think so , ami_da_4
+D 1301.18 just ami_da_3
+D 1301.18 Yeah , so ami_da_2
+D 1301.18 just to meet the user requirements I would just do a s short anal analysis of the remote control market ami_da_7
+D 1301.18 and to kind of have a better overview of what is the fashion in general I have checked more than only the remote control market , ami_da_4
+D 1301.18 so ami_da_2
+D 1301.18 next . ami_da_6
+D 1329.27 So ami_da_2
+D 1329.27 again , it is pretty much similar to what I have said in the previous meeting . ami_da_4
+D 1333.6 user really really want a fancy look and feel . ami_da_4
+D 1337.47 They are not so so interested in functional look and feel , ami_da_4
+D 1337.47 okay . ami_da_13
+D 1341.09 Like the one you have shown , David , with all the buttons and I mean i i ami_da_9
+D 1341.09 it sounds good technically ami_da_9
+D 1341.09 but it is it is not what they want ami_da_4
+D 1341.09 and So , ami_da_2
+D 1341.09 second point is they still want it ami_da_4
+D 1341.09 it to be technologically innovative , so maybe it is sort of related to what you have said with the speech recognition and so on . ami_da_4
+D 1361.69 At the same time , it is important that it is easy to use . ami_da_4
+D 1365.84 So ami_da_2
+D 1365.84 that were the three first points from the remote control analysis . ami_da_4
+D 1371.14 Now i if we look at fashion in general ami_da_4
+D 1371.14 Okay . ami_da_9
+D 1377.97 Wha what we really see this year is that everything from clothes to shoes and furniture is is inspired by fruits and vegetables , ami_da_4
+D 1377.97 okay , ami_da_13
+D 1377.97 so I think we really have to take this into account for the design of the the thing . ami_da_6
+B 1388.04 yes . ami_da_12
+B 1393.39 Yeah , ami_da_9
+B 1393.39 yeah . ami_da_9
+B 1394.37 Okay , yeah . ami_da_9
+D 1395.16 Because it is it is really what people want . ami_da_4
+D 1397.44 Even if it is in general fashion , we want it to be in the remote control . ami_da_6
+D 1402.68 And then if if we take the ordering or the ranking of all the points , fancy look and feel has , on a score of seven would have six as importance . ami_da_4
+D 1415.51 the remote control has to be technologically innovative , it is three . ami_da_4
+D 1419.86 Then easy to use it is not so important actually with respect to other y other ones . ami_da_4
+B 1425.03 Okay . ami_da_1
+D 1425.95 So we see fancy look an look and feel is the most important one , and then if we combine this with the fashion from Milan and Paris we go to the fruits and vede vegetables . ami_da_4
+B 1433.84 And fruit and vegetables ami_da_4
+B 1433.84 yeah . ami_da_12
+D 1437.33 And the other point I have not mention is people wan want to have a spongy touch , ami_da_4
+D 1437.33 okay ami_da_2
+D 1437.33 so ami_da_2
+D 1437.33 this is this maybe does not really fit with the wooden design . ami_da_9
+B 1442.4 Spongy Okay . ami_da_12
+B 1448.82 Okay , ami_da_12
+B 1448.82 yeah , ami_da_12
+B 1448.82 yeah . ami_da_12
+D 1449.85 I dunno . ami_da_9
+B 1450.87 Yeah , ami_da_2
+B 1450.87 but the problem is which kind of material do you need to to be spongy ? ami_da_5
+B 1450.87 Pla S Very stuff ami_da_3
+B 1450.87 Okay , rubber rubber desi ami_da_12
+B 1450.87 okay , ami_da_12
+B 1450.87 yeah . ami_da_12
+D 1455.28 Yeah ami_da_2
+D 1455.28 thi this is this would be like plastic like , but rubber , mayb maybe , you know , rubber like device , ami_da_4
+D 1455.28 so Okay , ami_da_2
+D 1455.28 tha tha ami_da_4
+D 1455.28 that was the main point , I think , from the trend in fashion . ami_da_4
+B 1463.27 Yeah . ami_da_12
+B 1468.31 Yeah . ami_da_1
+B 1474.7 Okay . ami_da_1
+A 1475.38 So ami_da_2
+A 1475.38 we have to take decisions about the component concepts , about the energy . ami_da_6
+A 1481.24 So , ami_da_2
+A 1481.24 as you say you want something technologically innovative , ami_da_4
+A 1481.24 maybe using solar energy and with battery would be something interesting , ami_da_9
+A 1481.24 maybe will attract pro ecology consumers . ami_da_4
+B 1485.8 Yeah . ami_da_9
+B 1487.46 Solar . ami_da_4
+B 1490.05 Okay . ami_da_1
+B 1496.62 Yeah . ami_da_9
+B 1498.18 It will be a ami_da_3
+B 1498.18 Yeah . ami_da_1
+A 1503.22 cheap imprint ami_da_11
+A 1503.22 so you s you propose low level chips would be enough to have something working well . ami_da_11
+B 1508.2 Yeah , ami_da_9
+B 1508.2 I think ami_da_3
+B 1508.2 Yeah , ami_da_9
+B 1508.2 yeah . ami_da_9
+B 1513.03 Yeah . ami_da_9
+A 1514.45 Case . ami_da_8
+C 1516.46 Later ? ami_da_11
+C 1516.46 Pla ami_da_3
+C 1516.46 yes . ami_da_9
+A 1522.44 So you think case . ami_da_3
+A 1526.53 Something spongy . ami_da_11
+A 1528.16 Someth no wood . ami_da_11
+B 1529.91 No wood ami_da_9
+B 1529.91 but Plastic ? ami_da_11
+B 1529.91 Would some ami_da_3
+B 1529.91 I think we can have wood for example in the bottom and , you know . ami_da_6
+D 1530.64 Yeah , so when I think it is Maybe not no wood , but I mean ma maybe not the part you touching you know . ami_da_9
+A 1535.57 Maybe you ami_da_3
+A 1535.57 It is it is natural . ami_da_4
+D 1538.2 Yeah , maybe the base . ami_da_9
+B 1538.55 It depends on the design we want , ami_da_4
+B 1538.55 so . ami_da_3
+D 1540.85 But still y ami_da_3
+D 1540.85 Yeah . ami_da_9
+B 1542.36 Yeah , it is natural ami_da_9
+B 1542.36 and i ami_da_3
+B 1542.36 And it can be correlated to energy , solar energy , so for the marketing aspect , ami_da_4
+B 1542.36 you know , ami_da_2
+B 1542.36 saying that it is ecol ami_da_3
+B 1542.36 , yeah , it is not right , ami_da_9
+B 1542.36 so . ami_da_3
+A 1542.7 Th ami_da_4
+A 1542.7 The feeling is natural , ami_da_4
+A 1542.7 so maybe we can stay with wood . ami_da_9
+D 1550.8 Yeah , ami_da_2
+D 1550.8 I mean it is not exactly right for the spongy point of view . ami_da_9
+A 1556.53 But it is still fashion . ami_da_4
+D 1557.9 But we could maybe have both like part of wood and some rubber for the buttons , ami_da_6
+D 1557.9 or ami_da_3
+D 1557.9 I dunno . ami_da_9
+B 1562.52 Okay . ami_da_9
+A 1563.02 Yeah , ami_da_9
+A 1563.02 something that you can into it . ami_da_6
+D 1564.75 Yeah . ami_da_1
+A 1566.53 and what about the user interface concept ? ami_da_8
+A 1566.53 Google and fancy ? ami_da_11
+A 1566.53 Because I think that with the voice and gesture recognition there are still some disadvantages with this . ami_da_9
+B 1571.51 Google and and fancy , ami_da_11
+B 1571.51 f ami_da_3
+B 1571.51 how about the the voice ? ami_da_11
+B 1571.51 And ami_da_3
+B 1571.51 maybe we can do some marketing studies asking people if they are interested ami_da_6
+B 1571.51 and how ami_da_3
+B 1571.51 It It is an an interesting concept to see to have voice control . ami_da_9
+D 1594.77 Yeah . ami_da_1
+C 1595.48 Yeah . ami_da_1
+C 1597.27 Yeah . ami_da_1
+C 1598.03 The smart controller . ami_da_16
+B 1599.15 Yeah . ami_da_2
+B 1599.77 But and ami_da_3
+B 1599.77 the problem is I I am we can infer i if you have v voice control why not to put it directly on the the TV , so speak directly to the TV and you do not need a remote control actually , ami_da_9
+B 1599.77 so . ami_da_3
+A 1612.31 Yeah , ami_da_2
+A 1612.31 but you need a receiver to recognize the gestures and the voice . ami_da_4
+B 1616.18 But it will be embedded on the TV and not on the remote control , ami_da_4
+B 1616.18 so . ami_da_3
+A 1619.76 That is true . ami_da_9
+D 1620.05 Yeah ami_da_2
+D 1620.05 d ami_da_3
+D 1620.05 I dunno . ami_da_9
+C 1621.36 Okay . ami_da_1
+A 1622.28 So maybe we will just focus on the Google controller plus the fancy controller , ami_da_9
+A 1622.28 maybe try to mix them these two concepts together , just in one and do a remote control with solar energy and batteries and with lev low level chips and wood . ami_da_6
+C 1634.1 Yeah . ami_da_1
+C 1639.12 It is good . ami_da_9
+A 1640.39 And LCD buttons . ami_da_6
+B 1643.44 Yeah , LCD . ami_da_1
+A 1658.24 Yeah , ami_da_2
+A 1658.24 I think for these supplements the solar energy would be something quite interesting and not maybe too difficult to add . ami_da_9
+B 1666.58 Yeah , ami_da_9
+B 1666.58 yeah , ami_da_9
+B 1666.58 yeah . ami_da_9
+B 1670.68 And pf what can we think a supplement to ami_da_3
+B 1670.68 I think the supplement can be the voice . ami_da_6
+D 1675.11 What interface ? ami_da_8
+D 1675.11 Yeah , ami_da_9
+D 1675.11 no not forgetting about the fruits and vegetables trends . ami_da_6
+A 1676.6 Yeah , ami_da_2
+A 1676.6 for the interface something added value . ami_da_6
+B 1683.33 It is just , you know , it is not the most important , but it can be a part of ami_da_4
+B 1683.33 Yeah , ami_da_4
+B 1683.33 yeah . ami_da_4
+A 1690.64 With a module ? ami_da_5
+A 1690.64 You mean the remote control with a mur module if you want you can just use commands , words and use them when you do not want to use your fingers . ami_da_5
+B 1699.0 Yeah . ami_da_4
+B 1702.42 To push button , yeah , ami_da_4
+B 1702.42 yeah . ami_da_4
+B 1704.14 Even it is for s just some kids , you know , switching channels one two three four . ami_da_6
+A 1709.08 Turning the TV o on o or off . ami_da_6
+B 1709.97 Yeah , turning yeah ami_da_9
+B 1709.97 , yeah . ami_da_9
+B 1712.35 Not very complex commands , but easy commands , ami_da_6
+B 1712.35 so . ami_da_3
+A 1714.97 So , ami_da_2
+A 1714.97 adding some vocal commands . ami_da_4
+B 1717.63 Yeah . ami_da_9
+A 1720.65 Simple ones ? ami_da_5
+A 1720.65 Okay . ami_da_9
+B 1721.83 Yeah , simple ones ami_da_4
+B 1721.83 for ami_da_3
+B 1721.83 expensive buttons ami_da_7
+B 1721.83 Yeah , ami_da_9
+B 1721.83 to make some new ami_da_3
+B 1721.83 Yeah . ami_da_9
+A 1728.59 So ami_da_2
+A 1728.59 the next meeting will start in thirty meeti minutes ami_da_4
+A 1728.59 so ami_da_2
+A 1728.59 we will you will all have to work in in your direction . ami_da_4
+A 1743.48 So you will have to work on the look and feel design , to have the easy to use , powerful and fancy remote control with some added value such as the simple vocal commands recognition . ami_da_6
+C 1747.16 Yeah . ami_da_1
+C 1751.88 Yep . ami_da_1
+C 1758.48 Yeah . ami_da_1
+A 1759.55 you will have to work more , Baba , on the spongy way to to add spongy touch to the buttons and try to find maybe a nice shape for the wooden remote control . ami_da_6
+A 1778.19 And I sup I think we will have to evaluate th the product too . ami_da_4
+A 1784.47 Yeah . ami_da_1
+B 1784.98 Okay , ami_da_9
+B 1784.98 fruits . ami_da_12
+A 1786.99 Yeah . ami_da_9
+D 1787.51 If possible . ami_da_6
+B 1788.62 Okay . ami_da_9
+A 1789.81 And remember as as I said last meeting , we really have to build a fashion remote control and the colour of the the society will be really it will be seen in the remote control . ami_da_4
+B 1803.43 Need it to be , okay . ami_da_12
+A 1807.23 So you will have Baba and David Jordan you will have to work together on the prototype and you will have next time to show us modelling a cl a clay remote control , ami_da_4
+A 1807.23 so you will have to model model something . ami_da_6
+C 1812.85 Yeah . ami_da_1
+C 1820.34 Okay . ami_da_9
+B 1820.36 Okay . ami_da_9
+C 1822.3 Yep ami_da_9
+C 1822.3 Okay . ami_da_12
+A 1823.78 And I think that some specific instructions will be sent to you by your personal coach . ami_da_4
+B 1829.6 Okay . ami_da_12
+A 1830.18 So , ami_da_2
+A 1830.18 no more questions , ami_da_4
+A 1830.18 we can close the session . ami_da_6
+A 1834.6 Yeah . ami_da_9

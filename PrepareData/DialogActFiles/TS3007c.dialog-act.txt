@@ -1,0 +1,1062 @@
+A 3.31 Hello again . ami_da_14
+C 4.62 Hi . ami_da_14
+B 4.9 Hello . ami_da_14
+D 5.62 Hey , Project Manager . ami_da_14
+B 7.52 , Project Manager , I have something to tell you . ami_da_7
+A 8.87 yeah . ami_da_9
+B 10.16 I have a little problems with my laptop . ami_da_4
+A 12.49 Okay . ami_da_9
+B 12.66 And s s s ami_da_4
+B 12.66 so I had a little less time to complete . ami_da_4
+A 16.44 Okay . ami_da_9
+B 23.89 No , a little problem , big problem . ami_da_9
+B 26.95 I just thought ami_da_3
+B 26.95 , it did not work anymore . ami_da_4
+D 27.62 What was it , problem ? ami_da_5
+D 27.62 The laptop ? ami_da_5
+D 27.62 It hang hung . ami_da_9
+B 31.98 The entire Windows ami_da_4
+B 31.98 It it hung . ami_da_9
+D 36.5 Ha ha . ami_da_16
+D 37.74 Oh . ami_da_16
+D 40.64 Project Manager . ami_da_16
+A 42.03 Yes . ami_da_16
+D 44.12 You are our Project Manager . ami_da_14
+A 44.13 Yes . ami_da_9
+A 46.45 Your project manager . ami_da_14
+A 50.44 Welcome to the conceptual design meeting for Real Reaction . ami_da_4
+A 56.98 , hello again . ami_da_14
+A 58.28 it is the same as the last time . ami_da_4
+A 60.34 , also this time there will be three presentations . ami_da_4
+A 65.72 And we must reach a decision on the remote control concepts . ami_da_6
+A 72.12 , and at the end , I , when I finish it off I have some input from a master class I visited . ami_da_7
+A 85.56 information . ami_da_7
+B 86.34 During lunch , yeah . ami_da_14
+D 89.3 Master . ami_da_14
+B 91.02 He is the master , yeah . ami_da_14
+D 93.41 Master of I am sorry . ami_da_14
+A 93.56 The the the the the concepts on we where we must reach a decision on . ami_da_4
+A 99.5 , our from are of two sorts . ami_da_4
+A 104.72 Components concepts and user interface concepts . ami_da_4
+A 108.51 , the first one is really about the the the the the total package with ami_da_4
+A 108.51 Well , we have decided to do a do the with a touch screen that must be a case around it so it wo not be as breakable . ami_da_4
+A 122.68 how how about the energy ? ami_da_4
+A 122.68 Can you can you reload it or just have batteries which you must exchange ? , the user interface concept . ami_da_4
+A 132.32 , with the type and the the supplements . ami_da_4
+A 135.74 So where to put what button . ami_da_4
+A 138.57 And I would say Jans , can you begin ? ami_da_6
+A 138.57 Okay . ami_da_11
+C 143.15 Yeah , sure . ami_da_7
+A 144.79 At the end , ami_da_2
+A 144.79 I will take notes ami_da_7
+A 144.79 and at the end of the minutes will be at the shared folder . ami_da_4
+C 147.14 Okay . ami_da_1
+C 153.42 , let me see . ami_da_16
+C 155.27 I think it is this one . ami_da_4
+C 163.53 Ha . ami_da_16
+B 165.09 Wow . ami_da_16
+C 167.15 Right . ami_da_2
+C 167.72 , well , ami_da_2
+C 167.72 I will be talking about the components . ami_da_7
+C 172.11 , what I did was I reviewed previously used items by two two different age groups . ami_da_4
+C 181.47 below forty five and above . ami_da_4
+C 183.8 And I just watch what the differences are and I checked , well , what what d do we want , and how can we d aim a at the target group . ami_da_4
+C 196.09 Well what I found was that a senior ami_da_2
+C 196.09 senior citizens ami_da_4
+C 196.09 , it is it is okay . ami_da_9
+D 204.57 Okay . ami_da_6
+D 205.09 Go on . ami_da_6
+C 205.92 They , well , they like more the they like the traditional materials , like wood and and such more . ami_da_4
+C 212.22 Wood and chrome . ami_da_4
+C 213.9 And they like straightforward shapes . ami_da_4
+C 217.42 , they they they they like luxurious styles , where whereas the young and dynamic , they like a more soft materials . ami_da_4
+C 225.99 Think of the Teletubbies , for instance . ami_da_4
+C 227.89 , soft and fluffy and colourful and Well , shapes are curved and round . ami_da_4
+C 234.22 Y y ami_da_16
+C 234.22 you get the picture . ami_da_16
+C 236.38 And they like sports and gaming , and that gives them the vitality . ami_da_4
+C 241.39 , so w well , firs ami_da_2
+C 241.39 Yes . ami_da_9
+A 242.87 One one little question . ami_da_7
+A 244.17 about the the material . ami_da_4
+C 246.26 Yeah . ami_da_9
+A 246.94 a soft material for a remote control ? ami_da_5
+A 246.94 Okay . ami_da_9
+C 249.95 No , I will I will get to that . ami_da_7
+C 251.31 You you will see . ami_da_4
+C 252.08 Yeah . ami_da_4
+A 252.09 Yeah . ami_da_9
+A 252.64 Thank you . ami_da_14
+C 253.61 , well f first off , let is start start with the energy . ami_da_4
+C 256.36 W ami_da_4
+C 256.36 I ami_da_4
+C 256.36 I had a choice between a few different sources . ami_da_4
+C 260.84 But the two basic sources that I found were the best possible were the battery versus kinetic . ami_da_9
+C 267.58 kinetic ami_da_4
+C 267.58 , that is when you move something , then it gets energy . ami_da_4
+C 272.14 I figured , well that is ki kind of high tech , when when you have a remote control that well , when you pick it up , it has power . ami_da_9
+C 278.32 That would be actually very nice , I figured . ami_da_9
+A 280.24 Oh . ami_da_16
+C 280.85 Well , we could also use a battery , ami_da_4
+C 280.85 that is a bit ami_da_3
+C 280.85 Yeah . ami_da_4
+D 282.92 Yeah but when the power gets low , you have to shake it or something ? ami_da_5
+D 282.92 , and ami_da_3
+C 286.82 Yeah ami_da_4
+C 286.82 yeah , ami_da_4
+C 286.82 you c ami_da_4
+C 286.82 just you have to shake it around a little bit . ami_da_4
+C 289.48 And then then it d then it has some more energy . ami_da_4
+C 292.9 Well , y you could just go for a battery . ami_da_4
+C 294.73 Or you can go for both ? ami_da_4
+C 294.73 Yeah , I actually did . ami_da_4
+B 296.34 Oh , have you considered the option of using a solar panel ? ami_da_5
+B 296.34 W nah . ami_da_3
+C 300.7 But the thing is about solar panel is you have to have l light . ami_da_4
+C 305.41 Well , sunlight preferably . ami_da_4
+C 308.51 , and you you could you could use normal light , but you would not get the same amount of energy that you would from a battery or something . ami_da_4
+B 315.5 Yeah . ami_da_1
+C 315.8 for ultimate b n use of solar panels , you could actually use ami_da_2
+C 315.8 you could use solar panels , but you ha you would have to implement them into the remote control , leaving you a bit less space for the interface . ami_da_4
+D 331.34 yeah . ami_da_9
+B 332.49 Yeah . ami_da_1
+D 332.84 It is too less space . ami_da_9
+C 333.04 So so i i it it wo what is actually ami_da_2
+C 333.04 I ami_da_2
+C 333.04 I c just in f ami_da_2
+C 333.04 I have figured it out that well , seeing that you will always be within the l distance of TV , and the from TV there comes a a a whole bunch of light . ami_da_4
+C 346.18 So it would actually power itself from a TV . ami_da_4
+B 347.79 Yeah . ami_da_1
+C 348.38 But , well you just take up all the space , and you would not have the full amount of power actually used . ami_da_4
+B 351.88 Okay . ami_da_1
+A 355.65 But you prefer kinetic ? ami_da_11
+A 355.65 Okay . ami_da_1
+C 355.83 So ami_da_2
+C 355.83 I I prefer kinetic because it is well , the costs are not that much higher , and , ju just a bit more high tech than than a normal battery . ami_da_9
+C 366.32 I mean , if ami_da_3
+C 366.32 No , but d Well , you pick it up and you press buttons and y ami_da_9
+C 366.32 well , you ami_da_9
+C 366.32 Yeah , well actually it is . ami_da_4
+A 366.43 Yeah , but you do not move a a remote control too much . ami_da_9
+A 372.43 And that is enough to to keep the energy level ami_da_5
+A 372.43 Okay . ami_da_9
+C 377.87 And it it ami_da_2
+C 377.87 if it is not , you just shake it a bit and and add add with power up again . ami_da_4
+B 382.42 Yeah . ami_da_1
+C 382.44 But , what l what Jarek said , you could you could use a battery that you would just keep it on the recharging whenever it moves . ami_da_4
+C 387.46 And for rest , you would just add juice on the battery . ami_da_4
+A 389.84 Okay . ami_da_9
+D 390.0 And when the battery does not work , I usually shake it too . ami_da_4
+D 394.09 So Like slamming on it . ami_da_4
+C 395.97 Exactly . ami_da_9
+D 396.79 It is exactly the same . ami_da_4
+C 398.16 And so that well , ami_da_2
+C 398.16 f furthermore , you you we checked the cases . ami_da_4
+A 398.2 Thank you , Tim . ami_da_14
+C 405.15 We have different options concerning the cases . ami_da_4
+C 408.0 You ha ami_da_4
+C 408.0 I ami_da_4
+C 408.0 you sim you simply add a basic standard model ami_da_4
+C 408.0 it was kind of square ami_da_4
+C 408.0 and I figured that is a bit boring . ami_da_9
+C 416.52 So you you ami_da_2
+C 416.52 we could go for the single curved or the double curved . ami_da_4
+C 420.4 , single curve , it is just a well , , you know , it is just a nice curve . ami_da_4
+C 425.87 Or but but you could go in a in an double curves . ami_da_4
+C 428.46 And that is like several different dimensions . ami_da_4
+C 430.73 That gives you an whole new effec ami_da_9
+C 430.73 Yeah , that gives you a younger and more high tech look , I f I figured . ami_da_9
+A 431.09 Yeah . ami_da_1
+A 432.73 Dynamic dynamic look ? ami_da_9
+A 432.73 A little artistic . ami_da_9
+C 437.61 But , that we will discuss later . ami_da_6
+D 440.15 But , are you going to draw it ? ami_da_6
+D 440.15 The ami_da_2
+D 440.15 Yeah . ami_da_9
+C 443.42 What ? ami_da_5
+C 443.42 You want me to draw in three D ? ami_da_11
+C 443.42 , yeah , I ca I ca ami_da_7
+C 443.42 I could I could show you . ami_da_7
+B 444.61 Th th ami_da_9
+B 444.61 yeah . ami_da_9
+D 447.13 Yeah . ami_da_9
+B 447.53 Yeah . ami_da_9
+D 448.26 , I c I ca not imagine . ami_da_4
+D 451.05 I ca not imagine how how how it looks like . ami_da_4
+C 453.36 I could show you . ami_da_7
+C 454.32 Well let is say y you ami_da_2
+C 454.32 Let is say that is your standard That is a bit your d standard design . ami_da_4
+D 459.29 Yeah . ami_da_1
+D 463.82 Design . ami_da_4
+B 464.92 Yeah . ami_da_9
+C 471.74 But you could actually go like something like this . ami_da_4
+C 478.14 And then in three D effect you could go ami_da_4
+C 478.14 So y you you just ami_da_3
+C 478.14 Yeah , this is a this bit difficulty in I did not take a major in art . ami_da_9
+B 484.15 Yeah . ami_da_1
+D 485.32 Oh , okay . ami_da_1
+C 493.14 So But ami_da_2
+C 493.14 but you could have a whole new the back back the the the depth , you could you could just play around a bit with . ami_da_4
+D 499.02 Okay . ami_da_1
+C 500.13 You you do not have to use standard ami_da_4
+C 500.13 Yeah you could y ami_da_9
+C 500.13 It leaves more space for creativity . ami_da_9
+D 502.41 Oh , okay . ami_da_1
+A 507.05 Okay . ami_da_1
+D 508.06 Okay . ami_da_1
+C 508.38 that might be an idea , ami_da_9
+C 508.38 but just a ami_da_2
+C 508.38 Well , furthermore , well , plastic versus rubber ? ami_da_4
+C 508.38 You We could choose what what is better , plastic or rubber . ami_da_4
+C 518.4 I I ch prefer rubber because it feels Yeah . ami_da_9
+A 521.76 It is soft . ami_da_9
+C 522.54 Yeah , it is soft and it is that I like soft . ami_da_9
+A 524.79 That is the material the younger people want , ai not it ? ami_da_9
+A 524.79 Just like the watch from Seiko . ami_da_9
+C 526.8 Yeah , ami_da_9
+C 526.8 yeah ami_da_2
+C 526.8 I mean plastic is ami_da_2
+C 526.8 Plastic also has that cheap feeling to it , ami_da_9
+C 526.8 like plastic ami_da_2
+C 526.8 Your your ami_da_2
+C 526.8 I usually associate plastic with something that is cheap . ami_da_9
+C 537.08 that is maybe just me , ami_da_9
+C 537.08 but , we could , oh , talk about it later . ami_da_6
+C 543.57 furthermore , buttons . ami_da_4
+C 545.72 traditional or a touch screen . ami_da_4
+C 548.33 Well , we discussed it in a previous meeting , so I figured I will just leave it at the LCD . ami_da_4
+C 554.4 And chip set , well if we are going to use traditional buttons , we could go with a simple chip set . ami_da_4
+C 561.71 But if we decide to go on a n LCD screen , we would use an we have to use an a advanced chip set . ami_da_4
+C 569.84 And that would bring the necessary costs with with it . ami_da_4
+C 573.46 So that is something we th have to keep in mind . ami_da_4
+C 575.44 If it is not manageable budget wise , we would have to go over to to sim to simple buttons . ami_da_4
+D 581.68 Well , I think we are going to sell tell ten millions of them . ami_da_9
+D 587.23 So I bet a big company in Korea or Taiwan , like Samsung , can give us a big discount on the chips , so ami_da_9
+D 587.23 U usually , chips are are not more expensive than one dollar . ami_da_4
+C 593.53 Yeah . ami_da_1
+C 597.21 Yeah , probably . ami_da_9
+C 603.55 Yeah , probably , ami_da_9
+C 603.55 but But yeah , that is that is ami_da_3
+C 603.55 That should not should not be that big a issue . ami_da_9
+D 604.44 So ami_da_3
+D 604.44 That that should not be a real issue , I think . ami_da_9
+C 609.74 I will I will I will just add , I put a big summary here , so we could discuss it a bit . ami_da_4
+C 614.51 what i what are your ideas concerning battery versus kinetic ? ami_da_11
+C 614.51 Yeah , you you you ami_da_2
+C 614.51 should we should ami_da_2
+C 614.51 A combination . ami_da_9
+B 619.79 , I think you should use kinetic as a back up . ami_da_6
+D 624.04 Yeah , a combination . ami_da_9
+B 625.13 A combination , yeah . ami_da_9
+C 626.2 , you use the battery and w charge it up with kinetic . ami_da_6
+C 629.55 When you pick it up , it charges up . ami_da_4
+D 630.19 Yeah . ami_da_1
+D 631.35 Like an aku Acu , yeah . ami_da_4
+C 632.66 Yeah . ami_da_9
+C 634.22 Yeah ami_da_9
+C 634.22 yeah , I know . ami_da_9
+B 635.09 Okay . ami_da_9
+B 635.71 Yeah . ami_da_9
+D 636.59 Well , . ami_da_9
+D 637.87 Yeah . ami_da_9
+B 638.2 Psycho kinetic . ami_da_9
+C 638.24 Yeah , I con Exactly . ami_da_9
+A 639.83 Yeah . ami_da_1
+B 640.04 Yeah . ami_da_9
+C 640.05 What what do you think ? ami_da_11
+C 640.05 You agree ? ami_da_11
+C 640.05 Yeah ? ami_da_11
+C 640.05 Both ? ami_da_11
+C 640.05 Okay . ami_da_9
+A 641.73 I I ami_da_9
+A 641.73 I would prefer both too . ami_da_9
+D 645.44 Combine them . ami_da_6
+A 645.61 Yeah . ami_da_9
+A 646.16 Combine them . ami_da_9
+C 648.22 , well that would bring the m m some more costs , ami_da_4
+C 648.22 but I mean the Who cares , right . ami_da_9
+D 654.0 Okay . ami_da_1
+C 655.99 That is the Project Manager is problem . ami_da_14
+B 657.09 Buy a fifty cents battery and ami_da_14
+B 657.09 Well maybe I have something in my presentation to to cope with that . ami_da_4
+D 658.38 Of course . ami_da_14
+D 659.73 Fifty cent . ami_da_14
+C 660.06 Yeah , well Fifty cent ami_da_14
+C 660.06 , why does not ami_da_3
+C 660.06 And then we have single curved versus double curved . ami_da_11
+C 667.63 That ami_da_3
+C 667.63 Okay . ami_da_9
+C 672.15 No , we will we will just wait and ami_da_6
+C 672.15 , plastic versus rubber . ami_da_11
+D 675.66 Rubber . ami_da_9
+C 675.67 Any ideas ? ami_da_11
+C 675.67 , rubber ? ami_da_9
+C 675.67 You ami_da_3
+C 675.67 , I figured it will be m rather than hard Nah , ami_da_9
+C 675.67 rubber ami_da_9
+C 675.67 c ami_da_9
+C 675.67 this is a casing , yeah . ami_da_9
+A 676.34 Rubber . ami_da_9
+A 677.15 Yeah . ami_da_9
+B 677.6 , is not possible to make combination with kind of rubber is or bendable remotes where you have got a . ami_da_5
+B 684.9 Or do you think it ami_da_3
+B 684.9 Rubber casing , yeah . ami_da_9
+D 687.62 Rather hard . ami_da_1
+C 689.95 Rubber casing , ami_da_9
+C 689.95 because well if you use an d a touch screen , it is just a casing around it . ami_da_4
+C 696.7 So , you could go for plastic , but I figured I ami_da_9
+C 696.7 I ami_da_9
+C 696.7 I would choose rubber . ami_da_9
+B 697.54 Yeah . ami_da_1
+D 700.05 Yeah . ami_da_1
+B 700.58 , well d Maybe I can ask it right now the question that I have . ami_da_7
+B 705.14 , is it possible of is it necessary to make a touch screen square ? ami_da_5
+B 705.14 It is not , I think , ami_da_5
+B 705.14 yeah ? ami_da_5
+B 705.14 We are ami_da_2
+B 705.14 We put fashion in electronics , ami_da_4
+B 705.14 so maybe we can ami_da_6
+B 705.14 yeah . ami_da_1
+C 712.58 Well , m I do not know . ami_da_4
+D 713.55 Well , I think that touch screens are generally square . ami_da_4
+C 713.66 No . ami_da_4
+A 716.61 Yeah . ami_da_1
+C 716.8 Yeah . ami_da_1
+D 717.09 But it is the case you put around it that makes the shape . ami_da_4
+C 719.1 That is not ami_da_3
+C 719.1 Yeah , that would cover it . ami_da_9
+D 721.19 Yeah okay , ami_da_9
+D 721.19 but if you have a square LCD screen , and you put a case around it that has like bulbs or that that covers part of the LCD screen . ami_da_6
+D 733.71 That ami_da_3
+D 733.71 That is it is custom customisable ami_da_9
+D 733.71 and ami_da_9
+D 733.71 Yeah , me too . ami_da_9
+C 734.35 That that would solve the problem . ami_da_9
+B 735.46 Oh , yeah . ami_da_9
+B 736.81 Okay , I I get it . ami_da_9
+A 737.42 yeah . ami_da_1
+C 738.32 So so ami_da_2
+C 738.32 so what are the opinions ? ami_da_11
+C 738.32 rubber or plastic ? ami_da_11
+C 738.32 I I ami_da_9
+C 738.32 I prefer rubber . ami_da_9
+A 744.94 Me too . ami_da_9
+B 745.22 Okay . ami_da_9
+C 745.61 Yeah , you too ? ami_da_11
+C 745.61 You sure ? ami_da_11
+C 745.61 You you you seemed to hesitate a bit . ami_da_9
+A 745.93 Yeah ? ami_da_11
+A 745.93 Okay . ami_da_1
+B 746.92 That is good . ami_da_9
+B 747.51 Well , as long a as long as it is it is it is firm , and you do not it is not bendable or something ami_da_9
+B 747.51 , I th ami_da_9
+B 747.51 I think that goes too far . ami_da_9
+D 751.48 yeah . ami_da_1
+C 755.73 Yeah , ami_da_9
+C 755.73 it it should not it should not flop over when you hold it in your hand ami_da_9
+C 755.73 No , that that that that is going to The the chip set will hold it firm in place , and and and and a LCD screen also ami_da_4
+C 755.73 Yeah it m might it might . ami_da_9
+B 757.84 Oh . ami_da_16
+B 764.09 Okay . ami_da_1
+B 766.38 It might even bounce back when you drop it on the floor . ami_da_9
+B 771.12 Okay . ami_da_9
+C 771.88 , tra traditional versus LCD , well I figured we we all set on that . ami_da_4
+C 776.86 And , then also the simple versus advanced . ami_da_4
+C 779.95 Well I figure if we go for L LCD , we we should have the advanced . ami_da_6
+A 783.64 yeah . ami_da_1
+D 783.64 Yeah . ami_da_1
+C 784.06 So that should not be a problem . ami_da_9
+C 785.81 Okay , well that is my ami_da_4
+C 785.81 , you are welcome . ami_da_14
+A 787.87 Thank you . ami_da_14
+D 789.44 Can I do my thing ? ami_da_7
+D 789.44 It ami_da_3
+D 789.44 Expert map . ami_da_14
+A 791.69 Yeah . ami_da_6
+A 792.8 Do your thing , Tim . ami_da_6
+B 793.52 Do your thing . ami_da_14
+A 797.03 Bring it on . ami_da_14
+D 804.61 Okay ami_da_2
+D 804.61 Last week I went to Paris and Milan for some trend watching . ami_da_4
+D 816.71 For marketing . ami_da_4
+D 819.74 Our research and development department and I went to Paris and Milan . ami_da_4
+D 826.59 In Paris and Milan , we asked different people , differing in age and in income , the amount of money to spend , what they like in design and material nowadays . ami_da_4
+D 846.28 Findings . ami_da_4
+D 847.98 Our main audience , so that is people below forty , prefer the following . ami_da_4
+D 854.67 At first , the colours of fruit . ami_da_4
+D 857.63 Very basic colours , like Janus explained . ami_da_4
+D 860.79 , fresh colours , green , red , strawberry red , yellow , banana yellow . ami_da_4
+D 870.5 , considering material , Yeah . ami_da_4
+D 876.88 They like spongy material , ami_da_4
+D 876.88 like yeah a sponge ball . ami_da_9
+B 878.49 Spongeball . ami_da_9
+D 881.19 Like a s soft material . ami_da_4
+D 883.49 Janus m mentioned it also . ami_da_4
+A 883.63 Yeah . ami_da_1
+D 885.86 I think he did some some findings himself . ami_da_4
+C 891.53 Well , the Teletubbies sh ami_da_9
+C 891.53 Well , you could . ami_da_9
+D 891.67 You wer you were not in Paris ? ami_da_5
+D 891.67 Okay . ami_da_4
+D 894.86 Like this . ami_da_4
+D 896.69 Like big g flashy colours . ami_da_4
+A 898.85 Flashy . ami_da_9
+A 900.43 Yeah . ami_da_1
+D 900.54 Fresh . ami_da_4
+D 902.11 It is nice , I think . ami_da_9
+D 905.05 Okay , our secondary audience , people above forty a forty years in age , they like the dark traditional colours . ami_da_4
+D 914.21 Yeah , materials like wood that ami_da_4
+D 914.21 No n j just j ami_da_3
+D 914.21 just a w ami_da_3
+D 914.21 No , okay , ami_da_9
+D 914.21 but just just a wooden look . ami_da_9
+A 918.79 Yeah , but wood is not a not a material ami_da_9
+A 918.79 you which you build a a remote control of . ami_da_9
+C 924.49 You you could . ami_da_9
+A 925.45 Yeah but never seen one . ami_da_4
+C 927.14 Yeah . ami_da_1
+B 927.42 It will float . ami_da_14
+A 930.8 Case . ami_da_9
+A 931.66 Oh , a wooden look , yeah . ami_da_9
+D 932.81 Like you have those fake fake panels on the floor . ami_da_9
+B 935.28 Tables . ami_da_1
+D 936.83 The that is not wood anyway , but ami_da_4
+D 936.83 Okay ? ami_da_11
+D 936.83 But , that is our secondary audience . ami_da_4
+A 938.56 Okay . ami_da_9
+A 942.73 Yeah . ami_da_1
+D 942.74 So , we decided to take ami_da_4
+D 942.74 yeah ami_da_4
+D 942.74 the people below forty . ami_da_4
+A 948.69 Yeah . ami_da_1
+D 948.84 So , that this does not apply . ami_da_4
+D 952.83 Okay , the third . ami_da_4
+D 954.01 , there are some overall thoughts about new remote controls . ami_da_4
+D 957.98 They have to look fancy . ami_da_4
+D 960.7 , they should be technological in innovative . ami_da_4
+D 965.48 That means there have to be fancy things in . ami_da_4
+D 969.47 , and easy to use . ami_da_4
+D 971.71 But that is common . ami_da_4
+D 974.79 My personal preferences . ami_da_4
+D 977.32 We have to aim at a mu at the main audience . ami_da_6
+D 980.83 And , therefore use fresh colours . ami_da_6
+A 983.48 Would you prefer that you can choose the colour of your remote control or ami_da_11
+A 983.48 Okay . ami_da_1
+D 988.72 , I will I will come to that in a second point . ami_da_7
+D 991.52 Here , think about removable covers , as seen in mobile telephon telephone market . ami_da_6
+A 993.81 Okay . ami_da_1
+D 996.1 To customise your own remote control . ami_da_6
+D 998.43 Like the Nokia the removable covers , just put a red on it and go to the shop and buy a green one . ami_da_4
+A 999.99 Yeah . ami_da_1
+A 1002.2 Okay . ami_da_1
+D 1005.49 , a third , material being used could well be stuff like rubber . ami_da_6
+D 1010.7 , two advantages . ami_da_9
+D 1013.54 , it fits within the current market trends . ami_da_9
+D 1017.4 And it adds safety to your remote when you drop it . ami_da_9
+D 1022.72 So ami_da_9
+D 1022.72 to come back to your question , I think and the people in Milan and Paris also think that the rubber should be pretty hard . ami_da_4
+D 1033.05 Like seen on regular mobile phones . ami_da_4
+D 1038.76 Actually , they have a lot in common . ami_da_4
+D 1040.58 The phones and the ami_da_4
+D 1040.58 Yeah . ami_da_9
+C 1042.43 Well , I actually saw a phone that you could use as a remote , so Yeah . ami_da_9
+D 1046.01 Yeah . ami_da_9
+A 1046.36 Maybe you could use your remote as a phone . ami_da_6
+D 1046.37 Okay . ami_da_9
+C 1048.4 Hey . ami_da_16
+B 1048.97 Hey . ami_da_16
+C 1049.29 That might be a next step . ami_da_9
+A 1049.41 There are numbers on it , so ami_da_9
+A 1049.41 So that you say SPSS , and it goes to ami_da_5
+A 1049.41 Okay . ami_da_9
+D 1050.99 Yeah , exactly . ami_da_9
+D 1052.47 , in my second sheet of personal preferences , we have to reconsider the speech function recognition . ami_da_6
+D 1061.29 , it is very innovative . ami_da_9
+D 1064.71 Innovative . ami_da_9
+D 1067.8 Yeah , like something . ami_da_4
+D 1068.87 You you can see that the market is just screaming for new technologies , like speak speech recognition and stuff . ami_da_4
+D 1076.49 But , we have to keep the cost in in mind , ami_da_9
+D 1076.49 but it ami_da_3
+D 1076.49 Yeah , it it can be very expensive . ami_da_9
+B 1079.91 Twelve fifty ami_da_4
+B 1079.91 When your parents are watching some boring program , you can take the remote and do something else . ami_da_9
+D 1084.96 Okay , second . ami_da_4
+D 1085.91 , building games like Snake or Tetris to amuse the younger users . ami_da_6
+D 1091.04 , also the link with mobile phones . ami_da_4
+A 1094.3 Yeah , but you do not use that th games when you watching television , I think . ami_da_9
+D 1094.65 No , but ami_da_2
+D 1094.65 No , okay . ami_da_9
+C 1098.58 Well , yeah . ami_da_9
+D 1099.92 But you do not use games when you are d when you are making a telephone call . ami_da_9
+D 1103.55 It is just the same . ami_da_9
+D 1109.01 Yeah . ami_da_9
+A 1109.98 Yeah , okay . ami_da_9
+D 1110.77 When you are at college . ami_da_9
+C 1112.67 You take your remote with you to school . ami_da_14
+D 1112.82 No . ami_da_2
+A 1112.93 You take your remote control with you . ami_da_14
+B 1113.53 Take it . ami_da_14
+D 1115.09 You al you also take t ami_da_2
+D 1115.09 you take your IPac and go play games . ami_da_4
+D 1120.36 Yeah . ami_da_9
+C 1120.78 Yeah . ami_da_1
+D 1121.04 Yeah . ami_da_9
+D 1122.13 Well , I do that , but ami_da_4
+D 1122.13 Okay , and ami_da_2
+D 1122.13 And third , I stick with it , the log in functionality with the slogan , take parental control to a new dimension . ami_da_6
+B 1136.07 Ooh . ami_da_3
+C 1136.45 Very nice . ami_da_9
+D 1136.51 That is it . ami_da_4
+B 1136.68 S ami_da_3
+A 1139.91 great . ami_da_9
+B 1166.78 In ami_da_3
+B 1166.78 Okay . ami_da_4
+B 1174.79 the interface contents . ami_da_4
+B 1178.66 Well that is a just simple PowerPoint mock up ami_da_4
+B 1178.66 I want to m make it more as dynamic for you ami_da_7
+B 1178.66 so I will draw there . ami_da_7
+B 1184.88 But , the main concept is take one big touch screen . ami_da_6
+B 1190.75 , always display the primary buttons clear and visible . ami_da_6
+B 1196.88 Maybe even li like this with u uses of a lot of space . ami_da_6
+B 1201.4 And make the menu structure changeable . ami_da_6
+B 1203.59 So if you press system , that is ami_da_4
+B 1203.59 Yeah , well m multiple system options can , maybe five or ten or or one , can fit in . ami_da_4
+B 1213.98 Or maybe even a step further when you want to t have some other options that are not programmable with one horizontal button . ami_da_4
+B 1224.51 And other buttons can may be displayed here if that is necessary . ami_da_4
+B 1229.63 And well , how do do we want to look at f Yeah ami_da_2
+B 1229.63 Does a remote look ami_da_4
+B 1229.63 Well , it is you have gotta hold it in one hand . ami_da_4
+B 1238.72 So the middle like all remotes have to be in a little bit small , so you can put it in inside your hands . ami_da_4
+B 1249.9 And some remotes you can use with your thumb . ami_da_4
+B 1251.84 But I think that is too difficult for this one . ami_da_9
+B 1254.35 So you can make it s a little broader . ami_da_6
+B 1257.61 Yeah . ami_da_6
+B 1258.63 And here ? ami_da_6
+B 1258.63 And maybe use your thumb on the on the main buttons . ami_da_4
+B 1264.45 And use your other hands on the menu structure . ami_da_4
+B 1268.68 So here are going to be the program buttons . ami_da_6
+B 1271.28 One , two , three , four , et cetera . ami_da_6
+B 1274.3 And the the volume control and program control maybe . ami_da_6
+B 1278.93 And , down here , , I added , this could be one big LCD . ami_da_6
+B 1286.26 , the menu structure . ami_da_6
+B 1289.48 So you can use it in in this way . ami_da_4
+B 1295.17 One thing you have gotta keep in mind , keep the remote clear of too much functions at the same time . ami_da_4
+B 1303.92 , know that if you are changing the menu structure here , ami_da_4
+B 1303.92 And well , I still believe you should keep displaying the buttons . ami_da_6
+B 1313.7 But if you are programming the colour of the TV , do not display twenty other options that are possible . ami_da_6
+B 1319.62 Just keep it as simple as as possible . ami_da_6
+B 1323.21 And do not use too many levels . ami_da_6
+B 1324.63 Do not have to select a screen first and then brightness and then colour and un plus , and push plus twenty times . ami_da_6
+B 1332.25 But just the just in one button if possible . ami_da_6
+B 1337.39 And , well , you kn you all know the TV levels . ami_da_4
+B 1340.64 , channel one , two . ami_da_4
+B 1342.08 And when you get to n to to ten , and want to go back , well you have a problem . ami_da_4
+B 1347.12 Just m most most modern TVs , you you press one zero , and it goes to ten . ami_da_4
+B 1352.13 And else , to one and through after that . ami_da_4
+B 1355.1 So the s a button less . ami_da_4
+B 1357.73 And , things like teletext , put them in the menu . ami_da_4
+B 1361.03 Things like ami_da_3
+B 1361.03 Yeah . ami_da_9
+D 1365.0 Yeah . ami_da_2
+D 1365.77 what do you think about a back and forth come up button ? ami_da_6
+D 1365.77 L like in internet explorer . ami_da_4
+B 1370.39 Yeah , ami_da_9
+B 1370.39 yeah ami_da_9
+B 1370.39 w ami_da_9
+B 1370.39 Yeah , ami_da_9
+B 1370.39 I ami_da_9
+B 1370.39 I find I must trying to tell it . ami_da_9
+B 1375.93 Is volume plus and minus ? ami_da_4
+B 1375.93 And this is program plus and minus . ami_da_4
+B 1382.74 Yes . ami_da_9
+D 1382.75 Yeah okay , but does it that is for going from four to five . ami_da_9
+D 1387.03 But if you go from two to eight , and you want Yeah , and on two . ami_da_9
+B 1389.05 Or if you are watching Studio Sports on on seventeen , and your wife is watching some soap on ami_da_9
+B 1389.05 two Well ami_da_9
+B 1389.05 yes , I think that is a good idea . ami_da_9
+D 1393.99 That you can switch switch easy . ami_da_9
+B 1397.85 But , well m my preference would to be put it in the menu structure . ami_da_6
+D 1400.89 Yeah it is . ami_da_9
+D 1402.57 Yeah . ami_da_1
+B 1403.48 And if you are using that button a lot of times , well of course the menu will still be displayed on the screen . ami_da_4
+B 1409.42 You just do not have to play games in between . ami_da_4
+B 1412.42 But if you are really switching between two channels , you wo not have time to d use the other options . ami_da_4
+D 1416.27 no . ami_da_1
+B 1419.35 , yeah already already told that . ami_da_4
+D 1425.06 That is it . ami_da_9
+B 1425.19 Yeah . ami_da_9
+B 1425.6 That is my conclusion . ami_da_9
+D 1427.45 Okay . ami_da_9
+A 1427.92 Oh , okay . ami_da_9
+A 1430.04 I think we can discuss a little about the the three kind of revolutionary things Tim came with . ami_da_6
+A 1439.59 The parental control , the games , and the voice recognition . ami_da_4
+A 1442.94 There is n not too much decision on that one ami_da_9
+A 1442.94 so I think that parental control is a good function to to put in the remote . ami_da_9
+A 1455.34 I do not know how you think about it . ami_da_11
+D 1456.99 Yeah . ami_da_1
+B 1458.01 Well , I agree , ami_da_9
+B 1458.01 just put it in the menu structure somewhere . ami_da_6
+A 1461.27 Yeah . ami_da_9
+B 1462.47 , yeah system properties , parental control . ami_da_6
+D 1463.73 Yeah ami_da_3
+D 1463.73 but ami_da_3
+D 1463.73 What I see ami_da_2
+D 1463.73 How I see it is you put it on the the remote ami_da_6
+D 1463.73 and then you have ami_da_6
+D 1463.73 like a Windows log on screen with parents , children . ami_da_6
+B 1472.62 Yeah . ami_da_1
+D 1481.58 Something like that . ami_da_4
+A 1481.73 Yeah . ami_da_1
+B 1482.51 , w well ami_da_9
+B 1482.51 , yeah . ami_da_9
+D 1482.85 And w when you want to use the parents option , you have to ami_da_4
+D 1482.85 Yeah , ok Yeah . ami_da_9
+B 1485.96 It it has to be fast . ami_da_9
+B 1487.39 You do not want to to go down and watch the news at eight o'clock and turn it on and wait twenty seconds for for the log on screen and then remember your code and all kinds of settings . ami_da_9
+A 1497.49 No ami_da_9
+A 1497.49 but I think most people find it much more important that their children do not watch sex or violence on the television , and wait ten or fifteen seconds longer ami_da_9
+A 1497.49 , so they can finally watch it because of that . ami_da_9
+B 1507.2 Why ami_da_3
+B 1511.56 You c may use like when there is XP , a simple log on , d you just push one or two or three . ami_da_6
+A 1512.13 Yeah . ami_da_1
+D 1515.67 Yeah . ami_da_9
+D 1517.23 Yeah . ami_da_9
+D 1517.64 Pu push parents . ami_da_9
+B 1518.94 And if you push parents , then Yeah . ami_da_6
+D 1519.39 That then ami_da_2
+D 1519.39 then then you have to go to three digit log in . ami_da_6
+B 1522.04 To log in . ami_da_6
+B 1524.42 Yeah . ami_da_1
+B 1525.0 And if you puts a ami_da_3
+B 1525.0 Uh huh . ami_da_1
+D 1526.16 Like two one three . ami_da_4
+D 1528.2 And it is in . ami_da_4
+B 1528.94 And if you w you push p children , you do not have to log in , but you can only watch children is channels or ami_da_6
+B 1528.94 Okay . ami_da_9
+A 1529.04 Yeah . ami_da_9
+D 1532.22 It automatically goes Yeah . ami_da_9
+A 1534.01 Yeah . ami_da_1
+A 1536.75 Yeah . ami_da_1
+B 1537.55 Well ami_da_2
+B 1537.55 Yeah . ami_da_1
+C 1537.58 I do not know if it is worth the time and effort we are going to spend on it . ami_da_9
+C 1541.18 Because well it is a simple function , but it is going to take a lot of resources and a lot of time to programming it . ami_da_9
+C 1548.5 Because you will have to start working with the profiles and such . ami_da_9
+C 1552.05 And I am not sure if it is actually worth investing that much time and effort into it . ami_da_9
+C 1557.21 I do not know what ami_da_3
+C 1557.21 But , well , if you want to ami_da_2
+C 1557.21 I i i if we in incorporate the parental control , let is say we do , and and well whatever , cho child just goes up to the TV and presses up for instance . ami_da_4
+A 1557.31 Well I think that is a b there is a big market for it , ami_da_9
+A 1557.31 because you ami_da_4
+A 1557.31 Yeah , you read many times in magazines same kind of stuff , and you heard on the news that that he ami_da_4
+A 1557.31 Yeah , they believe that children are influenced by the television , ami_da_4
+A 1557.31 and ami_da_2
+A 1557.31 Well , we are we are aiming to below forty years . ami_da_4
+D 1560.48 yeah . ami_da_1
+D 1568.12 V violent TV . ami_da_1
+A 1578.6 But there are a lot of people will below forty who have children in young age who who want to not watch violent or ami_da_4
+A 1578.6 Yeah . ami_da_1
+B 1587.61 Well , maybe some idea on that . ami_da_7
+B 1590.79 Just make through a remote as it is , but make an option to insert profiles , ami_da_6
+B 1590.79 because if my grandad would buy this remote , he would not want to bother with all all the all the things to do . ami_da_9
+A 1593.36 Yeah . ami_da_1
+D 1597.6 Yeah , of course . ami_da_9
+A 1603.09 Yeah . ami_da_1
+B 1604.58 Just make it an option in menu , ins install powerful profiles or something . ami_da_6
+A 1608.86 Yeah yeah . ami_da_9
+D 1610.1 Yeah . ami_da_1
+A 1611.47 That is a that is a better idea ? ami_da_11
+A 1611.47 Yeah . ami_da_1
+D 1613.22 Yeah , ami_da_9
+D 1613.22 w It just has to be w when it is deliver out of the store , it has to be just simple and plain . ami_da_6
+D 1620.67 But if you want to install it personally If I got kids , and I could choose between two remote controls . ami_da_9
+A 1620.72 Yeah , okay . ami_da_9
+D 1633.74 One w with parent control and one without , and I would would buy the one with . ami_da_9
+A 1634.54 Yeah , with and one without . ami_da_9
+A 1640.27 Yeah . ami_da_1
+B 1640.97 , b well , still some question I have about how to incorporate those ones . ami_da_9
+D 1641.82 I th ami_da_9
+D 1641.82 Yeah . ami_da_9
+B 1645.55 You are thinking about some channels they cannot see , but ami_da_9
+B 1645.55 well , I I when I think , oh yeah , for the f for all the standard channels , and only for maybe after ten o'clock in the evening violent films and movies will come and maybe maybe some some timing will be needed instead of of channels , because if you are watching , I do not know , you are in the at day , cartoons will come up m on maybe Friday night . ami_da_9
+D 1665.17 Yeah . ami_da_1
+B 1675.19 I do not know . ami_da_9
+A 1676.58 Yeah , maybe it can work with show view . ami_da_9
+A 1678.49 , you you can control your video recorder with show view . ami_da_4
+A 1682.44 , when you tick in a number , it will start and end recording . ami_da_4
+A 1686.46 But maybe there is some option that that t the kind of show view numbers are violent , and that they are blocked out . ami_da_4
+B 1695.15 Yeah , the disadvantage vantage is that someone will has to send all the show view numbers of the programs that they remotes and edit it all , ami_da_9
+B 1695.15 will have to decide ami_da_3
+B 1695.15 That is not possible . ami_da_9
+A 1700.45 Yeah . ami_da_9
+A 1701.53 That is true . ami_da_9
+A 1702.89 Yeah . ami_da_1
+D 1704.31 Yeah ami_da_9
+D 1704.31 but yeah ami_da_9
+D 1704.31 but that is not possible . ami_da_9
+A 1706.95 Yeah . ami_da_1
+D 1721.64 Yeah . ami_da_1
+C 1722.55 Well , nob nobody is stopping the child from well checking the channel . ami_da_4
+B 1729.81 Well , yeah you could say if parental control is only it it will go from fourteen to sixteen with the page up then , but ami_da_9
+C 1729.9 But that ami_da_3
+C 1729.9 Well , I am not sure because for that to happen , you d you will have to receive a signal from the remote control , so it would , ami_da_9
+C 1729.9 yeah , have to be constant constant signalling . ami_da_9
+D 1741.02 Yeah . ami_da_1
+C 1749.58 What m what may be better is to incorporate an a separate device that that you can program with the remote control . ami_da_6
+C 1756.73 And that provides parental control , for instance . ami_da_6
+C 1760.42 And that is just an optional device . ami_da_6
+C 1762.52 So there is n that is there is ami_da_2
+C 1762.52 besides the remote control , you will have a separate ami_da_6
+C 1762.52 Yeah ? ami_da_9
+C 1762.52 Yeah , that is true . ami_da_9
+A 1768.01 I would not put it in an optional device . ami_da_9
+A 1769.83 That that then then then it becomes too much , I think . ami_da_9
+A 1773.36 If we do it , we we must do it in a kind of ways that like a profile , a parent profile , and a family profile , and otherwise . ami_da_6
+D 1774.1 Yeah , and ami_da_3
+D 1774.1 And and you know w when you install another device , children can still go up to the TV , p pop open the thing and and and g go to a channel . ami_da_9
+B 1777.87 Yeah , on a separate menu option . ami_da_9
+A 1789.05 Yeah . ami_da_1
+C 1793.01 That is true , but at same instant , same happens when you have remote control . ami_da_9
+D 1797.37 Yeah , yeah of course . ami_da_9
+C 1798.3 So But , only difference is the the people buying the remote control will now get the f added feature of parental control , and those people would not necessary want it . ami_da_9
+D 1799.15 But ami_da_3
+D 1799.15 Yeah . ami_da_1
+D 1809.5 it is ami_da_2
+D 1809.5 Yeah . ami_da_9
+C 1810.2 So , you you would be ami_da_3
+C 1810.2 Yeah . ami_da_1
+D 1810.71 Yeah , okay . ami_da_9
+D 1811.72 But it is just an an added feature feature . ami_da_9
+A 1813.9 Yeah . ami_da_1
+A 1814.97 Okay . ami_da_11
+A 1815.28 And what do you guys think of the games in the voice recognition ? ami_da_11
+A 1815.28 I personally think that that becomes too much . ami_da_9
+B 1822.1 Yeah , ami_da_3
+B 1822.1 well yeah , ami_da_3
+B 1822.1 I ami_da_3
+B 1822.1 A mail too from management that it is very popular to use voice recon recognition . ami_da_4
+A 1822.8 It is more like it gets you to the functionality , but ami_da_9
+A 1822.8 Yeah . ami_da_1
+B 1829.36 But I do not think when you are watching TV , hearing loud noises from the TV , someone screaming one , and you f the channel switches , ami_da_9
+B 1829.36 Yeah . ami_da_9
+D 1832.8 yeah . ami_da_1
+A 1833.65 Yeah . ami_da_1
+A 1838.41 Yeah . ami_da_1
+D 1838.59 Yeah , like f voice recognition is too much , I think . ami_da_9
+B 1841.49 Yeah . ami_da_1
+D 1841.51 But ami_da_9
+D 1841.51 games . ami_da_3
+A 1841.87 Okay . ami_da_9
+A 1842.19 And games ? ami_da_11
+A 1842.19 That would ami_da_3
+A 1842.19 Okay . ami_da_1
+D 1843.93 It does not ami_da_3
+D 1843.93 Yeah . ami_da_1
+C 1844.82 Yeah . ami_da_9
+C 1845.34 I can see games happening . ami_da_9
+B 1845.48 W you can put it on chip anyway , so As long as it is is not a primary feature of the remote , ami_da_9
+B 1845.48 but ami_da_3
+B 1845.48 Optional in ami_da_9
+B 1845.48 But how we do it ? ami_da_5
+B 1845.48 Well , I think also it is a good idea , buts very difficult to incorporate . ami_da_9
+C 1848.32 Yeah . ami_da_9
+D 1849.17 That that does not c ami_da_3
+D 1849.17 that does not co ami_da_3
+D 1849.17 Yeah , that that does not cost a lot of extra resources , I think . ami_da_9
+A 1856.28 So that will that that that must be in it , you think ? ami_da_11
+A 1856.28 Okay . ami_da_9
+C 1860.08 Yeah , that will be nice . ami_da_9
+A 1862.65 So the games are in it . ami_da_9
+A 1864.07 The voice recognition are not . ami_da_9
+A 1865.56 And the parental control are ami_da_9
+A 1865.56 optional ? ami_da_11
+A 1865.56 Yeah . ami_da_1
+D 1868.58 Yeah , it is it is in it . ami_da_9
+D 1869.84 But too ma I I think so , but ami_da_9
+D 1869.84 Yeah . ami_da_1
+B 1877.87 So we should make it too complex . ami_da_6
+B 1879.88 Is t some menu function , you choose parental control , and maybe four files will emerge from menu where put it on . ami_da_6
+A 1880.06 Okay . ami_da_1
+B 1887.4 But how how it is going to work will f be a problem . ami_da_9
+A 1889.7 Yeah , okay . ami_da_9
+A 1890.95 , but will there ami_da_2
+A 1890.95 Like the first idea from You can buy it without and with parental contr control ? ami_da_8
+A 1890.95 Or are we going to put it in and just ami_da_8
+A 1890.95 Yeah ? ami_da_11
+A 1890.95 yeah . ami_da_1
+B 1902.28 Well ami_da_2
+B 1902.28 I I think best would be to put it in and make it an menu option . ami_da_6
+D 1907.12 To put ami_da_2
+D 1907.12 Yeah , to put it in always . ami_da_9
+B 1908.4 You can put on ami_da_3
+B 1908.4 Yeah . ami_da_9
+B 1910.72 And you can just s when you buy it , you can select personal preference , parental control on , and the password or something . ami_da_6
+C 1920.17 Well , I do not know . ami_da_9
+C 1920.75 I I figure if you had two different remotes , you could bo choose one with well a receiver in it . ami_da_6
+C 1929.48 So you could actually easily build in parental control . ami_da_4
+C 1933.72 But it would would be more expensive . ami_da_4
+C 1936.63 So , a and that that way you could make cheap model and a expensive model . ami_da_4
+C 1940.88 Could ma make the simple model and the deluxe model , for instance . ami_da_4
+B 1944.77 Oh , it is a p ami_da_9
+B 1944.77 Yeah . ami_da_9
+D 1945.77 Yeah , but TVs are not capable of sending . ami_da_9
+C 1949.42 Yes they are . ami_da_9
+D 1950.14 Yeah ? ami_da_5
+D 1950.14 I thought they were just a able to receive . ami_da_4
+C 1950.5 Yeah . ami_da_4
+A 1952.92 Yeah , you yo ami_da_3
+A 1952.92 Yeah , but most often not . ami_da_9
+C 1953.25 Yeah , you you have some TVs any ami_da_4
+C 1953.25 Yeah . ami_da_9
+D 1954.98 Yeah , some . ami_da_9
+D 1955.59 But ami_da_9
+D 1955.59 Yeah . ami_da_1
+C 1957.81 That is true , that is true . ami_da_9
+B 1958.79 Well , maybe you just have to restrict it to what programs , where the parent says , you cannot watch channel seven , nine , and ten , and you cannot watch all channels after ten o'clock . ami_da_6
+B 1968.86 And there is just some little clock in the remote . ami_da_6
+C 1971.07 Well yeah , ami_da_9
+C 1971.07 you could you could easily ami_da_9
+C 1971.07 you could easily you could easily to the mote control . ami_da_9
+D 1971.38 Yeah , j just some rules . ami_da_9
+A 1973.04 Yeah . ami_da_1
+C 1975.35 But you still have the problem about the television itself . ami_da_9
+B 1978.74 No , no , it is very simple . ami_da_9
+B 1980.08 There th ami_da_2
+B 1980.08 I h ami_da_2
+B 1980.08 I have seen some of remotes who have a clock in it . ami_da_4
+C 1983.27 Yeah , ami_da_9
+C 1983.27 yeah ami_da_9
+C 1983.27 yeah . ami_da_9
+B 1983.79 So , the remote does does not transmit when it is after twelve clock . ami_da_4
+D 1987.2 Yeah , okay . ami_da_9
+D 1987.81 But , on the TV at least my TV , is a is a compartment which you can press . ami_da_4
+B 1989.31 Yeah ? ami_da_5
+B 1989.31 Yeah . ami_da_1
+D 1994.77 And there are buttons behind it which you can use , if you d if you do not if you do not have a ami_da_4
+D 1994.77 Yeah . ami_da_1
+C 1994.86 Yeah . ami_da_1
+C 1996.42 Yeah . ami_da_1
+B 1996.95 Yeah . ami_da_1
+B 1998.47 Well , that is ami_da_2
+B 1998.47 To put it very blunt , that is not our problem . ami_da_9
+B 2002.61 Just have the parents buy some glue ami_da_9
+B 2002.61 and It is not not a part of the remote . ami_da_9
+D 2006.35 Yeah . ami_da_1
+D 2008.28 Yeah , of course . ami_da_9
+C 2009.13 Yeah , that is true . ami_da_9
+C 2010.66 Yeah , that is true . ami_da_9
+B 2011.64 You have to f Yeah . ami_da_3
+C 2012.54 Yeah , you could you could you could go like ami_da_2
+C 2012.54 that that would actually make things a lot more easy . ami_da_9
+B 2013.21 , or make it ourselves very diffic ami_da_9
+B 2013.21 Yeah . ami_da_1
+C 2017.02 You could just blame it on television and make it their problem . ami_da_6
+B 2018.89 Yeah . ami_da_1
+D 2022.8 Yeah . ami_da_9
+C 2023.45 Yeah , I figured I figure we could do that . ami_da_9
+C 2025.15 Yeah , ami_da_9
+C 2025.15 yeah , sure . ami_da_9
+B 2025.24 Okay . ami_da_1
+D 2027.93 Or j Yeah . ami_da_3
+C 2028.04 , I am not sure what marketing thinks about it , but ami_da_9
+C 2028.04 User profile . ami_da_1
+D 2030.75 I have to consult my legal advisor about it . ami_da_14
+A 2039.19 Okay . ami_da_4
+A 2039.63 So I think we have decided on the things that from Janus , the energy , the combination between battery and kinetic . ami_da_4
+A 2048.33 The case will be double curved and rubber , in a fr flashy fruity colour that with cover is removable . ami_da_4
+A 2058.47 The buttons will be touch screen . ami_da_4
+A 2061.42 but there may not be too many buttons . ami_da_4
+A 2064.39 And in the the menu structure , there must not to be Five minutes to go . ami_da_4
+A 2071.95 , too too many levels . ami_da_4
+A 2074.03 And it must be easy to use . ami_da_4
+A 2077.06 The parental control will be incorporated , but it must be not too complex . ami_da_4
+A 2082.68 And the games are in it . ami_da_4
+A 2084.58 So ami_da_2
+A 2084.58 I think we have we have decided , okay . ami_da_4
+B 2086.64 Okay . ami_da_1
+D 2088.44 Consensus . ami_da_1
+A 2091.06 , little more . ami_da_4
+D 2092.01 Oh . ami_da_7
+D 2092.36 Oh . ami_da_7
+B 2092.68 Oh . ami_da_16
+D 2092.78 I I have one thing left . ami_da_7
+A 2094.26 Yeah . ami_da_9
+D 2094.83 Maybe for Jerome . ami_da_4
+B 2096.44 Yeah ? ami_da_8
+B 2096.44 I am listening . ami_da_8
+D 2097.11 , the views . ami_da_4
+D 2100.57 Maybe it is handy to build in an expert view and a simple view . ami_da_6
+A 2106.71 Like a like a moat or s or something . ami_da_5
+D 2108.6 Yeah . ami_da_4
+A 2109.0 Yeah . ami_da_9
+B 2109.1 , well ami_da_2
+B 2109.1 What I was thinking about is just a menu structure , when you do not use it is simple . ami_da_6
+D 2109.34 Like at ami_da_2
+D 2109.34 In the experts view , you have a lot of more buttons . ami_da_6
+A 2110.99 Yeah , but you have that in the ami_da_3
+A 2110.99 Yeah . ami_da_9
+D 2116.23 Yeah . ami_da_1
+B 2116.25 And when you push system properties , entire list pops up with e ev all kind of f stuff you can program . ami_da_6
+A 2116.32 You use the ami_da_3
+A 2116.32 Yeah . ami_da_9
+D 2122.07 yeah , ami_da_9
+D 2122.07 okay . ami_da_9
+A 2122.73 It is already incorporated a little in that concept . ami_da_9
+D 2122.73 Fairly enough . ami_da_9
+D 2123.95 Yeah . ami_da_9
+C 2124.46 Well yeah , you you could actually build in a function that you can program it yourself , for the more advanced users . ami_da_6
+D 2129.6 Yeah , wh which buttons you like or not . ami_da_9
+C 2131.69 Yeah , which buttons do you want to in it . ami_da_9
+C 2133.49 Because you can you can like build in a back forward button , and some po somebody would just want to watch two channels . ami_da_9
+D 2133.9 Yeah . ami_da_1
+D 2140.46 Yeah . ami_da_9
+D 2141.3 Just leave the other numbers away . ami_da_6
+A 2142.79 Okay . ami_da_9
+C 2142.87 Yeah , you could you could m have people want want that . ami_da_9
+A 2146.36 We take it to the other meeting , ami_da_6
+A 2146.36 okay ? ami_da_11
+A 2146.36 I have a little w little chat to do ami_da_7
+A 2146.36 and then we finish . ami_da_4
+D 2147.95 Okay . ami_da_9
+D 2148.38 Go on . ami_da_9
+C 2148.81 , yeah , sure . ami_da_9
+D 2150.52 A little chat . ami_da_14
+A 2151.48 I went to a master class and two things are are can come in handy for us . ami_da_4
+A 2158.91 First thing is we talked about knowledge management . ami_da_4
+A 2162.65 Knowledge engineering and the fact that that that the idea of knowledge , sharing and learning knowledge from other companies is like that . ami_da_4
+A 2174.34 It is it is very hot at the moment , so it is it is mostly for the management expert to to look what other ami_da_4
+A 2174.34 marketing ami_da_9
+A 2174.34 or did I said management ? ami_da_5
+A 2174.34 Oh . ami_da_9
+D 2180.05 Marketing . ami_da_4
+D 2182.25 Management . ami_da_4
+A 2183.46 Just talking about myself . ami_da_9
+D 2184.09 Yeah , that is my function , to ami_da_9
+D 2184.09 Okay . ami_da_6
+A 2185.95 W ami_da_3
+A 2185.95 What other companies had to also with the the the the marketing campaign when they put on a newer remote , just some ami_da_4
+A 2185.95 Yeah . ami_da_4
+D 2191.45 Go on . ami_da_6
+A 2201.18 Import export . ami_da_4
+A 2203.77 And another one . ami_da_4
+B 2204.58 Som some bench marker . ami_da_9
+A 2205.77 , they are a ha they are at ami_da_2
+A 2205.77 Yeah , benchmarking , that is the word I saw . ami_da_9
+A 2210.25 I could not ami_da_2
+A 2210.25 Okay , another thing is there were there there was a survey , and it came out that people like to buy things from a single large provider , instead of those who are partnering with us . ami_da_4
+A 2226.21 So , we must we must bring it as if Real Reaction is is big company , a trustful company , ami_da_4
+A 2226.21 and it has m ami_da_3
+A 2226.21 Okay . ami_da_9
+D 2234.63 How ami_da_2
+D 2234.63 I know a marketing name for our product . ami_da_4
+D 2238.32 R th R to the third power . ami_da_4
+D 2241.24 R three . ami_da_4
+D 2242.02 Real Reaction remote . ami_da_4
+A 2243.5 I had a ami_da_4
+A 2243.5 I had another idea to put the whole the whole idea of Real Reaction and a single brand and that kind of thing . ami_da_4
+B 2244.65 Oh . ami_da_16
+D 2250.83 Bling . ami_da_16
+A 2254.56 When you put on remote , you see a kind of a just like when you telephone , you see a little animation . ami_da_6
+B 2259.58 , logo . ami_da_9
+B 2260.86 Yeah ? ami_da_9
+B 2260.86 Yeah . ami_da_1
+A 2260.96 Real Reaction remote . ami_da_6
+A 2263.47 And with the with the with the motto , we put fashion in electronics . ami_da_6
+A 2267.89 And then you go The ami_da_3
+A 2267.89 Yeah . ami_da_9
+D 2268.02 Yeah . ami_da_1
+D 2269.65 Yeah , okay , ami_da_9
+D 2269.65 but it has to be like a split second , because you have to put in a code also and ami_da_9
+D 2269.65 Yeah . ami_da_1
+B 2272.13 Yeah . ami_da_1
+B 2273.42 Well , you can show somebody a logo for point five seconds , they will still remember it . ami_da_9
+B 2279.34 And it it l linger on every time you see it . ami_da_9
+A 2279.88 But w th the idea from this thing is that we must present it as a as we are a a single large provider who will stand on our own . ami_da_9
+C 2287.93 Well , if you if you have the l LCD screen , you can you can have a small logo i at the bottom . ami_da_6
+D 2292.83 Yeah . ami_da_9
+C 2293.47 And it could just stay there . ami_da_6
+D 2294.48 That spins around like all the time . ami_da_6
+A 2295.07 yep , ami_da_1
+A 2295.07 yeah . ami_da_1
+C 2295.49 Yeah , that spins around or something . ami_da_9
+B 2296.82 Very annoying . ami_da_9
+A 2297.12 Also also . ami_da_9
+A 2298.13 But we we are ami_da_3
+A 2298.13 Yeah ami_da_9
+A 2298.13 yeah ami_da_9
+A 2298.13 y ami_da_9
+A 2298.13 yeah ami_da_9
+A 2298.13 yeah . ami_da_9
+D 2299.83 It it is just like a globe in Internet Explorer . ami_da_4
+C 2303.93 Yeah . ami_da_9
+B 2304.3 Yeah . ami_da_1
+C 2304.45 Yeah , something like that . ami_da_9
+A 2304.97 Okay , but think about that kind of things . ami_da_6
+C 2305.47 A small icon . ami_da_9
+B 2306.01 Yeah ami_da_9
+B 2306.01 , I It is ok For f ami_da_3
+B 2306.01 Oh , for the next meeting , right ? ami_da_5
+B 2306.01 Stay here and ami_da_1
+B 2306.01 P . ami_da_3
+A 2308.07 That is what they said in the master class . ami_da_4
+D 2308.1 Okay . ami_da_1
+A 2311.95 N , next meeting starts in thirty minutes . ami_da_4
+D 2313.25 Who ami_da_2
+D 2313.25 Who who gave you the master class ? ami_da_5
+D 2313.25 Ronald Betenberg ? ami_da_5
+D 2313.25 Okay , thanks . ami_da_14
+A 2316.29 So maybe you can go to Paris and Milan once again . ami_da_6
+A 2321.64 The master class ? ami_da_12
+A 2321.64 Franz Mehler is . ami_da_4
+A 2327.84 , very special , next session . ami_da_4
+A 2331.14 idea that you ami_da_2
+A 2331.14 the the industrial development centre and user interface will work together on a prototype . ami_da_4
+A 2340.48 And will drawing it on the SMARTboard . ami_da_4
+A 2342.6 So that is a kind of new thing . ami_da_9
+A 2344.92 And , the marketing expert will will ke he will be keeping busy with the product evaluation . ami_da_4
+A 2354.06 But the most specific instructions will be sent to you by email . ami_da_4
+C 2357.54 So we are going to work together right now ? ami_da_5
+C 2357.54 Definitely . ami_da_9
+A 2359.53 Yeah , the well , dids this what I what I heard . ami_da_4
+A 2363.28 I ami_da_3
+A 2363.28 Not in the master class . ami_da_9
+D 2363.66 In the master class . ami_da_4
+D 2367.13 Yeah . ami_da_9
+A 2368.18 So you just wait for the specific instructions and ami_da_4
+A 2368.18 But I think it was a very very good session , gentlemen . ami_da_9
+B 2376.21 , no new email . ami_da_16
+D 2377.59 Me too . ami_da_9
+A 2379.65 I will thank you all . ami_da_14
+B 2379.78 Okay . ami_da_9
+C 2381.24 Well thank you too . ami_da_14
+B 2381.88 Thank you . ami_da_14
+B 2382.35 Thank you very much . ami_da_14
+A 2382.4 And ami_da_2
+A 2382.4 Give me a good evaluation . ami_da_14
+D 2383.79 Thank you too , lord . ami_da_14
+B 2386.75 Yeah . ami_da_1
+B 2388.12 Uh huh . ami_da_1
+C 2390.0 You wish . ami_da_14
+C 2390.55 M Aye ? ami_da_14
+C 2390.55 Cheers . ami_da_14
+B 2390.92 See you . ami_da_14
+A 2392.33 Cheers . ami_da_14
+A 2393.14 See you in a half hour . ami_da_4
+C 2396.09 Hey . ami_da_16
+A 2397.83 But keep an eye on your laptops for a real ami_da_6
+A 2397.83 Yeah , but th there is there is still the my instructions that you will work together . ami_da_4
+C 2399.13 Yeah , I am not sure if we we ami_da_9
+C 2399.13 Because I saw something about individual actions . ami_da_4
+B 2410.22 Yeah . ami_da_9
+B 2410.74 Here ? ami_da_5
+B 2410.74 Or ami_da_5
+B 2410.74 Yeah . ami_da_3
+A 2412.52 That is not my problem . ami_da_4
+B 2413.26 If you got a No . ami_da_3
+A 2413.57 Bye bye . ami_da_14
+B 2414.55 So ami_da_3
+B 2414.55 Stupid manager . ami_da_14
+C 2415.45 Well , yeah . ami_da_9
+C 2420.36 Right . ami_da_3
+C 2421.91 Do you have new email ? ami_da_5
+B 2428.31 No . ami_da_4

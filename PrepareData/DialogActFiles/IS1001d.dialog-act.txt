@@ -1,0 +1,377 @@
+A 5.59 Okay . ami_da_16
+A 11.68 Je croix que c'est dommage de le ami_da_3
+A 11.68 it will be sad to destroy this prototype . ami_da_16
+A 22.02 It really looks like a banana . ami_da_4
+C 25.08 It is a banana . ami_da_14
+A 26.33 It is a banana . ami_da_12
+C 26.82 It is the essence of bananas . ami_da_14
+C 33.28 I would be confused with this thing . ami_da_15
+C 46.69 S ami_da_3
+C 46.69 How is everyone ? ami_da_14
+A 47.81 Okay . ami_da_2
+A 52.16 Hi . ami_da_14
+B 53.14 Hi . ami_da_14
+A 54.35 So we are here for the detailed design meeting . ami_da_4
+A 61.09 So ami_da_2
+A 61.09 we will ami_da_3
+A 61.09 I will first present what we are going to do in this meeting . ami_da_4
+A 68.88 Then I have ami_da_3
+A 68.88 I will also take notes during this meeting and I will send you a summary then as usual . ami_da_4
+A 78.9 We will then look at the evaluation criteria of the prototype presented by our two colleagues ami_da_4
+A 78.9 that make good work . ami_da_14
+A 92.69 And then we will see the financial aspects and the cost of the product . ami_da_4
+A 98.76 Then we will evaluate the product . ami_da_4
+A 102.74 And end with the conclusion of this project and see whether it fits with it fulf if it fulfil the requirement or not . ami_da_4
+A 116.44 So ami_da_2
+A 116.44 d ami_da_3
+A 116.44 let is start with the cost aspect ami_da_6
+A 116.44 so so ami_da_2
+A 116.44 I look at the aspect discussed last time , that is to say to have a standard battery , to have a yellow banana shaped case with a rubber material around it ami_da_4
+A 116.44 to be ami_da_3
+A 116.44 to feel spongy , and also at the different aspect like having a wheel etcetera . ami_da_4
+C 138.4 Like a banana . ami_da_4
+A 148.69 And the cost ended to be ten point seven Euros . ami_da_4
+A 152.74 So ami_da_2
+A 152.74 which is good , ami_da_9
+A 152.74 because we had a price gap of twelve point five Euros . ami_da_4
+A 159.89 So ami_da_2
+A 159.89 for the financial aspect it is okay , ami_da_9
+A 159.89 we can we can continue with this product as if , ami_da_4
+A 159.89 and we are now going to see the project evaluation with our marketing expert . ami_da_6
+D 175.75 Yeah . ami_da_9
+D 176.71 Okay . ami_da_9
+D 177.85 So ami_da_2
+D 177.85 you can have my project in ami_da_6
+D 177.85 yeah ami_da_4
+D 177.85 just a ami_da_3
+D 177.85 Four . ami_da_4
+A 180.92 Yeah . ami_da_9
+A 182.58 You have a presentation ? ami_da_5
+A 182.58 Participant four , yes . ami_da_12
+D 191.22 Evaluation . ami_da_4
+A 192.38 Okay . ami_da_12
+A 196.4 Okay . ami_da_9
+D 196.98 Okay . ami_da_9
+D 197.3 So you can go . ami_da_6
+D 200.0 We can go through . ami_da_6
+A 201.2 Okay . ami_da_9
+D 202.82 So ami_da_2
+D 202.82 I made an evaluation and the the evaluation criteria is made according to the users' requirements and the market trends we talked about during the previous meetings . ami_da_4
+D 216.87 So you can go through ami_da_6
+D 216.87 and ami_da_3
+D 216.87 okay ami_da_2
+D 216.87 so ami_da_2
+D 216.87 we have six points . ami_da_4
+A 220.04 Okay . ami_da_9
+D 224.89 We ami_da_3
+D 224.89 we talked about before . ami_da_4
+A 228.14 Okay . ami_da_1
+D 228.15 So ami_da_2
+D 228.15 we we want to have a product fancy look and feel , technologically innovative , easy to use , fashion , easy to find in a room , and robust , ami_da_4
+D 228.15 and ami_da_2
+D 228.15 I have a scale of seven points . ami_da_4
+A 237.86 Yeah . ami_da_1
+A 243.99 Yeah . ami_da_1
+D 244.15 Okay . ami_da_2
+D 244.88 So ami_da_2
+D 244.88 I go through all the all the points here , ami_da_7
+D 244.88 and according to what you think about the this project you can make a one point , two point or seven point . ami_da_6
+A 248.4 Yeah . ami_da_1
+D 258.06 Okay ? ami_da_13
+D 258.06 And after we ha we have an an average , and we see . ami_da_4
+A 258.63 Okay . ami_da_12
+A 262.55 Okay . ami_da_12
+D 262.87 The ami_da_3
+D 262.87 okay ? ami_da_13
+D 262.87 so ami_da_2
+D 262.87 fancy look and feel , what do you think ? ami_da_11
+D 262.87 F ami_da_3
+D 262.87 between o one and seven . ami_da_4
+A 267.86 Okay . ami_da_2
+A 268.41 Maybe you can presen ami_da_3
+A 268.41 okay . ami_da_2
+A 272.32 Maybe hold it . ami_da_6
+A 274.66 So I think it is very very nice . ami_da_9
+C 280.26 I give it a ami_da_9
+C 280.26 I give it a five . ami_da_9
+A 280.39 What do you think ? ami_da_11
+A 280.39 Yeah . ami_da_2
+A 284.88 So ami_da_2
+A 284.88 it is between one and seven ? ami_da_5
+A 284.88 Seven is the highest ? ami_da_5
+A 284.88 I will give a six . ami_da_9
+D 286.32 Yeah . ami_da_4
+D 288.13 Seven is the ami_da_4
+B 291.12 I will give a a five . ami_da_9
+C 296.34 And you ? ami_da_11
+C 296.34 Do you vote Christine ? ami_da_5
+C 296.34 Do you also vote ? ami_da_5
+C 296.34 Well , ami_da_2
+C 296.34 we can very easily . ami_da_3
+D 296.71 sorry . ami_da_14
+D 299.69 eh ? ami_da_12
+D 299.69 No , I just want to see something ami_da_4
+A 310.44 Maybe we all have to agree on a common ami_da_6
+A 310.44 Yeah . ami_da_5
+D 320.61 I think and need to as well . ami_da_3
+A 327.22 No problem . ami_da_14
+D 328.31 Need to ami_da_3
+D 328.31 I do not know if you ami_da_5
+D 328.31 we ami_da_5
+D 328.31 ha we have to put one f ami_da_5
+D 328.31 If it is better or ami_da_5
+D 328.31 Uh uh . ami_da_16
+A 328.55 So ami_da_2
+A 328.55 this is your ami_da_3
+A 328.55 One is most . ami_da_4
+C 344.4 I ami_da_3
+C 344.4 So it will have five point five average . ami_da_4
+A 349.64 Well , ami_da_2
+A 349.64 we can choose what we want . ami_da_6
+D 351.41 Yeah . ami_da_9
+A 352.24 Okay , ami_da_2
+A 352.24 let is say that seven is the best . ami_da_6
+D 352.32 Or maybe we can say s ami_da_3
+D 352.32 seven is the best . ami_da_9
+A 356.4 Okay . ami_da_9
+A 357.69 So so ami_da_2
+A 357.69 do note the grade we have five , six for me , ami_da_4
+A 357.69 five . ami_da_12
+B 365.48 Five . ami_da_4
+A 367.13 And what what is your choice ? ami_da_11
+A 367.13 How much would you give on the fancy aspect , on the fashionable aspect ? ami_da_11
+A 367.13 How much would you ami_da_3
+A 367.13 you do not answer to this questionnaire ? ami_da_5
+A 367.13 Five point five average . ami_da_4
+D 367.36 Oh sorry . ami_da_14
+D 369.07 Six s you can ami_da_3
+D 369.07 how much what ? ami_da_12
+D 369.07 Oh yes ami_da_12
+D 369.07 I I dunno , ami_da_9
+D 369.07 I think six , it is a good ami_da_11
+D 369.07 Yeah . ami_da_12
+D 386.39 Wa can . ami_da_3
+A 386.45 Okay . ami_da_13
+D 391.3 Okay . ami_da_16
+A 392.77 Well , ami_da_2
+A 392.77 does it ami_da_3
+A 392.77 Okay , techne technological aspect . ami_da_12
+D 393.62 I ami_da_3
+D 393.62 sorry . ami_da_14
+D 399.45 Okay . ami_da_2
+D 400.06 So ami_da_2
+D 400.06 after , the technological aspect ? ami_da_11
+D 400.06 So ami_da_2
+D 400.06 we we said we have a new technological thing with a wheel . ami_da_4
+A 414.34 Yeah , we have the wheel . ami_da_9
+A 416.17 We also have the rubber material , which make it like new also . ami_da_4
+A 426.03 I think I would give a five . ami_da_9
+C 428.3 It is four . ami_da_9
+A 429.59 Four ? ami_da_12
+A 429.59 Okay . ami_da_12
+B 429.69 A four also , ami_da_9
+B 429.69 because , except for the wheel , we do not have so much innovation . ami_da_4
+C 431.21 Yeah . ami_da_1
+B 434.75 The rubber is a four . ami_da_3
+C 436.39 D are we including the voice are you glu ami_da_3
+C 436.39 are we including the voice in the end or not ? ami_da_5
+C 436.39 Huh ? ami_da_5
+C 436.39 No . ami_da_12
+B 437.06 I I ami_da_3
+B 437.06 Yeah . ami_da_9
+A 440.68 No . ami_da_4
+C 442.25 Okay . ami_da_12
+A 443.86 So ami_da_2
+A 443.86 what is your grade ? ami_da_11
+A 443.86 Four ? ami_da_12
+A 443.86 So we have four , four f and five ? ami_da_4
+A 443.86 Yeah , four . ami_da_9
+D 444.46 No . ami_da_4
+D 446.58 Four . ami_da_9
+D 450.27 We can put four ? ami_da_11
+D 450.27 Everyone is okay ami_da_11
+D 450.27 or four poin ami_da_3
+D 450.27 Four . ami_da_4
+C 450.8 Yeah . ami_da_9
+C 451.63 For twenty five . ami_da_4
+A 453.3 Four , yeah , let is put four . ami_da_9
+C 455.31 Yeah . ami_da_9
+D 457.52 Okay . ami_da_16
+A 458.66 Does not it ami_da_3
+A 458.66 Yeah , I think so . ami_da_9
+D 461.53 Very easy to use . ami_da_11
+D 462.52 Do you think it is easy to use ? ami_da_11
+D 462.52 , six for me also . ami_da_9
+C 465.86 I give a seven , I think . ami_da_9
+A 467.42 Yeah . ami_da_9
+B 467.44 Six . ami_da_9
+A 469.36 I would give a I would give a seven as well . ami_da_9
+A 474.43 It is very easy to use . ami_da_9
+B 476.04 Six . ami_da_9
+A 478.2 So ami_da_2
+A 478.2 six point five . ami_da_4
+D 478.24 Six point five . ami_da_4
+C 478.33 Okay . ami_da_12
+B 479.25 Six six six point five . ami_da_4
+D 480.92 Okay . ami_da_9
+A 481.38 Okay . ami_da_9
+D 484.47 Is it fashion ? ami_da_11
+D 484.47 Seven ? ami_da_11
+D 484.47 Yeah it is fashion , ami_da_9
+D 484.47 because it is a fruit , ami_da_4
+D 484.47 and we say that the ami_da_3
+D 484.47 yeah , seven . ami_da_9
+A 485.94 Oh yeah , ami_da_9
+A 485.94 its its f its fruit fruit shape . ami_da_4
+A 489.13 I would say seven . ami_da_9
+A 490.71 And is very very nice design . ami_da_9
+C 493.89 Yeah , we can we can put a seven here . ami_da_9
+C 495.54 Yeah . ami_da_9
+B 495.83 Yeah , seven . ami_da_9
+A 496.61 Yeah . ami_da_9
+C 496.68 Yeah . ami_da_2
+A 496.7 Seven , okay . ami_da_9
+C 497.65 Well , ami_da_2
+C 497.65 we hope . ami_da_16
+B 500.21 Easy to find . ami_da_11
+D 500.3 easy to find in a room ? ami_da_11
+D 500.3 Yeah ? ami_da_11
+D 500.3 We have the lightning , ami_da_4
+D 500.3 or ami_da_3
+D 500.3 The lighting . ami_da_4
+B 502.17 I lost my banana . ami_da_14
+A 506.13 I think you ca not miss it . ami_da_9
+C 508.33 Yeah . ami_da_9
+A 509.35 Okay . ami_da_16
+C 510.16 Yeah , I think it is cool . ami_da_9
+C 511.91 I think we can put a six here . ami_da_9
+A 516.9 Yeah , ami_da_9
+A 516.9 we have the ami_da_3
+A 516.9 we do not sesh especially have the lightning ami_da_9
+A 516.9 but ami_da_3
+A 516.9 So ami_da_2
+A 516.9 it is yellow . ami_da_4
+C 520.14 So you will make the material transparent ami_da_11
+C 520.14 so that it lights up completely , ami_da_4
+C 520.14 or ami_da_3
+C 520.14 Yeah . ami_da_1
+A 525.46 It is okay . ami_da_9
+A 526.04 I think it is very easy to I would say seven . ami_da_9
+D 526.24 Yeah . ami_da_1
+D 528.02 Seven ? ami_da_11
+D 528.02 Is it is it robust ? ami_da_11
+D 528.02 Everybody is okay , six . ami_da_11
+A 530.2 It is hard to miss it . ami_da_4
+B 530.59 Six . ami_da_9
+B 532.15 Yeah , okay . ami_da_9
+A 535.22 Yeah , ami_da_9
+A 535.22 it is rubber , made of rubber , I think it is m ami_da_4
+A 535.22 it is more rubber than other remote control . ami_da_4
+B 535.54 f ami_da_9
+B 535.54 yeah , ami_da_9
+B 535.54 it is ru it is rubber . ami_da_4
+B 541.92 Yeah . ami_da_9
+C 542.71 Yeah the only problem there might be which know , ami_da_9
+C 542.71 i if it is very sensitive , ami_da_9
+C 542.71 they will , ami_da_16
+C 542.71 I do not know ami_da_9
+C 542.71 Yeah , okay . ami_da_1
+A 547.19 Yeah . ami_da_2
+B 547.97 Yeah . ami_da_1
+A 548.87 But it is it is surrounded by rubber material . ami_da_4
+B 551.99 Yeah . ami_da_1
+A 552.66 So maybe we can put a six . ami_da_9
+B 554.79 Yeah . ami_da_9
+B 556.29 Six or five . ami_da_9
+A 558.46 Six is okay ? ami_da_9
+A 558.46 Yeah . ami_da_1
+C 558.72 Six , yeah , for me . ami_da_9
+B 559.77 Five Six . ami_da_9
+D 559.78 Yeah . ami_da_2
+D 560.96 Okay . ami_da_2
+C 561.78 Yeah . ami_da_1
+D 562.23 S ami_da_3
+D 562.23 now so . ami_da_2
+A 563.65 Tadada . ami_da_16
+A 566.44 We have to sum up everything . ami_da_6
+C 566.61 Twenty . ami_da_4
+D 567.06 Thirteen , twenty , twenty six point five , seven , thirty two , thirty six . ami_da_4
+C 572.37 Thirty . ami_da_4
+C 573.27 Thir ami_da_4
+C 573.27 Okay . ami_da_9
+D 574.75 That is that is okay ? ami_da_11
+D 574.75 Six . ami_da_4
+A 581.35 Six is a good ami_da_9
+A 581.35 Yeah , ami_da_9
+A 581.35 the be . ami_da_3
+D 581.91 Good . ami_da_16
+D 582.78 if we say that seven it is it is the better , ami_da_4
+D 582.78 and when s six sit six are good ami_da_9
+D 582.78 it is a good p product , I think . ami_da_9
+C 585.64 Yeah , the top ami_da_9
+A 587.91 Okay , so ami_da_2
+A 587.91 six is a ami_da_3
+A 587.91 So it is a good evaluation , I think . ami_da_9
+C 590.35 So will become eight soon ? ami_da_14
+C 590.35 Yeah , well ami_da_2
+C 590.35 it is a bit biased . ami_da_9
+A 594.7 It is very promising . ami_da_9
+D 599.81 We have a good price ami_da_9
+D 599.81 and . ami_da_3
+A 600.22 Huh . ami_da_1
+B 602.47 Yeah . ami_da_9
+C 604.11 Okay . ami_da_1
+D 604.15 Good . ami_da_14
+A 604.52 So this prototype is quite nice . ami_da_9
+C 607.78 Because I saw some phones that were banana shaped , wireless phones not mobile ones , wireless for the house , quite big also , and they were selling something like a hundred Euros , two hundred Euros . ami_da_4
+A 611.49 Yeah . ami_da_1
+A 614.29 Okay . ami_da_1
+C 623.78 Just a just a phone , wireless . ami_da_4
+A 625.41 So having this at twenty five Euros is quite attractive , I think . ami_da_9
+C 630.2 Yeah . ami_da_9
+A 632.06 I think the ami_da_3
+A 632.06 Yeah . ami_da_9
+B 632.33 But almo also the complexity between a phone and a remote control is not cannot compare . ami_da_4
+C 637.49 Yeah . ami_da_9
+C 638.66 Yeah , ami_da_9
+C 638.66 it is much more complex , ami_da_4
+C 638.66 but ami_da_3
+C 638.66 Okay . ami_da_2
+A 641.88 So , ami_da_2
+A 641.88 I think , we can summarise . ami_da_6
+A 645.73 So ami_da_2
+A 645.73 we have seen the prototype . ami_da_4
+A 647.37 It is very nice according to the work of our two designer . ami_da_9
+A 654.05 The the the financial aspect were okay . ami_da_4
+A 658.66 We we have the cost below our threshold ami_da_4
+A 658.66 and so we could sell at twenty five Euros and make i make profit . ami_da_4
+A 668.73 The the evaluation give satisfying result as well . ami_da_9
+A 675.08 So I think we can move to the last part of the meeting . ami_da_6
+A 680.8 So ami_da_2
+A 680.8 the cost is in the budget , the evaluation is okay , ami_da_4
+A 680.8 so I th I think we can now open champagne and make a huge party . ami_da_6
+B 692.4 Start to eat banana . ami_da_14
+A 692.7 I do not know if it is provided by by the meeting staff . ami_da_4
+A 700.16 Okay so ami_da_2
+A 700.16 congratulation . ami_da_14
+B 703.12 Yeah . ami_da_9
+C 703.27 Congratulations to the team . ami_da_14
+A 703.49 Nice product . ami_da_14
+C 704.53 very well , we worked together fantastically . ami_da_9
+A 706.76 Yeah . ami_da_9
+A 708.2 I think it was a good collaboration . ami_da_9
+A 711.99 Aspect . ami_da_9
+C 712.98 So ami_da_2
+C 712.98 what does the management say ? ami_da_5
+C 712.98 What does the management say ? ami_da_5
+A 715.6 Sorry ? ami_da_12
+A 715.6 I think we will have much bigger project next time and a much bigger salary as well . ami_da_4
+A 724.93 All it depends on who watch this meeting . ami_da_14
+B 731.29 Yeah . ami_da_1
+A 732.16 We do not know . ami_da_4
+C 733.17 Yeah . ami_da_1
+A 734.64 Okay , so ami_da_2
+A 734.64 good guys , ami_da_14
+C 735.14 Okay . ami_da_16
+B 738.75 Okay . ami_da_16
+B 742.68 Yeah . ami_da_9

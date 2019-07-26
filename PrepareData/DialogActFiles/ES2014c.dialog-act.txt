@@ -1,0 +1,729 @@
+A 91.2 Okay . ami_da_2
+A 112.68 Right . ami_da_2
+A 118.01 Conceptual design meeting . ami_da_16
+A 121.3 Right . ami_da_2
+A 123.83 Okay , so ami_da_2
+A 123.83 Right well from the last meeting I was trying to send you the minutes , but it did not work out too well , ami_da_4
+A 123.83 so maybe in sort of quick summary of the last meeting , I can quickly give you what we what we had . ami_da_7
+A 155.62 right , so ami_da_2
+A 155.62 Wishing I had not closed the damn ami_da_16
+A 155.62 Right so we had the fact that we are going to have the the logo the company logo in its colour scheme incorporated onto the the device the remote device . ami_da_4
+A 178.58 We had made our decisions about made our decisions about the device itself , that it was going to be simple to make it enable us to complete the project in time . ami_da_4
+A 196.27 We are going to have effectively two pages , a front page which had the features that the the customers most wanted , and then the the backup features on the second page so that it could meet the technical requirements . ami_da_4
+A 215.06 And the customers would not have to look at them too often , only as and when required . ami_da_4
+A 219.85 So . ami_da_2
+A 224.08 So basically what decisions have we made ? ami_da_5
+A 224.08 have there been any changes ? ami_da_5
+A 224.08 Right . ami_da_9
+B 232.04 I think we all have a presentation again , ami_da_4
+B 232.04 so if we go through those and then ami_da_6
+D 234.29 Yeah . ami_da_1
+A 235.56 Three presentation , yeah . ami_da_4
+B 236.24 Shall I go first again ? ami_da_7
+B 236.24 I see this a little more smoothly than the last one . ami_da_7
+A 237.38 So ami_da_2
+A 237.38 Yeah , fine . ami_da_9
+D 239.78 Okay . ami_da_1
+B 288.06 Okay right , let is get started . ami_da_9
+B 289.3 basically the for the ami_da_3
+B 289.3 I will back actually . ami_da_16
+B 298.56 For the components design , next step is ami_da_3
+B 298.56 basically the the way the remote is going to work is still the same idea as before . ami_da_4
+B 306.77 We still have the user interface which is all the buttons we are going to incorporate . ami_da_4
+B 311.81 Then there is a chip and still the sender . ami_da_4
+B 316.07 So yes including the power s supply as well . ami_da_4
+B 320.45 I will go on to my findings in each of these areas . ami_da_4
+B 325.1 first in the power supply , we have the option of just the standard battery , ami_da_4
+B 333.25 There is a dynamo . ami_da_4
+B 335.4 Any of you think of kind of like the the old torches which you wind up ami_da_4
+B 342.01 There is a kinetic option , which if any of you have seen those new watches which you kind of you power up by waving around , it just requires a small amount of movement which would mean the batteries would not have to be replaced . ami_da_4
+B 353.49 that is one option , but I think that was going to cost a little more . ami_da_4
+B 356.43 And then there is solar cells . ami_da_4
+B 358.42 as a final option . ami_da_4
+B 361.41 For the buttons , we have an integrated push button , ami_da_4
+B 361.41 which is ami_da_3
+B 361.41 Oh just to say all all these are supplied by Real Reaction . ami_da_4
+B 370.99 So I guess for the ease of for quickness and ease we should take them from at least like one of these options . ami_da_4
+B 377.04 so for the buttons there is an integrated push button , which I guess is just the same as the standard ones . ami_da_4
+A 377.07 Okay . ami_da_9
+B 383.24 This says it is similar to the button on the mouse for a normal for like like modern computer . ami_da_4
+B 391.21 there is a scroll wheel which is you know the new mouse has just got like the centre section which you can scroll up and down , ami_da_4
+B 391.21 which may be for the volume . ami_da_6
+B 399.47 You could do do that . ami_da_4
+B 402.64 one issue for the buttons is , depending on which material we use , if we use rubber buttons then it requires a rubber case , so we have to take that into consideration . ami_da_4
+B 413.06 moving on to the printed s that is on the next ami_da_3
+B 413.06 I th ami_da_4
+B 413.06 I think the there was not too much difference in the cost , that that related to the actual buttons , but it does affect the printed circuit board . ami_da_4
+A 414.53 What would be the cost do do we know ? ami_da_5
+B 427.08 which is the next section . ami_da_4
+B 429.18 Basically for the circuit board which is the middle , it is just see it down there the chips like the like the workings of the actual of the remote . ami_da_4
+B 438.42 The firm supplies a simple , a regular and an advanced circuit board . ami_da_4
+B 444.39 And there is different prices according to each . ami_da_4
+B 446.41 So if we have got the scroll wheel for one of the buttons , that would require a slightly more advanced circuit board than if we just had a standard push button . ami_da_4
+B 457.03 one final thing we came up with was some information on the speech recognition . ami_da_4
+B 461.3 There is a small unit available through the company which obviously would be an extra cost , but it would not affect the size of the remote too much . ami_da_4
+B 470.18 and I guess that would require a more advanced circuit board , so there is an extra price in that sense . ami_da_4
+B 476.58 There is th sorry an extra cost in that sense . ami_da_4
+B 479.0 going to my personal preferences , I thought possibly for power we could use kinetic which is the idea of the watches that you move you move the remote around to power it up . ami_da_4
+B 492.66 And this would avoid batteries running out , having to replace batteries and such like . ami_da_4
+B 497.82 for the buttons , I thought we would probably get away with just having the standard push buttons rather than the scroll wheel . ami_da_4
+B 507.22 and for the circuit board , again depends on which features we want in the actual in the remote . ami_da_4
+B 513.9 So if we wanted the scroll wheel and wanted the voice recognition , then we would have to get a a more costly circuit board . ami_da_4
+B 521.56 And that is it . ami_da_4
+D 527.33 Okay . ami_da_1
+C 531.11 Thanks . ami_da_14
+A 531.36 with the printed circuit boards you were going for the ami_da_5
+B 535.47 i it kind of depends if we are going to have the speech recognition , we would have to probably get an advanced one . ami_da_4
+B 542.1 I am guessing . ami_da_4
+B 543.15 but I do not know , ami_da_4
+B 543.15 so that is something I will have to look into . ami_da_7
+A 544.97 But are we going f R ami_da_5
+A 544.97 right . ami_da_9
+B 546.5 that is a that is a decision for all of us . ami_da_4
+A 550.66 So are we able to make that decision now in a sense that this is the point at which we are discussing that issue , ami_da_6
+A 550.66 so would it not be best to rather than ami_da_3
+A 550.66 I mean one way is to do each of the presentations and then make decisions going back to the various presentations as they were . ami_da_6
+B 552.06 Yeah yeah . ami_da_1
+B 556.16 We decide . ami_da_9
+B 557.63 Yeah . ami_da_9
+A 568.24 The other way would be to do the presentation and then make the decision at that point in time . ami_da_6
+C 573.88 Yeah , that is probably a better one , to discuss it straight away . ami_da_9
+B 573.89 Maybe w ami_da_3
+A 576.79 Because at that point then you have got the details up there , so if we wanted to know for instance that the scroll wheel required the regular and what required advance . ami_da_4
+A 586.96 Then if we were able to see that down then we could make the decision at that point in time and then that would be the end of that issue . ami_da_4
+A 593.34 Does that make sense ? ami_da_13
+B 593.52 Yes . ami_da_1
+C 595.97 I have a lot of the information there . ami_da_4
+C 597.84 It might not be very clear . ami_da_4
+B 601.73 Is there ami_da_3
+C 602.16 Unless you want to plug it back in to yours . ami_da_6
+B 606.17 We could do , yeah . ami_da_9
+B 607.49 yeah we should . ami_da_4
+B 618.82 As I say it only specified that we need a more advanced circuit board for the scroll wheel , ami_da_4
+B 618.82 it did not ami_da_3
+B 618.82 The voice recognition came as a separate piece of information . ami_da_4
+A 627.23 No ami_da_9
+A 627.23 the scroll wheel required the regular , ami_da_4
+A 627.23 so the ami_da_3
+B 629.72 Yeah ami_da_9
+B 629.72 if if you down . ami_da_4
+B 632.8 It is just this bit at the bottom which I have highlighted , but the scroll wheel requires a mini m minimally a regular chip , which is in the higher price range . ami_da_4
+A 640.59 Okay . ami_da_2
+C 642.23 I think the scroll wheel ami_da_3
+C 642.23 Yeah , and if we are going for sleek and sexy , I think a scroll wheel is maybe a bit kind of bulky ? ami_da_9
+C 642.23 I I have got pictures ami_da_4
+C 642.23 well I have seen pictures with it kind of sticking off the side of it , and they do not really look great . ami_da_4
+A 642.37 The display requires an advanced chip the display requires an advanced chip which in turn is more expense . ami_da_16
+B 647.11 Also the display is for something else which we decided against . ami_da_4
+B 649.92 but that bit ami_da_3
+B 649.92 And note that the push button just requires a simple chip , so that would keep the price down . ami_da_4
+A 653.52 Okay . ami_da_12
+A 659.73 Down . ami_da_4
+A 670.34 Right . ami_da_1
+B 671.83 Okay . ami_da_1
+A 672.3 Okay . ami_da_1
+B 672.62 So maybe just a simple push button , ami_da_6
+B 672.62 and that would cut costs on the ami_da_4
+B 672.62 Did everyone get this on the speech recognition ? ami_da_5
+B 672.62 The ami_da_3
+B 672.62 it was basically what we said before , the idea that you record in a set message , and then it picks up that message and replies to you . ami_da_4
+A 674.64 So . ami_da_9
+A 675.72 So we are going for p Okay . ami_da_9
+A 679.56 So is ami_da_3
+A 679.56 Simple push button . ami_da_4
+D 690.05 So are we going for the w ami_da_5
+D 690.05 are we going for the simple one , are we ? ami_da_5
+D 690.05 Okay . ami_da_1
+C 693.19 Yeah , a simple pushbuttons . ami_da_4
+D 705.86 Yeah . ami_da_1
+B 707.72 So it is basically the concept we discussed before . ami_da_4
+B 710.54 but then we do not know for sure whether it would require a more complicated circuit board . ami_da_4
+B 716.3 I am guessing it would , but got like the definite information . ami_da_4
+B 719.25 Maybe we should go on what we are certain of rather than ami_da_6
+B 719.25 if it is just the push button then it just needs the simple circuit board . ami_da_4
+A 721.88 So if we go for the simple push button , so effectively we are going for the simple printed circuit board are we ? ami_da_5
+A 721.88 Or are we going for the regular ? ami_da_5
+A 721.88 Mm mm . ami_da_1
+A 733.75 But is there any other ami_da_3
+A 733.75 I mean okay , that is true for the for for that element , but we have to take all el elements into consideration . ami_da_4
+A 745.86 And so if there is one element that requires the more expensive one , or say the regular one , or the more advanced , then that would have to be the same for all of them . ami_da_4
+A 756.19 S ami_da_4
+A 756.19 Right . ami_da_1
+D 756.98 I suppose we need we need to find out what circuit board that requires , maybe before we m make a decision . ami_da_6
+C 757.37 But ami_da_3
+C 757.37 But the way that I interpret that it does not seem to send out a signal to the telly , ami_da_4
+C 757.37 it just ami_da_3
+C 757.37 it is like a parrot just rep reply replying to your message . ami_da_4
+D 771.99 Oh yeah , ami_da_9
+D 771.99 I suppose so , yeah . ami_da_9
+B 773.48 So maybe that would be something separate , yeah . ami_da_6
+C 774.38 So I do not think it would effect our circuit board . ami_da_4
+D 776.05 Yeah . ami_da_1
+A 776.53 No . ami_da_9
+B 776.9 Okay , ami_da_12
+B 776.9 so we would have a simple circuit board and that would be an extra that would be in addition to it . ami_da_4
+C 780.2 Yeah . ami_da_9
+D 780.77 Yeah . ami_da_9
+C 781.05 And I do not think you could really perform any of the remote functions with it . ami_da_4
+B 781.15 Oh that makes sense . ami_da_12
+C 784.38 Because the example that they have given there is good morning coffee machine , good morning Jo . ami_da_4
+A 788.06 Mm mm . ami_da_1
+C 788.71 It might be useful to say like where are you remote . ami_da_4
+B 791.01 Okay . ami_da_1
+C 791.02 Here I am , Jo . ami_da_4
+D 793.03 Yeah . ami_da_1
+C 793.21 But I think that is maybe as far as that one could go ? ami_da_4
+C 793.21 Yeah , ami_da_9
+C 793.21 just as a fun way to find it . ami_da_4
+A 796.53 Okay . ami_da_1
+D 797.44 Yeah . ami_da_1
+B 797.94 Yeah that makes sense , ami_da_9
+B 797.94 so we would stick with the simple circuit board and then think of the speech recognition as an extra an extra possibility . ami_da_4
+B 805.41 Okay . ami_da_1
+A 808.0 Simple circuit board . ami_da_4
+A 809.83 Simple push button . ami_da_4
+A 814.23 Okay . ami_da_2
+A 816.1 W w kinetic . ami_da_16
+C 816.1 And it says that ami_da_3
+C 816.1 I think it said the cost of that is not too much . ami_da_4
+A 817.32 You were you were wanting to go for the kinetic power supply . ami_da_11
+B 820.82 yeah ami_da_9
+B 820.82 I I thought so just for just for ease of not having to replace the batteries . ami_da_4
+A 827.56 And how does it get charged up ? ami_da_5
+A 827.56 Okay . ami_da_1
+B 830.08 It is I think it works on the basis ami_da_4
+B 830.08 they have some kind of ball bearings inside . ami_da_4
+B 834.7 It is it is some on watches which you you kind of you shake to power it up . ami_da_4
+B 840.15 Somehow the mechanism inside powers up through movement . ami_da_4
+B 843.38 So you would you would move the remote around a little bit and then that powers it up to use it . ami_da_4
+A 846.8 Okay . ami_da_2
+D 847.11 Yeah . ami_da_1
+A 847.61 So the speech recognition was ami_da_3
+A 847.61 Are we going for speech recognition ? ami_da_5
+A 847.61 No ? ami_da_11
+A 847.61 Because that required the advanced ami_da_6
+A 847.61 I had speech recognition requires advanced ami_da_4
+A 847.61 req require ami_da_3
+A 847.61 Oh . ami_da_12
+C 854.32 I think it would be helpful to find it , ami_da_4
+C 854.32 but I do not think it would ami_da_3
+C 854.32 Yeah , I think so . ami_da_9
+D 856.72 Just ami_da_3
+D 856.72 Just just for the call and find thing . ami_da_4
+B 858.21 yeah I think ami_da_3
+B 858.21 did we decide it did not affect the circuit board , it just affected ami_da_4
+B 858.21 It was just ami_da_3
+B 858.21 Oh no ami_da_9
+B 858.21 th that is what that is what I thought , but maybe maybe it does not . ami_da_4
+B 870.44 I think I might have got that wrong . ami_da_4
+D 871.84 Because it is s it is separate is not it , ami_da_4
+D 871.84 it is not part of the ami_da_3
+A 871.86 So okay . ami_da_2
+A 873.53 Speech recognition you reckon then is s simple . ami_da_4
+B 876.72 It is it is just an addition thing ami_da_4
+B 876.72 it is ami_da_3
+B 876.72 yeah . ami_da_9
+A 879.58 And so we would want it in as an extra because it does not appear to cost too much . ami_da_4
+A 883.88 Would that be ami_da_11
+A 883.88 In fact , it would not really cost anymore , would it ? ami_da_4
+A 883.88 And then have to change all change everything at the last minute . ami_da_4
+B 883.94 Okay . ami_da_1
+B 888.34 Okay shall I pass on to you now ? ami_da_5
+B 888.34 I assume it would cost extra , ami_da_4
+B 888.34 but Maybe we maybe we will find out how much that does cost and have to decide slightly later . ami_da_6
+C 888.97 I think ami_da_3
+C 888.97 I will just just check what it said . ami_da_7
+C 900.72 Actually I do not think it really says anything about the cost , but it says that it is already in the coffee machines , so like it is already kind of ami_da_4
+D 908.12 Yeah . ami_da_1
+A 921.73 Okay . ami_da_2
+A 922.63 S ami_da_2
+A 922.63 Sorry ? ami_da_14
+A 922.63 Yeah , ami_da_9
+A 922.63 I have found that try and get it back . ami_da_4
+C 929.73 Oh , that was quick . ami_da_9
+C 932.24 okay , so very brief presentation , . ami_da_4
+C 938.34 From looking at the remotes that are out there at the minute , none of them are particularly sleek and sexy . ami_da_4
+C 943.95 I have not actually got the examples of the scroll button there , but there is some curved cases that you can see , a range of sizes . ami_da_4
+C 952.94 All of them have a lot of buttons there they seem to just have the rubber buttons . ami_da_4
+C 958.83 Does that move it ? ami_da_5
+C 958.83 It just seems to be skipping on without us doing anything . ami_da_4
+B 965.72 If you right click and then go onto a previous slide . ami_da_6
+C 968.32 it is alright . ami_da_9
+B 968.96 Okay , right . ami_da_1
+C 969.24 There was not much more to say about that , just rambling . ami_da_4
+C 972.85 some of the remotes that I looked at , one of the models da did actually have voice recognition where you could where it was connected to the remote control functions . ami_da_4
+C 983.7 And it was quite a swish model , where it can control four devices , TV , cable , satellite , video , DVD , audio . ami_da_4
+C 993.42 so that is a bit of competition there . ami_da_4
+C 996.16 So ami_da_2
+C 996.16 I mean maybe it is better not to try and compete with that sort of thing and just to market it as a completely different like different viewpoint as a kind of finding your lost control rather than trying to compete with the functions . ami_da_6
+B 1005.96 Yeah , ami_da_1
+B 1005.96 yeah . ami_da_1
+C 1011.09 the scroll buttons , as you have already mentioned , there is examples of those , but they do not look as sleek as other models . ami_da_4
+C 1020.54 And there is no real advantage and because it impacts on other on the materials and the price it is not great . ami_da_4
+B 1025.0 On the price , yeah . ami_da_4
+A 1028.06 So you were saying the scroll buttons ami_da_4
+C 1028.29 Yeah . ami_da_9
+C 1030.93 Th there was a specialist type of remote that we could think about , . ami_da_4
+C 1036.88 There was children is remote , where they just had a very limited range of buttons and they were b bright and colourful and you you could program them so that they could only look at certain channels . ami_da_4
+B 1048.93 Okay . ami_da_1
+C 1049.99 but I do not know if that is really in our field ? ami_da_11
+C 1049.99 But that is something that is out there . ami_da_4
+B 1052.36 I guess I guess we are going for the biggest market , maybe not , ami_da_4
+B 1052.36 but Was it was it specified that we went for the biggest ? ami_da_5
+B 1052.36 So maybe the children is remote should be like a a next step , ami_da_6
+B 1052.36 but maybe I dunno for ours , maybe ami_da_3
+B 1052.36 we should ami_da_3
+B 1052.36 Yeah . ami_da_1
+A 1059.16 Well we are to go for the international market rather than a local market but that that would not necessarily preclude The one thing that you can often do with products is you can make small modifications . ami_da_4
+A 1071.76 So you have your basic model which you would sell at whatever , and then you could have additional features ami_da_4
+A 1071.76 in you know like a ami_da_3
+A 1071.76 You would have model one , model two and model three , and therefore you can sub divide your market up . ami_da_4
+A 1084.96 But that is really where your field is . ami_da_4
+A 1092.11 Anyway you could add on for an extra package , but on this basic one I am reckoning that we are going for the basic model to be discussed here and that you would have for future reference the possibility of adding in extra features at extra cost to take care of specialist market segments . ami_da_4
+C 1111.6 Okay . ami_da_9
+C 1112.99 Right well that is something that we can be aware of . ami_da_4
+A 1113.09 Is that ami_da_3
+A 1113.09 So so what are we deciding to do here ? ami_da_5
+A 1113.09 Right . ami_da_1
+C 1119.49 I think because there is already very good voice recognition technology out there , and because ours might not cover the same functions that the leading brands do , it might be a good idea to market it as a finder function . ami_da_4
+A 1133.63 the fi ami_da_3
+A 1133.63 Yeah , ami_da_9
+A 1133.63 the finder function rather than as a speech function to find your remote . ami_da_4
+C 1138.38 Yeah . ami_da_9
+B 1139.06 So you also said for going for the international market that some some maybe older people might not like the speech recognition . ami_da_4
+A 1139.07 Okay . ami_da_12
+C 1146.8 Oh yeah . ami_da_9
+B 1146.88 S s so ami_da_3
+B 1146.88 Yeah , ami_da_9
+B 1146.88 yeah . ami_da_9
+C 1148.05 Different languages might not be compatible . ami_da_4
+B 1150.68 It w it would make it quite complicated , where ours at least keeps it fairly simple ami_da_4
+B 1150.68 and then the ami_da_3
+B 1150.68 Yeah , ami_da_1
+B 1150.68 yeah . ami_da_1
+C 1158.06 Yeah , because I think you program this one yourself , like to say like whatever you want to your question . ami_da_4
+D 1166.28 Yeah and ours is quite a cheap device , ami_da_4
+D 1166.28 so I do not know how much we will be able to put into it . ami_da_9
+B 1170.74 Yeah . ami_da_1
+D 1171.79 Yeah . ami_da_1
+A 1171.9 So you would have a finder feature rather than a voice recognition feature . ami_da_4
+C 1176.75 Maybe ami_da_9
+C 1176.75 unless something else comes up . ami_da_5
+A 1177.2 And you were talking ami_da_3
+A 1179.32 And you were talking about scroll buttons ? ami_da_5
+A 1179.32 Okay . ami_da_9
+C 1181.69 yeah ami_da_9
+C 1181.69 I think I think we have decided that it is going to increase the cost and give no real kind of extra benefit and it is going to decrease from the sleekness of it . ami_da_4
+B 1189.19 Yeah . ami_da_1
+A 1189.64 b ami_da_3
+A 1189.64 Alright , so we are just going to have the the rubber buttons , ami_da_4
+A 1189.64 was that right ? ami_da_5
+A 1189.64 Okay . ami_da_4
+B 1194.98 Yes yes . ami_da_4
+C 1195.75 and just to be aware that there are kind of specialist functions and specialist remotes ami_da_4
+C 1195.75 but we probably do not want to focus on those like such as ami_da_4
+C 1195.75 the children is remote . ami_da_4
+A 1206.44 So not to be focused on . ami_da_4
+C 1208.69 Yeah . ami_da_9
+C 1209.55 there was a mention just as kind of a warning about button design . ami_da_4
+C 1215.15 just to avoid ambiguity . ami_da_4
+C 1219.42 So it gave the example of say your volume buttons for up and down , they might both have a V on for volume , ami_da_4
+C 1219.42 let is think how they did this . ami_da_7
+A 1230.3 Good in in Flip ami_da_4
+A 1230.3 it round in ninety degree a hundred and eighty degrees and have it up and down . ami_da_4
+C 1231.64 I am just going to check ami_da_7
+C 1231.64 so I do this right . ami_da_7
+A 1236.54 An upside down V . ami_da_4
+A 1238.88 So that would show that volume was going up , whereas the one underneath would see the volume going down . ami_da_4
+C 1239.35 What did they say ? ami_da_16
+C 1239.35 I think the thing was that if you decide to do this , to have triangular buttons , somebody might look at this one and say oh well this triangular button is pointing up , and that is the first thing that they see ami_da_4
+C 1239.35 Actually that ca not be right , can it ? ami_da_9
+C 1239.35 Oh well , no , ami_da_9
+C 1239.35 they might see yeah ami_da_4
+C 1239.35 , they might see this pointing down and think right that is going to turn the volume down , whereas the actual button is pointing up , so the function is to turn the button up . ami_da_4
+A 1258.47 Right . ami_da_1
+C 1272.58 So , be careful what you put on the buttons and be careful of the shape that you make them , because they might be kind of two contradicting kind of shapes . ami_da_4
+B 1273.11 So maybe we could have like ami_da_3
+B 1273.11 Yeah . ami_da_1
+B 1280.8 Yeah I ami_da_9
+B 1280.8 I know what you mean . ami_da_9
+B 1281.66 So maybe we could have volume written on the side ami_da_6
+B 1281.66 and then up and down on the on the buttons themselves . ami_da_4
+A 1286.98 Yeah . ami_da_9
+C 1287.01 Yeah . ami_da_9
+A 1287.51 You could have volume up and volume ami_da_3
+A 1287.51 Volume up , down and Like that . ami_da_6
+B 1287.92 Possible . ami_da_1
+A 1295.66 And because the idea was to have limited ami_da_3
+A 1295.66 it was to have sizable amount of information on it . ami_da_4
+B 1301.99 Yeah yeah . ami_da_1
+A 1302.36 Limited number of buttons . ami_da_4
+B 1304.46 Yeah . ami_da_1
+A 1304.67 Because it was sixteen buttons , was not it that were ami_da_4
+A 1304.67 Okay . ami_da_9
+B 1306.4 Yeah ami_da_9
+B 1306.4 we got it down to not too many . ami_da_4
+C 1311.48 and I think that is all I had to say for that . ami_da_4
+D 1316.82 Okay . ami_da_1
+C 1319.86 so what was the decision on the design of the volume button ? ami_da_5
+C 1319.86 Oh okay . ami_da_1
+B 1323.88 Are we are we going to go through the design of all the buttons at the moment , ami_da_5
+B 1323.88 or are we going to t ami_da_3
+B 1323.88 Yeah , maybe we should see yours first . ami_da_9
+D 1330.84 I have I have got some things to say about possible design things from trend watching . ami_da_4
+D 1338.26 Cool . ami_da_1
+D 1352.55 Right , I have been looking at some trends in in sort of basically fashion on top of doing the research into the remote control market the the one that is the one I talked about last time , that we would sort of asked people about remote controls and what what was good about them , what was bad , what they used . ami_da_4
+D 1374.73 And we have also been looking at sort of fa sort of fashions and what people are wanting out of consumer goods at the moment . ami_da_4
+D 1381.94 So we have had people in Paris and Milan watching the fashion trends . ami_da_4
+A 1387.84 You know yourself . ami_da_14
+D 1388.0 So ami_da_3
+D 1388.0 So just to summarise the most important things which came out of the remote control market investigation . ami_da_4
+D 1398.02 The most important thing was that the thing sort of look and felt fancy rather than just functional . ami_da_4
+B 1402.96 Okay . ami_da_1
+D 1403.46 And second , there should be some technological innovation . ami_da_4
+D 1407.63 And then third and l less important than the other two , there should be an ease of use as well . ami_da_4
+D 1413.51 And apparently , the fashion trends are that people want sort of clothes and shoes and things with a fruit and vegetables theme . ami_da_4
+D 1425.42 but the feel of the material should be spongy , which is contrary to last year , apparently . ami_da_4
+D 1431.23 I presume it must have been not not spongy last year . ami_da_4
+D 1435.41 So ami_da_2
+D 1435.41 we need to emphasise the fancy design with on on our remote control above all else . ami_da_4
+D 1445.17 And then also try and add in technological informat innovation ami_da_4
+D 1445.17 which could be our sort of find the thing with a hand clap . ami_da_6
+D 1452.41 And then we need to ma sort of make it easy to use that is as a third priority , ami_da_4
+D 1452.41 so perhaps fewer fewer buttons and functions as we have as we have discussed . ami_da_6
+D 1463.5 And then maybe find a way to incorporate these trends so that we sort of capture people is imaginations . ami_da_4
+D 1468.77 So maybe we could make the buttons shaped like fruit and veg , or the the buttons could be spongy , somehow . ami_da_6
+D 1477.3 Maybe we could make them out of rubber rather than sort of hard plastic . ami_da_6
+D 1481.46 And then sort of even wackier than that , we could maybe have a fruit or vegetable shaped remote , ami_da_6
+D 1481.46 say in the shape of a banana or something like that . ami_da_4
+D 1490.42 Right , so that will be it . ami_da_4
+D 1493.25 Maybe a banana or courgette or something . ami_da_6
+D 1499.89 How how far we actually want to go along and sort of follow the trends , do we think the trends are particularly important for this type of gadget , or or you know , do they not matter that much ? ami_da_5
+D 1499.89 Yeah . ami_da_1
+C 1512.37 I think if you start making the buttons fruit shaped , it might make it more complicated to use . ami_da_9
+A 1517.1 Well you were just talking about you have got to be careful how you shape your buttons , because you are can mis direct people . ami_da_4
+A 1522.33 And I would have thought the functionality because the people get cheesed off by things by having to read instructions et cetera , so . ami_da_4
+C 1523.01 Yeah . ami_da_1
+C 1531.52 Maybe just one button , ami_da_6
+C 1531.52 say the standby button is quite kind of separate from all the other functions . ami_da_4
+C 1536.53 Maybe that could be a little apple . ami_da_6
+C 1538.71 And then that would not get in the way of like kind of one to nine , and it would not confuse the numbers . ami_da_4
+A 1538.76 Okay . ami_da_9
+D 1539.09 Maybe yeah . ami_da_9
+A 1540.46 Now ? ami_da_9
+A 1540.46 Yeah . ami_da_9
+A 1542.45 Stand by button . ami_da_4
+A 1543.9 No ami_da_9
+A 1543.9 th that that incorporates the trend whilst at the same time not confusing people , if you are looking for functionality . ami_da_4
+B 1551.48 Well I dunno ami_da_9
+B 1551.48 I I guess maybe fruit and vegetables may be popular at the moment , but as we know how fickle the fashion markets are , ami_da_4
+B 1551.48 maybe ami_da_3
+B 1551.48 I mean it just seems realistic that the remote control market is not the kind of thing which takes in those kinds of fashion trends . ami_da_4
+A 1555.49 But what are they going to be next ami_da_5
+A 1555.49 Yeah . ami_da_9
+A 1557.09 What are they going to be next year . ami_da_5
+D 1557.53 Yeah yeah . ami_da_1
+A 1559.78 But but th but okay ami_da_3
+A 1559.78 but you you can incorporate the tr ami_da_3
+A 1559.78 If y if you change all the buttons then you have got the problem that this year is fruit and veg , next year is I was going to say animals or elephants or w whatever . ami_da_4
+C 1559.89 S ami_da_1
+C 1559.89 But I suppose as long as it is quite a subtle design , ami_da_6
+C 1559.89 even if the design kind of changes , It seems like you are going to have rubber cases , as well as buttons . ami_da_4
+D 1572.49 Yeah , ami_da_9
+D 1572.49 I am not ami_da_3
+D 1572.49 Yeah . ami_da_1
+A 1574.36 That means you are constantly changing your production schedule , and you have gotta make different moulds and everything else , ami_da_4
+A 1574.36 so that is not a good idea I would I would suggest . ami_da_9
+D 1580.33 I am not I am not sure what what what the sort of timescale we are thinking of selling the product over is . ami_da_4
+D 1586.53 I do not know . ami_da_16
+D 1592.12 Yeah , ami_da_9
+D 1592.12 yeah . ami_da_9
+B 1593.28 to something which is maybe more universal . ami_da_4
+A 1596.95 Well d d ami_da_3
+A 1596.95 But if ami_da_3
+B 1600.78 We c maybe can imply a fruit shape possibly . ami_da_6
+B 1605.37 Maybe the spongy feel is something we could think about , . ami_da_6
+A 1609.76 Well . ami_da_9
+A 1610.49 Yep . ami_da_9
+B 1611.12 Maybe still with a rubber design ami_da_6
+B 1611.12 we could ami_da_6
+A 1613.58 Was that in the sort of fashion sense that this ami_da_5
+A 1613.58 Or was the spongy feel was that sort of fashion ? ami_da_5
+A 1613.58 It was , was not it ? ami_da_4
+A 1613.58 So the ami_da_3
+D 1620.47 Yeah . ami_da_4
+D 1625.3 Yeah . ami_da_9
+D 1626.84 Yeah . ami_da_9
+C 1628.74 And that you can make them curved or double curved and that would be the kind of sleek and sexy look . ami_da_4
+B 1632.93 Oh yeah yeah ami_da_16
+B 1632.93 one of the things were if you had rubber buttons then you had to have a rubber case . ami_da_4
+C 1637.55 Oh right , ami_da_12
+C 1637.55 that fits , does not it ? ami_da_9
+C 1637.55 Right . ami_da_9
+B 1637.57 oh no no no ami_da_9
+B 1637.57 sorry ami_da_14
+B 1637.57 it is if you use the rubber double curved case then you must use rubber buttons . ami_da_4
+B 1644.0 That is the way round . ami_da_4
+B 1644.55 If you have the rubber case then you have to have the rubber buttons to go with it . ami_da_4
+B 1648.36 Which makes sense . ami_da_9
+A 1651.51 Rubber buttons require rubber case . ami_da_16
+C 1653.99 And that would fit in with what we want , would not it , for the spongy feel , to have everything rubber . ami_da_4
+A 1658.46 so , yeah . ami_da_3
+A 1659.85 The m the main problem is how f how frequently do the fashions change ? ami_da_4
+A 1659.85 Because in essence in the production you want things to stay you want to basically mint them out because if you have got fashion changes and that you are incorporating , then it means that your stock is is last year is stock and therefore you are selling it or having to sell it at a discounted rate which you would not want to do . ami_da_4
+D 1684.04 Yeah . ami_da_1
+A 1684.5 Whereas if you kept the product the same but you could have a difference from year to year , it seems to me that you could incorporate a fashion statement if you like , rather than changing the whole kit and caboodle . ami_da_4
+D 1691.43 Okay . ami_da_1
+D 1697.68 Yeah . ami_da_1
+B 1698.0 Yeah . ami_da_1
+A 1698.3 You are just changing one aspect like like the standby button or something like that , ami_da_6
+A 1698.3 and especially because then you could make it something that ami_da_3
+A 1698.3 Well , you might be limited in space , that yes . ami_da_9
+B 1706.81 I suppose we maybe are limited in the fact that we still have to put the logo on the actual ami_da_4
+B 1706.81 would or not . ami_da_3
+B 1713.38 Yeah . ami_da_1
+A 1714.28 Well you two are obviously going to find that out fairly quickly when you move over to your kit modelling stage as to how much pl how much how much how pliable is Plasticine . ami_da_4
+B 1719.54 Yes yes . ami_da_9
+B 1726.53 Maybe we could think of the the cases like changing with the fashions ami_da_6
+B 1726.53 like the Nokia phones where you could take the casing off the outside . ami_da_4
+B 1732.65 But whether that would be too much to incorporate in production , whether that would just increase the costs , make it more complicated . ami_da_9
+D 1740.87 That is possibly it . ami_da_9
+A 1740.95 So you are talking there about changing changing the casing . ami_da_4
+B 1747.11 Yeah ami_da_9
+B 1747.11 the a the actual the sort of the look from the outside , so where the buttons would stay the same , and the general function of the remote would stay the same , but you could change the the way it looked . ami_da_4
+C 1756.61 Yeah ami_da_9
+C 1756.61 and then you could have ami_da_3
+C 1756.61 Oh but you still would have to have the logo on every new case , ami_da_4
+C 1756.61 but you could have like pink cases for girls and red ones and things like that . ami_da_6
+B 1761.01 Yeah , that is true . ami_da_9
+A 1764.38 Yeah ami_da_9
+A 1764.38 you you could do a colour change , ami_da_4
+A 1764.38 so therefore you would ami_da_3
+A 1764.38 yeah yeah ami_da_9
+A 1764.38 I mean that is effectively what they did with the with the mobile phones , was to have some in blue , some in red , some in rather than all in black or , you know , which four do you want , as long as it is black ? ami_da_4
+A 1764.38 But so ami_da_2
+A 1764.38 Yes oh that is true ami_da_9
+A 1764.38 that might no ami_da_3
+A 1764.38 Well not necessarily , ami_da_9
+A 1764.38 because you could have your company ami_da_3
+A 1764.38 We are we are meant to be finishing up . ami_da_4
+B 1771.27 Yeah . ami_da_1
+B 1781.94 So it is a possibility , . ami_da_4
+C 1783.67 But we are supposed to use the company colour scheme , are not we ? ami_da_4
+C 1783.67 We have not really seen that yet ami_da_4
+C 1783.67 It might ami_da_3
+C 1783.67 and we might be able to do both ami_da_6
+C 1783.67 but it might clash with certain things . ami_da_4
+B 1787.57 Oh okay yes ami_da_12
+B 1787.57 that is ami_da_3
+D 1788.39 Yeah . ami_da_9
+A 1799.18 You could have your company badge and logo . ami_da_4
+A 1801.46 I mean a lot of computers for instance like like on the one you have got there , it actually has a sort of stick on badge ami_da_4
+A 1801.46 so what you would al all you would really need , whether it ami_da_4
+A 1801.46 , you know , whether the casing be w any colour , could be any colour , but that badge would then have to stick out on top of it so that in a sense , with a with a logo like that , because it is on a white background , the only colour that it might not stick out so well on would be a white casing . ami_da_4
+A 1832.86 Because you you know you are sort of you are badging it . ami_da_4
+A 1835.12 And in fact a lot of companies get somebody else to make them and literally just badge them themselves with their own badge over the top . ami_da_4
+A 1842.53 And in fact the way they have got that there even if you had that on a white , which is the predominant colour of the the Windows badge , you would still be able to see it clearly from you know a white casing product . ami_da_4
+B 1855.31 Yeah . ami_da_1
+A 1856.19 So . ami_da_2
+B 1856.74 And whether we would have a big enough market to have this kind of like secondary market of selling the cases might be something to consider . ami_da_6
+C 1864.37 Well if it is for young people , like the phone generation , that sort of thing would probably go down well , and the market research has been on that side of things , has not it ? ami_da_4
+C 1864.37 Okay , so ami_da_3
+C 1864.37 if we just went for one colour of a rubber case ami_da_3
+C 1864.37 Did we decide on the rubber case ? ami_da_5
+C 1864.37 The spongy feel , ami_da_4
+C 1864.37 or did we think that that might go as a trend ? ami_da_5
+C 1864.37 we have not really talked about the curvature of the case . ami_da_4
+D 1867.04 Yeah . ami_da_1
+B 1869.32 Yeah . ami_da_1
+D 1873.15 Yeah , ami_da_9
+D 1873.15 I mean it is ami_da_4
+D 1873.15 people say that it is the look , they want the fancy looking thing ami_da_4
+D 1873.15 but I am ami_da_3
+D 1873.15 Yeah . ami_da_1
+D 1880.22 I am not convinced on whether having changeable covers would be something that people would buy into . ami_da_9
+D 1885.13 I think with the mobiles , it is the , you know it is a communication device , people see you with it all about and ami_da_4
+D 1885.13 i if it ami_da_3
+D 1885.13 Yeah . ami_da_9
+B 1890.75 Yeah I suppose , ami_da_9
+B 1890.75 where you you keep the remote hidden under the sofa most of the time . ami_da_4
+A 1892.92 It is in in the house , is not it , ami_da_4
+A 1892.92 I suppose . ami_da_9
+D 1896.44 I think ami_da_3
+A 1899.87 So do not change case . ami_da_4
+A 1902.36 Change case colour . ami_da_4
+A 1904.34 And we are sort of saying no to that . ami_da_4
+D 1913.73 Well , it was different last year . ami_da_4
+D 1915.57 The trend was different last year apparently . ami_da_4
+D 1917.47 It was not not spongy feel . ami_da_4
+D 1919.54 But ami_da_3
+D 1919.54 I do not know whether the trend will change . ami_da_4
+D 1923.46 I do not know whether it is one of those things that like sort of having all fruit shaped keys , that that probably would go out of fashion very quickly , whereas just the fact that it was a rubber case is probably less less of something that y you are going to end up hating in a year , you know . ami_da_4
+A 1932.38 Yeah . ami_da_1
+B 1935.99 Yeah , less likely to ami_da_9
+B 1935.99 So then th th ami_da_3
+B 1935.99 that would ami_da_3
+B 1935.99 Yeah . ami_da_1
+A 1937.03 Sounds reasonable . ami_da_9
+A 1942.23 If you are going for fashion trends like that they will need t ami_da_4
+A 1942.23 you would have to have interchangeable cases ami_da_4
+A 1942.23 so that you could ami_da_3
+A 1942.23 or because otherwise someone is going to have to buy a complete new remote rather than just a case . ami_da_4
+D 1949.27 Yeah . ami_da_1
+B 1953.28 it seems to make sense that we we would just maybe stick with the standard rubber case , and then have the standard rubber buttons as well . ami_da_4
+A 1959.51 Okay . ami_da_9
+D 1959.57 Okay . ami_da_1
+C 1964.14 There is flat , there is single curved and there is double curved . ami_da_4
+C 1969.06 I am not exactly sure what these things look like . ami_da_4
+B 1969.14 Mayb ami_da_3
+B 1969.14 Maybe curves give it like the slightly more aesthetic feel ? ami_da_6
+B 1969.14 But the double curve would not require us to perform miracles with the Plasticine . ami_da_4
+C 1979.25 Well it says that ami_da_3
+C 1979.25 I am not exactly sure . ami_da_4
+D 1981.88 When you say d when you say double curved , what what exactly does that mean ? ami_da_5
+D 1981.88 Okay . ami_da_9
+C 1987.66 I will show you the remotes that I have got . ami_da_7
+C 1993.71 See how ami_da_3
+C 1993.71 Let is just get that bigger . ami_da_7
+C 1998.05 See how the one ami_da_3
+C 1998.05 Oh I am not plugged in , am I ? ami_da_4
+C 1998.05 That does not help . ami_da_9
+D 2000.34 No ami_da_9
+D 2000.34 you are not connected to me anymore . ami_da_4
+A 2002.07 One one thing to cons ami_da_3
+A 2002.07 one thing to consider is that in some ways you want by having a fairly standard case it means they can all fit together on top of each other therefore for storage purposes in shops and the like and it makes it easier that you can if you can store them up on top of each other . ami_da_4
+C 2003.23 Shall I just turn it round for time ? ami_da_5
+D 2008.91 That should come up . ami_da_4
+A 2018.64 Whereas if you do fancy things with it , you then gotta put it in a ca a a packaging box that that does that . ami_da_4
+A 2026.88 And the cost of packaging could be quite important vis a vis the total cost of the product . ami_da_4
+B 2032.08 Yeah yeah . ami_da_1
+B 2033.74 So shall we go through quickly and just work out what we have decide on , ami_da_6
+B 2033.74 if we have to kind of ami_da_3
+B 2033.74 Okay , ami_da_12
+B 2033.74 so shall we quickly ami_da_6
+B 2033.74 We will go for single curve , yeah . ami_da_4
+A 2037.95 So but ami_da_2
+A 2037.95 No . ami_da_9
+D 2039.04 Yeah . ami_da_9
+C 2040.45 it is not very clear up there , ami_da_9
+C 2040.45 but you can see some of them have got kind of bulges , like the second one and the end one where there is a curve there . ami_da_4
+A 2044.21 yep . ami_da_1
+D 2046.04 Right . ami_da_1
+C 2047.95 I am not exactl ami_da_3
+C 2047.95 I do not know if a double curve is maybe it comes up slightly , or ? ami_da_6
+C 2047.95 But it is a kind of sleeker look if you have got curves in there . ami_da_9
+D 2052.15 That is what I was trying to work out . ami_da_4
+A 2055.18 Oh right . ami_da_1
+D 2058.32 Shall we ami_da_3
+D 2058.32 Yeah . ami_da_1
+A 2058.56 S so do you want to go for curves , more curves ? ami_da_5
+A 2058.56 We are meant to be f we are meant to be finishing this meeting in about a minute or so . ami_da_4
+C 2062.22 Definitely a single , maybe a double . ami_da_4
+C 2067.43 Shall we go for single curve , just to compromise ? ami_da_5
+C 2067.43 Yeah . ami_da_9
+D 2070.21 Okay . ami_da_1
+A 2070.59 Okay , ami_da_2
+A 2070.59 curved or double curved ? ami_da_4
+A 2070.59 So it is single curved . ami_da_4
+B 2070.61 Single curve . ami_da_4
+B 2074.02 So did we did we decide on the kinetic power supply ? ami_da_5
+B 2074.02 The one you move around ? ami_da_4
+B 2074.02 Okay . ami_da_1
+D 2077.57 Yeah I think that think that is a good idea . ami_da_9
+A 2078.82 Yep . ami_da_12
+B 2079.93 Oh we ca ami_da_3
+B 2079.93 Yeah yeah , ami_da_9
+B 2079.93 we will still have the ami_da_3
+B 2079.93 Are we going to go for the simple circuit board just to keep the cost down ? ami_da_5
+B 2079.93 I th ami_da_4
+B 2079.93 I think we can by by not having anything too complicated . ami_da_4
+C 2084.21 And the rubber push buttons , rubber case . ami_da_4
+D 2085.6 Rubber Rubber buttons and case . ami_da_4
+C 2091.57 and we do not really know much about the colour scheme or logo yet do we , ami_da_4
+C 2091.57 but possibly a sticker . ami_da_6
+D 2104.02 Yeah . ami_da_4
+C 2106.39 Yeah . ami_da_4
+C 2107.38 Yeah ami_da_4
+C 2107.38 and and the voice recognition , we can use that ami_da_6
+C 2107.38 ca not we , just to find it . ami_da_6
+D 2111.52 Yeah yeah . ami_da_9
+C 2111.97 Without affecting the circuit board . ami_da_6
+A 2112.04 Yes . ami_da_9
+A 2113.89 Yep . ami_da_9
+B 2113.92 And see we could always decide against it if something comes up that is just something to that we seemed to leave out . ami_da_6
+D 2121.08 Okay . ami_da_1
+D 2122.76 And then are we going for sort of one button shaped like a fruit . ami_da_5
+C 2127.59 Yeah ami_da_4
+C 2127.59 that sounds like it would not do too much harm in a couple of years . ami_da_9
+D 2127.92 Or veg . ami_da_5
+C 2131.51 what sort of shape do we want ? ami_da_5
+C 2131.51 Yeah , ami_da_9
+C 2131.51 so it is not too wacky . ami_da_4
+D 2135.01 Do not know , ami_da_4
+D 2135.01 maybe just ami_da_3
+D 2135.01 Yeah . ami_da_4
+A 2135.45 So we have got spongy feel buttons as well , have we ? ami_da_5
+A 2135.45 As well as or w or was that ami_da_3
+A 2135.45 So it is rubber buttons , so it is not really spongy feel buttons , it is just rubber buttons . ami_da_4
+D 2140.47 That is ru rubber buttons , yeah . ami_da_4
+B 2141.67 Yeah , ami_da_4
+B 2141.67 it was just ami_da_3
+B 2141.67 Okay . ami_da_1
+D 2145.68 Yeah . ami_da_9
+A 2145.95 With a rubber case right ? ami_da_5
+A 2145.95 And the standby button is going to be different . ami_da_4
+D 2146.27 Reasonably spongy I guess , yeah . ami_da_9
+D 2151.29 Yeah okay . ami_da_9
+C 2153.56 I think an apple would be a good recognisable shape . ami_da_4
+C 2156.72 If you start getting into kind of aubergines and things , it gets a bit weird . ami_da_4
+D 2160.96 Yeah . ami_da_1
+A 2161.01 Okay ami_da_5
+A 2161.01 so what what shape are we making the standby button ? ami_da_5
+A 2161.01 A apple . ami_da_12
+D 2163.8 Apple ? ami_da_6
+D 2163.8 Yeah . ami_da_1
+C 2164.31 Vote ? ami_da_6
+C 2164.31 Shall we vote on it ? ami_da_5
+C 2164.31 Anyone got any suggestions ? ami_da_8
+A 2164.94 Oh oh Sorry ? ami_da_14
+A 2164.94 A red apple ? ami_da_12
+A 2164.94 Is it ? ami_da_3
+A 2164.94 Sorry ami_da_14
+A 2164.94 what was that last thing again there ? ami_da_5
+A 2164.94 Right much option on that . ami_da_4
+D 2167.81 Yeah . ami_da_4
+B 2167.99 We will go for the a a a apples apples . ami_da_4
+D 2168.7 Apple apple a a qu ami_da_4
+D 2168.7 Quite a big one , as well . ami_da_4
+C 2172.39 Okay . ami_da_1
+D 2173.1 A big apple . ami_da_4
+D 2175.21 Could be a red apple , yeah . ami_da_9
+C 2175.38 Well it could be red . ami_da_6
+D 2179.65 Either , do not mind . ami_da_9
+C 2181.78 Yeah because we want to incorporate a bit of colour if we can , ami_da_4
+C 2181.78 once we find out ami_da_3
+C 2181.78 Yeah . ami_da_1
+B 2186.32 Okay . ami_da_1
+B 2186.65 And then we are going to ami_da_3
+B 2186.65 are you going to work on keeping the button design quite simple ? ami_da_5
+B 2186.65 Just like the ami_da_3
+B 2186.65 Just working out what we are going to do for the next time . ami_da_4
+C 2199.97 Yeah that seems pretty straight forward . ami_da_9
+B 2201.81 Yeah . ami_da_1
+C 2202.22 Because most of them will just be kind of mainly circular or like very plain . ami_da_4
+B 2206.99 Okay . ami_da_1
+D 2209.88 Okay . ami_da_16
+C 2215.46 just to keep the shape of the buttons simple . ami_da_4
+A 2221.47 I thought you were going for a single curve and ami_da_4
+A 2221.47 Alright . ami_da_9
+C 2224.17 just the shape of the buttons . ami_da_4
+B 2228.98 And j yeah , just keeping the sort of the labelling them labelling of them fairly simple as well . ami_da_4
+B 2234.72 Fairly sort of self explanatory . ami_da_4
+A 2236.95 Right , so shape of buttons simple . ami_da_4
+A 2248.42 Okay . ami_da_2
+A 2249.28 So that is that , I guess . ami_da_4
+A 2252.8 We should now go away and get these things sorted out . ami_da_6
+A 2255.26 I guess you two are on plasticine duty or whatever . ami_da_4
+B 2258.94 Okay . ami_da_1
+A 2260.0 Okay , so . ami_da_2
+B 2266.58 Is that the end ? ami_da_5

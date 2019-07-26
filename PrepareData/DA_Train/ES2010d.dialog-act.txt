@@ -1,0 +1,535 @@
+D 8.11 I want to find our if our remote works . ami_da_4
+A 9.84 Me too . ami_da_9
+D 11.22 Oh . ami_da_16
+A 19.49 Okay . ami_da_4
+D 19.64 Whoohoo . ami_da_14
+A 20.91 here is the agenda for our last meeting . ami_da_4
+A 23.89 after the opening we are going to have a prototype presentation , then we are going to discuss the evaluation criteria and the financing of our remote . ami_da_4
+A 35.37 Then we are going to evaluate the product ami_da_4
+A 35.37 and I think the whole production process , and then we are going to close it up , and we have forty minutes , ami_da_4
+A 35.37 so let is get started . ami_da_6
+A 44.52 Oh , no , ami_da_16
+A 44.52 let is have the prototype presentation . ami_da_6
+B 46.82 okay , ami_da_9
+B 46.82 you ready ? ami_da_11
+B 46.82 Y you read that stuff , since you wrote it . ami_da_6
+C 49.82 sure . ami_da_9
+C 51.39 You or me ? ami_da_8
+C 51.39 Okay . ami_da_9
+C 56.94 Well , since our materials are not exactly what we were going for , I am just going to translate what this all means for you . ami_da_7
+B 58.22 I will be the Vanna . ami_da_7
+C 64.91 The base is going to be gunmetal gray , which is what we had decided , and it is going to be plastic . ami_da_4
+C 70.16 then there is the latex cover , which is what you see as red . ami_da_4
+C 73.83 because it can be replaceable , we just kind of went with the colour . ami_da_4
+A 76.85 Right . ami_da_1
+C 77.35 and then the buttons are actually kind of poking through rather than on top . ami_da_4
+C 81.08 and the buttons will be a l much lighter blue , almost see through . ami_da_4
+C 85.21 It is just sort of a very pale blue and a light up yellow . ami_da_4
+D 86.49 That is nice . ami_da_9
+A 87.36 Yeah . ami_da_9
+C 88.01 The whole thing lights up if you press any button , rather than it just that one button will light up . ami_da_4
+D 91.86 Good . ami_da_1
+C 93.25 and then at the bottom we have our logo . ami_da_4
+C 96.05 bright yellow sort of design with the RR which will actually look like our logo . ami_da_4
+A 101.74 Great . ami_da_1
+C 102.33 And then on the side you have the buttons . ami_da_4
+C 105.26 They are one button , but they kind of push up and down . ami_da_4
+A 107.49 Okay . ami_da_1
+C 108.6 I do not think they are scrolling . ami_da_4
+B 110.26 No . ami_da_4
+B 112.27 They are just buttons . ami_da_4
+C 113.11 Right ami_da_9
+C 113.11 , yeah . ami_da_9
+C 114.29 And then ami_da_2
+C 114.29 yeah , the buttons . ami_da_9
+B 117.68 On off switch will be here and as you have noticed on our prototype they have ended up with a curvature kind of , by concave sort of thing , except for , you know , ca not see underneath . ami_da_4
+D 128.62 Yeah . ami_da_9
+B 129.3 So I am hoping that when we get to production we can actually make them like that , ami_da_4
+B 129.3 because they are very nice to stock you know , stick your finger in . ami_da_9
+D 139.03 Yeah . ami_da_1
+B 139.13 the two squared buttons are are two probably least used , menu , mute , and then these are the numbers , so our channel and our volume will be on either side . ami_da_4
+C 139.25 Thumb shaped . ami_da_9
+C 152.63 Yeah . ami_da_1
+C 153.77 And then the last thing is just that it will be black labelling on top , just which we did not do . ami_da_4
+A 158.85 Okay . ami_da_1
+A 159.25 And did you determine the curvature of the bottom part of it for the hand , is it going to be a single or a double ? ami_da_5
+A 159.25 Single . ami_da_12
+B 167.22 I would say a single . ami_da_4
+C 168.63 Single . ami_da_9
+A 168.95 Single sounds good , ami_da_9
+A 168.95 because it is not big enough to really constitute a double . ami_da_4
+D 170.13 Yeah . ami_da_1
+C 172.07 Right . ami_da_1
+B 172.25 Yeah , ami_da_9
+B 172.25 it is only actually the size of my hand . ami_da_4
+A 174.45 Great . ami_da_9
+A 175.3 Great . ami_da_9
+A 175.89 I think you did an awesome job . ami_da_9
+D 176.92 Yeah , I think it is a beautiful Yeah . ami_da_9
+A 177.89 It is beautiful , and it is everything that we discussed . ami_da_9
+D 181.27 Good job , you guys . ami_da_9
+A 181.79 Good job . ami_da_9
+C 181.93 Oh thank you . ami_da_14
+B 182.17 Whoohoo . ami_da_14
+D 182.51 Those are really good . ami_da_9
+A 185.11 Alright ami_da_2
+A 185.11 what is next in our agenda ? ami_da_16
+A 185.11 we are going to discuss the evaluation criteria , and that is with Courtney . ami_da_4
+D 196.61 Okay , ami_da_9
+D 196.61 it is a PowerPoint presentation . ami_da_4
+D 199.96 I do not really know exactly what we should talk about . ami_da_4
+D 202.71 It is under evaluation . ami_da_4
+A 204.44 Right . ami_da_12
+D 210.63 Alright . ami_da_14
+D 212.43 so these are the criteria we are going to ask , is it easy to use , is it fashionable ami_da_4
+D 212.43 yeah , ami_da_6
+D 212.43 I guess we should write these down so we can reference them . ami_da_6
+C 230.65 Feel good meaning what ? ami_da_5
+C 230.65 Physically , ami_da_5
+C 230.65 okay . ami_da_9
+D 231.83 Like does it feel good , like yeah , physically . ami_da_4
+A 234.28 Right . ami_da_1
+A 245.24 Sqi ami_da_3
+A 245.24 Right . ami_da_9
+D 250.77 That is just for current trend . ami_da_4
+D 252.91 It does not really count , you guys . ami_da_9
+B 257.65 Yeah , it was a little difficult to incorporate the cover with the cherry fruit on it . ami_da_9
+D 262.07 Yeah . ami_da_1
+D 263.49 But it is ami_da_2
+D 263.49 so we do have removable covers , right ? ami_da_5
+D 263.49 Yeah , well then that is covered . ami_da_9
+A 265.51 Right . ami_da_4
+B 265.51 Yes . ami_da_4
+D 267.76 And so we n k ami_da_3
+D 267.76 everybody have that ? ami_da_5
+D 267.76 Yeah , she is got it . ami_da_4
+A 267.93 Okay . ami_da_1
+A 269.75 I will wait . ami_da_7
+D 277.15 It is good . ami_da_9
+C 277.44 Yeah . ami_da_9
+D 278.05 Yeah . ami_da_9
+D 278.72 Okay so , we are using the criteria for a seven point scale , and so we need to discuss how we feel . ami_da_4
+D 288.71 It falls within this range , so for easy to use , ami_da_4
+D 288.71 do we feel it is very easy to use ? ami_da_11
+D 288.71 You guys ami_da_3
+D 288.71 Okay . ami_da_9
+A 294.72 Are we going to indi ami_da_2
+A 294.72 I say we individually rate ami_da_6
+A 294.72 what do you say ? ami_da_11
+A 294.72 Just orally . ami_da_6
+C 294.82 True or false , easy to use . ami_da_11
+C 297.94 Yeah . ami_da_9
+A 298.5 Why not ? ami_da_11
+A 298.5 We have ami_da_3
+A 298.5 okay . ami_da_9
+A 301.32 easy to use . ami_da_9
+A 303.18 I vote six . ami_da_9
+D 305.18 Oh wait , that is false . ami_da_4
+A 306.29 Oh , two . ami_da_9
+D 307.96 Okay . ami_da_9
+B 308.88 I would say two as well . ami_da_9
+C 310.31 Yeah , two . ami_da_9
+D 310.93 Two . ami_da_9
+A 311.71 hello , we are great . ami_da_14
+D 311.8 That is what I say . ami_da_9
+D 313.66 Okay , fashionable ? ami_da_11
+D 313.66 No . ami_da_9
+A 315.71 one . ami_da_9
+B 316.06 At the moment , no . ami_da_9
+A 317.58 No . ami_da_9
+D 317.67 I mean like no , I think it is very fashionable . ami_da_9
+A 319.16 Me too , very chic . ami_da_9
+D 320.67 I thi I would give it a one . ami_da_9
+B 322.05 Okay . ami_da_1
+A 322.08 One , I give it a one . ami_da_9
+B 323.08 I will give it a two , because at the moment it is not looking that way . ami_da_9
+D 325.98 Well , that is that is just like that is a clay , it is a prototype . ami_da_9
+A 326.28 Oh , and ma it is a prototype , right . ami_da_9
+D 329.21 What do you think ? ami_da_11
+D 329.21 Okay . ami_da_9
+C 329.38 I do not think it is that fashionable . ami_da_9
+C 331.2 I would give it like three or four . ami_da_9
+A 333.38 Well , now I am . ami_da_3
+A 334.87 So , the average is about a two . ami_da_5
+D 336.94 Yeah , it is a two . ami_da_4
+C 337.4 But then I am not fashionable , so ami_da_9
+C 337.4 do not use my opinion . ami_da_6
+A 337.93 Two or three . ami_da_4
+A 339.75 Two point five . ami_da_4
+D 340.56 That is okay . ami_da_9
+D 341.21 Yeah . ami_da_9
+B 342.64 Neither are all o all the customers we have , either . ami_da_9
+D 342.77 does it feel good ? ami_da_11
+D 342.77 I feel like ami_da_3
+D 342.77 I think it feels good . ami_da_9
+A 346.24 Imagine , ami_da_6
+A 346.24 since we obviously do not have that . ami_da_4
+C 347.71 Does it feel good ? ami_da_16
+C 347.71 Yeah , ami_da_9
+C 347.71 it is going to be thicker . ami_da_4
+B 348.44 the shape of it actually does . ami_da_9
+A 351.01 And it is i it is very ergonomically designed . ami_da_9
+A 353.76 It is going to be curved . ami_da_4
+A 357.61 Yeah . ami_da_9
+C 357.92 Depth . ami_da_4
+A 359.2 I think so too . ami_da_9
+D 360.28 I will give it a two . ami_da_9
+A 361.4 Okay . ami_da_9
+A 362.29 Two . ami_da_9
+C 363.16 I will give it a one . ami_da_9
+D 366.07 What do you say ? ami_da_11
+D 366.07 Okay . ami_da_1
+B 366.65 I would say a two . ami_da_9
+A 367.7 Alright , average is two . ami_da_4
+A 370.29 Is it technologically innovative ? ami_da_11
+A 370.29 Oh sorry I am taking over your job here . ami_da_14
+D 373.4 Oh no , it is fine , ami_da_9
+D 373.4 you are I mean you are Project Manager . ami_da_14
+A 374.55 Go right ahead . ami_da_6
+D 376.43 yeah , ami_da_2
+D 376.43 I mean and it ami_da_2
+D 376.43 does it have voice ami_da_5
+D 376.43 I mean the phrase recognition on it ? ami_da_5
+D 376.43 And there is no way you can represent it on here . ami_da_4
+A 384.1 Yes . ami_da_4
+A 385.02 Right ? ami_da_5
+A 385.02 We were able to do it with that kind of chip . ami_da_5
+C 387.11 Oh right , ami_da_16
+C 387.11 the ami_da_3
+C 387.11 Right . ami_da_1
+B 388.22 We could do it with the chip , yes . ami_da_4
+B 389.99 It was not ami_da_2
+B 389.99 we have no reflection of it on the prototype , but that is because it is only two dimensions , really . ami_da_4
+A 393.54 Yeah , right . ami_da_9
+D 394.38 Y ami_da_4
+D 394.38 Yeah , so . ami_da_9
+A 395.1 That was ami_da_3
+A 395.1 okay . ami_da_1
+A 396.64 And we discussed that being included . ami_da_4
+D 399.32 Then yes , ami_da_9
+D 399.32 then I would ami_da_3
+D 399.32 well it is not ami_da_2
+D 399.32 what else would it need for it to be technologically innovative ? ami_da_11
+D 399.32 And it does not cover anything other then TV , ami_da_4
+D 399.32 so I would probably give it a three . ami_da_9
+B 403.65 It ami_da_3
+B 403.65 Yeah . ami_da_9
+A 405.54 Well we do not have the you know , we ca not say channel , and it changes the channel , channel eight . ami_da_4
+A 411.0 Right . ami_da_1
+A 414.18 Okay . ami_da_9
+D 414.52 Even though it is for just a TV remote it is very advanced . ami_da_4
+D 418.23 But it is just a TV remote . ami_da_4
+A 421.16 Yeah . ami_da_9
+A 421.69 I would go for a three or four on that one , so okay , ami_da_9
+A 421.69 let is go for a three point five . ami_da_6
+C 423.57 Yeah I go four . ami_da_9
+B 428.03 Three and an half . ami_da_16
+A 428.87 Alright , and the last criteria is it is it ami_da_11
+A 428.87 Well , we have covered that with the ami_da_3
+A 428.87 trendy . ami_da_9
+C 432.26 Squishy and fruity . ami_da_11
+D 433.68 Well yeah , so I would give it a two . ami_da_9
+C 434.84 It is just trendy , basically . ami_da_9
+B 439.94 It is capable of being squishy and fruity . ami_da_9
+A 440.09 Sure . ami_da_9
+A 441.05 Capable . ami_da_9
+D 441.27 Oh , it is very capable of being squishy and fruity . ami_da_9
+A 442.13 Very capable . ami_da_9
+C 444.57 Okay . ami_da_1
+A 445.27 And it is very important . ami_da_9
+D 447.12 Yeah . ami_da_9
+A 447.24 Okay , there we go . ami_da_16
+D 449.11 Okay , next . ami_da_4
+A 449.18 So . ami_da_2
+A 450.87 Next . ami_da_9
+D 453.0 So our re model slightly resembling a giant delicious cookie appears to be a winner , ami_da_9
+D 453.0 and hopefully we will sell millions . ami_da_14
+D 459.62 Good job , team . ami_da_9
+B 461.39 How did you get that in there ? ami_da_5
+B 461.39 The slightly resembling a giant delicious cookie . ami_da_4
+D 463.01 What ? ami_da_12
+D 463.01 It it does . ami_da_9
+A 467.43 It does . ami_da_9
+B 468.37 That was good . ami_da_9
+D 469.34 Thanks . ami_da_14
+A 469.44 Very good . ami_da_9
+A 470.4 Alright , let is go back to this ami_da_6
+A 470.4 No , that is it . ami_da_4
+A 483.54 Oops . ami_da_16
+A 487.44 Okay , so now we are moving on to finance , ami_da_4
+A 487.44 okay . ami_da_9
+A 490.72 I am going to show you an Excel spreadsheet and we are going to fill it in together based on what components we are including in our remote and see if it is under twelve fifty Euro . ami_da_4
+A 500.47 If so , we can proceed , if not , we need to go back to the drawing board a little bit . ami_da_4
+A 504.84 Okay ? ami_da_7
+A 504.84 So let me bring that up . ami_da_7
+A 510.5 Here we go . ami_da_16
+A 511.58 Alright . ami_da_2
+A 513.17 it is not hand dynamo , it is powered by battery , so we give it a Number of components you plan to use . ami_da_4
+B 516.51 Yep . ami_da_1
+D 518.77 Two . ami_da_4
+A 521.6 Do I just put quantity being one battery , or ami_da_5
+A 521.6 Yeah . ami_da_9
+D 526.18 Yeah . ami_da_4
+B 527.18 okay . ami_da_1
+A 527.7 But if it is a ami_da_3
+A 527.7 do you want to go for ami_da_2
+A 527.7 this is where we need to make a final call on if it is a lithium or do we want to go triple As , ami_da_6
+A 527.7 because triple As we are going to have t do more than one battery . ami_da_4
+A 536.13 Oh , let is just go for a lithium . ami_da_6
+A 537.2 What do you say ? ami_da_11
+A 537.2 I think ami_da_2
+A 537.2 I think the people who purchase this are going to be technologically ami_da_4
+A 537.2 right . ami_da_9
+D 537.59 Yeah , let is let is do a lithium . ami_da_9
+B 538.12 Yeah , ami_da_9
+B 538.12 it is . ami_da_3
+D 540.47 We are gon that is gon ami_da_3
+D 540.47 Nologically advanced , ami_da_4
+D 540.47 yeah . ami_da_9
+A 544.73 Okay , down to the electronics section . ami_da_4
+A 549.09 We are going to need this kind , correct , if we do the voice sensor , ami_da_5
+A 549.09 so one of those . ami_da_4
+D 550.56 Yeah . ami_da_4
+B 550.96 Yep . ami_da_4
+A 554.29 It is a single curved , so one of those . ami_da_4
+A 558.86 Oh . ami_da_16
+A 559.76 What is that ? ami_da_5
+A 559.76 Yeah , that is correct . ami_da_9
+D 560.85 Yeah . ami_da_9
+A 562.04 Okay , down here , case material . ami_da_4
+C 562.76 It is plastic . ami_da_4
+D 562.88 We ami_da_3
+D 562.88 plastic . ami_da_9
+A 564.1 Plastic . ami_da_9
+D 566.3 And special colour . ami_da_4
+C 566.42 And special colour . ami_da_4
+A 567.9 Okay . ami_da_9
+A 569.82 Down here , interface type . ami_da_4
+A 571.62 We are going to have the integrated scroll scroll wheel . ami_da_4
+C 573.43 No , we do not have the scroll . ami_da_4
+A 574.29 Is not ami_da_3
+A 574.29 oh those are just regular buttons . ami_da_9
+D 575.45 But it is ami_da_3
+D 575.45 Yeah , ami_da_9
+D 575.45 but i ami_da_3
+D 575.45 so i ami_da_3
+D 575.45 But will we w actually we will need two , ami_da_4
+D 575.45 wo not we ? ami_da_5
+D 575.45 One for the top and then one for the s one e for each side . ami_da_4
+B 575.57 Well , that is the push button too , right there . ami_da_4
+C 575.63 Buttons . ami_da_4
+A 578.61 This ? ami_da_5
+A 578.61 Okay , ami_da_9
+A 578.61 so we can just go . ami_da_3
+B 579.64 Integrated scroll wheel or push button . ami_da_4
+B 581.9 We are really having just push button interface . ami_da_4
+B 593.2 But it that just covers the type of button we are having . ami_da_4
+B 596.39 Because we are not doing a scroll on the side , it is still push button . ami_da_4
+C 600.04 Oh like the twenty nine means like you have both scrolls and ami_da_4
+C 600.04 push buttons . ami_da_12
+B 603.5 Push button . ami_da_4
+D 604.44 Okay . ami_da_1
+A 604.58 Right I think she is ami_da_2
+A 604.58 I think what Courtney is talking about is do we need to put two here ? ami_da_4
+A 604.58 Right . ami_da_1
+B 604.63 But we just have push ami_da_4
+B 604.63 Yeah . ami_da_1
+C 605.01 But we do not have any scrolls . ami_da_4
+D 607.69 Like because there is like one interface right here and then because it is not going to be on the same plane when you press the button . ami_da_4
+D 613.87 There is going to have to be additional signals on the sides . ami_da_4
+D 616.66 So is that going to be an extra one on each side ? ami_da_5
+D 616.66 Or three , ami_da_9
+D 616.66 because of one on each side and one on top . ami_da_4
+B 616.67 Okay . ami_da_1
+A 619.96 I do not know , ami_da_4
+A 619.96 they might put us well , let is just . ami_da_3
+C 622.16 Two interfaces , ami_da_4
+C 622.16 is that what w should we s say ? ami_da_11
+C 622.16 Okay , fine . ami_da_9
+B 623.92 Let is call it th ami_da_3
+B 623.92 Okay . ami_da_1
+A 623.93 Two or would it be three ? ami_da_11
+A 623.93 Okay ami_da_9
+A 623.93 and we are going to ami_da_2
+A 623.93 button supplements the buttons are no ami_da_4
+A 623.93 okay . ami_da_9
+C 626.52 Yeah . ami_da_9
+D 626.77 I mean it is fine because it comes out the same as twenty nine . ami_da_9
+D 629.61 Well less than twenty nine even . ami_da_4
+D 634.51 They are a special colour . ami_da_4
+D 636.61 they are they are a special form , because they are indented . ami_da_4
+A 638.63 Are they ? ami_da_9
+A 638.63 Oh , right . ami_da_9
+C 640.9 And then s ami_da_3
+C 640.9 yeah . ami_da_9
+D 640.94 And , they are a special material . ami_da_4
+A 645.22 Well , we are under cost then . ami_da_4
+A 647.85 Alright . ami_da_9
+C 647.91 We are over ? ami_da_5
+C 647.91 Okay . ami_da_1
+A 648.62 No , we are under . ami_da_4
+B 648.63 Grand . ami_da_9
+D 648.64 We are under . ami_da_4
+A 649.55 Twelve point five is our limit . ami_da_4
+C 651.32 Oh , I see . ami_da_12
+A 651.47 We have got eleven point two . ami_da_4
+B 653.83 So we can go to production . ami_da_4
+A 654.02 Alright . ami_da_2
+A 655.4 We can go to ami_da_3
+A 655.4 I dunno what I just did . ami_da_4
+A 669.62 Okay . ami_da_2
+A 671.95 Now we are going to talk about the project process and whether or not we are satisfied with the whole process and the result . ami_da_4
+A 680.38 did we have a lot of room for creativity ? ami_da_4
+A 680.38 Did we have a lot of room for individual leadership , teamwork , and the means , meaning the technology that we used to produce our little guy there , and if we found any new ideas . ami_da_4
+A 696.37 Now , question is , how do we do this ? ami_da_8
+A 696.37 Discuss , sure . ami_da_9
+B 701.27 Go back . ami_da_6
+D 701.84 I think we just discuss it . ami_da_4
+B 703.06 Previous . ami_da_4
+A 705.51 Alright . ami_da_2
+A 706.4 Who want who would like to go first ? ami_da_8
+B 708.43 We think we got stifled for cri creativity by the company itself , in restricting us only to using a TV remote , initially . ami_da_9
+C 708.57 We did not have a whiteboard . ami_da_4
+C 717.97 Yeah . ami_da_9
+D 718.35 Oh that is true . ami_da_9
+C 719.27 And no internet . ami_da_9
+D 721.2 Yeah . ami_da_9
+D 724.48 No , ami_da_9
+D 724.48 yeah , that is a good point . ami_da_9
+D 726.58 Because I would forgotten that that was not our decision , yeah . ami_da_4
+A 730.92 And how did you feel about the whole the whole process though ? ami_da_11
+A 730.92 Right , and we got say over what how technologically advanced it should be and also how fashionable , which I kind of like ami_da_9
+A 730.92 we ami_da_3
+A 730.92 yep . ami_da_9
+D 734.09 Oh , overall I mean I thought we did a good job like ami_da_9
+D 734.09 We got to choose basically we had control over ami_da_2
+D 734.09 minus it being just merely a TV remote we got to choose what we wanted to do with it . ami_da_9
+D 751.74 And we are a fashion forward technology company . ami_da_4
+A 754.78 You know it . ami_da_9
+B 754.85 right . ami_da_1
+A 757.08 what about the teamwork aspect ? ami_da_11
+A 757.08 How did you guys enjoy making the model , the prototype ? ami_da_11
+A 757.08 I think you did . ami_da_9
+C 763.07 I think we did well . ami_da_9
+B 764.21 Yeah . ami_da_9
+A 765.04 Did you work well together in there , and ami_da_11
+A 765.04 okay . ami_da_9
+C 766.46 Yep . ami_da_9
+B 767.24 Well , no , there was there was scratching and fighting , but no . ami_da_14
+D 767.67 Minus that one fight . ami_da_14
+D 769.05 Yeah . ami_da_1
+A 769.49 Oh my God , ami_da_14
+A 769.49 and we have all been a pretty congenial team here , I think . ami_da_9
+C 770.4 Gouges . ami_da_14
+D 773.57 Yeah . ami_da_1
+A 773.65 We had not had any ma fallings out . ami_da_9
+D 773.8 I mean minus you guys being wha what is it , the survey , annoying or what is it ? ami_da_14
+D 773.8 Irritating , yeah . ami_da_14
+B 777.46 Irritating . ami_da_14
+A 778.01 Irritating . ami_da_14
+C 778.32 Irritating . ami_da_14
+D 779.59 Wow that is a it is definitely a strong one . ami_da_9
+A 782.76 Okay . ami_da_2
+B 783.06 The means , the whiteboard did not work . ami_da_9
+C 785.75 And no internet . ami_da_9
+D 785.77 Yeah . ami_da_1
+A 785.83 Yeah . ami_da_1
+A 786.53 I have to knock that one down a couple notches . ami_da_7
+D 787.81 Yeah , and no internet . ami_da_9
+B 788.77 A and our friend here really feels strongly about the internet . ami_da_14
+C 791.1 Misses . ami_da_14
+C 792.55 I do . ami_da_14
+D 792.94 And the digital the digital pens ami_da_4
+D 792.94 were ami_da_2
+D 792.94 they were pretty cool . ami_da_9
+C 793.18 There is so much available . ami_da_14
+C 794.59 Like it is information ami_da_14
+C 794.59 Yeah . ami_da_1
+A 795.99 Yeah , digital pens . ami_da_9
+B 797.27 I really appreciated those , yeah . ami_da_9
+A 797.83 They were fine . ami_da_9
+D 798.67 Yeah they were fun , even though I am not really sure what I could do with them , but they are awesome . ami_da_9
+B 804.32 The use of the laptops for receiving everything . ami_da_4
+B 806.91 It was wireless too , so . ami_da_4
+D 807.04 Yeah . ami_da_1
+A 807.1 Right , laptops are extremely handy , wireless . ami_da_9
+D 809.89 And these things whoa . ami_da_9
+A 810.38 And that we have a shared network where we can put all of the Big brother . ami_da_9
+B 814.36 And let is not forget the sexy dual microphones everyone gets to wear . ami_da_9
+D 817.29 Yeah . ami_da_9
+D 818.33 And Big Brother . ami_da_9
+D 821.3 Yeah . ami_da_9
+A 822.75 Okay , have we found any new ideas through this process ? ami_da_11
+A 822.75 For something that looks cool and also has what I want it to b do technologically . ami_da_4
+D 827.0 we are really going to sell this . ami_da_14
+D 829.53 Ta da . ami_da_16
+C 848.55 Yeah . ami_da_1
+A 849.24 And that is your right brain taking over , w wanting the artistic , the fashionable , the hip , you know . ami_da_4
+A 855.23 If we all just went out and bought useful things , I do not think I mean that is not what technology . ami_da_9
+C 858.52 Well , that is why I do not like Macs or Apples , ami_da_9
+C 858.52 just because I look at it , and I know it is probably a very good computer , but I look at it , and I am taken back to elementary school , because they look the same . ami_da_4
+C 867.67 They look like they did when I was in elementary school , ami_da_4
+C 867.67 and that is so old fashioned to me . ami_da_9
+D 867.77 Yeah . ami_da_1
+D 869.67 Yeah , because they are pretty ami_da_9
+D 869.67 and just like ami_da_3
+D 869.67 yeah . ami_da_1
+B 871.64 The Toronto district school would only use his Macs with their kids . ami_da_4
+A 871.86 Yeah . ami_da_1
+C 874.92 Exactly , so I associate them with like really low tech , really cheap , bad ami_da_9
+C 874.92 Yeah . ami_da_1
+A 877.36 Yeah . ami_da_1
+A 878.78 Just the Mac font bothers me even . ami_da_9
+A 881.27 But I do like iPods , ami_da_9
+A 881.27 go figure . ami_da_16
+D 882.9 Yeah , no , iPods ami_da_9
+D 882.9 They want all those words for presentation , even the plugs . ami_da_4
+A 884.95 Yeah . ami_da_1
+B 885.43 Well , i iPods are now quite trendy , and they come in different colours . ami_da_4
+A 888.75 Colours . ami_da_1
+A 889.55 Exactly . ami_da_9
+B 890.62 Yeah . ami_da_9
+A 890.67 I mean how many people went out and bough a Nokia phone , back when we were like in high school , just so they could get the changeable face plates . ami_da_4
+D 896.48 Oh yeah , everybody . ami_da_9
+A 898.13 Okay . ami_da_2
+A 899.1 Anyway , so that is definitely at work . ami_da_9
+B 899.12 Not me . ami_da_4
+D 899.7 Mine is amber . ami_da_4
+C 900.15 But the my ami_da_2
+C 900.15 but my one issue is just like the whole it is for TV only . ami_da_9
+B 900.38 I did not have a phone until university . ami_da_4
+D 901.52 Oh . ami_da_16
+C 905.0 I was like who is going to buy a remote just for the TV unless they have lost theirs . ami_da_9
+D 909.62 Look at it . ami_da_6
+A 909.9 Yeah . ami_da_1
+D 910.91 That is a piece of work . ami_da_9
+A 911.28 Fashionable chic people will . ami_da_9
+C 911.33 You are kidding . ami_da_9
+D 913.34 Wow . ami_da_9
+C 913.7 No , no . ami_da_9
+D 914.34 Marketing Director says yeah . ami_da_9
+D 917.37 Fashionable people will buy it . ami_da_9
+C 917.8 No , marketing has to actually create the desire for it . ami_da_4
+D 920.79 Oh , I will create desire . ami_da_7
+B 921.52 That is okay . ami_da_9
+B 921.99 We can create a commercial where they think that all their needs will be met . ami_da_14
+B 925.65 This will help them find the one . ami_da_14
+C 925.85 Ri They will be sexy with it . ami_da_14
+D 928.39 We could have like an Adam and Eve type commercial , and that is the fig leaf . ami_da_14
+B 928.5 That is right . ami_da_14
+C 931.72 Oh right . ami_da_1
+D 933.16 That will sell . ami_da_14
+A 934.2 There you go , marketing . ami_da_14
+C 934.34 Let you loose . ami_da_14
+B 934.56 And so the serpent says , use our remote . ami_da_14
+D 937.87 Yeah . ami_da_9
+A 939.37 Alright . ami_da_2
+C 939.46 Yeah , no . ami_da_9
+D 939.49 Yeah . ami_da_1
+A 942.02 Okay , we are going to wrap this up now . ami_da_6
+A 943.58 the costs are within the budget , we evaluated the project , and now we are going to complete the final questionnaire and meeting summary , and then we are going to have a big giant party , apparently , according to this , so . ami_da_4
+B 956.11 Whoohoo . ami_da_14
+A 956.49 Alright , thank you team , ami_da_14
+B 957.42 Margaritas for everyone . ami_da_14
+B 961.73 Yay . ami_da_14
+B 962.93 Thanks to the Project Leader . ami_da_14

@@ -1,0 +1,572 @@
+A 39.18 Hello , ami_da_14
+A 39.18 this meeting we are ami_da_4
+A 39.18 it is fo ami_da_4
+A 39.18 should be focused on the conceptual design of the remote control . ami_da_4
+D 40.04 Hello . ami_da_14
+C 41.52 Hello . ami_da_14
+A 49.83 the goal of this meeting is to reach a decision at the end on the concept ami_da_4
+A 49.83 and I think the last time we talked about an a lot ami_da_4
+A 49.83 and we had a rough idea of what is going to be , ami_da_4
+A 49.83 but in th at the end of this meeting we have to to reach a decision . ami_da_6
+A 72.05 So , ami_da_2
+A 72.05 we will have again three presentation , from all of you , and I hope it will be fast because I would like to have time to for long discussion and and decisions . ami_da_4
+A 89.65 So , who wants to start ? ami_da_8
+A 89.65 Okay . ami_da_1
+C 93.83 I s ami_da_7
+C 93.83 No , no , ami_da_9
+C 93.83 you you can start . ami_da_6
+D 94.58 Okay . ami_da_1
+D 97.09 Okay , I will start . ami_da_7
+A 97.15 So start , ami_da_9
+D 98.99 Can you open my presentation , ami_da_6
+D 98.99 please . ami_da_14
+D 110.29 I am number four . ami_da_4
+D 114.52 Trend . ami_da_4
+A 114.8 This one ? ami_da_5
+A 114.8 Turn . ami_da_12
+D 115.25 Yep . ami_da_4
+D 121.94 Can you pass the mouse , ami_da_6
+D 121.94 please . ami_da_14
+D 123.77 Oh okay , that is fine . ami_da_9
+D 125.69 Okay . ami_da_7
+D 126.12 so basically I just want to presented to you ami_da_7
+D 126.12 present to you some recent results we have had from looking at some remote control market research and some fashion trends around the world . ami_da_7
+D 140.56 the fashion trends we got from talking to our our contacts in the fashion industry based in Paris and Milan . ami_da_4
+D 149.81 so f from our market research basically we have come to the conclusion that a fancy look and feel , as opposed to a functional look and feel , is our number one priority . ami_da_4
+D 163.42 fancy is is is is the , you know , highest priority . ami_da_4
+D 167.76 Secondly that our remote control needs to be techn technologically innovative . ami_da_4
+D 174.48 so this is ami_da_4
+D 174.48 t number two priority ami_da_4
+D 174.48 but it is two times less important as the fancy criteria . ami_da_4
+D 181.73 and third thirdly the easiness of use is is the is is important as well , but again two times less important as the technologically innovativeness of the remote control . ami_da_4
+D 200.35 From our f fashion people in Paris and Milan , we have discovered that this year fruit the fruit and vegetable motif will be the most important thing in in clothes , shoes and furniture . ami_da_4
+D 213.5 So , I am pretty confident that our remote control fits into the furniture category . ami_da_4
+D 220.37 And also the feel of material this year is expected to be spongy . ami_da_4
+A 228.31 Okay . ami_da_1
+D 228.82 so hopefully our remote control reflects that s in some way . ami_da_9
+B 234.69 What does it mean , spongy ? ami_da_5
+B 234.69 Like soft , or something ? ami_da_5
+B 234.69 Okay . ami_da_9
+D 236.4 sort of squishy . ami_da_4
+D 241.29 Yeah soft , like a like a sponge . ami_da_4
+A 243.23 Like a sponge . ami_da_4
+D 244.62 I do not know . ami_da_9
+A 244.77 Yeah . ami_da_4
+D 246.15 Yeah . ami_da_9
+B 246.17 I will see . ami_da_9
+D 247.25 so in conclusion , we need a our remote control needs to be something that is really fancy , has lots of technolog tech technology in it . ami_da_6
+D 256.72 somehow would be good to have it related to fruit and vegetables with a spongy feel . ami_da_9
+B 258.48 Okay . ami_da_1
+D 262.52 And that it is easy to use and from our last meeting ami_da_4
+D 262.52 our you know Fabian told us that w you know one of the requirements is that we have to reflect the look and feel of our of th the Real Reaction company . ami_da_4
+A 276.6 Yeah , ami_da_2
+A 276.6 yeah . ami_da_2
+D 278.27 That is it . ami_da_4
+A 279.33 Easy to use , is it a as much as important than technology or fancy thing . ami_da_5
+A 286.84 It is less important , ami_da_4
+A 286.84 right ? ami_da_5
+A 286.84 Yeah yeah . ami_da_9
+D 288.44 Less important . ami_da_4
+D 289.13 So fanciness first and then two ti you know , half as important as that is technology technology , and half important as technology is easy to use . ami_da_4
+A 292.91 Okay . ami_da_1
+D 300.48 So . ami_da_4
+A 302.16 So , Hamed , can you . ami_da_6
+C 303.92 Yeah . ami_da_7
+C 304.38 The second one . ami_da_7
+C 304.97 Could you please show the presentation number three . ami_da_6
+B 311.07 I think the biggest struggle will be the easy to use feature . ami_da_9
+B 314.73 We will see . ami_da_9
+C 315.01 Yeah . ami_da_1
+A 317.62 Number ? ami_da_5
+A 317.62 Three . ami_da_12
+C 318.32 Three . ami_da_4
+A 322.31 This one ? ami_da_5
+A 322.31 So it is not this one . ami_da_4
+C 325.35 Yes . ami_da_4
+C 331.7 Just Could you please check if it is the first one or the second . ami_da_6
+C 336.72 , n n no , it is the first one . ami_da_4
+C 339.35 The second one . ami_da_4
+C 341.18 yeah . ami_da_9
+C 348.4 Okay . ami_da_9
+C 354.59 Okay . ami_da_7
+C 355.62 So I am going to talk about a little bit about how this remote control should be appear to be more easy to use . ami_da_7
+C 364.69 I think I think the feature easy to use is more important than being fancy , ami_da_9
+C 364.69 but okay , we can discuss about it later . ami_da_6
+C 373.67 generally , generally this remote control should be should be something , in my opinion , the first feature is just to be easy to use . ami_da_9
+C 387.62 So , the more frequent buttons should be larger , they should be placed in a good position inside the remote control . ami_da_6
+C 397.51 And s I can conclude like this , that we should not need to learn how to use it . ami_da_6
+C 404.83 It should be ami_da_2
+C 404.83 we should not need to es open a a t book and start reading and learning how to use this this remote control . ami_da_6
+C 419.63 Okay . ami_da_4
+C 420.26 So what I found out that as I said I think it is better to put more frequent ke buttons which are used more in the middle of the remote control , and they should be bigger in size . ami_da_4
+C 437.34 the shape of remote control should be in a way which can which should be taken easily in hand . ami_da_4
+C 444.46 It should not be completely like a cube . ami_da_4
+C 448.89 It should be it should have round edge , so then it is easier . ami_da_4
+B 451.5 Exactly . ami_da_1
+C 453.59 And maybe just like some toys , some joystick which is easier to take inside the hand . ami_da_4
+C 461.49 And also f m because because customers does not like to buy lots of battery , it should not consume lots of energy . ami_da_4
+C 476.6 Okay . ami_da_6
+C 477.71 And my personal p preference is , as I said , just putting this buttons in a special places and covered some buttons which are not used that much like settings button , like mobile phone . ami_da_6
+C 494.06 Usually some mobile phone cover the dialling number part , ami_da_4
+C 494.06 so we can cover these buttons which are not used or number buttons for the for the for the can channels , and just put volume change or s ch can channel change buttons in the remote control . ami_da_6
+C 517.05 And if the user needed to do some more complex task he he can open the cover and then change settings or something like this . ami_da_4
+C 529.32 And also I think if we put some some some some some buttons inside of the remote control it can be used easier . ami_da_9
+C 539.77 Not on remote control . ami_da_4
+C 541.68 I dunno if I can explain well . ami_da_9
+C 543.83 But just inside . ami_da_4
+C 546.22 For example , a sliding or rolling d stuff , if we put it inside then we can easily manipulate with thumb . ami_da_6
+C 557.02 So it can be another preference . ami_da_4
+C 560.39 And I dunno ami_da_9
+C 560.39 but I think usage of a speech recogn r recogniser can be good . ami_da_9
+C 568.73 I know that it consumes lots of energy , ami_da_4
+C 568.73 but if we do it in some way that it asleeps when there is no sound and when it detects some sound it may consume less energy . ami_da_6
+C 580.11 And I think it is good because it is something new and usually young people like something new . ami_da_9
+C 587.16 So it may not be very useful but because it is new , people may buy it . ami_da_9
+C 593.52 I personally think there should be a big difference between between something . ami_da_9
+C 600.44 Otherwise they prefer to buy something which is coming from a famous company , or . ami_da_4
+C 608.05 Okay . ami_da_4
+C 608.63 That is mine . ami_da_4
+A 610.74 Okay . ami_da_1
+B 611.78 okay , so good news from me for me from Hamed , but bad news from Bob obviously , because spongy design , I do not like it as ami_da_9
+B 611.78 Okay , so could you please , Fabien , open it . ami_da_6
+A 625.89 Yeah . ami_da_7
+B 627.05 I am person two . ami_da_4
+B 630.77 And which one , ami_da_16
+B 630.77 probably the first one . ami_da_4
+B 634.55 I am not sure ami_da_4
+B 634.55 but check the first one . ami_da_6
+B 639.21 I Most of the things I have to write myself on the board , but ami_da_7
+B 639.21 Yeah , that is it . ami_da_4
+A 644.12 This one , yeah . ami_da_5
+B 646.62 Just ami_da_3
+B 646.62 It is only this slide ? ami_da_5
+B 646.62 Yeah . ami_da_9
+B 652.01 This this is just one thing I wanted to mention and show you that I just I just found this , that our company developed a s a seven f seven fingers ami_da_4
+B 652.01 or I will just ami_da_2
+B 652.01 Yeah , ami_da_9
+B 652.01 seven seven inch T TFT screen , ami_da_4
+B 652.01 which is good news for us , since we wanted to include a display there . ami_da_9
+D 667.65 Inch . ami_da_4
+B 676.14 so I I probably draw it down raw scheme . ami_da_7
+A 681.05 Oh , . ami_da_3
+B 684.39 This is this is the stuff that I can use to ami_da_16
+B 684.39 Okay , so the this will be like the overall scheme or overall requirements from the engineering point of view . ami_da_4
+A 686.01 Oops . ami_da_16
+B 697.98 first thing is this will be the overall shape , no I am not speaking about the real shape of the device , but the shape of the inside of the device . ami_da_4
+B 710.61 So there will be some circuit for the power . ami_da_4
+B 716.08 So , say power circuit here . ami_da_4
+B 718.0 the main energy will be taken from batteries ami_da_4
+B 718.0 that we can ami_da_3
+B 718.0 And if we decide to use the speech recognition stuff there , we must use additional source of energy , ami_da_4
+B 718.0 which I found the best is to use the solar cells which can which can supply everything . ami_da_9
+B 740.1 I was computing all the all the things related to the speech recognition , and it is okay to use just two batteries and solar cells , so . ami_da_4
+B 746.24 So no problem . ami_da_9
+B 747.58 There can be also solar cell . ami_da_4
+B 749.78 the main board with all the circuits will take at least seven to seven centimetres , so this is my like hard requirement for the guys from the design . ami_da_4
+B 762.24 So at least seven to seven . ami_da_4
+B 764.48 It depends where you put your screen , because the screen is seven inch , so it depends on you where where you put it . ami_da_4
+B 771.19 It does not matter . ami_da_4
+B 772.36 it is just one cord from from the main board to the screen which can be elsewhere . ami_da_4
+B 778.46 So this will be TFT . ami_da_4
+B 782.85 And on the main board we have the interface to the microphone , which is somewhere , say here . ami_da_4
+B 793.35 Interface to the microphone . ami_da_4
+B 795.21 Then the graphical card for the TFT and the third unit is the IR . ami_da_4
+B 802.06 The good news is that we can we decided to use the infra red unit ami_da_9
+B 802.06 because our company has also developed the chip for communication by the infra red , including all the stuff inside , so it will be very cheap for us . ami_da_4
+B 816.98 So infra red here . ami_da_4
+B 819.04 So the ami_da_2
+B 819.04 once again the overall requirements , seven to seven centimetres for the board , ami_da_4
+B 819.04 which has to be ami_da_2
+B 819.04 which can be spongy but has to be this size , and the TFT which is seven inches . ami_da_4
+B 833.45 I have to check what I wanted to ami_da_7
+B 833.45 from my point of view I do not care about the about the material used for the overall des ov all the device . ami_da_9
+A 849.33 Can you fit any for example a TFT or any electronic device in a spongy thing , or is there any problem for that ? ami_da_5
+A 849.33 For example , put electronic card on a spongy thing , I can I can imagine it could be a problem . ami_da_9
+B 863.34 A all these things in in in this box are okay to put in in any shape , basically . ami_da_4
+B 869.65 But we have to take care of the TFT . ami_da_4
+A 869.96 Yep . ami_da_1
+B 872.08 Well , sponginess . ami_da_9
+B 873.39 Maybe it a good feature , since it takes if it is around the TFT ami_da_9
+B 873.39 then it is good , because it is just keeps it safe , I dunno . ami_da_9
+A 878.42 Okay . ami_da_1
+A 879.29 So ami_da_3
+A 879.29 Okay . ami_da_1
+C 883.97 Well maybe it can have two shells , a hard shell inside and a spongy shell outside . ami_da_6
+D 884.45 So So Ca ami_da_3
+D 884.45 Can I ask a question . ami_da_7
+A 889.3 Maybe put electronic in a box and a spongy thing around . ami_da_6
+B 894.8 Well , it is maybe related to the UI . ami_da_4
+A 894.87 maybe after . ami_da_9
+A 896.53 Yeah . ami_da_1
+B 899.16 A ami_da_4
+B 899.16 Yeah , that is all from me . ami_da_4
+D 900.85 This seven inch TFT screen , ami_da_4
+D 900.85 how big is it in reality ? ami_da_5
+D 900.85 So like that . ami_da_5
+B 902.97 Yeah ? ami_da_16
+B 902.97 Well , seven to seven inches . ami_da_4
+B 909.56 Yes . ami_da_4
+D 910.95 That is quite big . ami_da_9
+D 913.43 have we decided that we are going to use this TFT screen ? ami_da_5
+D 913.43 But I mean even even that is like this big . ami_da_4
+B 917.44 Yeah but To be honest , I was ami_da_3
+B 917.44 Yeah , honestly speaking I was thinking that it was seven centimetres initially , but it is seven inches . ami_da_4
+A 917.52 No , I do not think it is seven by seven , I think it is seven the diagonal is seven . ami_da_4
+A 921.23 Usually when they say seven inch I think it is the diagonal . ami_da_4
+C 922.42 Yeah yes . ami_da_1
+A 925.01 Yeah . ami_da_9
+A 926.11 I dunno ami_da_9
+A 926.11 I dun ami_da_9
+A 926.11 I dun One each ami_da_9
+A 929.33 But , yeah , . ami_da_2
+D 934.0 Yeah . ami_da_1
+B 935.89 But I I think we can we can cut it . ami_da_6
+D 939.09 You can cut the TFT screen . ami_da_11
+B 940.31 Yeah , no no problem , ami_da_9
+B 940.31 because because because then the size of the graphic card will be one fourth . ami_da_4
+A 941.46 Let is go . ami_da_9
+B 948.19 So ami_da_3
+B 948.19 Yeah , but no problem to to me to cut the screen . ami_da_9
+A 950.38 So let is cut the TFT . ami_da_6
+D 952.82 Okay , ami_da_9
+D 952.82 so ami_da_3
+D 952.82 Okay . ami_da_9
+B 953.92 So so for the same price we have four screens now . ami_da_4
+A 958.01 These technical engineers , huh . ami_da_14
+D 959.81 So , what is the size of the device ? ami_da_5
+D 959.81 Even from my perspective seven t seven centimetres by seven centimetres is still ami_da_9
+D 959.81 Is it ami_da_2
+D 959.81 Can you hold that , or ? ami_da_11
+D 959.81 Yeah , a small c control that they can hold in hand . ami_da_9
+B 962.34 well this is like this is almost nothing . ami_da_4
+B 966.96 Seven to seven to at least well some three millimetres or something . ami_da_4
+B 975.8 Yeah , but we wanted the big buttons and stuff like that , you know . ami_da_9
+B 980.94 Because if it is t too small we can we can lose it , at home , you know . ami_da_4
+A 985.57 What user wants . ami_da_5
+A 986.62 He wants a small remote control , ami_da_4
+A 986.62 or ? ami_da_11
+A 986.62 with big buttons . ami_da_4
+B 989.83 I thought that it it should fit in the hand or something . ami_da_4
+C 991.97 Yes . ami_da_1
+A 992.12 It is difficult . ami_da_9
+A 994.03 A sm ami_da_3
+A 994.03 So maybe you can finish your presentation , and afterwards we will discuss about all this . ami_da_6
+D 994.13 But is something that is seven centimetres square e easy to hold ? ami_da_11
+D 994.13 Okay . ami_da_9
+B 998.08 W ami_da_9
+B 998.08 I ami_da_9
+B 998.08 I think so . ami_da_9
+B 999.79 I if the roller buttons are on the side you do not have to catch it like that , but just like this , and you know follow follow ami_da_4
+B 999.79 Well , that is that is no task for me , ami_da_9
+B 999.79 but well seven to seven at least yeah , ami_da_4
+B 999.79 but ami_da_3
+B 999.79 Oh , okay . ami_da_9
+C 1014.92 Maybe this . ami_da_9
+B 1017.37 Okay thanks . ami_da_14
+A 1018.22 That is it . ami_da_9
+A 1018.78 Okay . ami_da_9
+A 1020.18 So . ami_da_2
+A 1026.51 No . ami_da_16
+A 1032.97 , so I think we have a lot ami_da_2
+A 1032.97 We have to take decision today , so I think we have to do some work to finalise our idea and take decisions . ami_da_6
+A 1044.13 first I think energy it is a key problem ami_da_9
+A 1044.13 because it depend what can we have as feature if we use only batteries , for example , or something like that . ami_da_4
+A 1059.04 Because can we have LCD and speech recognition with battery , ami_da_5
+A 1059.04 and it is also r related to the size of the of the devi of the device ? ami_da_4
+A 1059.04 Okay . ami_da_1
+B 1064.47 Not ami_da_3
+B 1064.47 J just a point to the energy th things . ami_da_7
+B 1073.86 If we use the batteries , and the additional so solar cell , then it is okay for L speech recognition and LCD , ami_da_4
+B 1073.86 so no problem in energy , I think . ami_da_9
+A 1084.78 So ami_da_2
+A 1084.78 Okay . ami_da_9
+B 1086.48 But we have to use the solar cell . ami_da_4
+C 1086.53 So but ami_da_3
+B 1089.01 Otherwise not . ami_da_4
+A 1089.04 like ami_da_2
+A 1089.04 but using how many batteries , for example ? ami_da_5
+A 1089.04 Are are what Maybe what is the size of the battery ami_da_5
+A 1089.04 Okay . ami_da_9
+B 1097.51 Yeah I was thinking just common AA cells . ami_da_4
+A 1101.78 one two ami_da_3
+A 1101.78 Okay . ami_da_1
+B 1101.96 So like three to five centimetres , I dunno exactly , but . ami_da_4
+D 1107.02 So if we use s solar cells , where is the sun if someone is watching TV inside ? ami_da_5
+D 1107.02 Okay . ami_da_1
+B 1109.61 S ami_da_3
+B 1109.61 d does not need to be sun . ami_da_4
+B 1114.04 It it is just the daylight , you know . ami_da_4
+A 1117.74 The television lights . ami_da_14
+B 1117.86 Yeah well I I suppose that I suppose that that this remote control wo not be in the in the room like this , where there is light only when when there are people , but . ami_da_4
+A 1128.18 At least when there is TV you can get light from the TV . ami_da_4
+B 1130.95 Yeah from the T I do not think it is enough , . ami_da_9
+C 1131.88 Yeah . ami_da_1
+A 1134.06 I dunno . ami_da_4
+D 1134.8 Okay . ami_da_1
+A 1136.9 Okay . ami_da_2
+B 1139.75 it is a it is a compromise , no ? ami_da_11
+B 1139.75 Yeah , that is why I wanted to to include the speech recognition , because you wanted all the new things . ami_da_9
+A 1144.59 At least it is new and maybe technology New technology . ami_da_9
+D 1148.64 It is it is quite innovative , yes . ami_da_9
+A 1150.01 Yeah . ami_da_9
+D 1152.9 And if you watch TV outside it is very useful . ami_da_14
+A 1156.26 So I think before talking about the other thing , it is important thing it is the case . ami_da_4
+A 1162.61 what what are going to be the size , ami_da_8
+A 1162.61 because its weight drives the other what we are going to use as features and so on . ami_da_4
+A 1169.06 For example for the for the LCD , if we choose to have a small device , we cannot use this a such a a a screen . ami_da_4
+B 1178.72 the s the screen is okay , but the board , that is the problem . ami_da_9
+B 1184.39 Well what what would you guess as a shape ? ami_da_8
+B 1184.39 Or what what would be the shape ? ami_da_8
+C 1189.35 I think I think their being large or small is not important . ami_da_9
+C 1194.37 The only important thing is to be able to take it in inside hand easily . ami_da_9
+C 1199.63 So let is say an average size , okay , and it should not be very heavy also . ami_da_6
+C 1206.26 And I prefer to is it should not have a uniform shape , so in the middle it should be a little bit thinner , maybe maybe . ami_da_6
+C 1215.74 So we c it is like like some joysticks . ami_da_4
+C 1218.92 You can take some some joystick you can take inside hand easier because it is it is designed for your f taking into account your finger shape and your palm shape . ami_da_4
+C 1231.52 So the general shape should be like this . ami_da_6
+C 1234.7 I think seven centimetre by seven centimetre is a little bit large . ami_da_9
+C 1240.49 So seven not seven but let is say five by ten it is ami_da_9
+C 1240.49 I think it is that is my opinion . ami_da_9
+B 1241.67 Okay . ami_da_1
+D 1251.33 Which is the same area . ami_da_4
+C 1251.52 It is easier . ami_da_9
+C 1253.61 Yeah . ami_da_1
+D 1253.88 Could you re could you redesign your board ? ami_da_5
+D 1253.88 Oh , five five centimetres by ten centimetres . ami_da_4
+B 1254.01 Okay . ami_da_1
+B 1256.55 Five to ten . ami_da_16
+B 1258.32 Well that ami_da_3
+B 1258.32 Yeah , right . ami_da_9
+D 1261.77 Yeah . ami_da_1
+B 1263.8 Yeah , I think it is feasib ami_da_4
+B 1263.8 Well one ami_da_2
+B 1263.8 How could we do it ? ami_da_16
+B 1263.8 We could put the board next to , well , under the LCD and for example make the LCD be totally unrelated to the thing that you hold in your hand . ami_da_6
+B 1281.19 Like holding something , and the LCD to be just on top of it , you know somehow . ami_da_6
+B 1287.31 Well But maybe let is stick to the s spongy thing , like one unit . ami_da_6
+A 1288.64 Oh . ami_da_1
+A 1292.28 I have I s ami_da_9
+A 1292.28 I think the easiest thing would be to to have a smaller LCD , if it is possible . ami_da_9
+B 1292.63 Well fi five to ten it would be feasible . ami_da_4
+B 1300.52 Okay , so five to ten , I I think it is it is feasible . ami_da_9
+A 1303.43 Okay . ami_da_1
+A 1304.31 So we are agree with a small LCD . ami_da_9
+B 1304.52 I will make it . ami_da_7
+C 1307.12 Or or I do not know ami_da_9
+C 1307.12 but I do not want to now invent something new , because we did not discuss about it . ami_da_9
+B 1307.15 Fo Five by ten . ami_da_4
+C 1313.59 So using some LCDs we can touch , so we can remove keys and just having , I dunno the name , LCD responding to fingers . ami_da_6
+A 1325.02 Yeah . ami_da_1
+C 1325.29 Touching the screen . ami_da_6
+C 1326.78 Something like ami_da_6
+C 1326.78 like tactile . ami_da_9
+A 1327.02 Tactile or something , yeah . ami_da_9
+D 1327.34 , touch screen . ami_da_4
+A 1328.65 Touch screen , yeah . ami_da_9
+C 1330.35 So ami_da_2
+C 1330.35 But for now if we do not want to use such kind of screens ami_da_9
+C 1330.35 I ami_da_9
+C 1330.35 I think we using a a smaller screen is better , ami_da_9
+C 1330.35 because A smaller s ami_da_3
+C 1330.35 Okay . ami_da_1
+A 1334.72 Yeah . ami_da_1
+A 1340.1 The problem is we have a limit in a month of time , so we cannot do something very new . ami_da_9
+A 1346.68 So let is go for a small LCD . ami_da_6
+D 1346.78 So ami_da_2
+D 1346.78 Well it is it is definitely the obvious choice , with the colour of our company . ami_da_9
+B 1347.3 Okay , so ami_da_1
+B 1347.3 Yeah , so so just just give me the the the five by ten numbers that you find the best and send it me ami_da_6
+B 1347.3 and I will work it out . ami_da_7
+A 1353.66 Yeah okay . ami_da_9
+A 1355.94 So , five by s ten . ami_da_9
+A 1366.31 so what about , so the case we talked about . ami_da_4
+A 1371.39 something easy to use , ami_da_4
+A 1371.39 you said something easy to use but how does that fit in a fashion way , like with fruit and vegetable , and about the colour and logo of the of the company and so on , now , can we do that ? ami_da_8
+A 1371.39 My first idea is because our colour is more yellow , and the it should be easy to take in a hand , I thought about banana , or something like that , which is fruits , and ami_da_6
+A 1371.39 A big banana . ami_da_9
+B 1405.17 Seven to ten banana . ami_da_9
+B 1409.04 Okay . ami_da_9
+B 1410.59 Rather mango or something or . ami_da_6
+A 1415.72 Yeah . ami_da_1
+D 1416.64 I mean what other what other fruit and vegetables ami_da_3
+D 1416.64 Do you know of any any other fruit and vegetables that are yellow ? ami_da_5
+D 1416.64 Well ami_da_3
+D 1416.64 I would like a shaped screen . ami_da_9
+A 1417.04 Yeah . ami_da_1
+A 1417.67 But it is just an idea . ami_da_9
+A 1418.93 I dunno what you think about , but ami_da_11
+A 1418.93 Yeah . ami_da_1
+A 1424.02 I dunno if it can fit with the technology . ami_da_4
+A 1426.01 You are the specialists of that . ami_da_4
+B 1428.9 You mean banana . ami_da_12
+B 1432.36 Well , but If it is If it ami_da_2
+B 1432.36 If the banana is big enough . ami_da_4
+B 1441.67 Then , yes . ami_da_4
+A 1444.44 So ami_da_3
+A 1444.44 Yeah , and ami_da_2
+A 1444.44 The screen has to be square ? ami_da_5
+A 1444.44 Or it can be like a a shape , quite , with curves . ami_da_5
+B 1444.51 But if you want to look at the screen , no . ami_da_4
+B 1446.93 Well ami_da_3
+B 1446.93 Well , it can be whatever you want . ami_da_4
+C 1451.8 I think this is not good . ami_da_9
+B 1462.42 But if it is square then we get four screens out of one by cutting just . ami_da_4
+A 1462.67 It could . ami_da_9
+B 1467.24 But if you want some shape then we can only get like two screens out of seven to seven inches , so . ami_da_4
+A 1469.57 Yeah . ami_da_1
+B 1474.07 It is like more more expensive to have shape like that . ami_da_4
+B 1477.58 But I do not care . ami_da_9
+B 1479.37 You know , if we fit this requirement . ami_da_9
+D 1484.4 I think that is more important than saving a bit of money on on the TFT screen . ami_da_9
+B 1486.28 Okay ami_da_1
+B 1486.28 Yeah , m maybe the banana could be like a bit fatter than than the c c common one . ami_da_6
+A 1486.3 Okay okay . ami_da_1
+A 1494.58 Yeah . ami_da_9
+A 1495.27 Yeah , it should remember banana , but it is not does not have to b to be really the size and exactly the shape of a banana . ami_da_9
+B 1495.68 But ami_da_3
+B 1495.68 Like modified banana , okay . ami_da_9
+B 1506.98 Well it we will stick to banana , or ? ami_da_11
+B 1506.98 Okay . ami_da_9
+A 1507.33 So we are agree with the banana thing ? ami_da_11
+A 1507.33 Okay . ami_da_9
+C 1509.11 Okay . ami_da_9
+D 1509.57 Yeah , banana is good . ami_da_9
+D 1511.22 Okay . ami_da_9
+B 1513.49 Mm mm . ami_da_1
+A 1518.07 So , the last point we decided it is infra red , I guess . ami_da_4
+C 1524.05 Yeah , I think infra red . ami_da_9
+B 1524.63 Yeah , ami_da_9
+B 1524.63 yeah . ami_da_9
+A 1524.76 Everybody is agreed . ami_da_9
+B 1526.27 Sure . ami_da_1
+A 1528.28 , so that is it I think about the concepts . ami_da_4
+A 1532.28 You have other thing to add to this point , or no ? ami_da_8
+A 1532.28 So , about the user interface , so we are going to use LCD . ami_da_4
+A 1546.52 In the last meeting we talked about hidden buttons . ami_da_4
+A 1552.02 I do not know what we are going to do with that . ami_da_4
+A 1554.8 You talked about the buttons on the side ami_da_4
+A 1554.8 what ? ami_da_12
+A 1554.8 Yeah . ami_da_1
+B 1554.9 Like like peeling of the banana ami_da_6
+B 1554.9 you s ami_da_6
+B 1554.9 It would be cool , yeah . ami_da_9
+C 1556.79 Yeah , peeling of the banana . ami_da_9
+B 1560.93 Peeling of the banana , you know , should should discover the other buttons , which are hidden . ami_da_4
+C 1562.1 Yeah . ami_da_1
+A 1567.43 Okay . ami_da_9
+A 1568.49 And you mean the first layer would be spongy . ami_da_4
+C 1571.75 Yeah . ami_da_9
+B 1572.62 First layer obviously spo ami_da_9
+B 1572.62 Yeah , w It is it is like silly , but the people will really appreciate it , ami_da_9
+B 1572.62 yeah ami_da_9
+B 1572.62 I think . ami_da_9
+A 1574.49 So ami_da_2
+A 1574.49 Is it is it possible to do that ? ami_da_5
+A 1574.49 It would be a great idea , ami_da_9
+A 1574.49 but is it possible technically ? ami_da_5
+A 1574.49 Like doing a spongy layer of the banana , and you open it . ami_da_4
+D 1589.62 I think if we if we have a spongy layer on the outside of the banana then it is easy to make that , ami_da_9
+D 1589.62 you know , to manipulate that to hav be a cover that you can pull off and ami_da_4
+D 1589.62 I think for sure . ami_da_9
+A 1592.98 Yeah . ami_da_1
+A 1597.16 Yeah . ami_da_1
+C 1598.42 Yeah , some ami_da_3
+C 1598.42 Something like a plastic cover covering some interface , USB interface as in the in digital camera . ami_da_6
+A 1598.43 Yeah . ami_da_1
+C 1610.67 If you see it is like peeling . ami_da_6
+C 1612.44 You open a plastic cover and you see some USB interfaces , some some interfaces for adaptor . ami_da_6
+C 1619.66 So keys can be buttons can be covered like this , with a plastic cover and when and when you open this cover it is like peeling a banana . ami_da_6
+C 1629.16 So , something like this . ami_da_6
+A 1632.77 Yeah , but do you see that as a rigid thing , or like like a banana , something very soft , you can open like banana , or . ami_da_11
+B 1642.45 Well is it possible to make it soft ? ami_da_5
+B 1642.45 So I think if it is so then it is cool ? ami_da_9
+B 1642.45 Cool . ami_da_9
+C 1644.68 Yeah , ami_da_4
+C 1644.68 yeah , ami_da_4
+C 1644.68 yeah ami_da_4
+C 1644.68 it is a lic like a plastic cover , so . ami_da_4
+A 1645.4 Yeah . ami_da_1
+A 1648.77 So , I dunno what you think , Bob , ami_da_11
+A 1648.77 but it would be great for users I think , and very good for marketing . ami_da_9
+D 1654.79 Definitely . ami_da_9
+D 1655.3 The softer the better . ami_da_9
+A 1656.48 Yeah . ami_da_1
+D 1659.65 Yeah . ami_da_1
+B 1662.83 Honestly speaking , I cannot imagine it , so far , but it will be terrible . ami_da_9
+A 1665.92 Yeah . ami_da_1
+A 1673.22 And setting buttons hidden in . ami_da_16
+A 1697.02 , other remarks , or something , or . ami_da_11
+A 1701.93 Something we did not talk about yes yet , or . ami_da_8
+A 1707.39 I think we are almost there . ami_da_9
+A 1712.53 maybe , how can we , if we have a soft thing , like this , and to open it we have to attach it somewhere , ami_da_8
+A 1712.53 I dunno how to do that technically , or . ami_da_8
+A 1727.17 And how ami_da_3
+A 1727.17 Yeah , maybe . ami_da_9
+B 1727.8 Pof . ami_da_16
+D 1728.54 We could use Velcro . ami_da_6
+D 1730.88 Or ma maybe a magnetic thing . ami_da_6
+C 1733.86 Yes , yeah it is a good idea . ami_da_9
+C 1736.77 Magnetic . ami_da_9
+A 1736.94 Ma magnetic ami_da_9
+A 1736.94 oh . ami_da_9
+C 1739.58 Yeah or a ami_da_2
+C 1739.58 Yeah it can is ami_da_2
+C 1739.58 it can be a plastic cover sticking to the to the all the stuff like with magnetic p magnetic magnetic materials in the border , so it is it sticks like refrigerator door , completely . ami_da_6
+A 1761.28 Okay . ami_da_1
+C 1761.65 And when you try to open it , it will be opened easily . ami_da_4
+C 1765.28 So you you can be sure that it will not be open while you are while while you are commonly using buttons on the banana . ami_da_4
+A 1775.69 Okay . ami_da_1
+A 1786.84 And what would be the matter here of the first layer I mean ? ami_da_8
+A 1792.74 Likes . ami_da_11
+A 1794.92 Soft plastic , or ami_da_11
+A 1794.92 Yeah , ami_da_1
+A 1794.92 yeah , ami_da_1
+A 1794.92 yeah . ami_da_1
+D 1796.77 Yeah , I imagine some sort of vinyl thing . ami_da_6
+D 1801.52 In a in a sort of a with a suede sort of feel . ami_da_6
+D 1807.3 Maybe . ami_da_6
+B 1807.83 Well since since the since the things like the like the screen and how to say that , solar cell has to be has to be like kept kept in the shape , ami_da_4
+B 1807.83 we cannot b ami_da_3
+B 1807.83 So we need that the that the peeling ami_da_3
+B 1807.83 I dunno ami_da_9
+B 1807.83 but we should we should take care of these two two things . ami_da_6
+B 1837.52 So , if if the solar cell wo not be visible while the banana is closed , then the material must be able to put the light inside , you know . ami_da_4
+B 1849.98 So that we can reach the energy out of it out of that . ami_da_4
+D 1855.02 So you are saying is it possible to have a solar cell and this removable cover and And a and a banana . ami_da_9
+B 1860.26 It is possible , but , well if it I dunno . ami_da_9
+B 1865.98 I dunno how to how to do it if if t if to if it is better to put the solar cell to the t to the peeling or outside it , or or inside . ami_da_9
+D 1875.32 Yeah . ami_da_1
+B 1876.81 But then it must be some window there , you know . ami_da_4
+D 1880.34 Okay . ami_da_1
+A 1882.95 And something we forgot , maybe , ami_da_4
+A 1882.95 about the speech recognition system , are we going to use it , or not ? ami_da_11
+A 1882.95 It i ami_da_9
+A 1882.95 Yeah , it seems feasible , and it would be something very great . ami_da_9
+C 1890.35 Yes , I think . ami_da_9
+D 1891.7 I think it is important . ami_da_9
+C 1891.94 I think so . ami_da_9
+D 1892.49 I think One of our p priorities is tech technology . ami_da_4
+D 1897.14 And ami_da_3
+A 1897.21 So we have the de design , the a good shape , new and so on , and we have also the technology thing w will be . ami_da_4
+A 1905.07 And even the easy to use thing , ami_da_4
+A 1905.07 so it will be perfect . ami_da_9
+A 1909.58 So we add also the speech recognition device . ami_da_4
+D 1909.79 Yeah . ami_da_1
+B 1910.61 Yeah . ami_da_1
+B 1912.32 I agree . ami_da_9
+A 1921.94 So , that great . ami_da_9
+A 1923.34 We have decided everything . ami_da_4
+A 1924.73 And think we are on a good way . ami_da_9
+A 1930.34 So , the next meeting will start in thirty minutes . ami_da_4
+A 1938.61 , so the the Industrial Manager will will work on the look and feel design . ami_da_4
+A 1950.35 The User Interface Mana Manager will work on the user interface device . ami_da_4
+A 1961.17 And the the Marketing Expert will do the first project evaluation . ami_da_4
+D 1966.8 Okay . ami_da_1
+A 1968.02 So , I hope you can do that in thirty minutes . ami_da_4
+A 1973.07 And , yeah , I ami_da_2
+A 1973.07 I think you should work together , s you Hamed and Peter , to work in a in a first prototype , ami_da_6
+A 1973.07 and more about the shape and so on and how you can manage to put everything together . ami_da_4
+A 1994.81 And as usual you will receive some specific instructions on . ami_da_4
+A 1999.15 So thank you all everybody , ami_da_14
+B 2000.89 Okay . ami_da_1
+D 2004.28 Okay . ami_da_1

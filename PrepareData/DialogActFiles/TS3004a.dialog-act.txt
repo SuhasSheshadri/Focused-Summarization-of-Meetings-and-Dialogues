@@ -1,0 +1,626 @@
+B 6.2 Two . ami_da_16
+A 11.63 Hello . ami_da_14
+C 12.32 Good morning . ami_da_14
+A 12.47 Hello . ami_da_14
+D 12.97 Hello . ami_da_14
+A 18.13 You have to put it exactly on the on the ami_da_6
+A 18.13 yeah . ami_da_4
+D 19.97 Plate ? ami_da_5
+D 19.97 I also forgot my mouse , but I do not need my mouse , I think . ami_da_4
+C 21.2 Okay . ami_da_16
+B 22.84 Good morning . ami_da_14
+C 23.97 Good morning . ami_da_14
+A 32.52 I took your mouse . ami_da_4
+C 32.7 Should I bring my pen too ? ami_da_11
+C 32.7 Or ami_da_3
+C 32.7 Okay . ami_da_12
+A 33.88 Yeah ami_da_2
+A 33.88 just ami_da_3
+A 33.88 yeah , ami_da_2
+A 33.88 no , ami_da_9
+A 33.88 that is for me , I just have to make some notes . ami_da_4
+A 37.55 I got my mouse . ami_da_4
+B 40.96 Mouse . ami_da_16
+C 44.8 I do . ami_da_4
+A 45.75 yeah . ami_da_16
+B 48.22 Come on . ami_da_16
+B 49.66 There we are . ami_da_4
+C 58.63 My laptop is crashing . ami_da_4
+D 62.77 Damn computers . ami_da_14
+C 64.29 Cr ami_da_3
+C 64.29 Help help help . ami_da_6
+B 77.7 Let is just check one more time . ami_da_7
+D 82.8 Can you hear me ? ami_da_5
+D 82.8 Hello ? ami_da_5
+D 82.8 Test . ami_da_4
+A 84.23 actually my laptop does not work , ami_da_4
+A 84.23 switch it on again . ami_da_7
+D 85.61 I dunno . ami_da_4
+D 91.64 Check . ami_da_16
+A 92.12 Oh no . ami_da_16
+D 92.47 Okay . ami_da_9
+D 93.62 I think it works . ami_da_9
+C 97.01 Test test . ami_da_16
+C 98.08 Yes , it is working . ami_da_9
+A 106.59 So ami_da_2
+A 106.59 you all read what we are going to do or not ? ami_da_5
+A 106.59 Okay . ami_da_12
+B 109.75 Yeah . ami_da_4
+D 109.83 We are going to make a remote control . ami_da_4
+A 111.99 Yeah , that is right . ami_da_9
+C 112.35 I think my laptop is a bit etchy . ami_da_4
+A 119.85 I just made a a simple presentation . ami_da_4
+A 127.27 So you put some things in it . ami_da_16
+A 131.41 Okay . ami_da_2
+A 140.74 How does this work ? ami_da_5
+A 140.74 I dunno . ami_da_4
+B 143.79 One most to the right . ami_da_6
+C 144.73 p ami_da_3
+C 144.73 Okay . ami_da_1
+B 145.52 Yes that one . ami_da_9
+A 146.56 This one ? ami_da_5
+A 146.56 cool . ami_da_9
+B 147.32 Yes . ami_da_4
+D 147.36 Press F eleven . ami_da_6
+A 149.88 Okay . ami_da_2
+A 150.88 So ami_da_2
+A 150.88 that is my name , . ami_da_4
+A 152.6 we are going to make a remote control , you already know that . ami_da_4
+A 156.77 Just have a look , ami_da_6
+A 156.77 are we going to this agenda of our meeting . ami_da_16
+A 160.54 You know , this is about twenty five minutes , this meeting . ami_da_4
+A 165.37 So ami_da_2
+A 165.37 the thing we have to know is ami_da_3
+A 165.37 you already know what we are going to do , ami_da_4
+A 165.37 you also read what this the things or , not yet , ami_da_5
+A 165.37 okay . ami_da_12
+B 172.44 Yes . ami_da_4
+A 173.82 So , yeah , ami_da_2
+A 173.82 it has to be original , trendy , user friendly that is what we are going to design . ami_da_4
+A 179.89 first we have three steps of making the the remote control . ami_da_4
+A 185.02 Fir the first thing is th the functional design , ami_da_4
+A 185.02 that is very important . ami_da_9
+A 189.84 We have to look what the needs are , the effects of the functional design , and and how the the the remote control works , so that is where we are going to look in the functional design , it is for the f next meeting . ami_da_4
+A 202.24 The the second thing is the conceptual design , ami_da_4
+A 202.24 that is what it ami_da_3
+A 202.24 that is the spe the specifications of the components and the properties and the specifications of the user interface . ami_da_4
+A 213.91 And we have to look what the market is doing for what kind of remote controls are in the market . ami_da_4
+A 221.04 And the third thing is the detailed design ami_da_4
+A 221.04 and that is exa ami_da_3
+A 221.04 yeah , ami_da_2
+A 221.04 you know what it is , it is exactly how it looks and whatever . ami_da_4
+A 231.72 Okay so no , ami_da_2
+A 231.72 this is a ami_da_3
+A 231.72 these are two smartboards , with the f s an introduction of that one . ami_da_4
+A 240.48 And you already saw you know all that that you here can put things in the the red project map . ami_da_4
+D 246.18 Folder , ami_da_4
+D 246.18 yes . ami_da_12
+A 247.0 Folder , okay . ami_da_12
+A 252.97 So no okay ami_da_2
+A 252.97 have a look at that one . ami_da_6
+A 257.02 Okay . ami_da_2
+A 258.98 So ami_da_2
+A 258.98 what we are going to do first is ami_da_3
+A 258.98 so ami_da_2
+A 258.98 you can read . ami_da_4
+A 267.57 You have to draw a favourite animal on the whiteboard and and say why it is your favourite animal . ami_da_4
+A 276.95 So ami_da_2
+A 276.95 and you have ami_da_3
+A 276.95 this is just to try it out ami_da_4
+A 276.95 and we have to use a different pen colours and different thickness of the pen . ami_da_4
+A 286.48 So okay , so ami_da_2
+A 286.48 first have to show you , ami_da_7
+A 286.48 maybe you can come here to have a look how it works . ami_da_6
+A 294.32 Yes ? ami_da_5
+A 294.32 Okay . ami_da_12
+D 294.46 I can see it now . ami_da_4
+B 294.74 Yeah . ami_da_9
+A 296.53 This a new page , ami_da_4
+A 296.53 it is okay . ami_da_9
+A 299.72 Use pen format . ami_da_7
+A 304.79 and a different colour can use here ami_da_4
+A 304.79 no ami_da_9
+A 304.79 I just take the pink . ami_da_7
+A 311.25 You take ami_da_3
+A 311.25 oh ami_da_2
+A 311.25 there is no pink , ami_da_4
+A 311.25 okay , ami_da_2
+A 311.25 oh ami_da_2
+A 311.25 just purple , okay . ami_da_9
+B 314.41 Purple . ami_da_6
+A 316.8 No ami_da_9
+A 316.8 blue . ami_da_7
+A 317.8 And ami_da_2
+A 317.8 line width ten . ami_da_7
+A 320.89 Okay ami_da_2
+A 320.89 just take ami_da_3
+A 320.89 what I am going to draw is an elephant . ami_da_7
+A 327.7 Just draw slowly , ami_da_6
+A 327.7 because otherwise it wo not work . ami_da_4
+A 336.38 It is a very nice elephant , you can see . ami_da_9
+A 344.16 I dunno what it looks ami_da_4
+A 344.16 but it does not matter . ami_da_9
+B 348.6 Looks very nice . ami_da_9
+A 350.39 I just h ami_da_3
+A 350.39 Something like this ? ami_da_11
+A 350.39 Oh no ami_da_9
+A 350.39 Yeah , okay . ami_da_2
+D 355.54 It look like a dinosaurs . ami_da_4
+A 357.07 Because I like ami_da_3
+A 357.07 okay . ami_da_2
+B 359.68 A pink elephant . ami_da_4
+A 368.77 Just takes so long , ami_da_9
+A 368.77 okay . ami_da_2
+A 370.21 Whatever , ami_da_9
+A 370.21 just . ami_da_3
+A 372.82 You erased this one . ami_da_16
+A 376.31 It is a bit slow you can see , ami_da_4
+A 376.31 this is a bit annoying . ami_da_9
+D 380.26 Okay . ami_da_1
+A 384.72 Okay , so ami_da_2
+A 384.72 just for you guys just one of you can draw a painting if you want . ami_da_6
+D 391.54 Let me try one . ami_da_7
+A 391.69 Just do not ami_da_3
+A 391.69 yeah , ami_da_2
+A 391.69 just u use it like that , ami_da_6
+A 391.69 yeah . ami_da_9
+A 395.43 That is okay . ami_da_9
+D 396.43 Okay . ami_da_2
+D 405.69 Okay ami_da_9
+D 405.69 and then what is the colour ? ami_da_5
+D 405.69 How do I do ami_da_5
+A 408.25 It is in format . ami_da_4
+A 410.91 Yeah . ami_da_9
+D 416.42 I will take this one . ami_da_7
+D 424.9 there has to be water , ami_da_4
+D 424.9 but ami_da_3
+D 424.9 Yeah yeah , ami_da_12
+D 424.9 but it is an animal it is an animal that lives in the water . ami_da_4
+A 425.88 Just ami_da_3
+A 425.88 No ami_da_9
+A 425.88 it has to be an animal , ami_da_4
+A 425.88 so if that is it is ami_da_3
+A 425.88 it should be a shna snake or something . ami_da_6
+A 432.02 Okay . ami_da_12
+A 432.4 Okay okay . ami_da_12
+B 433.5 The water is important . ami_da_4
+A 433.6 Okay . ami_da_12
+D 433.99 So I first draw the water . ami_da_4
+D 439.5 Okay , ami_da_2
+D 439.5 and now I make the animal . ami_da_7
+D 455.94 It is a fish . ami_da_4
+A 457.27 Okay , ami_da_12
+A 457.27 cool . ami_da_14
+C 457.57 Wow . ami_da_9
+D 472.42 So . ami_da_2
+D 478.21 This is a worm . ami_da_4
+A 489.14 yeah , that is nice . ami_da_9
+C 490.63 Wow . ami_da_9
+D 491.39 Okay , ami_da_2
+D 491.39 who next ? ami_da_8
+D 491.39 Okay . ami_da_12
+A 492.71 do you have to write down why ami_da_6
+A 492.71 that does not matter , ami_da_9
+A 492.71 just it is to get used to the whiteboard , ami_da_4
+A 492.71 but it is okay . ami_da_9
+A 498.8 Just make a new blank new blank page . ami_da_6
+B 517.92 Yeah . ami_da_9
+D 521.12 Well ami_da_2
+D 521.12 Paul ? ami_da_11
+D 521.12 I think it is a pig . ami_da_4
+B 522.02 Yeah . ami_da_9
+B 524.16 Like this ? ami_da_11
+B 524.16 Okay . ami_da_9
+A 525.4 Yeah , ami_da_9
+A 525.4 not too far to the to the t pen top . ami_da_6
+B 528.96 let is make it a dog . ami_da_7
+B 556.8 Ooh . ami_da_16
+A 568.78 Maybe you should hold your pen a bit more to the back , ami_da_6
+A 568.78 so that ami_da_3
+A 568.78 no , ami_da_9
+A 568.78 to the ami_da_3
+A 568.78 yeah . ami_da_9
+B 574.8 okay . ami_da_16
+B 576.79 A pig ? ami_da_12
+B 576.79 I can make ami_da_3
+B 576.79 a dog . ami_da_1
+A 578.36 No , ami_da_9
+A 578.36 it is a dog . ami_da_4
+D 578.47 Or a dog . ami_da_4
+D 582.08 A sheep ? ami_da_5
+D 582.08 No . ami_da_4
+B 583.44 Okay , ami_da_2
+B 583.44 I make a cat of it . ami_da_7
+A 586.79 we d only have twenty five minutes , ami_da_4
+A 586.79 so . ami_da_3
+C 590.22 Take it easy . ami_da_6
+C 596.43 I I was going to make a cat too . ami_da_7
+A 599.52 Use your fantasy . ami_da_6
+B 601.98 Oh , ami_da_16
+B 601.98 not too quick . ami_da_9
+A 604.97 Just hold it more more to the back ami_da_6
+A 604.97 then you do not have ami_da_3
+A 604.97 okay . ami_da_12
+B 607.24 No ami_da_9
+B 607.24 I have it . ami_da_4
+B 609.66 I just draw too quick I think . ami_da_4
+B 612.62 Okay , ami_da_2
+B 612.62 that is it . ami_da_4
+B 615.65 More . ami_da_11
+A 616.71 No , that is okay , ami_da_9
+A 616.71 thank you . ami_da_14
+B 619.7 It is just to get used to it . ami_da_4
+C 621.92 Okay . ami_da_2
+A 640.24 I thought these pens would be just you write it down ami_da_4
+A 640.24 and you download it to Word , ami_da_4
+A 640.24 you already did it or no ? ami_da_5
+A 640.24 No , not yet , okay . ami_da_12
+B 647.72 Yeah , that is right , ami_da_9
+B 647.72 it ami_da_3
+B 647.72 but you actually got to write on the paper . ami_da_4
+A 648.79 But it is just ami_da_3
+A 648.79 Sorry ? ami_da_12
+A 648.79 Yeah , ami_da_9
+A 648.79 I know , but ami_da_4
+A 648.79 I d ami_da_4
+A 648.79 I ami_da_4
+A 648.79 I thought it would be just in in in typed words in Word , so that is not ami_da_4
+A 648.79 just ami_da_3
+A 648.79 it is just a picture . ami_da_4
+B 652.04 You really got to write on that paper . ami_da_4
+D 653.68 Yeah yeah , ami_da_9
+D 653.68 it is a real pen . ami_da_4
+B 657.79 Yeah , ami_da_2
+B 657.79 but it is just a picture . ami_da_4
+D 661.11 Oh . ami_da_12
+A 661.54 So ami_da_2
+A 661.54 it is not that cool as I th thought it would be . ami_da_9
+B 662.54 You really ami_da_3
+B 662.54 No . ami_da_4
+D 662.63 Y you can you ca not edit in the edit it in Word . ami_da_5
+A 666.52 No . ami_da_4
+D 668.11 Oh , okay . ami_da_1
+B 685.42 It is a donkey . ami_da_4
+A 694.07 I do not know , ami_da_4
+A 694.07 what time did we start this meeting , ami_da_5
+A 694.07 I am not sure . ami_da_4
+B 697.05 I think it was ami_da_3
+B 697.05 Yeah . ami_da_9
+A 698.8 Half past . ami_da_5
+D 699.9 Half past ten . ami_da_4
+A 701.65 Okay . ami_da_12
+D 709.8 Brilliant . ami_da_9
+A 710.7 Okay , ami_da_2
+A 710.7 perfect . ami_da_14
+C 710.94 Nice , ami_da_9
+C 710.94 eh ? ami_da_11
+D 711.59 Yep . ami_da_9
+A 714.66 Yeah , ami_da_9
+A 714.66 thank you . ami_da_14
+A 715.25 Now we just have to save everything , ami_da_7
+A 715.25 so . ami_da_3
+A 732.18 Oh ami_da_2
+A 732.18 this is definitely the best one . ami_da_9
+A 735.36 Okay , so ami_da_2
+A 735.36 what we know is that we have to sell this remote control for about twenty five Euros . ami_da_4
+C 746.53 Excuse me . ami_da_14
+A 746.77 Okay , ami_da_2
+A 746.77 that is . ami_da_3
+A 747.92 And we have to make a profit of fifty million Euros , so we have to use a big market in Europe . ami_da_4
+B 754.04 Piece of cake . ami_da_9
+A 754.37 The production cost are about half the price of selling price , ami_da_4
+A 754.37 sorry . ami_da_12
+B 757.01 easy . ami_da_9
+A 758.13 So ami_da_2
+A 758.13 can someone make a a calculation about how many we have to sell of these to make fifty million , ami_da_5
+A 758.13 I dunno . ami_da_4
+A 766.61 so ami_da_2
+A 766.61 we are going to have a little discussion about what experience are with a remote control the and everything , ami_da_4
+A 766.61 so just have a look how it we think about remote controls . ami_da_6
+D 779.04 Yeah , ami_da_2
+D 779.04 my first question was does it have to be a a universal remote control ? ami_da_5
+D 779.04 Because we sell it lonely from the t and not with the television , we sell it apart . ami_da_4
+A 784.51 Oh yeah , ami_da_12
+A 784.51 that is a good question . ami_da_9
+A 795.89 I think it is ami_da_3
+A 795.89 I am not I am not sure , ami_da_4
+A 795.89 it is not I think ami_da_3
+A 795.89 I do not think you can buy a a a universal remote control for twenty five Euros , ami_da_4
+A 795.89 so ami_da_2
+A 795.89 not sure , ami_da_4
+A 795.89 but ami_da_3
+A 795.89 Okay , ami_da_12
+A 795.89 so ami_da_2
+A 795.89 we we just say we just say that is universal remote control . ami_da_6
+D 796.88 So ami_da_2
+D 796.88 I ami_da_3
+D 796.88 Because ami_da_3
+D 796.88 Yeah , ami_da_9
+D 796.88 I know you can buy a re a universal control for only twenty Euros ami_da_4
+D 796.88 Yeah , I think . ami_da_9
+C 798.37 Yeah , it probably would be universal . ami_da_4
+B 800.24 Universal . ami_da_12
+B 801.74 And only television ? ami_da_5
+B 801.74 Or more devices ? ami_da_5
+B 801.74 okay . ami_da_9
+C 811.88 , maybe , ami_da_9
+C 811.88 I do not know . ami_da_4
+A 819.57 Okay , perfect . ami_da_9
+C 821.38 And also for the VCR and DVD player ami_da_11
+C 821.38 and ami_da_3
+C 821.38 okay . ami_da_12
+A 826.34 Yeah , everything ami_da_9
+A 826.34 just ami_da_3
+A 826.34 so a lot of buttons on the remote control . ami_da_4
+C 831.48 Yeah , probably . ami_da_9
+B 832.14 Not just a TV . ami_da_11
+A 833.57 No , ami_da_9
+A 833.57 just everything . ami_da_6
+B 834.67 Okay . ami_da_12
+D 835.78 Okay . ami_da_1
+A 836.47 so yeah , ami_da_2
+A 836.47 what what what is a remote control , ami_da_5
+A 836.47 it is just a black thing with some buttons on it , ami_da_4
+A 836.47 it is not nothing very special , ami_da_9
+A 836.47 but ami_da_3
+A 836.47 yeah , that is right . ami_da_9
+B 844.0 Well ami_da_2
+B 844.0 we can try to make it special . ami_da_6
+A 847.11 So ami_da_2
+A 847.11 do you have any ideas how it has to look for for usability ami_da_8
+A 847.11 or user ami_da_3
+A 847.11 yeah . ami_da_1
+B 850.99 Well ami_da_2
+B 850.99 Yeah . ami_da_9
+D 851.04 Well ami_da_2
+D 851.04 I th ami_da_6
+D 851.04 I thought about making it the same style as the television , ami_da_6
+D 851.04 we do not have the same television all the time , so that is no matter . ami_da_4
+D 862.61 if we control the VCR and the DVD player player with it it has to be clear , ami_da_6
+D 862.61 because kids and elderly are going to use it , ami_da_4
+D 862.61 so ami_da_2
+D 862.61 it is not only for the technical persons . ami_da_4
+D 886.49 I think it must be a very good control , ami_da_6
+D 886.49 so you can act use it from everywhere in your room , ami_da_4
+D 886.49 the the infrared thing must be from very good quality . ami_da_6
+A 904.21 That is right . ami_da_9
+A 905.19 Should be a good point . ami_da_9
+C 906.74 Okay . ami_da_9
+B 907.24 Nothing N ami_da_3
+B 907.24 It should not be too big , ami_da_6
+B 907.24 but I do not think we can make it too small , because it has to have a lot of functions , ami_da_4
+B 907.24 so . ami_da_3
+C 909.92 And how big should it be ? ami_da_8
+C 909.92 Yeah . ami_da_1
+D 910.58 No . ami_da_2
+D 912.35 Yeah . ami_da_2
+D 913.21 I dunno ami_da_4
+D 913.21 Yes ami_da_1
+D 913.21 that is that is ami_da_3
+D 913.21 right right . ami_da_12
+B 924.43 We ca not make it smaller than the things we see now I think . ami_da_6
+A 928.77 Just big enough for the buttons we have , that is that is it . ami_da_6
+B 930.63 Yeah . ami_da_9
+B 931.2 Or we have to make something like mobile phones that you can fold it opem . ami_da_6
+C 938.86 Yeah . ami_da_1
+C 939.83 Yeah . ami_da_1
+B 940.48 Maybe then you can make it s smaller and uniquer , maybe more trendy . ami_da_4
+A 947.24 But you you you ami_da_12
+A 947.24 you think about one you can fold open . ami_da_12
+B 950.6 Fold open , where you can see more options . ami_da_4
+A 951.35 Okay , ami_da_12
+A 951.35 yeah , that is cool . ami_da_9
+B 953.3 I think ami_da_4
+B 953.3 Yeah , ami_da_9
+B 953.3 something on top , just dren general things like volume and TV channels and inside things you do not use that often . ami_da_6
+C 953.4 Yeah ami_da_1
+C 953.4 n ami_da_3
+C 953.4 Yeah , ami_da_9
+C 953.4 or you c ami_da_3
+C 953.4 O or you could th think of an a small touch screen on the remote control . ami_da_6
+A 953.42 Maybe for the DVD pla player or something , ami_da_6
+A 953.42 if you just ami_da_3
+A 965.38 Yeah . ami_da_9
+D 965.69 Oh ami_da_12
+D 965.69 that is good , yeah . ami_da_9
+B 971.76 Yeah ami_da_1
+B 971.76 b I wanted ami_da_3
+B 971.76 No ami_da_2
+B 971.76 you can make an manual in it . ami_da_6
+D 972.13 Yeah . ami_da_1
+A 973.44 Why should you use a touchscreen on a remote control ? ami_da_5
+A 973.44 There are buttons on it . ami_da_4
+C 976.06 maybe be it is it is ami_da_3
+C 976.06 Yeah , ami_da_9
+C 976.06 or maybe to keep it easy and small . ami_da_4
+A 987.23 Okay . ami_da_12
+D 988.52 Yeah , ami_da_2
+D 988.52 but ami_da_3
+D 988.52 Yeah ami_da_2
+D 988.52 but it is not reachable I think , touch screen . ami_da_9
+A 988.65 But it is not t t t too expensive to put a touchscreen on it . ami_da_11
+B 988.88 But that is ami_da_3
+B 988.88 Yeah , I think it is much too expensive . ami_da_9
+C 988.97 like a a to have ami_da_3
+C 988.97 Yeah , maybe it would . ami_da_9
+D 995.89 And we have to care for the strength of the remote control , ami_da_6
+D 995.89 because remote controls are most things in the house that falls down on the ground and it get often broken . ami_da_4
+A 999.57 Yeah . ami_da_9
+A 1005.2 Yeah . ami_da_1
+A 1006.06 So . ami_da_3
+A 1007.61 And if you have a touch screen in it , it is definitely too too fragile fragile . ami_da_9
+B 1010.38 Yeah , too fragile . ami_da_9
+D 1010.67 Yeah ami_da_9
+D 1010.67 and a lots lots of kids use it and touchscreen is not kids ami_da_4
+D 1010.67 Ma maybe a home station . ami_da_6
+A 1014.83 No . ami_da_9
+A 1016.63 You can put games on your remote control . ami_da_6
+C 1017.1 Kid proof . ami_da_4
+A 1019.25 Whatever . ami_da_6
+B 1019.77 Yeah . ami_da_1
+C 1021.97 And how about the batteries ? ami_da_8
+C 1021.97 should you put it in a recharger ami_da_11
+C 1021.97 or a just ami_da_3
+C 1021.97 yeah . ami_da_9
+A 1027.87 Oh ami_da_2
+A 1027.87 maybe that is a good idea , ami_da_9
+A 1027.87 just to put it on your television and just s recharge , ami_da_6
+A 1027.87 you never have to use any batteries . ami_da_4
+B 1029.51 Yeah . ami_da_1
+B 1032.55 Maybe that is a good idea , ami_da_9
+B 1032.55 but yeah , we have to look at the price now I think . ami_da_6
+A 1036.66 Yeah , ami_da_9
+A 1036.66 how m how mu how how expensive is a normal recharger ? ami_da_5
+A 1036.66 I dunno . ami_da_4
+D 1036.93 Yeah . ami_da_9
+C 1037.89 Yeah , ami_da_2
+C 1037.89 I dunno . ami_da_4
+B 1039.16 Well ami_da_2
+B 1039.16 how much is your standards mobile phone recharger ? ami_da_5
+B 1039.16 Maybe have ami_da_3
+B 1039.16 Yeah , ami_da_9
+B 1039.16 because well ami_da_3
+B 1039.16 Yeah . ami_da_1
+C 1046.08 Yeah , ami_da_2
+C 1046.08 if you buy it separately from your phone it is probably expensive , but I do not know what the project projection costs are for such a thing . ami_da_4
+D 1048.5 yeah . ami_da_9
+A 1054.86 if you th look at the market , it is probably it is still the best way just to put batteries in it , ami_da_6
+A 1054.86 because maybe it is too expensive . ami_da_9
+C 1060.69 Yeah . ami_da_9
+D 1060.99 Yeah , but a home station is a really good idea , ami_da_9
+D 1060.99 because lots of people are lose their remote control and do not know where it is , and now you can put it always at the same place . ami_da_4
+A 1070.2 Yeah , that is right , yeah . ami_da_9
+C 1072.56 Yeah . ami_da_1
+D 1072.7 Maybe it is ami_da_3
+D 1072.7 Therefore it is a good idea , but maybe it is expensive . ami_da_9
+B 1078.09 Maybe use it as a separate option . ami_da_6
+D 1080.59 Yeah . ami_da_9
+B 1081.13 Sell it separately . ami_da_6
+D 1082.0 You can ami_da_3
+D 1082.0 yeah , ami_da_9
+D 1082.0 you can buy it with it . ami_da_6
+C 1083.55 Yeah , ami_da_2
+C 1083.55 but I have a mouse that is also ami_da_4
+C 1083.55 Yeah , ami_da_9
+C 1083.55 and and you just have normal batteries that you can recharge and just put it in the station , or you can change your batteries , ami_da_4
+C 1083.55 so . ami_da_3
+B 1088.59 Rechargeable . ami_da_4
+B 1093.78 Yeah . ami_da_1
+D 1096.25 Oh yeah . ami_da_12
+A 1097.56 The option , just the option , that is cool . ami_da_9
+C 1098.91 Yeah . ami_da_1
+D 1099.49 I ami_da_4
+D 1099.49 I set something on paper already , size , looks , usable , ami_da_4
+D 1099.49 the buttons on usable places , the the on off button must be on top , it has to lay good in the hand , ami_da_6
+D 1099.49 you you have to ami_da_3
+D 1099.49 Yeah , ami_da_12
+D 1099.49 I do not I do not know I do not know ami_da_9
+D 1099.49 if we ami_da_3
+D 1099.49 You can make it very special , to create our own looks , ami_da_9
+D 1099.49 but it is very hard to ami_da_3
+D 1099.49 Nah . ami_da_9
+A 1109.97 Yeah . ami_da_9
+B 1111.38 Yeah . ami_da_9
+A 1114.49 Has it be has ami_da_3
+A 1114.49 does it has to b have to be like a different form than a normal remote control ami_da_11
+A 1114.49 or ami_da_3
+A 1114.49 Yeah ami_da_1
+A 1114.49 Yeah . ami_da_9
+B 1122.26 Well ami_da_2
+B 1122.26 I think we have to look at that , ami_da_6
+B 1122.26 because well you can do the standard way , ami_da_4
+B 1122.26 but then you wo not ami_da_3
+B 1122.26 Well ami_da_2
+B 1122.26 you can have the basic things on the same place , like on off button on top and the TV channels one two three four as a block , and then the volume obviously on t on top , so you can see . ami_da_6
+C 1134.01 N ami_da_3
+C 1134.01 if if we want to make it special , we probably have to do a lot of testing , if it really works . ami_da_9
+C 1153.09 Yeah . ami_da_1
+B 1157.86 But the rest is you do not use that often , ami_da_4
+B 1157.86 so if you have a clear button with an good icon on it , it should be clear as well . ami_da_6
+C 1166.63 Yeah . ami_da_9
+B 1166.97 So it does not matter what place it is on the remote control I think , ami_da_4
+B 1166.97 so you can do something unique with that . ami_da_6
+C 1174.92 And what we have to think about too is buttons that you use often are maybe like when you fold it open , ami_da_3
+C 1174.92 when you have it closed , you can still do the th the functions . ami_da_6
+D 1189.15 Yeah yeah , ami_da_9
+D 1189.15 what Paul already said . ami_da_4
+D 1190.6 on on top are the the basic options on top , ami_da_4
+D 1190.6 and if you fold it open ami_da_3
+C 1190.76 Yeah . ami_da_9
+A 1190.8 Yeah , just for the TV and just the normal function , that is fine . ami_da_9
+C 1191.39 But n ami_da_3
+C 1191.39 yeah , ami_da_2
+C 1191.39 but i ami_da_3
+C 1191.39 basically when I am watching TV ami_da_4
+C 1191.39 I am just using like five buttons or so , ami_da_4
+C 1191.39 so . ami_da_3
+B 1192.56 Yeah , ami_da_1
+B 1192.56 yeah . ami_da_1
+A 1195.56 But maybe it is ami_da_3
+A 1195.56 maybe it is very hard to to make it fold open and to l look like it is very ami_da_9
+A 1195.56 what is it is called ? ami_da_5
+A 1195.56 Maybe it is hard t ami_da_3
+A 1195.56 No , that is right . ami_da_9
+B 1199.08 Yeah . ami_da_16
+B 1199.33 That is what I meant . ami_da_4
+D 1208.35 If you if if you make to fold open it is or also an the strength is not s as good as a normal remote control . ami_da_9
+B 1208.82 Okay , ami_da_9
+B 1208.82 but yeah . ami_da_9
+A 1214.85 So maybe we have to to keep it like a square , just normal remote control . ami_da_6
+A 1223.19 Just think about it . ami_da_6
+C 1223.34 Yeah . ami_da_1
+A 1224.06 We have to close this to finish this meeting , ami_da_4
+A 1224.06 so . ami_da_3
+C 1227.5 Okay . ami_da_1
+A 1228.61 There is some more things . ami_da_4
+A 1231.54 We have another thirty minutes , so then we are going to meet again . ami_da_4
+A 1236.18 So you know what you have to what you have to do ? ami_da_5
+A 1236.18 Yeah . ami_da_1
+D 1240.37 Okay . ami_da_2
+D 1242.56 for m for me the Marketing Expert , the user requirements specification , do I need to think as a user , ami_da_11
+D 1242.56 a as a a a only the looks and the ami_da_3
+D 1242.56 Okay . ami_da_12
+B 1252.63 No , ami_da_9
+B 1252.63 what you want to do with it . ami_da_6
+A 1253.81 Yeah , ami_da_2
+A 1253.81 I think this if you you have to ami_da_6
+A 1253.81 n know if it is for s a TV , a DVD player , all that things . ami_da_6
+A 1259.99 Also from a user , but all these things together . ami_da_9
+D 1261.53 Yeah , ami_da_12
+D 1261.53 it is also about strength and for everything . ami_da_6
+A 1262.83 Yeah , everything . ami_da_9
+B 1263.14 Yeah , ami_da_2
+B 1263.14 I also wrote down some stuff ami_da_4
+B 1263.14 that you want on a Technical fun fu ami_da_3
+B 1263.14 What do you want to do with your remote control , what do you need on your remote control . ami_da_8
+A 1265.63 Yeah , ami_da_2
+A 1265.63 no maybe not not , that is not a f that is something for for for ami_da_3
+A 1265.63 yeah . ami_da_3
+A 1271.76 That is not for you . ami_da_4
+D 1273.54 Okay . ami_da_12
+A 1273.88 Just if ami_da_3
+A 1273.88 what is in the market , what is normal , what kind of buttons do you have . ami_da_5
+B 1280.7 I already wrote some down , some ideas . ami_da_4
+A 1280.83 Yeah , it is alright . ami_da_9
+D 1284.4 Yep . ami_da_1
+A 1285.19 Yeah , ami_da_2
+A 1285.19 just ami_da_3
+A 1285.19 is that okay ? ami_da_11
+A 1285.19 Okay . ami_da_9
+D 1287.25 Okay . ami_da_9
+B 1287.61 Yep . ami_da_9
+C 1287.93 Okay . ami_da_9
+B 1289.65 There is already a document in the folder about it . ami_da_4
+D 1293.79 Yeah , me too . ami_da_9
+A 1298.49 So ami_da_2
+A 1298.49 see you in thirty minutes . ami_da_6
+D 1300.15 Okay , ami_da_9
+D 1300.15 well done . ami_da_14
+B 1300.54 Okay . ami_da_9
+A 1302.08 For the next time you have to put it exactly on the square , so your laptop . ami_da_6
+B 1307.77 I will . ami_da_9
+D 1308.02 Oh Paul . ami_da_15
+B 1311.48 It did not say that . ami_da_4
+A 1312.98 No , ami_da_9
+B 1313.75 Your fault . ami_da_15
+D 1317.06 Ciao . ami_da_14

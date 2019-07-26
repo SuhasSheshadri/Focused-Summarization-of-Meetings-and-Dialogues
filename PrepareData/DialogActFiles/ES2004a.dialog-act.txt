@@ -1,0 +1,359 @@
+B 10.99 Are we ami_da_3
+B 10.99 we are not allowed to dim the lights so people can see that a bit better ? ami_da_5
+B 10.99 Okay , that is fine . ami_da_9
+A 17.88 Yeah . ami_da_1
+B 22.37 Am I supposed to be standing up there ? ami_da_5
+B 22.37 Okay . ami_da_1
+D 25.15 So we have got both of these clipped on ? ami_da_5
+D 25.15 She going to answer me or not ? ami_da_9
+D 25.15 Right , both of them , okay . ami_da_9
+B 29.86 Yeah , I have got ami_da_3
+B 29.86 Yes . ami_da_9
+D 42.63 God . ami_da_16
+D 49.75 Jesus , it is going to fall off . ami_da_16
+A 63.81 Okay . ami_da_1
+A 64.2 Yep , yep . ami_da_1
+A 71.95 Okay . ami_da_1
+B 80.49 Okay . ami_da_2
+A 80.5 Tu tu tu tu ami_da_1
+A 80.5 Hi , good morning . ami_da_14
+B 81.9 Hello everybody . ami_da_14
+B 83.82 I am Sarah , the Project Manager and this is our first meeting , surprisingly enough . ami_da_4
+B 91.96 Okay , this is our agenda , we will do some stuff , get to know each other a bit better to feel more comfortable with each other . ami_da_4
+B 101.93 then we will go do tool training , talk about the project plan , discuss our own ideas and everything and we have got twenty five minutes to do that , ami_da_4
+B 101.93 as far as I can understand . ami_da_12
+B 117.62 Now , we are developing a remote control which you probably already know . ami_da_4
+B 121.54 , we want it to be original , something that is people have not thought of , that is not out in the shops , , trendy , appealing to a wide market , but you know , not a hunk of metal , and user friendly , grannies to kids , maybe even pooches should be able to use it . ami_da_4
+B 142.83 Okay , , first is the functional design , this is where we all go off and do our individual work , what needs need to be fulfilled by the product , what effects the product has to have and how it is actually going to do that . ami_da_4
+B 159.4 , conceptual design , what we are thinking , how it is going to go and then the detailed design , how we are actually going to put it into practice and make it work . ami_da_4
+A 168.79 Okay . ami_da_1
+B 170.38 Okay , right . ami_da_2
+B 172.03 We are going to practice with the pens and draw our favourite animal on the white board , ami_da_4
+B 172.03 I will go first , ami_da_7
+B 172.03 and sum up the characteristics of that animal . ami_da_4
+B 184.1 So ami_da_2
+B 184.1 Okay , I will leave space for everyone else . ami_da_7
+A 188.28 Oops . ami_da_1
+B 192.07 What is missing ? ami_da_16
+B 192.07 We are running out of blue . ami_da_4
+B 246.93 Okay . ami_da_2
+B 247.89 I am not going to ask you to guess , I am going to tell you that is supposed to be a tiger . ami_da_4
+B 254.53 And I see them as majestic , and independent , and proud . ami_da_4
+A 255.91 Oh sorry . ami_da_14
+B 272.31 Now , who would like to go next ? ami_da_8
+B 272.31 Okay . ami_da_9
+A 275.09 Yeah , me . ami_da_7
+A 279.18 Cat . ami_da_3
+A 285.15 Where did this come from ? ami_da_5
+A 285.15 , yep . ami_da_4
+B 287.57 Is that your lapel then ? ami_da_5
+B 287.57 There you go . ami_da_14
+A 290.68 Thank you . ami_da_14
+A 293.32 , maybe you can guess what I am trying to make ? ami_da_8
+A 293.32 Yep . ami_da_9
+D 306.38 A kind of dog ? ami_da_6
+D 306.38 Sorry ? ami_da_12
+A 313.47 It is actually sitting , so it is sitting , it is not standing . ami_da_4
+C 316.65 It is sitting down . ami_da_4
+A 319.15 Okay , I see it as one thing it is very supportive . ami_da_4
+A 324.13 It is your best friend and your you can talk to a dog , it can be your best friend , it does not discriminate between you , based on what you are . ami_da_4
+A 331.36 Second it is loyal and third thing it is got intuition . ami_da_4
+A 340.96 dogs can som sometimes can make out between a thief and a person so basically these are the three unique features I think belong to a dog . ami_da_4
+B 350.01 Okay , thank you . ami_da_14
+A 351.06 Thank you . ami_da_14
+C 353.48 Yeah I will have a go . ami_da_7
+A 354.11 Okay . ami_da_1
+A 356.33 Sorry . ami_da_14
+D 356.51 Please , please leave me a space at the bottom , I am little , ami_da_14
+D 356.51 you can get to the top , with standing on a chair . ami_da_4
+C 356.98 Thanks . ami_da_14
+C 359.11 Alright , okay . ami_da_9
+C 361.74 Well since you guys have chosen the ones I wanted to do , I will have to have to go for something a bit random . ami_da_4
+B 364.81 Okay . ami_da_9
+A 365.93 Does it look like a dog actually ? ami_da_11
+C 371.43 And also , my drawing skill is not that great ami_da_4
+C 371.43 so ami_da_4
+C 371.43 , yeah . ami_da_4
+B 373.84 Well , as you can see , the quality of the work today is ami_da_9
+B 373.84 Gonna be a bird . ami_da_6
+D 376.8 I think it is outstandingly good . ami_da_9
+C 379.6 Okay , now I am going to have to change what is was originally going to be because that looks like a beak now , so . ami_da_4
+D 391.13 Crocodile ? ami_da_6
+D 391.13 O Beauti that is ami_da_3
+D 391.13 Okay . ami_da_1
+C 394.38 Yeah , it can be a crocodile , it can be a crocodile . ami_da_9
+B 396.31 Is it going to be ami_da_3
+B 396.31 it is going to be a bird . ami_da_6
+C 397.95 Well it was it was an at first ami_da_3
+C 397.95 firstly it was an attempt at a T Rex and then it sort of changed into a pelican but it can be a crocodile now actually . ami_da_4
+B 420.11 That is lovely . ami_da_9
+C 421.2 Yeah and I will have to think on the spot of things that it is . ami_da_4
+C 425.97 scary , strong , yeah ami_da_4
+C 425.97 that is about it I think . ami_da_4
+B 439.85 Okay it is fine . ami_da_9
+D 443.16 , I am very impressed with your artistic skills , ami_da_9
+D 443.16 mine is are dreadful . ami_da_4
+C 445.23 Wo ami_da_3
+D 447.95 Oops this is now coming apart , ami_da_4
+D 447.95 let me just put the top in . ami_da_7
+D 454.0 I hope that clicks in , ami_da_16
+D 454.0 I will just I will hold it on , okay . ami_da_7
+D 457.97 Oops , oh dear , ami_da_16
+D 457.97 what happened there ? ami_da_5
+D 457.97 Hopefully that will stay on , ami_da_9
+D 457.97 two handed version . ami_da_4
+B 461.09 Technical help . ami_da_16
+C 467.94 Okay . ami_da_1
+D 468.51 Okay , ami_da_3
+D 468.51 Again this is off the top of my head , I was going to do a big cat too , . ami_da_4
+C 476.71 S ami_da_3
+C 476.71 Okay , some sort of bird ami_da_6
+D 481.26 Oh dear , ami_da_14
+D 481.26 it does not look ami_da_9
+D 481.26 what like what I want it to be . ami_da_9
+D 488.77 It is not a vampire bat honestly . ami_da_4
+B 489.88 Okay , yeah . ami_da_1
+D 492.9 and somewhere there is a body behind . ami_da_4
+D 497.78 That is my dreadful ami_da_3
+D 497.78 that is the worst yet , ami_da_9
+D 497.78 that is ami_da_3
+D 497.78 it is meant to be an eagle you can tell it is a flying animal ami_da_4
+D 497.78 could have been a seagull , ami_da_9
+D 497.78 I never thought of a seagull . ami_da_4
+B 501.19 A seagu ami_da_3
+B 501.19 right , not a seagull . ami_da_9
+C 501.76 eagle ami_da_9
+C 501.76 , right okay . ami_da_9
+A 501.78 Eagle , okay . ami_da_9
+D 508.09 An eagle , again I am thinking on my feet goodness . ami_da_4
+D 511.49 I suppose they are all so independent , ami_da_4
+D 511.49 I would put that one down again . ami_da_7
+D 516.12 Da dum . ami_da_16
+C 519.87 They are good at golf . ami_da_4
+D 520.28 Indepen independent , right , ami_da_16
+D 520.28 did you say they are good at golf ? ami_da_5
+D 520.28 Are they ? ami_da_5
+D 520.28 Oh . ami_da_12
+C 524.31 Yeah , no yeah , an eagle . ami_da_4
+B 525.5 Eagle . ami_da_4
+D 526.91 Oh right , okay , ami_da_12
+D 526.91 I am not good at golf . ami_da_4
+D 529.2 I would say they are quite free spirited , flying around everywhere , doing their own thing . ami_da_4
+D 541.43 And , birds of prey are not they , ami_da_4
+D 541.43 oh dear , ami_da_16
+D 541.43 intrepid . ami_da_4
+D 547.15 I will put that , intrepid . ami_da_4
+D 553.66 There we go , ami_da_4
+D 553.66 hope that pen is going to be okay . ami_da_9
+B 554.48 That is lovely . ami_da_9
+D 558.67 Whoops . ami_da_16
+B 561.11 Okay . ami_da_2
+B 563.12 That was fun , ami_da_9
+B 563.12 right . ami_da_2
+B 565.46 finance wise , we have got a selling price at twenty five Euros , which I do not actually know what that is in Pounds , at all . ami_da_4
+B 574.64 Any ideas ? ami_da_5
+B 574.64 D fifteen ? ami_da_6
+B 574.64 Seventeen . ami_da_4
+C 575.11 It is about ami_da_3
+C 575.11 , yeah . ami_da_1
+D 576.51 Seventeen . ami_da_4
+A 576.76 One point four or something like that . ami_da_4
+A 578.71 One point four Euro would make a Pound or something like that . ami_da_4
+C 580.85 Yeah , ami_da_9
+C 580.85 yeah , ami_da_9
+C 580.85 something like that , ami_da_9
+C 580.85 so that ami_da_3
+C 580.85 yeah about seventeen , seventeen Pounds , something like that . ami_da_4
+A 582.6 Yeah . ami_da_1
+D 584.88 Seventeen Pounds . ami_da_4
+B 586.38 Okay , that is expensive . ami_da_9
+D 588.37 Should we be making notes of this ? ami_da_5
+D 588.37 We can just refer to this later ca not we ? ami_da_5
+D 588.37 Yeah , okay . ami_da_1
+C 590.86 But ami_da_3
+C 590.86 Havi having said that though , if you want to get one of those the the ones on the market at the moment they are s they are about twenty pounds anyway . ami_da_4
+B 590.98 I think so , I think so , ami_da_4
+B 590.98 I will be able to pull it up , or I could put it in the shared folder or something . ami_da_7
+D 593.81 Okay . ami_da_1
+C 603.21 So , it would still be ami_da_3
+C 603.21 yeah , we had to buy one . ami_da_4
+D 603.51 Right . ami_da_1
+B 603.88 Really ? ami_da_5
+D 605.84 So ami_da_3
+D 605.84 so I suppose later it depends if we want to undercut the price , ami_da_6
+D 605.84 we d or ami_da_3
+D 605.84 or is it going to make our product look a cheapie cheapie option ? ami_da_6
+B 608.13 I think ami_da_3
+B 608.13 Yeah , ami_da_9
+B 608.13 production cost is at twelve fifty , so half of the selling price is taken up by building it . ami_da_4
+A 617.54 Okay , pretty huge margin . ami_da_9
+C 621.46 Yeah . ami_da_1
+B 624.26 , and profit aim is fifty million Euros , ami_da_4
+B 624.26 which is ami_da_3
+B 624.26 Yi yes , ami_da_4
+B 624.26 yeah , ami_da_4
+B 624.26 I presume so . ami_da_4
+D 630.37 In our first year ? ami_da_5
+A 636.39 So then ami_da_3
+D 638.1 You have got market range international and you did say earlier it is got to be a accessible and usable by sort of all age groups just t we are not focusing on business market , any particular thing , it is everyone user friendly to everyone . ami_da_4
+B 649.13 No ami_da_9
+B 649.13 , yeah . ami_da_9
+D 651.11 Okay . ami_da_12
+D 653.41 Big target group . ami_da_4
+B 653.57 So ami_da_3
+B 653.57 yes , yes , ami_da_9
+B 653.57 I do not think we have to ami_da_3
+B 653.57 I do not think it is a case of worrying about different languages and things like that , making that a key point , just that it is going to be in the international market like Australia , America , things like that . ami_da_4
+D 661.85 No . ami_da_1
+B 669.7 Okay . ami_da_2
+B 675.2 What are your experiences with remote controls ? ami_da_5
+B 675.2 I mean I have got we got we had three videos , a TV and a sort of amp thing all ami_da_4
+B 675.2 set up ami_da_4
+B 675.2 so we got one of the universal remote controls , that you programme each of your things into , but that kept losing the signals so we would have to re programme it every now and again . ami_da_4
+C 688.13 Yeah . ami_da_1
+D 691.12 Alright . ami_da_1
+C 691.23 Yeah . ami_da_1
+A 691.49 Yeah , ami_da_1
+A 691.49 that c ami_da_3
+A 691.49 Okay , ami_da_1
+A 691.49 you want to integrate everything into one like ami_da_6
+A 691.49 Okay . ami_da_1
+B 699.39 I think it was quite a cheapie as well , so that might have had something to do with it , ami_da_4
+B 699.39 but that was quite good , the fact that you could You did not have six remote controls sitting in front of you . ami_da_9
+C 701.1 Yeah ami_da_1
+C 705.18 Use all the ones at the same time . ami_da_4
+D 708.07 Right . ami_da_1
+C 711.24 Yeah , ami_da_9
+C 711.24 because you ami_da_3
+C 711.24 Yeah . ami_da_1
+D 712.92 My experience has only been being given the remote control with the object I buy , not doing any tampering with it and programming , using it to programme TV and videos and things . ami_da_4
+D 722.44 But basically on , off , volume up and down , channel one , two , th that basic functions , ami_da_4
+D 722.44 I do not think I could go any further with it than that , ami_da_9
+D 722.44 so , I suppose it is got to be something usable by someone like me as well . ami_da_6
+B 734.98 Yeah , ami_da_9
+B 734.98 the main that is the main stuff anyway , I mean ami_da_4
+B 734.98 and you do not want to ami_da_3
+B 734.98 I hate I hate looking at a control and seeing a million tiny little buttons with tiny little words saying what they all do and just sitting there searching for the teletext button or something like that . ami_da_4
+D 750.81 And symbols that you do not necessarily understand , symbols you are meant to understand that you do not . ami_da_4
+B 752.59 Yeah . ami_da_9
+A 755.18 So simplification of symbols you could think of . ami_da_6
+B 757.43 When they are ami_da_3
+B 757.43 when you have got the main things on the front of it and a section opens up or something to the other functions where you can do sound or options kind of recording , things like that inside it . ami_da_4
+D 768.52 Oh yeah . ami_da_1
+B 772.83 Because it does not make when you pick it up it does not make it really complicated to look at , it is obvious what you are doing , . ami_da_4
+D 779.78 Actually that just raises a point , ami_da_7
+D 779.78 I wonder what our design people think , ami_da_11
+D 779.78 but you know on a mobile phone , you can press a key and it gives you a menu , it is got a menu display , ami_da_4
+D 779.78 I wonder if incorporating that into the design of a remote control might be useful , so you have got a little LCD display . ami_da_6
+A 787.08 Menu , alright . ami_da_9
+C 792.17 Yeah . ami_da_1
+A 792.89 Right , ami_da_9
+A 792.89 I was thinking on the same lines you , ami_da_4
+A 792.89 instead of having too many b buttons and make it complicated for the user , may h maybe have an LCD di display or something like that , ami_da_6
+A 792.89 like a mobile , yeah and with menus . ami_da_4
+D 803.8 With menus , yeah , ami_da_9
+D 803.8 yeah . ami_da_9
+A 806.03 And if it is s somewhat similar to what you have on mobile phone , people might find it easier to browse and navigate also maybe . ami_da_6
+D 811.15 Yeah . ami_da_1
+B 812.35 What about the older generation ? ami_da_8
+B 812.35 What about granny and grandads ? ami_da_8
+B 812.35 , my grandad can answer his mobile phone , but he could not even dream of texting or something like that . ami_da_4
+A 816.27 You mean to save it lesser number . ami_da_16
+C 819.96 Yeah . ami_da_1
+D 823.79 Can he programme his remote control or is it basic with that too ? ami_da_5
+D 823.79 Right . ami_da_1
+A 826.06 Right . ami_da_1
+B 828.12 I do not think they tape things , ami_da_4
+B 828.12 I do not think they use ami_da_3
+B 828.12 , yeah , the age gap . ami_da_9
+C 829.37 Yeah , my grandad is actually better than me at using teletext , so ami_da_4
+D 833.26 Right . ami_da_1
+D 834.64 So that is a problem regardless of of any design modifications you you come up with , that is going to be a problem anyway with the older generation perhaps , ami_da_4
+C 838.64 Yeah . ami_da_9
+C 843.73 Yeah , what it just needs to be as long as it is sort of self intuitive and you can can work out what everything is doing , because I mean , menus on sort of new phones now they have sort of got all these pictures and stuff which makes it fairly obvious what you are trying to do . ami_da_4
+B 864.3 I do not know , ami_da_9
+B 864.3 I d ami_da_3
+B 864.3 I do not like the , you know the new phones that have kind of got a Windows based running system . ami_da_4
+C 864.43 But I do not know how ami_da_3
+C 864.43 Oh yeah . ami_da_1
+B 872.95 I find it really confusing , ami_da_9
+B 872.95 I kept getting lost in the phone , ami_da_4
+B 872.95 I di ami_da_4
+B 872.95 I have not got a new one ami_da_4
+B 872.95 but my friend got a new one ami_da_4
+B 872.95 and I was trying to do things with it ami_da_4
+B 872.95 and I just kept getting lost , ami_da_4
+B 872.95 but that is just me . ami_da_9
+D 878.36 Right . ami_da_1
+C 885.18 Yeah , I do not I do not know how for twenty fi , or twelve Euros fifty ami_da_4
+C 885.18 how much of a excellent screen you could get , you would you would have to sort of keep it down to a black and white LCD thing anyway , I would assume . ami_da_4
+B 893.63 Yeah . ami_da_9
+D 898.71 Is it possible that that for the older generation you could have like an extra button that you press for large print like you do in large print books ? ami_da_6
+D 898.71 Obviously it displays less on the screen , it displays less on the screen but as long as they can read it that is the main thing . ami_da_4
+A 905.32 Okay . ami_da_1
+B 905.77 Teletext has got that option as well . ami_da_4
+B 911.86 Yeah . ami_da_1
+B 913.69 Or what about kind of a dual function ? ami_da_6
+B 913.69 In that you have got the basic buttons just for your play , volume , programme things and also and then a menu to go into with obvious pictures , obvious symbols and that is where you control recording and things like that . ami_da_6
+D 930.83 Yeah . ami_da_1
+D 935.18 The other thing is , just ch chucking into mobile phone f design features again , it could have a flip top remote control so that when you flip over the top , your screen is you can have a bigger screen in the the flip over . ami_da_6
+A 946.04 , okay . ami_da_1
+B 948.48 I think that is a cost thing , I do not I do not know how much we are going to know about ami_da_4
+B 948.48 Yes , no that is important . ami_da_9
+A 948.6 S ami_da_3
+A 948.6 It might ami_da_3
+A 948.6 it might save a b bit of space , it is i instead of looking bulky , it might look small . ami_da_4
+C 949.9 Y ami_da_3
+C 949.9 Yeah . ami_da_1
+D 951.06 Yeah ? ami_da_9
+D 956.78 Yeah , like smaller . ami_da_9
+A 957.38 But it might have its cost implications . ami_da_4
+B 959.48 Okay . ami_da_1
+D 959.69 And there is no reason we need to make it look as fashionable and stylish as a mobile phone , it can still be lightweight plastic , you know ? ami_da_4
+D 959.69 Something that is easily moulded and produced . ami_da_4
+A 966.22 Right . ami_da_1
+B 968.84 Yeah . ami_da_1
+D 969.16 Sorry I am treading on your territory guys . ami_da_14
+C 970.68 No ami_da_9
+C 970.68 Yeah . ami_da_1
+B 972.92 , right , okay ami_da_2
+B 972.92 we have got half an hour before the next meeting , so we are all going to go off and do our individual things . ami_da_4
+B 979.35 I think that is probably about it ami_da_4
+B 979.35 and then we will come back and liaise again ami_da_4
+B 979.35 and I get to do another fantastic PowerPoint presentation . ami_da_4
+C 988.8 Just just a quick thing about the about what you are saying about the does does it need to be fashionable ? ami_da_7
+C 988.8 The sort of ami_da_3
+C 988.8 I I had a quick look at the company website and it is like the the ami_da_4
+C 988.8 we put the fashion into electronics , ami_da_4
+C 988.8 so I think think the whole design thing might be qui ami_da_9
+C 988.8 I mean you do not you ami_da_4
+C 988.8 you can still have plastic ami_da_4
+C 988.8 and it would look quite good but ami_da_9
+C 988.8 Yeah . ami_da_1
+B 991.07 Sure . ami_da_9
+D 1005.06 right . ami_da_12
+A 1005.79 Okay . ami_da_12
+B 1005.86 Okay . ami_da_12
+D 1006.9 Okay . ami_da_1
+D 1009.16 Sure b ami_da_3
+D 1009.16 y ami_da_1
+D 1009.16 yeah . ami_da_1
+D 1013.7 But yeah , I mean it does not have to be that , you know th that was my main point ami_da_4
+D 1013.7 , we do not have to use metal , I do not know if using plastic does make it cheaper , I presume it would . ami_da_4
+C 1022.0 Yeah . ami_da_1
+D 1022.1 Yeah , ami_da_1
+D 1022.1 yeah , ami_da_1
+D 1022.1 yeah . ami_da_1
+B 1022.32 I would it would probably . ami_da_9
+C 1022.74 Yeah . ami_da_1
+B 1025.04 I mean there is Sky remote controls and everything . ami_da_4
+B 1026.89 They are kind of moulded and look a bit different , and the Telewest remote controls are silver plastic , ami_da_4
+B 1026.89 which looks a bit smarter , so ami_da_9
+B 1026.89 yeah ami_da_9
+B 1026.89 I guess that is stuff we can think about . ami_da_9
+D 1032.93 Right . ami_da_1
+D 1037.32 Okay . ami_da_1
+B 1038.65 Okay , so let is break it up there . ami_da_6
+D 1042.19 Okay . ami_da_1
+B 1042.4 Okay ? ami_da_13
+B 1042.4 So , see you in half an hour . ami_da_14

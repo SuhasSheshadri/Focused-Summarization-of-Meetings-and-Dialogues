@@ -1,0 +1,418 @@
+A 40.24 Okay . ami_da_2
+A 42.16 Hello everyone . ami_da_14
+C 43.25 Hi . ami_da_14
+D 43.37 Hi . ami_da_14
+B 43.77 Hi . ami_da_14
+A 44.79 how how we doing ? ami_da_14
+A 44.79 first we going over the minutes of the last meeting , more or less . ami_da_4
+C 48.29 Yeah , good . ami_da_14
+A 56.25 in the last meeting the marketing manager had presented her method of working , meaning gathering i suggestions from everyone to see how she best could market this this product at the within the budget that was given . ami_da_4
+A 81.38 in general the idea is that it should be something that is not difficult to use . ami_da_4
+A 89.75 it is also an item that people lose a lot . ami_da_4
+A 94.57 So we should address that . ami_da_4
+A 98.14 And , of course , it should be something s s that is very simple to use . ami_da_4
+A 105.56 In addition to that to make it sell , of course , the marketing manager w wishes that it be very attractive , or like she says put some sizzle into it in one way or another so that the people are buying it now because , in particular with smaller items , that is a very important fact , because if they say , well , I go home and think about it , that wo not work . ami_da_4
+A 130.79 also mentioned was it should be it should have a very short learning curve . ami_da_4
+A 138.68 And maybe it could be sold by using a slogan . ami_da_4
+A 145.45 Our technical manager has then said that she feels it should have a chip that has infra red bits and it has an interface controls w interface that controls the chip . ami_da_4
+A 161.42 Therefore , messages will be controlled in the same manner . ami_da_4
+A 166.36 There should be extra features like lid buttons , maybe a beep . ami_da_4
+A 170.55 If too many buttons are pressed , child lock and maybe a display clock so that people could you could see the time , you know , what show they want to watch . ami_da_4
+A 188.18 Also mentioned was maybe different shapes . ami_da_4
+A 193.38 So the components of the thing should be button , bulbs , infra infra red bulbs , battery , chips , wires , and maybe some kind of a holder for the for the item . ami_da_4
+A 210.26 Francino who is our interface designer has mentioned that the that it , of course , should have an on off button , and also has mentioned an interesting feature that it should have maybe a channel lock . ami_da_4
+B 213.74 Interface designer . ami_da_4
+A 230.09 Particularly with maybe small children that they could not watch a channel that is undesirable . ami_da_4
+A 235.61 It should be compact . ami_da_4
+A 236.83 Her personal favourite was it should be T shaped . ami_da_4
+A 240.93 And maybe have an anar alarm clock . ami_da_4
+A 243.26 And the material should possibly be not of non allergic nature . ami_da_4
+A 250.22 the different systems that exist are infra red or radio waves . ami_da_4
+A 258.04 maybe it should have electri electrici electricity saving feature . ami_da_4
+A 265.83 And even possibly a timer to so that people can program their favourite program on th right from the remote . ami_da_4
+B 277.31 Yes . ami_da_1
+A 279.09 are we all in agreement that that is about what we discussed last time ? ami_da_11
+A 279.09 Okay . ami_da_9
+C 284.08 Yeah . ami_da_9
+B 284.27 Yes . ami_da_9
+D 284.68 Yeah , I think that pretty much is it . ami_da_9
+D 285.99 Yeah . ami_da_9
+A 286.87 Okay , ami_da_9
+A 286.87 then we I am looking for three presentations . ami_da_4
+A 290.94 And I do not know whether the order matters much , I do not I do not think so , ami_da_9
+A 290.94 so whoever w wants ami_da_8
+A 290.94 Yeah , okay . ami_da_9
+B 297.33 Okay , I can start first . ami_da_7
+B 299.97 Okay . ami_da_9
+B 305.45 Now my slide , please . ami_da_6
+A 306.1 Okay , your slides . ami_da_7
+A 307.34 Okay . ami_da_7
+A 314.19 Oh , come on , close already . ami_da_16
+A 321.45 And that is number two , right ? ami_da_5
+A 321.45 Three . ami_da_12
+B 323.83 Three . ami_da_4
+B 325.8 Participant three . ami_da_4
+B 328.02 Yes . ami_da_9
+B 335.7 Okay . ami_da_2
+A 337.53 Okay . ami_da_9
+B 337.56 Now as an interface designer , I would give more emphasis on the interface , how the remote looks like so that it is sellable , it is attractive to customers . ami_da_4
+B 349.04 Next , please . ami_da_6
+B 351.32 Okay . ami_da_4
+B 351.7 Now the function of a remote is to send messages to the television . ami_da_4
+B 356.89 This messages could be switch on off message or switch to next channel message or swapping the channels or switching onto a particular channel , like you can have the numbers one , two , three , four , up to nine . ami_da_4
+A 373.38 Nine what ? ami_da_5
+A 373.38 Nine channel switches ? ami_da_5
+A 373.38 Nine channel switches ? ami_da_5
+A 373.38 Is ami_da_3
+A 373.38 Yeah . ami_da_9
+B 377.33 Pardon me ? ami_da_12
+B 377.33 Yes , nine numbers . ami_da_4
+B 382.97 And then you have swapping of button by which using which you can swap the channels if you do not want to see the third channel you can swap it to the fourth channel or vice versa . ami_da_4
+B 395.8 Then it should have a next button , and next button channel by which you can keep on v eh scrolling the channels one by one . ami_da_4
+C 402.87 Going to the nex next . ami_da_4
+B 406.85 Next slide , please . ami_da_6
+B 410.4 Then you should have a button which should which ca which can be used for increasing or decreasing the volume . ami_da_4
+B 418.1 Then , there should be a button which can give subtitles for a particular program which is going on a television . ami_da_4
+B 424.59 For example , if you are watching a French program and you would like to have a subtitles in English , then there should be a channel which can trigger this mechanism in the television so that the user can see the the subtitles on the screen . ami_da_4
+B 441.93 Then there should d there should be some buttons which can control features like the colour , colour of the picture , the contrast , sharpness , brightness of the picture . ami_da_4
+B 456.77 Now there should be a memory switch . ami_da_4
+B 462.72 There should be a mute button . ami_da_4
+B 464.72 Suddenly if if if viewer he gets a telephone call , and if he want he does not want to switch off the TV , but he he can reduce the sound , he can bring the volume down and he can watch he can while talking he can watch the TV . ami_da_4
+B 482.36 Now the most important feature I would like to have in my remote would be the speech recognition feature . ami_da_4
+B 490.45 It is an integrated progra programmable sample sensor speaker unit . ami_da_4
+B 498.52 So a remote can be th can be designed which can have the voice recognisers , you can record your own voice which can be recognised by as voice recogniser in the television , for example , if you want to see we if you want to see the ninth channel if you say just say ninth channel , th now the the yeah , the remote will automatically it will switch to the ninth channel . ami_da_4
+B 528.11 So the TV will have some recogniser which will recognise the user is voice and accordingly it will change its functionalities . ami_da_4
+B 535.86 So this is one of the very important feature a remote control can have . ami_da_4
+B 541.18 So this is one one of the interface which can be created . ami_da_4
+B 547.2 A very simple interface which has all the t important features . ami_da_4
+B 553.37 Then , please , next slide . ami_da_6
+B 555.73 Then , these are some of the remotes which are different in shape and colour , but they have many buttons . ami_da_4
+B 562.63 So sometimes the user finds it very difficult to recognise which button is for what function and all that . ami_da_4
+B 568.61 So you can you can design an interface which is very simple , and which is user friendly . ami_da_4
+B 573.6 Even a kid can use that . ami_da_4
+B 575.96 So can you go on t t to the next slide . ami_da_6
+B 579.0 Yeah , so this is one of the interface or one of the remote which has this vi voice recogniser . ami_da_4
+B 585.06 And this has multi purpose use , it can be used for TV , it can be used for cable satellite , it can be used for VCR , DVDs and audio . ami_da_4
+B 595.19 And this has in built voice recogniser . ami_da_4
+B 601.65 Can you go on to the next slide ? ami_da_6
+B 601.65 Yeah , now this is an interface for a chil for a remote which a child can use . ami_da_4
+B 610.14 this is user friendly , it is very attractive and children can use it as well as they can play with it . ami_da_4
+B 616.64 And this comes with different colours , different shapes . ami_da_4
+B 626.93 And this this child interface has minimum buttons and all the important buttons are there in this small , compact , attractive child interface . ami_da_4
+B 646.56 Next slide , please . ami_da_6
+B 647.79 Now this is a big over sized remote which cannot be misplaced or it is impossible to misplace . ami_da_4
+D 656.32 You do not know me . ami_da_14
+B 656.94 this . ami_da_3
+D 657.48 I could lose that in a minute . ami_da_14
+B 661.14 So this is ami_da_3
+B 661.14 No this is a very big , you cannot misplace it anywhere . ami_da_4
+B 667.29 So this is a jumbo universal remote control and it is impossible to im misplace or lose . ami_da_4
+B 673.89 This i this is one such interface which can be created . ami_da_4
+B 678.37 And the personal preference would be a spe to incorporate speech recognisers which will respond to user is voice for a particular function . ami_da_6
+A 690.57 Right . ami_da_1
+B 691.97 Thank you , ami_da_14
+B 691.97 that is ami_da_3
+B 691.97 yes . ami_da_1
+A 711.48 Okay , thank you very much . ami_da_14
+A 713.67 any comments on her presentation ? ami_da_11
+A 713.67 Yeah , I I th ami_da_3
+A 713.67 I think ami_da_3
+A 713.67 No , I think the these are her presentations , but as far as the decision making we getting to that after after ami_da_6
+A 713.67 but if ami_da_2
+A 713.67 I just wanted to know whether anybody had any any anything to add to her presentation . ami_da_11
+D 720.37 Well , looks like we still have quite a choice of things out there . ami_da_4
+D 724.94 what I am ami_da_2
+D 724.94 No suggestion is bad . ami_da_9
+D 728.92 But we are going to have to narrow it down a little more . ami_da_6
+D 731.78 I do not think that we can get ami_da_3
+D 731.78 The T shape is good , the child one is good , the too big to misplace , I think it is just funny . ami_da_9
+D 740.06 I do not think that is going to be our impulse purchase at the checkout counter . ami_da_9
+B 740.4 Okay . ami_da_1
+B 747.79 Okay . ami_da_1
+D 748.14 It is it is going to be a little bit too unwieldy . ami_da_9
+D 751.59 Yeah . ami_da_1
+D 754.76 Have to come back to that later . ami_da_9
+B 755.64 We can . ami_da_1
+D 756.17 Okay . ami_da_9
+D 762.54 No , I think her presentation was good , and she really explored all the options . ami_da_9
+A 764.18 right . ami_da_1
+D 766.43 Yeah . ami_da_9
+A 767.35 Ho who wants to go next ? ami_da_8
+C 770.14 Yeah , maybe . ami_da_7
+A 770.9 Okay , ami_da_9
+A 770.9 and you ami_da_5
+A 770.9 okay . ami_da_9
+C 772.09 Participant two . ami_da_4
+C 778.3 the next one , sorry . ami_da_4
+A 779.59 Oops . ami_da_16
+C 780.1 It is it was the old one . ami_da_4
+C 787.59 Components . ami_da_4
+A 787.6 The components design . ami_da_16
+A 789.47 Okay . ami_da_9
+C 796.98 this time I am I am going to concentrate more on the components and the technical side of the remote controller design . ami_da_7
+C 807.15 , can you go on to the next slide , please . ami_da_6
+C 810.13 I have just brief down few components which we require for the remote control construction . ami_da_4
+C 817.22 the first one is case to keep all the components like integrated circuit , battery , etcetera , etcetera , ami_da_4
+C 817.22 it is like ami_da_2
+C 817.22 it can be a plastic one , hard plastic , so that it can be strong , even if you just , you know , if you if it falls down , then it does not break . ami_da_4
+C 835.49 So it should be strong . ami_da_4
+C 837.53 And there are no harmful materials used in that . ami_da_4
+C 841.99 And it should be recyclable . ami_da_4
+C 845.23 and , ami_da_2
+C 845.23 yeah , ami_da_9
+C 845.23 and also using of colouring compon components like if we want to have different colours , blue , red , green , so we have to use some colouring compone compone components . ami_da_4
+D 846.11 Good point . ami_da_9
+C 858.84 And the second important thing is integrated circuit . ami_da_4
+C 864.44 which we can use a highly sophisticated one because it is like the it is like the heart of the remote controller . ami_da_4
+C 870.57 If it is not efficient then everything wi is going to be like the lef ess less efficient ami_da_6
+C 870.57 so it ami_da_6
+C 870.57 you should we should have a highly sophisticated one . ami_da_6
+C 879.57 And it should be resistant to high as well as low temperatures . ami_da_4
+C 883.48 Suppose if it is thirty eight degrees outside forty degrees outside , it should it should be able to re resist the temperature highs and high temperatures and low temperatures . ami_da_4
+C 895.79 And it should be with equipped with timer and alarm facility . ami_da_6
+C 901.4 And the other component we should we have in the remote controller is a resistor which is like i it is very very much important for the electricity flow through through through the remote controller and also a capacitor which is a b which is a m I think it is it is like a battery , capacitor . ami_da_4
+C 921.99 Can you go on to the next slide , please ? ami_da_6
+C 921.99 a diode , a transistor , a resonator , these are all this technical electri electronic compons components which are which we have to use in a remote controller . ami_da_4
+C 936.92 A battery ami_da_4
+C 936.92 , I would like to suggest one thing ami_da_7
+C 936.92 if we ami_da_2
+C 936.92 if we will be able to make a res rechargeable battery then we sh we need not go for a high performance battery , even if it is a low performance battery ami_da_4
+C 936.92 it ca it ca not l it ca not charge much . ami_da_4
+C 954.34 It it it is not a high voltage battery . ami_da_4
+C 956.28 Then also we can If it is a rechargeable one , then people can use it for a long time , so in that way we can cut cut the cost , but w that we have to make the battery as rechargeable one . ami_da_4
+C 968.32 And we we have a circuit board in a remote controller . ami_da_4
+C 972.15 Can you go to the next slide , please . ami_da_6
+C 974.46 And how it works , how the remote controller works . ami_da_4
+C 977.54 Thank you . ami_da_14
+A 984.52 Go away . ami_da_7
+C 987.14 when you press a button , when you do that , you complete a specific connection that means when you when you press a button there will be a s a small circuit underneath the button , and it will send some signals through the wires , and then the chip will send start connection and knows that which button is pressed . ami_da_4
+C 1006.04 Suppose you have pressed channel one button , number one you have pressed , then the chip will know that the number one button was pressed . ami_da_4
+C 1013.97 It pros produces a mors morse code line signal specific to that button . ami_da_4
+C 1018.28 Every button , every individual button , has its own morse code . ami_da_4
+C 1021.81 Suppose the user has pressed butto button one , then it will have a spe the circuit will generate a specific morse code to b that that button , and the transistor will amplify the signal and send then to the LED which translates the signal into infrared light . ami_da_4
+C 1038.96 Like you have got a signal by pressing a button . ami_da_4
+C 1042.47 That is a d a morse code has been generated by the integrated circuit . ami_da_4
+C 1046.9 Now , that signal , that morse code , has to be amplified by the transistor . ami_da_4
+C 1050.88 That is the use of transist transistor we which we use in the remote controller . ami_da_4
+C 1054.49 It will amplify the signal and it will send it to the LED and which translates the signal into an infra infrared bits . ami_da_4
+C 1062.05 The sensor on the TV can see the infrared light , and seeing the signal seeing the signal re it reacts appropriately , that when it sees the amplified mo morse code signal , then it will it will know which what what action it has to do . ami_da_4
+C 1078.71 Then it will do the appropriate action . ami_da_4
+C 1081.0 So this is how the remote controller works . ami_da_4
+B 1083.82 It works . ami_da_1
+C 1086.08 Can you go to the next slide , please . ami_da_6
+C 1088.18 Yeah , I have few pictures . ami_da_4
+C 1089.5 When you look at the remote controller it is it is it ami_da_3
+C 1089.5 this is a normal remote controller . ami_da_4
+C 1096.02 And to the next slide , please . ami_da_6
+C 1099.16 And where we had a a few buttons and all . ami_da_4
+C 1101.76 And if you open the remote controller you have this circui circuit board and few electronic components , like you can see a chip there which is having eighteen pins , and also a capac a capacitor , three resistors and also a resonator ami_da_4
+C 1101.76 yeah , ami_da_2
+C 1101.76 and di and a diode transistor . ami_da_4
+C 1124.1 The electronic components ami_da_2
+C 1124.1 all of the electronic components have all those things like a chip and d diode transistors an ami_da_4
+C 1124.1 Yeah , di can y ami_da_2
+C 1124.1 you can see the TA double one eight three five labelled chip . ami_da_4
+B 1139.58 yes . ami_da_1
+D 1140.8 Yes . ami_da_1
+C 1142.74 you can also see the the green two green things are these are they are ami_da_4
+C 1142.74 they are resistors , and just beside that you can see a transistor , and a cylinder shape , that one is a capacitor . ami_da_4
+C 1156.95 and also there are resistors ami_da_4
+C 1156.95 sorry , ther there is a diode . ami_da_4
+C 1162.37 Can you go go on to the next slide . ami_da_6
+C 1164.98 So this is the circuit board . ami_da_4
+C 1166.63 The green one is a circuit board . ami_da_4
+C 1168.62 Actually , building a circuit bo board is pretty pretty easy and also it is a it is a l l inexpensive . ami_da_4
+C 1175.06 it is it costs less than what you print on a paper , because when you when you are building some circuits some circuits and also wires , it is it is better to go for printing , because you can build these kind of k circuit boards on a on a bulk and it is just printing , nothing like , you know , you do not need to use wires and all . ami_da_4
+C 1196.07 It is not exactly wires we are using . ami_da_4
+C 1198.42 It is just printing something on a board . ami_da_4
+C 1201.32 Tha tho those prints will acti act as wires and ci circuits . ami_da_4
+C 1206.71 So th that green thing is a circuit board , and also you can see there are b s like access for buttons , like when you press a button , the circuit under the button will be activated ami_da_4
+C 1206.71 th it will ami_da_2
+C 1206.71 it will he get some signals from it and it will it will ch its ch se send a signal signals to the , yeah , integrated circuit . ami_da_4
+B 1224.56 Transmit . ami_da_1
+C 1229.29 Can you go to the next slide , please . ami_da_6
+C 1231.24 so this is ami_da_2
+C 1231.24 these are the circuits un underneath the buttons . ami_da_4
+C 1235.28 can you see the black , round marks ? ami_da_5
+C 1235.28 They they are the circuits . ami_da_4
+D 1237.83 Yes . ami_da_4
+C 1239.98 Next , please . ami_da_6
+C 1241.13 And like we have designed before we have seen some few things like instead off buttons we have some scrolls . ami_da_4
+C 1250.76 b but a b a push button requires a simple chip underneath it , but whereas a scroll wheel requires normally a regular chip which is a higher price range . ami_da_4
+D 1259.97 Okay . ami_da_1
+C 1260.04 Like for s scrolls we have to go for a sophisticated and and k full a complete chip . ami_da_4
+B 1263.62 Okay . ami_da_1
+C 1266.66 and a as energy source we offer a basic battery , a more ingenious hard dynamo , a kinetic provision of energy , more than what is that you shake casually to provide energy . ami_da_4
+C 1279.68 So that also we can have in a battery , or we can use solar sells . ami_da_4
+D 1285.3 , that is interesting . ami_da_9
+C 1287.33 Yeah . ami_da_9
+C 1289.93 yeah ami_da_4
+C 1289.93 the product can be de delivered into different cases . ami_da_4
+C 1293.58 usually , the cases and card flat that w we see usually d a normal remote controller . ami_da_4
+B 1297.17 Okay . ami_da_1
+A 1302.84 Okay . ami_da_2
+C 1303.58 Yeah . ami_da_9
+A 1304.09 And you have more pictures . ami_da_5
+A 1305.22 we have five minutes to the end of the meeting . ami_da_4
+C 1306.72 Yeah , maybe d I have just one more slide , I think . ami_da_4
+C 1312.14 Like we can have a ma material such as plastic , rubber , wood , titanium , but titanium we ca not use . ami_da_4
+C 1318.05 and also for electronics we can use a simple and regular re or an advanced chip on the print , also infra it includes the infrared se sender . ami_da_4
+C 1329.75 yeah ami_da_4
+C 1329.75 the for the movie just to j develop samples and so spe sample speaker . ami_da_4
+C 1337.16 An ami_da_4
+C 1337.16 Yeah , that is it . ami_da_4
+C 1339.22 It is all for me now , ami_da_4
+C 1339.22 thank you . ami_da_14
+A 1340.33 Okay , ami_da_9
+A 1340.33 well thank you . ami_da_14
+A 1342.48 Any particular comments by anybody ? ami_da_11
+A 1342.48 We do not have a lot of time left ami_da_4
+A 1342.48 and we will still have to make a decision , and the marketing expert has to present her her thing . ami_da_6
+D 1346.48 yeah , on the scroll and the push button , ca you can achieve scrolling by repeatedly pushing a button ? ami_da_5
+C 1353.52 No , no , no , th ami_da_4
+C 1353.52 the the the scrolling wheels are different , like you can go for a sw switches like buttons or scrolls , which which we used to do before ten ten years before , I think . ami_da_4
+C 1363.26 Now , nobody uses that because you need you need a a k sophisticated chip and all . ami_da_4
+C 1367.83 So I think it is better we go for ordinary buttons . ami_da_6
+D 1371.09 We will just go for push buttons for in the interest of cost . ami_da_9
+C 1371.72 Yeah yeah ami_da_9
+C 1371.72 , push buttons . ami_da_9
+B 1372.41 Push buttons . ami_da_1
+C 1373.25 Yeah . ami_da_9
+C 1373.96 Yeah . ami_da_9
+D 1374.42 Okay . ami_da_9
+D 1381.16 Okay . ami_da_9
+D 1381.88 Go right to my first my next slide . ami_da_6
+A 1383.83 okay . ami_da_7
+D 1386.41 alright , my method is I am interested in what the competition is doing , and want to see how we can make ourselves different from the competition , so I have really been looking at the press and the ads that are out there for other remote controllers . ami_da_4
+D 1402.22 I s ami_da_4
+D 1402.22 I spend a lot of time on the internet surfing around doing the same thing . ami_da_4
+D 1407.93 And then when I am out in people is houses or at meetings or anything like that , I try to notice what kind of remote controls people have , and if it is convenient in the conversation I ask about it . ami_da_4
+D 1418.86 And I would encourage you all to do the same . ami_da_6
+D 1421.48 and my findings from this is that , you know , small is beautiful . ami_da_4
+D 1426.85 people like something that really fits in their hand . ami_da_4
+B 1429.75 Okay . ami_da_1
+D 1430.16 Simple is beautiful . ami_da_4
+D 1431.44 They do not want to have to squint at small print , they want buttons whose functions are obvious , and they want as few buttons as possible , and they do not care for the mode thing . ami_da_4
+D 1443.55 They want each button to do something . ami_da_4
+D 1445.58 And eye catching is important . ami_da_4
+D 1446.76 It is gotta look cute , it is gotta look appealing . ami_da_4
+D 1449.23 Go ahead , ami_da_6
+D 1449.23 I am trying to finish fast for you . ami_da_7
+D 1451.45 and our preference is , as far as I am concerned , are we got to get to the market before the competition . ami_da_6
+D 1457.82 Ours has to be look really great and it has to come out before the others , so that we have a leg up on time to sell it and push it before other people get out their Christmas item . ami_da_4
+D 1468.4 And we should develop one or two features we can really dwell on in our ad campaign . ami_da_6
+D 1473.54 If we try to tell people it has too many great features , the consumer just gets confused and we do not get anywhere . ami_da_4
+D 1480.32 So we have gotta narrow our selection down to li two things , I think , that we going to say are really great about our our our new product . ami_da_6
+D 1488.72 And I have been looking around at what designs every year different things are popular . ami_da_4
+D 1494.81 And in my research this year I found out that fruit and vegetable shapes are really popular . ami_da_4
+D 1499.39 And people are tired of hard plastic and hard metal . ami_da_4
+D 1503.24 They are more back into soft feel , spongy feeling things , things with maybe a little cloth on them . ami_da_4
+D 1509.82 So those are things maybe we want to look at as far as saleability of the item . ami_da_6
+A 1517.17 Okay . ami_da_2
+A 1518.2 that concludes the presentation of everyone . ami_da_4
+A 1524.85 And what we really have to decide in this meeting is the concept of the remote . ami_da_6
+A 1533.62 And so what do we think on the concept of the remote ? ami_da_8
+A 1533.62 Y ami_da_3
+A 1533.62 Okay . ami_da_9
+D 1545.19 You want to try to come back to yours , and limit yours a bit ? ami_da_6
+D 1545.19 Okay . ami_da_9
+B 1547.66 yes , ami_da_7
+B 1547.66 I would like to include this feature which is called as voice recogniser . ami_da_6
+D 1556.31 So speech recognition is most important as far as you are concerned ? ami_da_11
+D 1556.31 Yeah h that could that could that could be our star feature . ami_da_9
+C 1559.51 Yeah , but w ami_da_3
+C 1559.51 Yeah . ami_da_1
+B 1559.94 This could be one feature which could be sellable . ami_da_9
+A 1563.7 I think that is ami_da_3
+D 1565.29 That that be really good , ami_da_9
+D 1565.29 yeah , ami_da_9
+D 1565.29 I agree with that . ami_da_9
+C 1566.82 Yeah , ami_da_9
+C 1566.82 but but I what I am very very much doubtful how how far it will work , ami_da_9
+C 1566.82 because a speech recogniser like i it it has its own problems , issues . ami_da_4
+D 1577.14 Distance problem ? ami_da_5
+C 1578.56 Yeah , it is not distance problem ami_da_4
+C 1578.56 it it is recognising a person is voice , like maybe different people will be having different voices , ami_da_4
+C 1578.56 so it like it is everything ami_da_3
+C 1578.56 so ami_da_3
+C 1578.56 i ami_da_3
+C 1578.56 So to get a good recogni recognising system , it is a costly thing , I think . ami_da_4
+A 1586.54 Well , you you teach ami_da_9
+A 1586.54 You have to teach ami_da_9
+A 1586.54 Okay , before we get too far off here , ami_da_16
+A 1586.54 the components of the concept is the energy . ami_da_4
+B 1591.21 No , it is it is , yeah , ami_da_2
+B 1591.21 it it is like your recording of all a question already , and then you are expecting an answer from th ami_da_4
+B 1591.21 For example , you have a TV system , I am the user and my family members are the user , I will already record a question like , good morning , like around eight o'clock I want to see the news in the television . ami_da_4
+C 1607.27 Yeah , but ami_da_3
+C 1607.27 Yeah . ami_da_1
+B 1614.38 So I will say just good morning and the TV will switch on . ami_da_4
+B 1617.56 It will recognise my voice and will switch on . ami_da_4
+C 1619.41 Yeah . ami_da_1
+A 1626.07 What kind of energy do we foresee ? ami_da_8
+A 1626.07 Battery . ami_da_11
+D 1630.36 I think I think battery , ami_da_6
+D 1630.36 and I think we all agreed on that . ami_da_4
+A 1631.75 Battery . ami_da_9
+B 1631.84 Battery . ami_da_1
+D 1633.63 That that is that is going to be most cost effective and the best thing . ami_da_9
+B 1633.76 Yes . ami_da_1
+C 1634.35 Yeah . ami_da_1
+C 1635.15 Yeah . ami_da_1
+A 1636.99 Okay then chip on print . ami_da_11
+C 1639.36 Yeah . ami_da_9
+D 1639.78 Yep . ami_da_9
+B 1640.0 Yes . ami_da_9
+A 1640.48 Okay . ami_da_9
+A 1641.76 And the case . ami_da_4
+A 1642.67 And I think we all agree on the case , ami_da_4
+A 1642.67 we want to have something maybe bright , colourful . ami_da_6
+C 1647.65 Yeah . ami_da_9
+D 1648.16 Bright , colourful , trendy trendy design , and strong . ami_da_9
+B 1648.81 And compact . ami_da_9
+C 1649.14 And also strong . ami_da_9
+C 1650.87 Trendy , yeah . ami_da_9
+B 1651.19 Trendy design and compact . ami_da_9
+A 1654.79 Trendy design , compact and strong . ami_da_9
+B 1657.46 Yes . ami_da_9
+A 1660.28 User interface concept , interface type , supplements ami_da_8
+A 1669.6 That will be your area I think , right , Jana . ami_da_9
+C 1674.28 like the switches , like we use buttons for user interface . ami_da_5
+B 1678.85 Push buttons . ami_da_4
+A 1679.51 Put k I guess for ami_da_2
+A 1679.51 yeah . ami_da_9
+C 1679.92 Push buttons . ami_da_9
+A 1685.19 And ami_da_2
+A 1685.19 Not sure what they mean by supplements . ami_da_4
+B 1687.91 And ami_da_3
+B 1687.91 Supplements like different types of features buttons , like can have a f mute button or a swapping button . ami_da_4
+C 1689.26 Yeah . ami_da_1
+D 1689.9 Well , I think that ami_da_3
+D 1689.9 Yeah , ami_da_9
+D 1689.9 or or like her speech recognition would also be a supplement . ami_da_4
+A 1693.17 Oh , like ami_da_3
+A 1693.17 Oh . ami_da_9
+D 1696.94 Her speech recognition feature would be a supplement . ami_da_4
+A 1697.01 A what ? ami_da_12
+A 1697.01 Right , right , right , . ami_da_9
+B 1698.39 Recogniser . ami_da_9
+C 1698.96 yeah . ami_da_1
+B 1699.39 Yes . ami_da_9
+D 1700.12 Okay , so why do not we put down speech recognition if possible pending some more research from our industrial engineer on how expensive that is . ami_da_6
+C 1707.23 Yeah . ami_da_1
+A 1707.41 Right . ami_da_9
+B 1707.57 Yes . ami_da_9
+A 1711.6 Okay . ami_da_4
+A 1712.59 our next meeting will be in thirty minutes , ami_da_4
+A 1712.59 and the ID is to ami_da_3
+A 1712.59 this is the individual actions to be taken until then , to have the look and feel design , and the UID is supposed to come up with the user interface design , and the marketing expert with the product evaluation . ami_da_4
+D 1742.36 Okay . ami_da_1
+A 1743.01 In this phase , the two of you , Jana and Francine , have to work together on a prototype using modelling clay , it says here . ami_da_4
+B 1748.75 Okay . ami_da_1
+A 1752.88 You will receive specific instructions will be sent to you by your coaches . ami_da_4
+B 1758.32 Okay . ami_da_1
+A 1759.54 if you have any questions , you know , you you can always contact me or or your coach , I suppose . ami_da_6
+A 1773.27 so ami_da_2
+A 1773.27 I think we conclude the meeting here and we come back in thirty minutes , according to our timetable here . ami_da_4
+C 1781.33 Yeah . ami_da_1
+B 1781.41 Okay . ami_da_1

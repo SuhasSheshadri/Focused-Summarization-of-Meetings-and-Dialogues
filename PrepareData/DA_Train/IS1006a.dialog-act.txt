@@ -1,0 +1,353 @@
+B 19.68 Oops . ami_da_16
+A 21.23 So , hello everyone . ami_da_14
+A 22.95 We are here to have a kick off meeting for the design of a f for the beginning of new project remote control for the design for a new remote control . ami_da_4
+A 36.12 I am the Project Manager Christa Pavlov ami_da_4
+A 36.12 and okay let is begin . ami_da_6
+A 45.68 So ami_da_2
+A 45.68 I am first going to do an opening then we get used to one anothers and we speak about this tool we are going to design and try to make a project plan , some discussion ami_da_4
+A 45.68 and then we talk of the next meeting . ami_da_4
+A 73.68 So we want to to do a new remote control . ami_da_4
+A 79.67 It has to be original , trendy and user friendly . ami_da_4
+A 86.85 I think the important points we have to t talk about are it is functional design , it is conceptual design , and desail detailed design . ami_da_4
+A 100.72 and for that we are going all to work individually and then have meeting during the whole day . ami_da_4
+A 111.62 , so let is try the whiteboard . ami_da_6
+D 117.75 Wow . ami_da_16
+A 120.42 so any of you who want to go . ami_da_8
+B 124.48 Yeah , for favourite animals . ami_da_7
+B 128.04 It is going to be not my favourite one but the one I can draw . ami_da_4
+B 133.41 And it is going to be you will try to guess . ami_da_6
+D 137.15 Wow . ami_da_16
+A 146.83 Wow . ami_da_16
+D 147.99 Complex . ami_da_14
+D 150.94 Huh ? ami_da_16
+D 150.94 A cat . ami_da_5
+C 154.56 No . ami_da_4
+B 155.79 No . ami_da_4
+D 156.19 No . ami_da_9
+D 157.01 Darn . ami_da_9
+A 160.08 A rabbit . ami_da_5
+B 161.11 Yes , that is a rabbit . ami_da_4
+D 163.3 A what ? ami_da_12
+D 163.3 A r a rabbit , ami_da_12
+D 163.3 oh oh yeah , ami_da_12
+D 163.3 where is the carrot ? ami_da_14
+D 163.3 Okay . ami_da_9
+B 163.42 That is my favourite one . ami_da_4
+A 163.82 A rabbit . ami_da_4
+C 165.01 Rabbit . ami_da_4
+B 172.09 That is it . ami_da_4
+A 173.42 You want to go ? ami_da_6
+A 173.42 A human ami_da_5
+D 174.79 I am not very good at this kind of stuff . ami_da_9
+D 179.62 My favourite animal is Guess . ami_da_4
+B 186.19 Wow . ami_da_16
+C 187.18 You wa ami_da_3
+C 187.18 Is the white ami_da_5
+C 187.18 okay . ami_da_9
+D 191.19 A human , yay . ami_da_9
+D 193.98 It is a very complex animal ami_da_4
+D 193.98 and yeah . ami_da_9
+B 196.92 No . ami_da_9
+D 200.27 Characteristics of this this animal is dangerous . ami_da_14
+A 208.04 I think you are supposed to , yeah . ami_da_4
+C 226.1 I guess you can . ami_da_3
+B 228.44 Wow . ami_da_16
+B 229.16 That is cobra . ami_da_4
+D 230.36 , a kind of snake ? ami_da_5
+D 230.36 Cobra ? ami_da_5
+D 230.36 Exactly . ami_da_9
+C 234.4 Yeah not really . ami_da_4
+C 235.81 Small cobra . ami_da_9
+B 236.72 No , it just small cobra , yeah . ami_da_9
+D 238.45 Uh huh . ami_da_16
+A 239.66 Is that a worm ? ami_da_5
+A 239.66 Or ami_da_5
+A 239.66 yeah ami_da_7
+A 239.66 Christa Pavlov . ami_da_4
+B 239.78 It is co c quite recognisable . ami_da_9
+D 245.69 What about you ami_da_6
+D 245.69 Christa ? ami_da_12
+D 245.69 A fish . ami_da_4
+C 249.52 Chris . ami_da_12
+B 249.96 Christa Christa . ami_da_12
+A 262.43 Smiling fish . ami_da_4
+C 262.96 Smile fish . ami_da_9
+D 263.75 A smiling fish . ami_da_9
+B 268.02 Okay . ami_da_1
+D 268.41 So , w whiteboard is working ? ami_da_4
+D 268.41 Good . ami_da_9
+C 270.45 Yeah . ami_da_9
+A 270.47 Yeah . ami_da_9
+D 272.74 Next . ami_da_6
+A 273.87 Next . ami_da_9
+A 274.82 Let is talk about money . ami_da_6
+B 274.84 Just tr try to guess who is a User Interface Designer . ami_da_14
+D 278.44 Yeah , well . ami_da_2
+B 279.57 According to the drawings . ami_da_14
+D 282.8 Not me . ami_da_4
+C 285.95 Yeah , you are ami_da_9
+B 286.26 Okay . ami_da_1
+D 287.85 So . ami_da_4
+A 288.78 So . ami_da_2
+D 289.27 Twenty five Euro for a remote control . ami_da_4
+A 291.73 Yeah , ami_da_9
+A 291.73 that is the price we want to ami_da_2
+A 291.73 that is the aim for the price for the remote control . ami_da_4
+D 295.61 Okay . ami_da_1
+A 299.46 We aim to do this profit . ami_da_4
+D 306.71 it is big number . ami_da_9
+B 307.47 On the international market . ami_da_4
+A 307.75 Yeah . ami_da_9
+C 309.39 Yeah , we are to sell two million then . ami_da_4
+B 311.75 Wow . ami_da_16
+A 313.73 for a production cost of twelve fifty Euros maximum . ami_da_4
+A 323.34 Okay . ami_da_2
+A 327.2 So any of you have experience in remote controls ? ami_da_5
+A 327.2 That ami_da_3
+A 327.2 So that could be a great application . ami_da_9
+D 332.11 yes , we have plenty at home . ami_da_4
+C 332.36 yeah . ami_da_4
+D 336.15 In fact , my daughter likes l remote controls . ami_da_4
+B 339.85 To eat ? ami_da_14
+B 339.85 Children proof . ami_da_1
+D 340.77 To eat ? ami_da_14
+D 340.77 Yeah , mainly , and to break . ami_da_14
+A 348.8 Remote controls children proof . ami_da_4
+D 351.33 Yeah . ami_da_9
+D 351.93 yeah . ami_da_9
+D 354.52 So she likes buttons which make click , ami_da_4
+D 354.52 so it has to click . ami_da_6
+C 356.83 Yeah , pret ami_da_1
+C 356.83 Yeah . ami_da_1
+A 357.24 Okay . ami_da_1
+A 361.76 So they have to be waterproof maybe ? ami_da_11
+A 361.76 Because they eat she ate it . ami_da_4
+D 364.26 It has to be wha baby proof ami_da_6
+D 364.26 yeah ami_da_9
+D 364.26 but mainly it has to be very robust ami_da_6
+D 364.26 because even if she is not very tall she is high enough so that when she throw it away it is ami_da_4
+D 364.26 So it has to be very robust . ami_da_6
+B 382.63 Okay , unbreakable . ami_da_9
+D 384.32 Unbreakable , yeah . ami_da_9
+B 385.01 Uh huh . ami_da_1
+C 385.37 Yeah , we have some child lock or something , yeah . ami_da_6
+D 390.31 And ami_da_2
+D 390.31 it has to be nice looking , colourful , maybe ami_da_6
+D 390.31 colourful , because nobody has colourful remote control ami_da_4
+D 390.31 , they are always black , yeah , ami_da_9
+D 390.31 but this one could be I dunno , purple or b ami_da_6
+D 390.31 Yeah , ami_da_9
+D 390.31 yeah . ami_da_9
+C 396.51 Yeah . ami_da_1
+A 397.76 Colourful , yeah . ami_da_9
+B 398.5 Colourful ? ami_da_9
+B 398.5 That is not practical . ami_da_9
+C 400.26 Yeah . ami_da_1
+A 401.83 No , that is a good idea . ami_da_9
+C 402.1 Yeah , it is always black or yeah . ami_da_9
+A 404.01 mm mm . ami_da_1
+B 404.04 No . ami_da_9
+B 408.12 But how going to ami_da_3
+B 408.12 okay , ami_da_9
+B 408.12 just but it is monochrome it is ami_da_11
+B 408.12 n it is not like ami_da_11
+B 408.12 Otherwise you will never find it . ami_da_9
+A 408.44 Yeah . ami_da_1
+C 412.0 Yeah . ami_da_1
+A 413.53 No , ami_da_9
+A 413.53 because you think , why not . ami_da_11
+C 413.55 Yeah . ami_da_1
+D 415.27 One colour . ami_da_16
+C 416.87 Yeah . ami_da_1
+D 417.57 Yeah , ami_da_1
+D 417.57 yeah . ami_da_1
+C 418.1 Yeah even we can change colours , no ? ami_da_6
+C 418.1 Like the ami_da_2
+C 418.1 like the phones and these things we c ami_da_9
+C 418.1 yeah . ami_da_9
+D 420.52 Oh like the phones , yeah , it could change colours , yeah . ami_da_9
+B 422.49 Cool . ami_da_1
+C 424.09 At least for children like one colour and . ami_da_6
+B 425.1 Ch ami_da_3
+B 425.1 Yeah , but without any extremes like n not of this size , not too large . ami_da_9
+D 426.02 Yeah . ami_da_1
+D 428.47 Good . ami_da_9
+A 428.94 Good idea . ami_da_9
+C 430.04 And it should be really small and . ami_da_6
+A 433.67 Small also ? ami_da_11
+A 433.67 Do not you think ami_da_3
+A 433.67 No , not too much buttons or . ami_da_9
+C 434.81 Huh not so big like ami_da_9
+C 434.81 yeah . ami_da_9
+C 439.79 Yeah , not too much buttons and ami_da_9
+D 442.01 Should it be , y you know these remote controls where they are what they call a universal ret remote control ami_da_6
+D 442.01 so y you can decide that now it is the remote control for the television , then it is the remote control for the the sound system , or for your refrigerator ami_da_4
+D 442.01 whatever ami_da_16
+D 442.01 I dunno if it is ami_da_3
+D 442.01 Or if we should have a targeted re remote control . ami_da_11
+C 455.82 Yeah . ami_da_1
+A 460.26 Yeah , ami_da_1
+A 460.26 that is ami_da_3
+A 460.26 Okay . ami_da_1
+A 469.16 So , I think there is ami_da_3
+A 469.16 So you you think it is better if small than bigger . ami_da_11
+D 469.25 So colour , robustness , easy to use , size , yeah , size matters , yeah . ami_da_9
+C 474.15 Yeah . ami_da_9
+C 475.2 Colour , size , sh ami_da_9
+C 475.2 Yeah , maybe at least n not bigger than this I guess . ami_da_9
+A 486.88 No , not too small , yeah . ami_da_9
+C 487.11 Yeah yeah , ami_da_1
+C 487.11 at least it should hold in your hand n properly , like . ami_da_9
+B 488.02 Okay . ami_da_9
+D 488.2 Yeah . ami_da_1
+B 492.18 Yeah , like a palm sized . ami_da_9
+C 493.32 Yeah . ami_da_9
+B 494.26 Just to hold it . ami_da_9
+A 496.1 Okay . ami_da_1
+D 498.65 But what would be different from this , from the others ? ami_da_8
+D 498.65 I dunno if ami_da_3
+D 498.65 Yeah , at least the colour would be different . ami_da_9
+C 504.15 maybe we can change the colours that at least the frame . ami_da_6
+C 510.1 S ami_da_4
+C 510.1 so then it depends ami_da_4
+C 510.1 you are to ami_da_3
+C 510.1 I mean you c you can easily remove the frame . ami_da_4
+D 516.02 I think one thing important for instance in this remote control if you remember when people use it ami_da_4
+D 516.02 they are they never find a good button in the right place . ami_da_4
+C 522.87 Yeah , ami_da_1
+C 522.87 yeah . ami_da_1
+D 523.64 For some reason they they they click the off button when they want to use the ami_da_4
+D 523.64 So there is a problem in the design of that kind of remote control somehow , ami_da_4
+D 523.64 I dunno . ami_da_9
+C 524.82 Yeah . ami_da_1
+C 527.54 Yeah . ami_da_1
+A 532.22 So , some kind of idea with cellular phone with a a screen that will tell you what ami_da_6
+A 532.22 no . ami_da_9
+B 542.32 No , no screens , it is too complex . ami_da_9
+A 544.63 Okay . ami_da_9
+D 545.19 Too expensive for twelve Euro ? ami_da_9
+C 546.41 Too expensive , yeah . ami_da_9
+B 546.95 And n maybe not too expensive , ami_da_9
+B 546.95 well it is not my problem , ami_da_4
+B 546.95 but well okay . ami_da_2
+A 547.64 And too expensive . ami_da_9
+B 551.94 But no screens on remote controls . ami_da_9
+D 555.6 I thought it could be only a screen which would change depending on the use or even the user . ami_da_6
+D 563.42 So ma I prefer to have the off button at the top right , ami_da_6
+D 563.42 so I would have my own design of the remote control because it is in fact just a a full touch screen remote control , ami_da_4
+D 563.42 if you if you like . ami_da_11
+C 567.32 yeah . ami_da_1
+C 576.4 I mean it it is like ami_da_2
+C 576.4 it is like two types no ? ami_da_9
+C 576.4 people are right handed or left handed so y because I am left handed ami_da_4
+C 576.4 I use like this , say if you are right handed you use like this ami_da_4
+C 576.4 or so tha ami_da_6
+C 576.4 your switch on and off should be on ami_da_6
+C 576.4 yeah . ami_da_9
+D 576.77 I do not know if it makes sense , but ami_da_11
+D 576.77 Yeah , for instance , . ami_da_9
+A 578.04 Mm mm . ami_da_1
+A 590.76 So adaptable ami_da_9
+A 590.76 yeah something ami_da_3
+A 590.76 yeah . ami_da_1
+B 592.53 Adaptable . ami_da_9
+D 592.64 Maybe , if if it is possible , yeah . ami_da_9
+B 593.36 Alright , good , ami_da_9
+B 593.36 so how many actions do we need to implement in it ? ami_da_5
+B 593.36 On off ? ami_da_5
+B 593.36 I mean if it is less than three then we can make it like a ami_da_6
+B 593.36 like three mental states , ami_da_4
+B 593.36 yeah you know what I mean , ami_da_11
+B 593.36 we can just make it controlled by a brain , huh ? ami_da_14
+C 593.37 huh . ami_da_3
+C 598.18 Maybe I think even we can keep two switches and then we can only make one working . ami_da_6
+D 600.5 Yeah . ami_da_1
+C 604.09 We can adapt only one switch , suppose here like we can make two switches ami_da_6
+C 604.09 and if I am left hander I use this switch to follow the main operations . ami_da_4
+C 617.16 Two . ami_da_4
+D 617.84 Three buttons you mean ? ami_da_5
+A 619.88 Three option . ami_da_5
+C 623.44 Yeah . ami_da_1
+C 624.6 Yeah . ami_da_1
+D 629.02 , yeah , sure . ami_da_14
+A 630.12 Maybe if it is more , if there is a software inside ami_da_6
+A 630.12 that ask you three ami_da_3
+A 642.68 If it if we want a r universal remote control that we sa like we say before it may may need more than three three button , three possibilities , yeah . ami_da_4
+B 654.36 Sh sure , sure . ami_da_9
+D 654.37 Yeah , ami_da_9
+D 654.37 more than three actions that you may want to do at a given time . ami_da_4
+C 655.49 yeah . ami_da_1
+C 657.69 Yeah . ami_da_1
+B 659.68 But for standard actions you usually what do you do , you change channels , you adjust volume , and nothing else . ami_da_4
+D 668.0 Yeah ami_da_9
+D 668.0 but for instance when you change channels you can have you can just go to the next one or go to channel twenty five . ami_da_4
+C 675.24 Yeah . ami_da_1
+D 676.53 And that is already more complex to go to channel twenty five . ami_da_4
+B 680.36 You do this ? ami_da_5
+B 680.36 I usually just change channels . ami_da_4
+C 682.0 Yeah . ami_da_1
+D 682.33 no . ami_da_4
+D 685.56 Because I am only using three or four channels ami_da_4
+D 685.56 but And then back to the one I was before , so there is whichever it was . ami_da_4
+C 689.33 Yeah . ami_da_9
+C 690.1 But they keep generally their t slash slash this thing and then the dash dash and then you can put ami_da_4
+C 690.1 yeah , ami_da_4
+C 690.1 you can only have one bit . ami_da_4
+A 696.56 Yeah . ami_da_9
+A 697.22 I change channel like this , m I want to go to twenty five , and then to ten , uh huh ami_da_4
+A 697.22 yeah . ami_da_4
+C 699.28 Dash . ami_da_16
+A 705.24 Also we can be here ami_da_9
+A 705.24 yeah , ami_da_9
+A 705.24 that would be cool . ami_da_9
+B 706.26 Uh huh . ami_da_1
+C 706.41 Yeah you can ami_da_1
+C 706.41 yeah . ami_da_1
+B 707.57 Go back button is good . ami_da_9
+C 707.96 Yeah . ami_da_1
+D 708.21 Yeah . ami_da_9
+D 708.68 we had that in in other countries . ami_da_4
+B 709.47 I once had it . ami_da_4
+C 709.96 Yeah ami_da_9
+C 709.96 yeah , the previous button is . ami_da_9
+A 711.41 yeah . ami_da_1
+D 712.29 Yeah e even the history ami_da_6
+D 712.29 so you could like undo previous of the previous . ami_da_6
+C 714.36 , okay . ami_da_1
+B 715.61 History . ami_da_1
+C 716.1 Oh . ami_da_16
+D 719.88 Then you can watch what your you could also record your record your sequence of actions , that becomes more complex , but you could look at what the other people have used there or remote controls . ami_da_4
+C 723.95 Yeah . ami_da_1
+C 732.96 Yeah ami_da_9
+C 732.96 yeah , ami_da_9
+C 732.96 what the which channels the viewer Marketing ami_da_9
+C 732.96 yeah . ami_da_9
+A 734.36 Mm mm . ami_da_1
+D 735.61 Yeah ami_da_9
+D 735.61 maybe it is a ami_da_3
+D 735.61 Okay . ami_da_1
+A 738.38 Okay . ami_da_2
+A 739.24 So I think we have full of idea . ami_da_9
+A 743.28 we are going to meet again in thirty minutes and I want you to work on these ideas ami_da_4
+A 743.28 and try to make a the ones , make to decide what what are the ones important and what are the one that we do not want . ami_da_6
+A 767.69 And m maybe more in the technical parts what do we want to do . ami_da_6
+A 778.65 So your personal coach will send you some instruction for for this thirty minutes . ami_da_4
+D 785.7 So what does ME means ? ami_da_5
+D 785.7 ME the user requirements ? ami_da_5
+D 785.7 Or that is that is for us ? ami_da_5
+D 785.7 that is me . ami_da_4
+B 790.71 Market Expert . ami_da_4
+D 792.96 Oh , of course yeah , ami_da_9
+D 792.96 the user requirement specifications , ami_da_16
+D 792.96 uh huh ami_da_9
+D 792.96 , yeah . ami_da_9
+D 801.58 Okay . ami_da_7
+A 802.62 okay . ami_da_1
+D 802.79 I will think of that . ami_da_7
+A 810.34 So . ami_da_2
+D 811.43 So ? ami_da_5
+D 811.43 Meeting is over ? ami_da_5
+D 811.43 Great . ami_da_9
+A 812.12 I think that is all . ami_da_4
+A 814.62 Yeah . ami_da_4
+B 814.88 Okay . ami_da_1

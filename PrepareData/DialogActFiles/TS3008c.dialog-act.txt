@@ -1,0 +1,1058 @@
+A 94.69 Okay , all set ? ami_da_5
+A 94.69 Welcome to the conceptual design meeting . ami_da_4
+B 96.26 , okay . ami_da_4
+C 96.31 Yes . ami_da_4
+A 100.47 The agenda . ami_da_4
+A 102.17 The opening . ami_da_4
+A 103.72 I will again be the secretary and make minutes , take minutes , ami_da_7
+A 103.72 and it will be three presentations , just like the last meeting . ami_da_4
+A 113.13 So , who wants to start off ? ami_da_8
+A 113.13 Technical designer again ? ami_da_6
+A 113.13 Okay . ami_da_9
+B 117.72 Again . ami_da_7
+A 142.06 , yeah . ami_da_4
+A 142.8 , before we begin it , I want to say I have I have put the minutes of the second meeting in the shared folder , but they are still not quite okay . ami_da_4
+A 152.57 It it still some technical difficulties so the the first part of the minutes are very hard to read , because there are two documents that were layered over each other . ami_da_4
+D 164.03 Okay . ami_da_9
+A 164.23 So ami_da_2
+A 164.23 But , from now on I wo not use my pen anymore , so will be p just ordinary keyboard . ami_da_7
+B 170.81 , may be better , yeah . ami_da_9
+D 172.03 Keyboard work . ami_da_9
+A 172.75 I think it will will be more easy for you to read the minutes . ami_da_9
+D 172.77 Yeah . ami_da_9
+B 176.15 Yeah . ami_da_1
+D 177.77 Alright . ami_da_9
+C 179.25 Okay , when we talk about components design , it is really about the material and the and really the stuff we build the remote controls of . ami_da_4
+C 192.95 , a remote control consist of components and the components of a remote control consist of properties and material . ami_da_4
+C 201.28 We have to choose th these wisely ami_da_6
+C 201.28 and it could affect a kind of grow of in in buying the remote controls . ami_da_4
+C 214.95 , the components of a remote control are of course the case . ami_da_4
+C 220.27 the properties of the case , it has to be solid in hard material like hard plastic with soft rubber for falling and ami_da_4
+C 220.27 and yeah , it feels good in your hand . ami_da_4
+C 237.56 the buttons has to be solid too , and the material is soft rubber . ami_da_4
+C 243.38 I have got a email from the possibilities of Real Reaction . ami_da_4
+C 250.81 they are telling me that when we build a remote control of of plastic or rubber , the buttons have to be rubber too . ami_da_4
+C 265.09 It is okay . ami_da_9
+C 268.76 Yeah . ami_da_9
+C 270.03 I when we use a rubbled a doubled curved case , we must use a rubber push buttons to the the rubber double curved case is a is a t three dimensional curve in the in the design , which is necessary when we want to be trendy . ami_da_4
+C 288.16 the energy source , I have got a lot of possibilities for that too . ami_da_4
+B 293.77 Oh . ami_da_3
+C 300.71 the basic battery , which I thi prefer because of its its non non depending of of of here you have to have a hand ami_da_4
+C 300.71 yeah , kinetic energy . ami_da_4
+C 322.69 Also in this one , like in the watches , but a remote control can lie on a table for a day , and then you push a button and so you do not have to walk with it all the all the time . ami_da_4
+C 335.81 , solar cells are also a bit weird for remote controls . ami_da_9
+C 343.09 also the case material , ami_da_4
+C 343.09 I think that plastic is the is the best with rubber , because wood or titanium would also be a bit weird . ami_da_9
+B 360.19 Oh titanium is probably trendy , I think . ami_da_9
+D 365.68 That is true , I guess . ami_da_9
+D 366.84 Yeah . ami_da_9
+B 368.15 Well , maybe a little bit expensive . ami_da_9
+B 372.23 I do not know . ami_da_4
+D 372.94 Huh . ami_da_3
+C 373.36 , they do not tell anything about the cost of titanium . ami_da_4
+C 377.85 the chip ami_da_2
+C 377.85 the chip set and the board is all off the shelf . ami_da_4
+C 386.3 Also , the speaker in the remote control , when we want to retrieve it . ami_da_4
+C 391.46 , the base station is also off the shelf , all the materials and the components are just available in in our factory . ami_da_4
+C 406.05 I have told about the three first points . ami_da_4
+C 414.31 , the simple electronical chip is is available with the LED transmitter transmitter . ami_da_4
+C 424.09 , it is all off the shelf and even the speaker and the wireless retriever are all available in our company . ami_da_4
+C 434.06 , another possibility . ami_da_4
+C 435.9 I ami_da_4
+C 435.9 yeah , ami_da_4
+C 435.9 I looked up on was the LCD displays . ami_da_4
+C 443.2 Could be something special to our remote control , and it is possible , but it only cost a bit more , but maybe it can be within the limits of twenty five Euros . ami_da_4
+A 457.37 Twelve and a half . ami_da_4
+C 459.02 yeah . ami_da_9
+A 459.27 Actually ami_da_4
+A 459.27 What are those , t tooth brushes , or so ami_da_5
+A 459.27 But it is actually kind of ami_da_2
+A 459.27 well , it resembles the design I had in mind for this proj ami_da_4
+A 459.27 You know the the cartoonish Alessi kind of design . ami_da_4
+D 459.29 Yeah . ami_da_9
+B 459.8 Yeah , production cost . ami_da_9
+C 464.0 I th ami_da_4
+C 464.0 I got an email with some examples and it these were were the most trendiest one . ami_da_4
+C 471.58 You see a covers , which can be , I do not know . ami_da_4
+C 479.57 Yes . ami_da_1
+B 482.52 I ami_da_3
+B 482.52 Different colours also . ami_da_6
+D 486.22 Yep . ami_da_1
+C 491.63 Yes , maybe we can bri bring a couple of couple of types of maybe a kind of whole a whole set of different remote controls . ami_da_6
+A 494.91 And we can we can steal their ideas . ami_da_14
+C 509.54 Maybe we can bring a whole line with with a huge variety of house stuff . ami_da_6
+A 509.92 Huh . ami_da_1
+A 517.62 Well , it is a possibility , too . ami_da_9
+C 519.57 Like maybe radios and television also in this in this in the same style , but ami_da_6
+C 519.57 Yes , ami_da_9
+C 519.57 because we have to we have to we have to bring the logo and all the stuff back into it . ami_da_6
+A 522.33 Uh uh . ami_da_1
+D 525.99 Yeah , that will be for the future , I guess . ami_da_9
+A 526.23 Okay . ami_da_1
+A 529.62 Next time we are here . ami_da_9
+D 530.57 Yeah . ami_da_9
+B 530.62 Yeah . ami_da_9
+A 533.9 Oh , okay . ami_da_9
+D 535.33 Yeah . ami_da_9
+D 535.88 Definitely . ami_da_9
+A 540.22 Okay . ami_da_9
+C 540.38 Thank you . ami_da_14
+D 540.44 Alright . ami_da_9
+B 540.58 Okay . ami_da_9
+D 544.35 Yeah . ami_da_9
+D 545.66 That is okay . ami_da_9
+B 560.87 Well , I shall go to the next slide . ami_da_7
+B 563.19 , I still do not have any information about user requirements . ami_da_4
+B 570.67 I was thinking about just the basic functions and I got ami_da_4
+B 570.67 Yeah , ami_da_9
+B 570.67 but but then wh I do not know when there are new user requirements . ami_da_9
+A 575.64 Oh , we decided upon that in the last meeting . ami_da_4
+A 580.19 Did not we ? ami_da_5
+A 580.19 Oh , okay . ami_da_9
+B 586.01 I ha ami_da_3
+B 586.01 I ami_da_3
+B 586.01 ha I have the ami_da_3
+B 586.01 I have ami_da_3
+B 586.01 nothing . ami_da_5
+A 586.49 Well , tha I did not receive any new requirements or somethi ami_da_4
+A 586.49 Just ami_da_3
+A 586.49 no , ami_da_4
+A 586.49 but we decided to use only b basic functions only . ami_da_4
+B 594.05 Well , I have here a couple of basic functions I could think of . ami_da_4
+A 597.43 Okay . ami_da_9
+B 598.49 I dunno if they are maybe a little bit more , but ami_da_4
+B 598.49 Yeah . ami_da_9
+A 603.98 Well we maybe we can think of that later . ami_da_6
+A 606.1 W just ami_da_3
+A 606.1 these are the ones you already summed up in the ami_da_5
+A 606.1 Okay . ami_da_1
+B 609.34 Yeah , I ami_da_4
+B 609.34 I ami_da_4
+B 609.34 well , I pointed them out here , just to make it a little bit easier . ami_da_4
+B 616.68 Another function is of course we already discuss it on the side . ami_da_4
+B 624.8 , I do not know what costs of it . ami_da_4
+B 628.11 , I have no idea about it . ami_da_4
+B 630.17 , I was also looking for what you said , for I got an email about LCD in in in front of the remote control . ami_da_4
+B 639.58 I do not know if that is a good idea , or maybe it is a little bit too much for twelve and a half . ami_da_9
+B 648.32 Production . ami_da_9
+A 648.33 Yeah . ami_da_1
+C 649.09 Uh huh . ami_da_1
+B 649.45 If we got already something like a base . ami_da_9
+A 651.25 That might get redundant also maybe . ami_da_9
+A 653.47 I do not know what kind of information ami_da_4
+A 653.47 it would ami_da_4
+A 653.47 Yeah . ami_da_9
+B 654.47 Yeah , I do not know . ami_da_9
+B 655.31 I ami_da_4
+B 655.31 d I ju ami_da_4
+B 655.31 I was just thinking about it . ami_da_4
+D 655.57 yeah . ami_da_1
+B 657.36 Then I got a pop ups to go to the meeting . ami_da_4
+A 658.04 Yeah , it is okay . ami_da_9
+C 658.28 Maybe we can bring t teletext to the t to the remote control . ami_da_6
+B 659.4 But ami_da_4
+B 659.4 The remote control . ami_da_1
+B 664.78 a little too A little bit ami_da_3
+B 664.78 A little bit too big , I think . ami_da_9
+D 664.86 Then you ami_da_2
+D 664.86 and then you have got a flag ami_da_9
+D 664.86 s Very big RC . ami_da_9
+A 668.12 Okay . ami_da_3
+A 669.22 That is not ami_da_3
+A 669.22 It was not a good idea . ami_da_9
+D 670.31 Yeah . ami_da_9
+B 673.19 Exactly . ami_da_9
+A 674.84 Okay . ami_da_9
+B 675.5 , yeah . ami_da_4
+B 677.28 Well , the functions are are not more to discuss , I think . ami_da_4
+A 680.36 No . ami_da_9
+B 680.97 It is it is just the base things we already discussed that the no VCR or that kind of ami_da_4
+B 680.97 , so that is very easy . ami_da_9
+A 681.01 No . ami_da_9
+D 681.46 No . ami_da_9
+A 689.63 But you do mention the next and previous button . ami_da_4
+D 694.12 Next channel , previous channel . ami_da_4
+B 694.43 Well , that is next channel . ami_da_4
+A 695.56 Oh , okay , ami_da_9
+A 695.56 o okay ami_da_9
+A 695.56 okay . ami_da_9
+B 695.79 I mean next channel . ami_da_4
+B 696.93 oh , I ami_da_4
+B 696.93 I got an email with with an a remote control with a base . ami_da_4
+A 703.88 Huh . ami_da_3
+B 705.94 So , it is just an idea . ami_da_4
+B 710.06 And I thinked of the button sizes and I am not sure if they have to be big or just small ami_da_4
+B 710.06 Well , I am not a e ami_da_9
+B 710.06 I am the expert for user friendly , but not for trendiness . ami_da_9
+C 724.3 But you are the expert . ami_da_9
+D 724.74 I think it depends on the function . ami_da_9
+B 732.22 Maybe it ami_da_3
+B 732.22 Well ami_da_2
+B 732.22 okay , that is your point . ami_da_9
+D 732.7 Well , if you save Perhaps s tiny buttons are not user friendly ami_da_9
+D 732.7 , then we would not im implement that of course . ami_da_9
+B 747.7 , yeah . ami_da_2
+B 750.05 Yeah , okay . ami_da_2
+B 751.9 Yeah , I have nothing to s ami_da_4
+B 751.9 , with a little bit larger , yeah . ami_da_9
+A 754.01 Well , w when we only use basic functions , we have the possibility to make the buttons larger . ami_da_4
+D 754.06 Oh , that is right . ami_da_9
+D 758.7 Yeah . ami_da_1
+B 760.11 I thought so , but maybe with the Yeah , that groups . ami_da_9
+A 763.56 Well , I think we already agreed upon the fact that the the the skip buttons and the cha and the volume buttons , th th those two have ami_da_4
+A 763.56 yeah , ami_da_4
+A 763.56 they have to be large . ami_da_4
+A 772.47 , I mean th th the the two two basic buttons , you know , the to skip channels and to ami_da_4
+A 772.47 I think ami_da_9
+A 772.47 yeah , ami_da_9
+A 772.47 I do not know why , but I think that is that is t trendy too , ami_da_9
+A 772.47 because that is the mo ami_da_2
+A 772.47 it ami_da_2
+A 772.47 it you know , it is acc acc accentu , ami_da_2
+A 772.47 how do you say it ? ami_da_5
+A 772.47 It puts an extra accent on the the on the simplicity of our remotes to j to make these two most basic functions extra big , like t ami_da_9
+A 772.47 Yeah . ami_da_1
+B 772.48 Large ? ami_da_5
+B 772.48 Yeah . ami_da_1
+D 777.61 Yep . ami_da_1
+B 782.9 Most the most used buttons . ami_da_9
+D 783.05 Those are probably the the th ami_da_3
+D 783.05 Yes . ami_da_9
+B 796.33 True . ami_da_9
+B 797.02 Yeah . ami_da_9
+D 801.0 Those are probably the b four most most used buttons on the th in the remote control . ami_da_4
+C 806.48 You did the research . ami_da_9
+A 806.79 And you want to acc accentuate that , you know . ami_da_6
+B 807.09 Yeah . ami_da_1
+D 808.57 Sorry ? ami_da_12
+D 808.57 Yeah , sure . ami_da_9
+C 809.21 It is from your research . ami_da_4
+B 814.67 Okay . ami_da_2
+A 815.02 So ami_da_3
+A 815.02 Okay . ami_da_9
+B 816.07 , that was all y personal preference I did not have . ami_da_4
+B 820.35 I did not had any time left . ami_da_4
+A 822.46 No , that is coo it is cool . ami_da_9
+D 824.85 You do not care . ami_da_14
+D 825.44 No , sorry . ami_da_14
+D 829.78 Yeah . ami_da_2
+D 834.96 Oh . ami_da_16
+D 836.27 Go away . ami_da_16
+D 846.55 Come on . ami_da_16
+B 846.61 It is there . ami_da_4
+B 848.54 Yeah , click on it . ami_da_6
+B 852.7 Couple time . ami_da_16
+D 854.0 Oh , great . ami_da_9
+D 856.61 Well , I have done some research again about trends on the internet . ami_da_4
+D 862.84 I have done some investigation , and well I got some information from fashion watchers from Paris and Milan . ami_da_4
+D 877.81 Some some findings the most important thing is fancy look and feel of the remote control . ami_da_4
+D 883.74 , well , we were going to imply that , so that is nice . ami_da_9
+D 887.53 The second important thing is innovative technology in the RC . ami_da_4
+D 892.59 , our market really likes really likes that . ami_da_4
+D 896.34 And the third point there in this order if of importance , the third point , is a high ease of use . ami_da_4
+D 904.93 And , well , for the idea , I have put some trends for the market of elderly people . ami_da_4
+D 910.8 Dark colours , simple recognisable shapes . ami_da_4
+D 914.04 So we probably wo not do that . ami_da_6
+D 916.49 The younger market likes ami_da_2
+D 916.49 Well , the themes of of this year are surprisingly fruits and vegetables and spongy material . ami_da_4
+D 931.13 I found this image , which is ami_da_4
+D 931.13 Well , it symbolises the idea of fruits and vegetables . ami_da_4
+D 938.18 I do not see the spongy part in it . ami_da_9
+D 939.79 But with a little bit of fancy ami_da_9
+D 939.79 Exactly . ami_da_14
+A 941.63 Well maybe c then we have to do something with Sponge Bob then . ami_da_14
+D 948.13 I got some ideas well , yeah , pictures is not really good word , but some symbols of fruits or vegetables maybe . ami_da_4
+D 956.91 , catchy colours . ami_da_4
+D 958.87 Fruit is yellow , green , red , whatever . ami_da_4
+D 962.23 So , remote controls in in catchy colours . ami_da_4
+A 963.12 It does not stroke with the with the dark colours . ami_da_9
+D 966.09 , no , we do not want dark colours . ami_da_9
+A 968.1 Not the dark colours ? ami_da_9
+A 968.1 Okay . ami_da_9
+D 969.49 No , I just put them there to , yeah , for general idea . ami_da_4
+A 973.16 Okay . ami_da_1
+D 973.5 And , the docking st ami_da_3
+D 973.5 I think the spongy material is is very irritating for the remote control itself . ami_da_9
+D 982.37 But to ami_da_3
+D 982.37 Yeah , the ami_da_2
+D 982.37 To implement some spongy thing , maybe we can do it in the in the docking station . ami_da_6
+D 989.76 At the bottom of the docking station or whatever . ami_da_6
+D 992.58 And , we could bring one line with a dark colour to p yeah ami_da_6
+D 992.58 v how do you say ? ami_da_5
+D 992.58 Yeah , also a bit for elderly people who are a little bit crazy and want maybe want a little younger design but still the dark colour . ami_da_9
+A 1002.27 For diversity or something . ami_da_4
+A 1004.1 No , ami_da_9
+A 1004.1 but I I ami_da_9
+A 1004.1 I think that our design already resembles so a piece of fruit . ami_da_9
+B 1008.59 Well , how ami_da_3
+B 1008.59 But how do we use fruits and vegetables in Christ is sake with remote control ? ami_da_8
+B 1008.59 , make it a banana ? ami_da_6
+B 1008.59 Yeah , but th ami_da_3
+B 1008.59 yeah , ami_da_3
+B 1008.59 but that ami_da_3
+B 1008.59 Yeah , ami_da_3
+B 1008.59 but that is ami_da_3
+B 1008.59 Yeah ami_da_9
+B 1008.59 But d do not we need a creative artist or something like that to m make it to feel like a a a a vegetable or fruit ? ami_da_6
+B 1008.59 Yeah . ami_da_1
+D 1012.66 I mean it ami_da_9
+D 1012.66 it ami_da_9
+D 1012.66 it reaches a different market , but it it it does not cost really much effort to b to bring like a black RC on the market or whatever . ami_da_9
+D 1022.38 Yes . ami_da_9
+D 1029.79 Yeah , there is there is always a ami_da_3
+D 1029.79 Well there there is always empty space of course on a remote control . ami_da_4
+A 1033.63 It is like a pear or something . ami_da_9
+D 1037.18 I mean I think this part of the RC ami_da_4
+D 1037.18 well the upper the upper part or whatever is is not not used with buttons , I guess . ami_da_4
+A 1042.28 No , I do not think you have to do it like ami_da_3
+A 1042.28 Yeah , but it that does not have to remind you , you know , like explicitly of s our f of a of a specific piece of fruit , but just , you know , like the the the the round curves . ami_da_9
+D 1048.42 So you you can put some fruity things ami_da_6
+D 1048.42 No , of course not . ami_da_9
+A 1060.52 And so y ami_da_9
+A 1060.52 I ami_da_9
+A 1060.52 I think this ami_da_9
+A 1060.52 y ami_da_9
+A 1060.52 it already sem resembles something like a pear to me or something . ami_da_9
+D 1061.71 Especially i ami_da_3
+D 1061.71 Yeah , ami_da_9
+D 1061.71 yeah . ami_da_9
+D 1066.79 Yeah , exactly . ami_da_9
+D 1068.92 If we make it little bit greenish . ami_da_6
+A 1069.17 Yeah . ami_da_1
+A 1070.2 You do get the idea , eh ? ami_da_11
+A 1070.2 The fruity kind of round ami_da_11
+A 1070.2 Okay . ami_da_9
+D 1073.08 A and we could use one of these for ami_da_6
+D 1073.08 the w what is it ? ami_da_5
+D 1073.08 Is not ami_da_3
+D 1073.08 Wha whatever . ami_da_16
+A 1077.12 Yeah , ami_da_5
+A 1077.12 yeah , ami_da_5
+A 1077.12 I do not know . ami_da_5
+C 1079.05 Grapes . ami_da_4
+A 1081.08 , this is a b ami_da_9
+A 1081.08 yeah . ami_da_9
+A 1086.9 Yeah , ami_da_9
+A 1086.9 yeah . ami_da_9
+A 1087.41 Of course we have ami_da_9
+A 1087.41 we have a very big the s ami_da_4
+A 1087.41 Of d design team , yeah . ami_da_9
+D 1088.76 Yeah , sure . ami_da_9
+D 1090.66 Yeah . ami_da_1
+D 1091.91 Well , w we can w ami_da_6
+D 1091.91 we can we can produce multiple multiple things . ami_da_6
+C 1093.45 For a big team of artists . ami_da_4
+D 1097.43 This is then the pear . ami_da_4
+D 1099.46 I do not know the English word , so forget it . ami_da_4
+A 1100.58 Yeah , but ami_da_3
+A 1100.58 It is pear , I guess . ami_da_4
+D 1103.25 And , maybe , yeah , a b a banana is is n not easy for a remote control , but m ami_da_9
+D 1103.25 yeah . ami_da_9
+C 1104.87 But but I think we do not have to make ami_da_2
+C 1104.87 we ca not make all ten designs . ami_da_9
+A 1110.87 No . ami_da_1
+C 1113.84 We have to make one design ami_da_6
+C 1113.84 I th ami_da_6
+C 1113.84 I ami_da_6
+C 1113.84 I think . ami_da_6
+A 1116.4 No , ami_da_9
+A 1116.4 but I think it is it is already what we were were up to . ami_da_9
+D 1117.28 Mayb maybe two or three . ami_da_6
+A 1120.2 , it is it does not have to resemble what I already said , a specific piece of fruit , but just , you know , like a fruity thing going on . ami_da_6
+D 1120.51 Yeah . ami_da_1
+D 1125.13 No sure , ami_da_9
+D 1125.13 but but ami_da_3
+D 1125.13 B but that is great , ami_da_9
+D 1125.13 and and and what I was ami_da_2
+D 1125.13 what what I was saying , the catchy colours ami_da_4
+D 1125.13 Yeah . ami_da_1
+A 1127.57 And it is it looks fruity to me . ami_da_9
+A 1131.03 And , but I do like the ami_da_2
+A 1131.03 yeah , I do like the f to the idea of making a a y , a catchy colour design and a d because I do I think a dark colour would be nice too . ami_da_9
+C 1141.99 But pictures of fruit , vegetables vegetables ami_da_9
+C 1141.99 Yes , you can put a logo on top of it . ami_da_6
+A 1143.19 Maybe it is too much , you know . ami_da_9
+B 1144.12 But , we we have to There have to be the the the the firm colours , our own colours has to be in it . ami_da_4
+D 1144.24 Yeah , not really . ami_da_9
+D 1145.73 Pictures was a was a bad word , but ami_da_9
+D 1145.73 Well we c yeah . ami_da_9
+A 1150.09 Okay , but what are the ami_da_3
+A 1150.09 This is yellow . ami_da_4
+B 1152.67 Yellow , a Real Reaction . ami_da_9
+D 1156.4 Yeah , sure . ami_da_9
+A 1156.41 But I do not think our our company colours are this fashionable . ami_da_9
+B 1157.26 , yeah . ami_da_1
+D 1160.22 Maybe we can if if we got our docking station over here . ami_da_6
+C 1160.9 Yes , it is really fruity . ami_da_9
+B 1161.81 We f ami_da_3
+B 1161.81 A yellow do ami_da_3
+B 1161.81 , yeah . ami_da_1
+D 1163.95 I ca not draw with this thing , ami_da_4
+D 1163.95 but I will try . ami_da_7
+D 1166.49 If this is our docking station , we can make our logo over here . ami_da_6
+D 1170.73 It does not work . ami_da_4
+D 1172.15 And then ami_da_3
+D 1172.15 Well , the button button over here or whatever , ami_da_6
+D 1172.15 I do not know . ami_da_9
+B 1173.18 Yeah , and the button then . ami_da_6
+C 1174.2 With a strawberry on top . ami_da_6
+A 1175.16 Yeah , ami_da_9
+A 1175.16 on n on the bottom of the remote you can do ami_da_3
+A 1175.16 Okay . ami_da_1
+B 1178.87 Okay , yeah . ami_da_9
+D 1181.02 On the front , of course , ami_da_6
+D 1181.02 because else you ca not find it . ami_da_4
+B 1185.08 Okay . ami_da_1
+D 1185.36 Well , that were my ideas a little bit . ami_da_4
+D 1188.78 I will close them down . ami_da_7
+D 1190.42 , go away . ami_da_16
+A 1194.7 Okay , you can you open the conceptual design presentation ? ami_da_6
+A 1194.7 See what was on the agenda . ami_da_6
+D 1196.9 Conceptual design , yes . ami_da_7
+B 1202.49 Lazy . ami_da_14
+D 1203.5 The agenda . ami_da_4
+A 1204.89 This is his own remote . ami_da_4
+A 1206.24 Because , maybe we can start with the technical functions , ami_da_6
+A 1206.24 but I do not think it is there ami_da_4
+A 1206.24 , yeah , ami_da_2
+A 1206.24 do we want to use an LCD display , for example ? ami_da_8
+A 1206.24 Me neither . ami_da_9
+B 1206.9 Yeah . ami_da_1
+D 1217.64 Well , it is nice , of course . ami_da_9
+C 1218.65 Only if we ami_da_3
+C 1218.65 Maybe maybe we can make a TV guide on it , for the channel you are on . ami_da_6
+D 1219.18 But I do not I do not know what to display on it . ami_da_9
+D 1221.65 I mean ami_da_3
+D 1221.65 Yeah , but it should be li like this big , and I do not think Yes sure , but it it has to to show an entire title of a programme or at least a q a quite quite large part of it ami_da_9
+D 1221.65 and then you get a very large LCD screen , because Yeah , I do not know . ami_da_9
+A 1227.29 Yeah , but it is so ami_da_3
+A 1227.29 I do not think we should do it . ami_da_9
+C 1230.15 No , no , only the TV channel with the with with four programmes . ami_da_9
+C 1235.96 You can zap through them with the page up page down button . ami_da_6
+C 1246.35 Yes , it can ami_da_9
+C 1246.35 On your ami_da_3
+C 1246.35 No , on your mobile phone you can y you can read text also . ami_da_9
+C 1253.19 So why not on your remote ? ami_da_11
+C 1253.19 , programme information or or or or g or a guide ami_da_6
+C 1253.19 on t on teletext , yes . ami_da_4
+A 1255.66 Yeah , but no . ami_da_9
+A 1257.5 I do I think it is a bit redundant , actually . ami_da_9
+A 1259.9 And it is also not I do not th even think it ami_da_9
+A 1259.9 it looks s like sexy or something , ami_da_9
+A 1259.9 it is ami_da_3
+A 1259.9 But you are already watching the TV , you are not going to watch your remote control . ami_da_9
+B 1263.53 Well well what would you display on it then ? ami_da_8
+B 1263.53 But is it is not that a already on TV , a lot of new TVs ? ami_da_5
+B 1263.53 Yeah . ami_da_1
+D 1267.71 Programme information . ami_da_6
+D 1268.72 But ami_da_3
+D 1268.72 Well a lot a lot of TVs indeed show when you zap to a ami_da_4
+D 1268.72 But then we also w need to bring out a line of TVs ami_da_9
+D 1268.72 which we were planning to , ami_da_4
+D 1268.72 but whatever . ami_da_16
+C 1273.04 Also on the internet . ami_da_4
+C 1274.63 But ami_da_3
+C 1274.63 Yes , but you also want to know what is next . ami_da_9
+B 1286.97 Yeah , ami_da_9
+B 1286.97 and we also have to ami_da_3
+B 1286.97 yeah . ami_da_3
+D 1288.33 Because the TV has to send information back to the RC , and I do not know if that is possible . ami_da_4
+C 1293.04 Yes , that is really possible . ami_da_4
+D 1295.78 Yes , yes , o of course it is possible , but you gotta implement it in the TVs , and I do not think everyone is going to buy a Real Reaction TV within a month after the release of our remote control . ami_da_9
+B 1308.51 And I also ami_da_3
+B 1308.51 Yeah , I dunno . ami_da_9
+A 1308.52 I really understand you want to make your job more exciting by putting an LCD in it , but I I really do not think it is a good n goo ami_da_9
+A 1308.52 because it also does not stroke with we wanted c ami_da_2
+A 1308.52 When we talk about the materials , it is a good idea to use these plastic materials with soft rubber stuff on it . ami_da_9
+A 1325.33 It was our idea , you know , to give it a more sturdy look and that you ca like you can throw with it . ami_da_4
+D 1328.05 Yeah . ami_da_1
+A 1329.93 But I do not think a LCD display fits in that image . ami_da_9
+A 1332.77 You know , it is like more vulnerable , and it adds nothing really , you know . ami_da_9
+D 1335.91 That is true , that is true , it breaks f ami_da_9
+D 1335.91 yeah , ami_da_9
+D 1335.91 it it ami_da_9
+D 1335.91 it is not very solid , it is frag fragile . ami_da_9
+A 1341.05 Yeah , ami_da_9
+A 1341.05 yeah . ami_da_9
+A 1341.46 You could make it , but it is just it ami_da_9
+A 1341.46 it does not I do not think it it is coherent with the design we are after . ami_da_9
+D 1346.52 No . ami_da_9
+D 1347.29 No . ami_da_9
+D 1347.9 I do not think so ei either . ami_da_9
+A 1349.76 But that is my opinion . ami_da_9
+A 1351.2 Well , you you y ami_da_2
+A 1351.2 Okay , we can vote for it . ami_da_6
+A 1353.04 You want the LCD display . ami_da_4
+C 1354.71 No . ami_da_1
+A 1355.29 I do not want to and he does not , so it is up to him . ami_da_4
+A 1359.95 If we want to ami_da_3
+A 1359.95 And I have read somewhere that I have got some kind of veto veto rights . ami_da_4
+B 1367.37 Oh , okay . ami_da_9
+D 1367.71 Bastard . ami_da_14
+A 1369.0 So I can also say But did we skip the ami_da_3
+A 1369.0 Yeah , you could do ami_da_14
+A 1369.0 m but what what i ami_da_11
+A 1369.0 so what ami_da_11
+A 1369.0 i but do you think we should ami_da_11
+A 1369.0 We are not even sure what what information we want to display on it . ami_da_4
+B 1370.7 We can you away . ami_da_14
+B 1374.47 Yeah , I do not know . ami_da_9
+B 1375.13 , I i if it is it is a simple p ami_da_3
+B 1375.13 No , that that is right , ami_da_9
+B 1375.13 and I also have to think about new functions , maybe buttons or something like that to control it . ami_da_7
+C 1379.89 No ami_da_3
+C 1379.89 Y yes , you can use buttons w that are already on the remote control for double functions . ami_da_4
+A 1380.21 So ami_da_4
+A 1380.21 Nah , that is not going to work . ami_da_9
+B 1387.17 Kind of LCD or something or ami_da_3
+B 1387.17 But how does it display then ? ami_da_5
+B 1387.17 W when I go to the second channel , ami_da_5
+B 1387.17 what what does it show me ? ami_da_5
+B 1387.17 About that programme ? ami_da_5
+B 1387.17 Yeah . ami_da_1
+D 1390.15 Yeah , I guess . ami_da_9
+C 1398.1 , then you push a button . ami_da_4
+C 1401.89 The title and the information about the programme . ami_da_4
+C 1405.38 But but ami_da_2
+C 1405.38 yeah , what he said was right , about the televisions , they have to be customised to the ami_da_4
+C 1405.38 But maybe in future it will be a giant hit , and when you are the first ami_da_9
+C 1405.38 you have the biggest ami_da_3
+C 1405.38 Yes , you can put a little LCD display on it with with lots of information . ami_da_9
+D 1414.12 No . ami_da_1
+A 1415.46 Yeah . ami_da_1
+A 1419.07 Oh , well I have seen it done before . ami_da_4
+A 1420.93 Do you know th like the the bigger rem universal remotes , they have d LCD displays , ami_da_4
+A 1420.93 but then it is very functional to indicate which what device you are controlling . ami_da_9
+A 1430.83 So it is that that is what I have seen . ami_da_4
+D 1432.55 Yeah , that is true , ami_da_9
+D 1432.55 if you ami_da_3
+D 1432.55 Yeah . ami_da_3
+A 1437.61 But it just it j it does not does not match with the our whole basic concept . ami_da_9
+C 1437.68 But I have not thought about it . ami_da_4
+C 1441.73 But whe but when you put a a a transparent plastic screen on top of it , it i it is not vulnerable . ami_da_9
+A 1450.77 Well yeah , yeah ami_da_9
+A 1450.77 , okay . ami_da_9
+C 1450.92 You can throw with it and When when you put maybe a colour LCD t screen on it , it is very special and very trendy to have a remote control from ami_da_9
+C 1450.92 But I have got a the email with with the possibilities . ami_da_4
+A 1451.75 That is maybe not the most important , ami_da_9
+A 1451.75 but it is just ami_da_3
+A 1451.75 I do not think so . ami_da_9
+B 1453.67 Is it fashion ? ami_da_11
+B 1453.67 I do not know . ami_da_9
+B 1463.12 That is not up to you . ami_da_9
+B 1463.85 That is up to market if i if it is trendy . ami_da_9
+A 1466.23 Yeah , well do you ha do you have to ami_da_9
+A 1466.23 You have not looked after the trendiness of LCD displays , have you ? ami_da_9
+A 1466.23 Yeah ami_da_1
+A 1466.23 yeah ami_da_1
+A 1466.23 yeah . ami_da_1
+D 1467.84 No . ami_da_1
+B 1469.89 Because our our motto is we put fashion ami_da_3
+B 1469.89 Yeah , if you want to be trendy you have to be coloured . ami_da_9
+D 1470.07 Well , I think it is ami_da_9
+D 1470.07 I think it is pretty trendy , to be honest , ami_da_9
+D 1470.07 but I do not know if if if ami_da_2
+D 1470.07 well , I am coming back to the costs again , but I think we gotta build a b pretty cheap design to to stay within our limits . ami_da_9
+D 1485.3 And I think especially colour LCD , which is indeed pretty trendy . ami_da_9
+D 1489.37 But I do not think , I think it will be too expensive . ami_da_9
+C 1499.65 And LCD was a possibility for the remote control . ami_da_4
+C 1503.06 So why do not we use it . ami_da_6
+D 1505.91 , did it say a price also for for monogramme LCD or coloured LCD ? ami_da_5
+D 1505.91 Yeah really , ami_da_9
+D 1505.91 if y if you c ami_da_3
+D 1505.91 i ami_da_3
+D 1505.91 I in in two thousand and four you ca not put something on the market which is a monogramme . ami_da_9
+A 1506.01 Yeah , but we are going to if it ami_da_3
+A 1506.01 Then then you better do not yeah , d ami_da_3
+A 1506.01 I really do not feel the whole idea of an LCD display . ami_da_9
+B 1515.02 Coloured ami_da_3
+B 1515.02 If you have black and white or something , or grey , that is It is too much maybe with with the LCD and the docking station and ami_da_9
+B 1515.02 With one thing special . ami_da_6
+D 1526.79 Really . ami_da_9
+C 1527.91 No , but it does not sa say anything about a colour or ami_da_4
+C 1527.91 But , , I alf ami_da_4
+C 1527.91 I also got a possibility to put a scroll button on it . ami_da_4
+C 1538.74 But I did not think that ami_da_3
+C 1538.74 Yes , but o on the No , when y But it look ami_da_3
+C 1538.74 Yes , but that remote controls are already on the market . ami_da_9
+A 1542.97 I am sorry . ami_da_14
+A 1544.42 It ca not co you cannot convince me . ami_da_9
+A 1546.58 I do not know how well how to with you guys , but ami_da_11
+A 1546.58 I do not really feel it . ami_da_9
+A 1551.21 We already we are ami_da_2
+A 1551.21 Yeah , we already have the the th th th base station gadgets , ami_da_9
+A 1551.21 and want and it , do ami_da_2
+A 1551.21 it has to be a simple design , which sturdy , which soft ami_da_6
+A 1551.21 I do not think ami_da_3
+A 1551.21 I j , ami_da_2
+A 1551.21 and really , I do not see how the the LCD display is going to add anything , you know , on a design level . ami_da_9
+D 1554.66 Yeah . ami_da_1
+D 1561.87 W we have we have gotta find a balance , of course . ami_da_6
+D 1564.3 And I think ami_da_3
+D 1564.3 We have a pear . ami_da_9
+B 1565.16 Not a whole package of specialty . ami_da_6
+A 1575.19 , I think it is slicker to have no L CEDs . ami_da_9
+A 1578.7 Y we want to ami_da_2
+A 1578.7 it is simplicity , w you have two big buttons and you can do whatever you want with these two buttons , so you do not need an LCD . ami_da_9
+A 1587.54 It does not fit in our philosophy behind the whole remote . ami_da_9
+C 1588.28 The simple Yes , but but when you want to have something special ami_da_9
+C 1588.28 Yes , ami_da_9
+C 1588.28 but you had a picture of it from another company . ami_da_9
+A 1595.58 Yeah , but we already have the docking station , which is It has to be developed , ami_da_9
+A 1595.58 but no , but it that is ami_da_2
+A 1595.58 that is our that is our killer feature . ami_da_9
+B 1599.18 And the ami_da_3
+B 1599.18 Yeah . ami_da_1
+B 1607.96 It is just an it is just an idea . ami_da_9
+A 1609.74 That is our what makes it special . ami_da_9
+B 1609.81 It is a it is ami_da_3
+B 1609.81 True . ami_da_9
+C 1610.25 Yes , it was already made . ami_da_9
+C 1612.17 Tha the remote control on the docking station . ami_da_9
+A 1612.87 Yeah , we are going to develop our own r n docking station . ami_da_6
+D 1614.91 Is that so ? ami_da_5
+D 1614.91 Was it ami_da_5
+D 1614.91 it was not just a prototype ? ami_da_5
+D 1614.91 Exactly , ami_da_9
+D 1614.91 I have never seen it in a store . ami_da_4
+C 1615.93 Yes , he have a picture of it . ami_da_4
+B 1616.25 Well I ami_da_3
+B 1616.25 Yeah , I dunno . ami_da_4
+A 1622.01 , but re we really have to cut this off , ami_da_6
+A 1622.01 I re I know you ami_da_2
+A 1622.01 I ami_da_2
+A 1622.01 I ami_da_2
+A 1622.01 I ami_da_2
+A 1622.01 I ami_da_2
+A 1622.01 I get the idea you really like it , you know , the the LCD thing , but I I think it is it is not a good idea , and we have already mentioned all the arguments . ami_da_9
+A 1635.39 I do not , ami_da_2
+A 1635.39 do you guys agre How do you guys think ? ami_da_11
+A 1635.39 I d ami_da_3
+A 1635.39 Okay , we s skip the LCD display . ami_da_6
+B 1638.08 No , it is too much . ami_da_9
+D 1639.21 I think it is a little too much , ami_da_9
+D 1639.21 yeah . ami_da_9
+B 1641.1 It is overdone . ami_da_9
+C 1643.94 Okay . ami_da_1
+D 1646.02 Okay . ami_da_1
+A 1646.75 I am sorry , maybe you can do something if we are at your own place , or make it make it make it happen in your basement or something . ami_da_14
+B 1647.55 Democratically . ami_da_1
+D 1648.37 No . ami_da_1
+C 1652.37 Mayb ami_da_3
+C 1652.37 I will rule the world with it . ami_da_14
+A 1656.29 But ami_da_3
+A 1656.29 Probably so . ami_da_14
+D 1658.19 Yeah , ami_da_14
+D 1658.19 yeah , ami_da_14
+D 1658.19 yeah , ami_da_14
+D 1658.19 yeah . ami_da_14
+A 1659.47 Okay . ami_da_2
+A 1660.21 But for the technical part . ami_da_4
+A 1661.2 The m material , I think it was a good idea to use the plastic and the rubber . ami_da_9
+C 1666.6 Yes , maybe a bit of a cushion is ami_da_9
+C 1666.6 Yes . ami_da_1
+A 1666.82 Yeah ami_da_9
+A 1666.82 yeah ami_da_9
+A 1666.82 yeah , p ami_da_9
+A 1666.82 Exactly . ami_da_9
+A 1670.52 This is what it w ami_da_9
+A 1670.52 Yeah , ami_da_9
+A 1670.52 but it ami_da_9
+A 1670.52 it was already what we are ami_da_9
+A 1670.52 we are after , you know , to give it , you know , the soft touch in your hands ami_da_9
+A 1670.52 and also to , know , like ami_da_2
+A 1670.52 Yeah , that is y the b airbag kind of thing . ami_da_9
+D 1670.57 Yeah , for the spongy feel . ami_da_9
+B 1672.75 With a spongy Bob feel . ami_da_14
+D 1673.24 Yeah . ami_da_9
+B 1676.48 Yeah . ami_da_1
+C 1681.47 Like a b ami_da_3
+C 1681.47 yes . ami_da_9
+A 1682.72 You can st throw it at your little brother is head . ami_da_9
+B 1682.81 Yeah , you just can drop it . ami_da_9
+D 1683.39 Yeah , airbag . ami_da_9
+B 1684.4 Yeah . ami_da_9
+D 1684.81 If you drop it if you drop it the airbag comes out , yeah . ami_da_14
+B 1687.36 Yeah . ami_da_1
+A 1687.48 Yeah . ami_da_14
+A 1688.15 No no no , not that comfy . ami_da_14
+C 1688.99 Maybe it ami_da_2
+C 1688.99 but then we have to look that it w will not be too childish to see . ami_da_9
+A 1697.07 Yeah yeah . ami_da_9
+A 1697.94 Yeah . ami_da_9
+A 1698.34 Okay , that is a that is a good point . ami_da_9
+A 1699.74 And that is why I like the dark t col dark colour bit , you know , ami_da_9
+A 1699.74 because it may be the design , it is maybe it is a bit of the ami_da_2
+A 1699.74 it is a bit nineties maybe , what we are what we are up to rat fun to this point . ami_da_9
+D 1703.72 Yeah . ami_da_1
+B 1708.37 But not black I think . ami_da_9
+D 1710.85 No . ami_da_1
+B 1713.83 Well if if it is fruit and vegetables , it have to be colourful . ami_da_9
+A 1717.25 Yeah , that is that is true , but but it has to be a little big solid . ami_da_9
+D 1717.54 Yeah , b yeah , that is what w ami_da_9
+D 1717.54 I I was pointing at . ami_da_9
+B 1718.27 But can we ge ami_da_3
+B 1718.27 Can we combine it or something ? with yellow and black ? ami_da_6
+B 1718.27 Make it a bee ? ami_da_6
+B 1718.27 A bee . ami_da_4
+A 1720.79 It must not be too , n you know , th too overwhelming , ami_da_9
+A 1720.79 then when you put it on your just ami_da_3
+A 1720.79 Yeah . ami_da_1
+A 1728.55 Yeah , maybe so . ami_da_9
+D 1731.74 What ? ami_da_12
+D 1731.74 Oh , a bee . ami_da_9
+D 1733.75 Oh . ami_da_9
+A 1734.44 No , I do not like the yellow and black combination . ami_da_9
+A 1737.57 But it is our company colours . ami_da_9
+C 1739.3 Yes , real real good colours . ami_da_14
+A 1739.38 Apparently . ami_da_9
+B 1739.7 Yeah , it is our yeah . ami_da_9
+B 1742.31 We we have to use yellow . ami_da_9
+D 1744.33 Yeah . ami_da_1
+A 1747.77 I do not like yellow , ami_da_9
+A 1747.77 and maybe I do not know . ami_da_3
+D 1749.19 Well , we can as as I draw really nicely over there . ami_da_6
+C 1750.95 But that is not really fruity . ami_da_9
+D 1754.3 We can put the logo on our on our base station . ami_da_6
+D 1757.93 , yeah . ami_da_6
+D 1759.55 And maybe very very tiny on the remote control itself . ami_da_6
+A 1760.02 But ami_da_3
+A 1760.02 Okay , but what , what are other tef technical things we have to discuss ? ami_da_5
+A 1760.02 Should we do that ? ami_da_11
+A 1760.02 I do not think you we should do that . ami_da_9
+D 1763.02 But , i ami_da_3
+D 1763.02 Yeah . ami_da_9
+C 1768.78 fronts ami_da_4
+C 1768.78 of the ami_da_2
+C 1768.78 We can have different fronts of the telephone . ami_da_6
+A 1779.7 Maybe just bring it out in different colours , ami_da_6
+A 1779.7 but not af that you can switch fronts afterwards , that is also too much . ami_da_9
+B 1780.99 Different fronts . ami_da_1
+D 1783.74 I guess that is that is enough . ami_da_9
+A 1788.06 People do not want to spend more money on their remote control , I guess . ami_da_9
+D 1788.07 That is way too Nokia . ami_da_9
+B 1789.71 Yeah . ami_da_1
+B 1791.14 , you can you can l let choose the customer which colour he wants , yeah . ami_da_6
+C 1792.52 Are these designs ? ami_da_5
+C 1792.52 Yes . ami_da_4
+A 1795.27 Yeah , ami_da_9
+A 1795.27 yeah . ami_da_9
+D 1795.87 Yeah , definitely . ami_da_9
+B 1796.53 Yeah , Three three or four four colours , or something like that . ami_da_6
+D 1797.58 Just bring more designs on the market . ami_da_9
+A 1800.19 But , without gon ami_da_3
+A 1800.19 okay . ami_da_2
+D 1800.36 Why not ami_da_9
+D 1800.36 , yeah . ami_da_9
+A 1801.74 So , are we through the technical part then ? ami_da_5
+A 1801.74 Okay . ami_da_9
+A 1806.2 So we agreed upon n well , not u unanimously or how you call it , but ami_da_4
+A 1806.2 Yeah . ami_da_4
+C 1809.33 It this a real young young and dynamic styles . ami_da_9
+B 1809.61 Well , yeah , ami_da_9
+B 1809.61 the ami_da_3
+B 1809.61 Three to one . ami_da_9
+B 1812.43 That is ami_da_3
+B 1812.43 And tita titanium , is is is it a no ? ami_da_11
+B 1812.43 Is ami_da_3
+B 1812.43 It is just like that , th this titanium . ami_da_4
+A 1813.97 The materials you mentioned in your your personal preferences were all were quite okay . ami_da_9
+C 1816.01 Yes . ami_da_1
+A 1818.88 O o only only the last point ami_da_3
+A 1818.88 your ami_da_3
+A 1818.88 no titanium is not not out of question , I guess . ami_da_9
+C 1818.92 Yes , ami_da_1
+C 1818.92 But also w ami_da_3
+C 1818.92 Yes , b bu but when we use s soft ami_da_9
+A 1827.56 But is it possible to use both the the plastic and so soft things and t p titanium , as well ? ami_da_5
+A 1827.56 Makes it in a homogeneous design . ami_da_9
+D 1833.81 Sure . ami_da_4
+B 1835.34 No , not all , not all of them . ami_da_4
+C 1837.5 But it it then it ami_da_9
+C 1837.5 you ca not throw it it . ami_da_9
+C 1840.03 It will make a huge noise or break other stuff when you throw with titanium with your remote control . ami_da_9
+A 1846.18 It will it will break other stuff w when it is plastic , as well . ami_da_9
+C 1850.85 No , ami_da_3
+C 1850.85 titanium is a bit it is a bit harder . ami_da_9
+A 1852.34 Yeah . ami_da_1
+D 1852.81 Yeah , that is true . ami_da_9
+A 1853.99 No , but , you should ma ami_da_3
+A 1853.99 Yeah . ami_da_3
+C 1855.96 But also on the colours , the young ami_da_3
+C 1855.96 Yes , but a titanium remote control , when you are watching TV or your hands are a little bit sweaty , and the Yes . ami_da_9
+A 1857.55 Okay , think of the possibilities and make it in completely titanium . ami_da_4
+A 1861.27 Well would it be more trendy ? ami_da_11
+A 1861.27 More chic ? ami_da_11
+A 1861.27 Yeah , ami_da_9
+A 1861.27 but I I really like the idea of the the the plastic and the big kind of thing . ami_da_9
+D 1865.56 Yeah , I think it ami_da_9
+D 1865.56 I think it does . ami_da_9
+B 1866.14 , I think titanium nowadays is way more often used than plastic . ami_da_9
+B 1871.77 In trendy things . ami_da_9
+D 1876.01 Yeah , o ami_da_3
+D 1876.01 On the other hand , if you want to make fruit fruity stuff with ami_da_9
+D 1876.01 Yeah , that is true , that is true . ami_da_9
+B 1879.08 Yeah . ami_da_1
+B 1880.25 It is cold in the winter . ami_da_9
+B 1885.32 Yeah . ami_da_1
+A 1885.49 But the question is i then it is , you know , is is it fits in our s philosophy to make it sturdy and simple and , know , ami_da_9
+A 1885.49 like When you make it titanium , it becomes more like some kind of gadget you actually do not need . ami_da_9
+C 1894.17 Sports and gaming . ami_da_9
+C 1895.61 Define ami_da_9
+A 1900.54 And when it is big and plastic , it is like some fun stuff you can always have around . ami_da_9
+A 1905.72 It is always fun to have something big and plastic around . ami_da_9
+D 1907.61 Yes . ami_da_9
+B 1907.88 You have that MP three player of Nike , I saw . ami_da_4
+D 1908.0 Yeah . ami_da_9
+B 1911.76 Is not that titanium with a little bit of rubber ? ami_da_5
+B 1911.76 Is not it ami_da_3
+B 1911.76 Is plastic ? ami_da_9
+B 1911.76 Well , it is titanium looking . ami_da_9
+C 1914.27 Yes , it is w ami_da_4
+C 1914.27 but it is plastic . ami_da_4
+C 1920.29 Yes , w we can do that on the on the ami_da_6
+C 1920.29 We can make this as a style too . ami_da_6
+D 1920.66 What ? ami_da_12
+D 1920.66 Oh , yeah . ami_da_9
+B 1921.77 Yeah , he is . ami_da_16
+B 1922.29 Here he is . ami_da_16
+B 1922.92 , the I do not know if you know the MP three player of Nike . ami_da_4
+B 1926.42 Okay , that that is very with rubber , so it is very rough . ami_da_4
+D 1927.3 Okay , yeah . ami_da_9
+A 1929.16 Yeah , that is beautiful . ami_da_9
+D 1929.35 Yeah , I see . ami_da_9
+D 1931.5 Yeah , ami_da_3
+D 1931.5 but but ami_da_3
+D 1931.5 but ami_da_3
+D 1931.5 Yeah , ami_da_9
+D 1931.5 I th ami_da_9
+D 1931.5 I think that is difficult , ami_da_9
+D 1931.5 because that is different material , and then you gotta have like two material lines of of of ami_da_4
+D 1931.5 Yeah , if it is just a colour which you which you change then , I guess it is it is nice to have one of these . ami_da_9
+C 1933.15 , this is just a ami_da_3
+C 1933.15 No , we c we can make it from the same kind of plastic . ami_da_9
+A 1934.55 Oh , maybe th maybe this is an ami_da_3
+A 1934.55 No , I do like the idea of maybe a t titanium kind type of body w and then with s plastic colouration around it . ami_da_9
+D 1954.51 Yeah . ami_da_1
+C 1954.56 I do not have the information . ami_da_4
+A 1961.6 You know , like the the soft stuff , but I do not know if it is possible . ami_da_4
+C 1966.39 , I I did not got it ami_da_4
+C 1966.39 Yes . ami_da_9
+A 1968.46 But you ca not make the plastic give the ti titanium look . ami_da_6
+B 1972.09 True . ami_da_9
+A 1972.24 But make it just like shiny . ami_da_6
+B 1973.18 Yeah yeah , true . ami_da_9
+A 1974.2 Maybe we should shou ami_da_3
+A 1974.2 And and maybe we sh should we t ami_da_3
+A 1974.2 I do not know if we should talk about , ami_da_3
+A 1974.2 how how much time have we got left ? ami_da_5
+A 1974.2 Forty minutes . ami_da_4
+C 1974.31 Like the MP three player . ami_da_9
+B 1975.07 Yeah , maybe that is good idea , ami_da_9
+B 1975.07 yeah . ami_da_9
+B 1977.46 But if you want to la ami_da_3
+B 1977.46 yeah , ami_da_3
+B 1977.46 last longer than two weeks or something like that , you can maybe ami_da_3
+B 1977.46 I do not know . ami_da_4
+D 1980.75 Yeah . ami_da_1
+C 1987.62 , in a lot of other ami_da_3
+C 1987.62 in a lot of other product categories like even in b in bags industry . ami_da_4
+B 1989.65 What time does ami_da_3
+B 1989.65 The rubber . ami_da_4
+C 1997.4 , they began with t typical leather bags , but then they became stylish , with all all si all sort of colours , and w kind of fon of of fronts , like we can use on the telephone and it Like Eastpack began a revolution with it with all this kind of bags and and colours and and ami_da_4
+C 1997.4 Yes , and and styles . ami_da_9
+D 2006.56 Yeah . ami_da_1
+A 2009.71 Okay . ami_da_1
+A 2020.06 You putting in different colours . ami_da_9
+A 2023.0 Okay . ami_da_9
+C 2023.68 They have also a kind of roses on it , ami_da_4
+C 2023.68 a and ami_da_3
+C 2023.68 Then we can always use the same design for a greater resemblance , but with new with new colours , new ami_da_6
+C 2023.68 yes . ami_da_9
+D 2031.54 yeah , ami_da_9
+D 2031.54 yeah . ami_da_9
+A 2032.07 Okay . ami_da_9
+A 2032.86 Yeah , ami_da_9
+A 2032.86 but w yeah . ami_da_9
+A 2036.25 Well , it is . ami_da_11
+A 2036.82 It is a possibility . ami_da_11
+A 2037.92 But , let is think about the bas ami_da_6
+D 2044.9 Yes . ami_da_1
+D 2046.98 New prints on it . ami_da_6
+D 2048.3 Yep . ami_da_6
+A 2049.03 But wha th our basic idea ami_da_6
+A 2049.03 y ami_da_6
+A 2049.03 I mean , you going to we are probably going to have like two type of materials , like the d d b the plastic enclosure and then the the pads that surround it . ami_da_6
+A 2059.07 And and pro and lights . ami_da_6
+A 2060.18 We have to incorporate the lights too . ami_da_6
+A 2062.12 But , do w going to going to are we going to give it a two tone colour look , like the the plastic mould is in in one colour and the s the cushion pads around it are in another colour ? ami_da_6
+A 2062.12 Is that the idea ? ami_da_11
+A 2062.12 Is that a good idea ? ami_da_11
+A 2062.12 How many colours are we how many colours are we going to we are f f ami_da_2
+A 2062.12 Only five minutes left , by the way . ami_da_4
+D 2076.21 How do you mean ? ami_da_5
+D 2076.21 Th th the base in a in another ami_da_3
+D 2076.21 Yes . ami_da_1
+A 2083.66 How many colours are we going to give it ? ami_da_8
+A 2083.66 Like two tone colour ? ami_da_8
+A 2083.66 T ami_da_8
+A 2083.66 I think maybe the case itself should be in one colour and then the rubber of the buttons , and the cushions as well should be in another colour . ami_da_6
+C 2085.36 There there are three components three components type . ami_da_4
+B 2086.25 Yeah . ami_da_6
+B 2086.62 no , not too much I think . ami_da_6
+C 2089.18 You have the buttons , the the case itself , and the rubber and th ami_da_4
+C 2089.18 Yes . ami_da_1
+D 2091.04 How the buttons ami_da_3
+D 2091.04 yeah . ami_da_3
+B 2099.69 Or you just make one colour , maybe with a a z a kind of ami_da_6
+B 2099.69 like a big wave or something like In in another colour . ami_da_6
+D 2100.21 Yeah . ami_da_1
+A 2107.98 Okay , but not more than ami_da_9
+A 2107.98 Well , yeah , it is ami_da_3
+A 2107.98 No . ami_da_9
+B 2109.86 Not more than two colours I think . ami_da_9
+D 2111.13 No , definitely not . ami_da_9
+B 2111.14 It is a g a little bit too flashy . ami_da_9
+A 2111.85 Maybe we should talk about it on a l in a later meeting . ami_da_6
+D 2113.49 Yes , definitely . ami_da_9
+C 2113.55 Yeah , or or when you use the buttons as black , it you can use two colours as well ami_da_6
+C 2113.55 But then you have to put up and down and left and right ami_da_4
+C 2113.55 Okay . ami_da_1
+A 2119.1 Okay . ami_da_9
+A 2119.77 But we have to think of some other important things . ami_da_6
+A 2122.57 oh yeah , the the functionalities of the the buttons . ami_da_4
+B 2124.1 The funct ami_da_11
+B 2124.1 yeah , ami_da_11
+B 2124.1 I was I was thinking about th ami_da_11
+B 2124.1 the st do we still want a joystick idea . ami_da_11
+A 2128.68 No . ami_da_9
+D 2129.5 No , I think that is too vulnerable . ami_da_9
+B 2131.19 Yeah . ami_da_9
+A 2131.64 I think this is okay , ami_da_9
+A 2131.64 the ami_da_3
+A 2131.64 so we have the basic . ami_da_4
+A 2134.2 Then we have the numbers . ami_da_4
+A 2135.35 We have the power button . ami_da_4
+A 2136.96 We have we have a teletext button . ami_da_4
+B 2137.5 The volume , teletext and ami_da_4
+B 2137.5 Yeah ami_da_1
+B 2137.5 yeah ami_da_1
+B 2137.5 yeah ami_da_1
+B 2137.5 yeah , ami_da_1
+B 2137.5 b ami_da_1
+B 2137.5 Yeah , but wha what kind of menu ? ami_da_5
+B 2137.5 Is is not that different from every television ? ami_da_5
+B 2137.5 Mute . ami_da_1
+A 2139.91 And maybe want to access a a menu or something . ami_da_6
+D 2143.23 Yeah , but that is that is ami_da_9
+D 2143.23 I was thinking that is gotta be on the television . ami_da_9
+A 2143.45 Most TVs have a menu . ami_da_4
+A 2147.1 Yeah , ami_da_9
+A 2147.1 but I think you ha I really need a menu button . ami_da_9
+A 2149.75 That is just i the only button only You know , I ami_da_3
+A 2149.75 No , I think most TVs have an a menu nowadays to access the screen settings . ami_da_4
+D 2157.33 Yeah , if it is c if ami_da_3
+D 2157.33 Yeah , I think it is okay to to add a menu button for ami_da_9
+D 2157.33 and if the TV does not have a menu , then ami_da_3
+D 2157.33 Yeah . ami_da_1
+A 2160.63 And so ami_da_4
+A 2160.63 But that that covers all the all the other settings . ami_da_9
+A 2166.37 It covers everything then . ami_da_9
+D 2170.57 Yeah , you can put that on the two eight four and six or whatever . ami_da_4
+A 2170.79 No , you can use the ami_da_3
+A 2170.79 And you al can also use the normal skip buttons for that . ami_da_4
+A 2176.19 Th in that way we have like only the numbers , the power button , skip and volume , and then ten rem ami_da_4
+A 2176.19 yeah , mute . ami_da_9
+D 2176.66 , yeah . ami_da_1
+D 2183.01 A mute and a teletext and a menu . ami_da_4
+A 2184.92 A teletext and a menu , and then then i that is it . ami_da_9
+D 2186.67 That is all . ami_da_4
+A 2187.07 It is all we need . ami_da_9
+B 2188.79 Yeah . ami_da_1
+A 2189.99 Okay , another stuf some stuff about the the the design of the docking station . ami_da_4
+D 2190.08 Great . ami_da_9
+D 2190.75 Yeah . ami_da_9
+B 2191.14 Okay , that is not mu not much functions . ami_da_9
+B 2192.88 So ami_da_9
+B 2192.88 Okay . ami_da_1
+A 2195.9 Something important about a s , no , which sh ami_da_3
+A 2195.9 should remind us of the remote itself , I guess . ami_da_4
+D 2201.08 Yeah , definitely . ami_da_9
+A 2201.82 , in one colour . ami_da_6
+D 2202.58 Are we going to do something with the spongy thing there ? ami_da_8
+D 2202.58 Yeah , that is true , that is true . ami_da_9
+A 2203.23 Just use ami_da_3
+A 2203.23 I think the spongy thing already comes forward in the in the in the cushions , pads and things on the s side . ami_da_9
+C 2206.82 What are we going to do now ? ami_da_5
+C 2206.82 I will make one in the next twenty minutes . ami_da_7
+A 2212.75 And we will make it spongy and and and well , the fruity thing is just the shape should be fru i did ami_da_6
+A 2212.75 I think this is kind of fruity , you know . ami_da_9
+A 2219.45 Just round shapes with ami_da_9
+A 2219.45 Yeah , but we are going to have to we really have to think I think colours is very important , because it has to be flashy , but and but it d it does not have to be annoying , ami_da_6
+A 2219.45 that when you , know , ami_da_3
+A 2219.45 some things is just over the top , and when you have it on your table for more than two weeks , you it just gets annoying , because it is so big and flashy . ami_da_9
+D 2220.96 Yeah , it is kind of fruity , and with th with catchy colours w ami_da_9
+D 2220.96 Yeah , definitely . ami_da_9
+A 2239.0 , it has to be some level of subtlety , but we have to still have to think of how we manage to to get to that . ami_da_6
+D 2246.21 Yeah . ami_da_1
+A 2248.31 Okay . ami_da_9
+D 2249.02 Okay . ami_da_9
+A 2249.22 Guess we are through then . ami_da_4
+D 2251.03 I guess so . ami_da_9
+A 2251.88 But we I think also we just ami_da_2
+A 2251.88 so we have to do something with colour but also , I I think we have to keep the dark colour thing in mind . ami_da_6
+A 2257.89 I think that is adds to the ami_da_3
+A 2257.89 too much colour maybe m ami_da_9
+A 2257.89 But our des design experts will work that out . ami_da_6
+D 2258.04 Yes . ami_da_1
+B 2258.45 Yeah . ami_da_1
+B 2261.31 Too much colour , i it when you got it in a living room ami_da_9
+B 2261.31 , it is too much maybe ami_da_9
+D 2265.55 Yea ami_da_1
+D 2265.55 yeah . ami_da_1
+B 2266.34 It has to be ami_da_3
+B 2266.34 Yeah . ami_da_1
+A 2268.57 Okay , well I think the meeting will be over within a minute . ami_da_4
+D 2268.73 Yep . ami_da_1
+A 2272.78 So we will wrap up . ami_da_6
+D 2272.87 Something like that . ami_da_9
+A 2275.0 Or is there anything we would like to discuss ? ami_da_8
+A 2275.0 That is right . ami_da_9
+D 2277.14 I guess not . ami_da_4
+A 2279.06 Okay . ami_da_9
+D 2279.06 Do you , guys ? ami_da_8
+D 2279.06 No ? ami_da_9
+D 2279.06 In the shared folder . ami_da_4
+B 2279.9 No . ami_da_4
+A 2281.91 Okay . ami_da_9
+A 2284.08 Well , you will read the minutes in the ami_da_4
+A 2284.08 you can find them in the ami_da_4
+A 2284.08 pro probably . ami_da_9
+B 2288.12 Oh , okay , ami_da_9
+B 2288.12 yeah . ami_da_9
+A 2290.57 Yeah no , for su for sure ami_da_9
+A 2290.57 because I am will now type them out . ami_da_7
+A 2297.02 , y ami_da_2
+A 2297.02 yeah . ami_da_2
+D 2297.5 You will see in you email , I guess . ami_da_4
+B 2298.5 Yeah . ami_da_9
+A 2299.27 I think ami_da_3
+A 2299.27 But toilet paper roll and ami_da_14
+A 2299.27 Okay . ami_da_2
+D 2299.76 Yeah , I do not know . ami_da_4
+D 2300.35 I do not know . ami_da_4
+B 2301.19 I hope so . ami_da_9
+B 2302.21 And the other thing is that you do not have kind of prototype or something like that . ami_da_4
+B 2306.06 You see a kind of prototype you can a little bit more ami_da_9
+B 2306.06 Yeah . ami_da_9
+D 2313.08 Construct one , yeah . ami_da_9
+B 2314.48 With you laptop ? ami_da_14
+B 2314.48 Yeah . ami_da_14
+B 2319.36 Oh my God . ami_da_16
+D 2319.98 Alright , shall we get back to work ? ami_da_6
+D 2319.98 Great . ami_da_9
+A 2321.4 Yep . ami_da_9
+A 2322.6 I was waiting for the l last message , but ami_da_4
+B 2323.18 Well you are . ami_da_9
+D 2324.15 Yeah . ami_da_1
+D 2325.97 Bastard . ami_da_14

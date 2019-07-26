@@ -1,0 +1,773 @@
+B 0.02 I will wait until you are all hooked up . ami_da_7
+D 17.57 Oh good grief . ami_da_16
+D 22.85 Okay . ami_da_9
+B 29.76 Okay . ami_da_2
+D 50.13 Oh . ami_da_16
+B 52.39 Put it on in that way . ami_da_6
+A 54.23 Oops . ami_da_16
+B 54.47 Thanks . ami_da_14
+B 78.08 Okay . ami_da_2
+B 80.08 Welcome back everybody , hope you have had fun . ami_da_14
+A 82.47 After lunch . ami_da_1
+A 85.13 Yeah . ami_da_1
+B 85.44 Right this is our conceptual design meeting , I think we are slightly ahead of ourselves from the last meeting , ami_da_4
+B 85.44 I th ami_da_9
+B 85.44 I ami_da_9
+B 85.44 I think ami_da_9
+B 85.44 yeah . ami_da_9
+C 96.01 Yeah , ami_da_9
+C 96.01 yeah ami_da_9
+C 96.01 I was getting that impression as well . ami_da_9
+B 101.04 This is where we talk about properties , materials , user interface and trend watching . ami_da_4
+C 109.85 Etcetera . ami_da_1
+B 112.69 So I think we have touched on a few things to do with that already , ami_da_4
+B 112.69 but we will just go over it . ami_da_6
+B 120.4 the minutes from the last time . ami_da_4
+B 126.02 we had a couple of changes in our plans in that we could not use teletext , it was not going to be a control for everything and that we had to incorporate the image of the company into it somehow . ami_da_4
+B 142.8 we have decided on a leaving out the voice recognition , we have decided on there being a flip design and a different shape from what is normal . ami_da_4
+B 160.44 We were thinking a shell , but something along those lines , just a different shape from what is normal , . ami_da_4
+B 168.97 You were going to look into the rechargeable batteries and we were going to think about the port and an alarm for getting it lost , things like that , and our market was going to be young , business , kind of range . ami_da_4
+C 172.32 Yeah . ami_da_9
+C 177.68 Yeah . ami_da_1
+A 188.1 Okay . ami_da_1
+B 188.62 Okay , so shall we start with the first presentation ? ami_da_6
+B 188.62 Yes if you feel It is okay . ami_da_9
+D 191.24 Shall I ? ami_da_7
+D 191.24 Okay . ami_da_9
+A 191.78 Yep . ami_da_1
+D 193.33 We just connect up . ami_da_7
+D 201.1 Thank you . ami_da_14
+D 217.91 There we go . ami_da_9
+D 218.98 Okay ami_da_2
+D 218.98 so we decided on our market and so this feedback from the marketing department is really about trend watching . ami_da_4
+D 228.0 the methods we used to decide on current trends and so on , market trends , were that we did our traditional our usual market research study with a hundred subjects ami_da_4
+D 228.0 and the the general feedback from them is that the most ami_da_3
+D 228.0 im w ami_da_14
+D 228.0 I am sorry ami_da_14
+D 228.0 I am slightly tongue tied after lunch , ami_da_4
+D 228.0 sorry Project Manager . ami_da_14
+D 251.19 we decided on the most important aspect i required in a remote control device and we will come to that later . ami_da_4
+D 256.56 So that was one of the first things we did . ami_da_4
+D 258.49 Also with our company being forerunners in putting fashion into technology , we also looked at a fashion update using our consultants on fashion and design in Paris and Milan . ami_da_4
+D 270.29 so the general findings from that was in the market trends the most important aspect for remote controls were people want a fancy look and feel , rather than the the current functional look and feel of remote controls . ami_da_4
+D 285.99 They also also want a remote control to be technologically innovative , and of course , as we predicted , that it should be easy to use . ami_da_4
+D 294.2 Now I should point out that the first of those findings , fancy look and feel , is the most important , is twice as important as the second , technologically innovative , which is in turn twice as important as being easy to use . ami_da_4
+D 307.84 So possibly that the feature that we put first is actually third is still important , but it is third in order of preference for the the subject group we looked at . ami_da_4
+B 316.02 Yeah . ami_da_1
+D 316.96 Okay , , ami_da_2
+D 316.96 now the fashion update which relates to very personal preferences among our subject group , we found from our consultants in Paris and Milan who des attended all the design and fashion fairs there , that fruit and vegetables are going to be the theme for clothes , shoes and furniture . ami_da_4
+D 335.05 So should we be thinking of using something like that in our remote control design too ? ami_da_6
+D 335.05 There also seems to be a trend towards a spongy feel to materials , again in contrast to last year . ami_da_4
+D 347.85 So a lot of interesting feedback there , both from our market research departments and from our people in Paris and Milan . ami_da_9
+D 354.32 Be interesting to see what our design people make of that . ami_da_9
+A 356.94 Okay . ami_da_1
+B 357.29 Okay thank you very much . ami_da_14
+B 359.65 let is start from the inside and work our way out . ami_da_6
+A 360.73 Yep . ami_da_1
+A 363.56 Fine . ami_da_9
+C 364.29 Yeah , okay . ami_da_9
+A 364.3 It is okay with me . ami_da_9
+D 365.43 Unless anyone has any questions about that ? ami_da_13
+D 365.43 Not yet ? ami_da_5
+D 365.43 Okay . ami_da_9
+B 367.55 I do not think so , not yet . ami_da_4
+B 371.04 , yes , thank you . ami_da_14
+C 380.97 That screwed in ? ami_da_5
+C 380.97 Yeah . ami_da_9
+D 381.15 Okay . ami_da_1
+B 388.56 I hate those little things ami_da_9
+B 388.56 especially if you do them on too tight and you ca not get the leverage on them to undo them . ami_da_4
+D 395.41 I know . ami_da_9
+C 403.02 Okay , ami_da_9
+C 403.02 Okay . ami_da_2
+B 410.79 Okay . ami_da_9
+C 411.88 this is all about the design of the actual components and the availability of the components we have in stock at the moment . ami_da_4
+C 422.52 Okay , first the Into the method . ami_da_4
+C 427.42 The the main idea of the whole thing is just ami_da_4
+C 427.42 so you ami_da_4
+C 427.42 sh you just press buttons and it should activate things on the TV and we discussed last meeting that it should be easy to find . ami_da_4
+C 439.48 also in this study I have looked into the availability of some of the materials , because some of the things that we looked at last time are not un unfortunately are not available . ami_da_4
+B 451.06 Okay . ami_da_1
+C 452.66 , findings , I have got my nice little picture there . ami_da_4
+C 455.96 This is the chip called the TA double one eight three five which is what is used in pretty much every remote control because it sends out standard signals , based on your input and it is pretty much used for all all TV remotes at the moment . ami_da_4
+B 472.18 Okay . ami_da_1
+C 474.86 and then we we are loo looking into battery options . ami_da_4
+C 479.86 There is actually no rechargeable option available , ami_da_4
+C 479.86 so we ami_da_2
+C 479.86 I saw the the standard double A and triple A ami_da_4
+C 479.86 which we thought were a bit bit too bulky at the moment , ami_da_9
+C 479.86 dynamo charging , ami_da_4
+C 479.86 I thought that that might be a bit silly to be to be honest , ami_da_9
+C 479.86 people wo not ami_da_3
+C 479.86 it is it is basically like wind up radio . ami_da_4
+B 497.45 Wa ami_da_3
+B 497.45 can you explain that ? ami_da_5
+B 497.45 Like a ami_da_3
+B 497.45 right ami_da_9
+B 497.45 , okay . ami_da_9
+C 502.19 So you wind up your remote control before you use it . ami_da_4
+B 504.94 How what kind of ami_da_2
+B 504.94 how l long can you get out of that , I mean can you pick it up and then wind it for two minutes and then that is it for the night ? ami_da_5
+B 504.94 Or That does not count though does it ? ami_da_5
+B 504.94 I thought it was UV like ami_da_4
+B 504.94 Any , any ami_da_11
+B 504.94 I am pretty sure that solar is from the sun . ami_da_4
+C 506.26 It might You ami_da_3
+C 506.26 Yeah , ami_da_4
+C 506.26 yeah , ami_da_4
+C 506.26 oh yeah ami_da_4
+C 506.26 I presu you would not have to wind it for very long , ami_da_4
+C 506.26 but I do not I do not think it is really sort of necessary when you th you think of the next two options , ami_da_9
+C 506.26 like the the solar charging , because most people have the light on in the room anyway so they could get when when you got TV . ami_da_4
+D 532.32 Does does light charge as as sunlight does ? ami_da_5
+D 532.32 Artificial light ? ami_da_5
+D 532.32 Has to be solar . ami_da_4
+C 535.19 No . ami_da_3
+C 536.91 Is it ? ami_da_5
+C 536.91 Alright i ami_da_9
+C 536.91 Yeah it would the d ami_da_9
+C 536.91 yeah ami_da_9
+C 536.91 the dynamo would take more space ami_da_9
+C 536.91 because you actually need a physical sort of handle to wind up . ami_da_4
+A 540.57 Yep . ami_da_7
+A 540.83 Regarding those sizes , which one you think will be light ami_da_5
+A 540.83 because we we have to take into consideration size also , so maybe a standard triple A might take lesser space or and dynamo might take more space . ami_da_4
+C 559.77 Yeah , okay . ami_da_9
+B 560.54 , I do not think it counts electric lights ami_da_4
+B 560.54 no , ami_da_9
+B 560.54 but I mean not many you do not want to limit your market . ami_da_9
+D 561.91 Artificial light , no . ami_da_9
+D 565.27 That is going to ami_da_3
+D 565.27 I know , ami_da_9
+D 565.27 different parts of the world too , if we are if we are marketing internationally . ami_da_4
+B 568.35 I mean people who live in basement flats there is not that many people , but there are people . ami_da_4
+A 571.57 Right . ami_da_1
+C 571.73 But ami_da_3
+C 571.73 Yeah ami_da_9
+C 571.73 and most people most people also watch TV in the in the night anyway . ami_da_4
+A 579.56 Night . ami_da_1
+B 580.59 , but then it would be charging through the day , ami_da_9
+B 580.59 I think the point is that it charges through the day ami_da_4
+B 580.59 and then you have got it charged for the evening . ami_da_4
+C 587.25 But I I think I think the the next one is the best anyway . ami_da_9
+B 590.12 Okay . ami_da_9
+C 590.62 The the kinetic charging which is like you get it in r ami_da_4
+C 590.62 you get it in wrist watches and you d you do not even notice it . ami_da_4
+B 595.4 Yeah I have seen ami_da_9
+B 595.4 But then if you think about a watch , it is on your wrist so it is on your whole bod ami_da_9
+B 595.4 it is on your body the whole time ami_da_9
+B 595.4 so you are walking around , you are doing things , it is moving a lot of the time ami_da_4
+C 598.34 I mean the amount the amount of probably moving around you would be doing all the time would would charge it up , I do not think you would ever need to actually physically start shaking it up to make it work . ami_da_4
+A 608.54 And are these like ami_da_2
+A 608.54 what are the life of the kinetic battery , it like it runs for long time ? ami_da_5
+C 613.51 yeah ami_da_4
+C 613.51 it is it charges into some form of ami_da_2
+C 613.51 it is a smaller cell which it charges into and the si the size sort of a watch a watch battery , because they use them quite frequently in watches . ami_da_4
+A 627.88 Okay . ami_da_1
+C 628.74 And that will that would l would last for ami_da_3
+C 628.74 well I do I ami_da_4
+C 628.74 d I am not entirely sure how long it would last ami_da_4
+C 628.74 but I have never seen one run out . ami_da_4
+A 640.27 We c ami_da_3
+A 640.27 Solar would be slightly expensives . ami_da_4
+C 645.11 Yeah . ami_da_1
+C 649.9 Yeah ami_da_1
+C 649.9 and Yeah but then again ami_da_3
+C 649.9 I I think it is ami_da_9
+C 649.9 because if you think about it , the watch , although it is only a tiny amount it is it is it is always moving for the whole day ami_da_4
+C 649.9 and they do not run out over night when you leave them on the side . ami_da_4
+B 650.14 If you would ami_da_2
+B 650.14 I mean you switch the TV on ami_da_4
+B 650.14 , then you put it on the side , then you pick it up to change it ami_da_4
+B 650.14 and then you put it on the side . ami_da_4
+B 655.88 Is it really going to be enough ? ami_da_11
+B 655.88 Okay . ami_da_9
+C 673.33 And th for the same the same reason , you are only using it for a v incredibly short amount of time just to send the signal and then you are finished with it ami_da_4
+C 673.33 and you put it ami_da_3
+C 673.33 no no ami_da_9
+C 673.33 I do ami_da_9
+C 673.33 I do not think the the draw on it would be ami_da_9
+B 681.77 So it is not the draw on it is not ami_da_9
+B 681.77 Okay . ami_da_1
+D 685.04 Could I just ask ami_da_7
+D 685.04 referring back to solar charging , is that compatible with standard batteries ? ami_da_5
+D 685.04 I mean , could people put standard batteries in but with a s you know they could leave it in the sunlight for solar charging or the two things not compatible ? ami_da_5
+C 695.82 yeah ami_da_4
+C 695.82 I think I th ami_da_4
+C 695.82 g y ami_da_4
+C 695.82 you could have a dual power thing but the the thing with the solar cells is you would need to put them on the case ami_da_4
+C 695.82 and they because , if you lie ami_da_2
+C 695.82 on a calculator they they are qui they are quite big and they all they all look i identical . ami_da_4
+B 698.23 Like a dual kind of . ami_da_9
+D 714.49 So that affects the exterior design . ami_da_9
+B 716.16 Expensive as well . ami_da_4
+C 717.25 They are they are expensive , ami_da_9
+C 717.25 they do not ami_da_3
+C 717.25 Yeah the normal batteries would be the cheapest ami_da_9
+C 717.25 I would presume then it would actually be the the solar charging ones , ami_da_4
+C 717.25 but the ami_da_2
+C 717.25 It is i I think they are not very resistant to dropping , because if you drop stuff yeah ami_da_4
+C 717.25 if you if you have y ami_da_3
+C 717.25 the size you would need to charge a remote would not be that big ami_da_4
+C 717.25 but I mean if remotes always get thrown around and stuff , so . ami_da_4
+B 717.74 What kind of price are we looking at for ami_da_5
+B 717.74 I presume the normal batteries are the cheapest ? ami_da_4
+B 717.74 Solar . ami_da_5
+A 720.58 It is twelve point ami_da_3
+A 720.58 f ami_da_3
+A 720.58 Another question is like ami_da_3
+A 720.58 sorry . ami_da_14
+B 740.29 Well they are not designed Practical wise okay . ami_da_9
+C 749.9 Y I think ami_da_3
+C 749.9 yeah , practically . ami_da_9
+C 753.65 I mean calculators you do not really throw around a lot whereas remotes you do , ami_da_4
+C 753.65 they can t ami_da_3
+C 753.65 Yeah they do , ami_da_4
+C 753.65 they ami_da_2
+C 753.65 yeah they have got dual things , but they are the batteries are smaller ami_da_4
+C 753.65 I think . ami_da_4
+B 759.16 You do get a bit of wear ami_da_9
+B 759.16 but do not calculators have a battery in them as well ? ami_da_5
+D 767.35 Again it de ami_da_3
+A 769.92 W w which one would last the longest , ami_da_5
+A 769.92 because we do not want customers to be like you know charging like a mobile phone every day . ami_da_4
+A 775.96 A remote control , like , ami_da_4
+A 775.96 so we have to s look at the life also . ami_da_6
+C 776.18 W m ami_da_9
+C 776.18 yeah ami_da_9
+C 776.18 so the ami_da_3
+C 776.18 Yeah ami_da_9
+C 776.18 the the s if you ami_da_2
+C 776.18 if you had something du using the standard batteries and the solar charging , ami_da_4
+C 776.18 , I do not think you would I think the ami_da_2
+C 776.18 it would d well you know how long the standard double As would last in or triple As would last . ami_da_4
+D 796.5 It would just detract from the attractiveness of the of the whole feature , i it is not going to add anything , okay . ami_da_9
+C 799.32 Yeah I think i I think it would , ami_da_9
+C 799.32 yeah . ami_da_9
+B 801.89 Okay , can we add in an attachment to closing feature ? ami_da_6
+B 801.89 Can we think about that ? ami_da_6
+B 801.89 Because if we are doing the kinetic thing ami_da_4
+B 801.89 and it is ami_da_3
+B 801.89 Well add it in to think about ami_da_6
+B 801.89 because , ami_da_2
+B 801.89 where am I ? ami_da_16
+B 801.89 If it is the kinetic thing and it is small and it is portable and it is a different shape and the kinetic is something people do not do kind of we are doing something original and different but if you wore it if it is something you could just clip on your pocket then you would have that less , you you would not lose it so much . ami_da_4
+A 806.95 Okay . ami_da_9
+C 811.75 Yeah . ami_da_1
+D 812.31 Should not we do some market research on that first before we add it in ami_da_6
+D 812.31 because I I personally ami_da_3
+D 812.31 right ami_da_9
+D 812.31 , okay . ami_da_9
+C 832.63 Yeah . ami_da_1
+C 847.23 Yeah . ami_da_1
+B 849.51 But then maybe that is looking at someone who is just sitting on their own rather than the eternal battle for control of the controls . ami_da_9
+C 849.84 Yeah . ami_da_1
+D 857.15 It is not something that is come up in any of our focus groups and market research , it is not a thing that people are looking for when we threw it open to the field ami_da_4
+D 857.15 yeah . ami_da_4
+B 861.8 No . ami_da_1
+B 864.04 Okay . ami_da_9
+A 865.28 So ami_da_3
+C 868.04 Okay . ami_da_9
+D 868.04 But it is something to put on the side to think about maybe . ami_da_6
+B 871.63 Okay , right . ami_da_9
+C 872.2 Okay , ami_da_9
+C 872.2 well I will move on . ami_da_7
+C 874.85 , my second part of my findings ami_da_4
+C 874.85 the mo ami_da_2
+C 874.85 most current remotes use this silicone PCB board which pr printed circuit board , which basically has these contacts that are really close together and then when you press down on the rubber button , it will connect the circuit and each each switch is connected to two different legs on the chip and so sends a different message and that then gets translated by the chip into a code and then it is fired out of this LED in the sequence of l on and off bursts . ami_da_4
+B 918.16 What kind of things do we have to consider there ? ami_da_5
+B 918.16 Can we what kind of size , ami_da_2
+B 918.16 does it come in varying sizes or is it just one size ami_da_5
+B 918.16 and we would have to fit the design of ami_da_5
+C 925.27 Well well this the thi ami_da_2
+C 925.27 the thing about is they they can be as big or as small as you want them to be because you can you can print circuit board like that ami_da_4
+C 925.27 that it is it is simply spaced like that so you can have fit the n the size of the nine buttons in . ami_da_4
+C 943.54 If you if you see how thin the tracks are , you could you could s you could put them virtually right next to each other and have a much smaller switch on each one , if you if you wanted to ami_da_4
+C 943.54 but the ami_da_2
+C 943.54 there is an option to do to do it like that , or you could have some sort of array of switches ami_da_4
+C 943.54 which I will speak about in the next bit ami_da_7
+C 943.54 so that ami_da_3
+C 943.54 And then to ami_da_2
+C 943.54 yeah , ami_da_2
+C 943.54 so to conserve battery life the remote should be in a standby mode no while not being used . ami_da_4
+B 952.22 Okay . ami_da_1
+B 966.52 Okay . ami_da_1
+C 976.66 Now what I was thinking about that was because sometimes when y when you have these things , they have got little lights on behind the buttons , so you can see what all the buttons are , like on a mobile phone , they do it more often than on a than on a TV remote , ami_da_4
+C 976.66 but you could you could have lights behind the buttons and after like five or ten seconds of not being used I would have that turned off , ami_da_6
+C 976.66 if we decided to go for buttons that could light up . ami_da_4
+A 1004.88 Okay . ami_da_1
+C 1004.91 , the case material , I have a been sent what the factory can actually give us , ami_da_4
+C 1004.91 the ami_da_2
+C 1004.91 there is the plastic which I think we were going to go for anyway as the main case case housing ami_da_4
+C 1004.91 and ami_da_2
+C 1004.91 the the main problems with the well you could go for wood ami_da_4
+C 1004.91 but I think it would be a bit impractical . ami_da_9
+C 1032.5 Titanium very expensive just to process , which to make it is expensive , and rubber , well you are saying that people like this spongy feel this year , ami_da_4
+C 1032.5 so perhaps some something made of rubber , but I was thinking more of the buttons , ami_da_6
+C 1032.5 because the buttons which they have they have said that they have they have put across are what is used in some stress ball manufacture and it is meant to be anti RSI . ami_da_4
+D 1066.12 Okay . ami_da_1
+C 1069.91 I am no I am not sure how that would work because surely your fingers would still be moving over the short distances ami_da_9
+C 1069.91 but that is what they said . ami_da_4
+C 1078.67 the problem with the casing is that there is quite there is quite a few design restrictions that they have got on the shape of the case . ami_da_4
+C 1094.17 If you go for titanium they can only do a standard box shape , whereas if you come to plastic they can they can be a little more they can they can do sort of curved shapes . ami_da_4
+C 1104.96 But whether whether or not ami_da_3
+C 1104.96 because we would have it in two separate units for the flip phone . ami_da_4
+A 1111.24 Second thing is ami_da_2
+A 1111.24 yeah and second question is like , a mobile you can change the cover , you call it a skin or whatever . ami_da_4
+B 1111.47 Hinged , yeah . ami_da_9
+C 1116.01 Yeah . ami_da_1
+A 1117.63 So in this case if you are looking at like a customer can change the colour like from green , parrot green to chilli red or something like that . ami_da_4
+C 1123.21 Yeah I th ami_da_3
+A 1123.63 So is that feature available in like titanium , or it is like only specific to plastic or ami_da_5
+C 1128.23 Yeah in in titanium ami_da_4
+C 1128.23 I do not ami_da_4
+C 1128.23 I do not think it would be available at all really , ami_da_4
+C 1128.23 the ju just ami_da_2
+C 1128.23 it ami_da_4
+C 1128.23 w well you could make it available in the titanium ami_da_4
+C 1128.23 , it was just it would be so expensive to buy a new case for it , because of the expense of how much titanium is is it is light and strong ami_da_4
+C 1128.23 but I think it should be left for aircraft design rather than for ami_da_9
+C 1128.23 for a remote . ami_da_4
+D 1152.1 It does mark quite easily too if you let it fall . ami_da_4
+D 1154.44 I have got a mobile phone myself which is titanium ami_da_4
+D 1154.44 and it does mark very easily if you drop it . ami_da_4
+C 1156.72 Yeah , ami_da_9
+C 1156.72 yeah . ami_da_9
+D 1159.44 I was just wondering if we make the basic mould out of plastic but have like a rubber cover that goes over , ami_da_6
+D 1159.44 that would give the spongy feel , that also allows us to kind of have different fasciae for the phone . ami_da_4
+C 1163.88 Rubber , yeah . ami_da_9
+C 1168.63 And you can peel them off yeah . ami_da_4
+B 1169.94 So instead of the fascia that comes off being plastic , the fascia that comes off would be the rubber , like those pens that you get with the grip , that you can you can pull that off . ami_da_4
+A 1169.98 Yeah . ami_da_1
+D 1174.31 Like a rubber sleeve almost , yeah . ami_da_9
+C 1176.03 Yeah . ami_da_9
+A 1176.08 Something like ami_da_3
+A 1176.08 Alright . ami_da_1
+C 1178.32 Yeah . ami_da_1
+A 1179.73 That could be a good idea . ami_da_9
+A 1181.92 It could ami_da_2
+A 1181.92 it would be comfortable to hold on also . ami_da_9
+B 1182.08 Okay . ami_da_9
+D 1184.63 Very cheap way of changing the look of it and people can just buy a new one if they want to . ami_da_9
+C 1184.81 T ami_da_3
+C 1184.81 Yeah . ami_da_1
+B 1188.72 Well that is been really popular with mobile phones ami_da_9
+B 1188.72 so I do not see why not . ami_da_9
+D 1192.94 Yeah . ami_da_9
+C 1193.73 Also the ami_da_2
+C 1193.73 just just going back to the interface designs with the buttons , ami_da_4
+C 1193.73 the ami_da_2
+C 1193.73 I kno we were planning to do some sort of touch screen . ami_da_4
+B 1195.06 Okay . ami_da_1
+C 1204.82 Now what I was saying before about instead of having ami_da_2
+C 1204.82 you could have just a bare PCB circuit board and I am sure you could probably get it in different colours and so just by touching it with your finger it would make the connection over if you had them close enough , that would be one option . ami_da_4
+C 1224.65 the second option th they offer rubber buttons , ami_da_4
+C 1224.65 but I thought that an LCD type of screen ami_da_6
+C 1224.65 because one they are incredibly thin and do not take up much space , two they you can have them in a sort of array and you can arrange the buttons on the screen in a sort of set thing and you could have them like a touch display . ami_da_4
+A 1250.61 Sorry I did not get the last part , you are talking of ami_da_12
+A 1250.61 Just what you said I ami_da_4
+A 1250.61 I did not get the meaning of it completely , you are saying like ami_da_4
+A 1250.61 Uh huh . ami_da_1
+C 1254.32 what what ami_da_12
+C 1254.32 Oh on the on the LCD screen you could becau you could fit it the problem with it basically is that it is flat and so you ca not do lots of curve curved things with it , ami_da_4
+C 1254.32 but you can you would not have ami_da_2
+C 1254.32 with the LCD you would have the wires coming off , you would not have that with the with the LCD ami_da_4
+C 1254.32 , you would only have that with the printed circuit board . ami_da_4
+A 1268.12 Okay . ami_da_1
+C 1283.2 With ami_da_2
+C 1283.2 W also with the ami_da_3
+C 1283.2 Yeah . ami_da_1
+D 1285.14 I do not ami_da_3
+D 1285.14 s sorry to interrupt , ami_da_14
+D 1285.14 I do not see why the curved thing is a problem , ami_da_9
+D 1285.14 if we for example had a shell , once we open that ami_da_4
+D 1285.14 yeah , so it would be f ami_da_9
+D 1285.14 yeah , ami_da_9
+D 1285.14 yeah . ami_da_9
+B 1291.4 Oh it would be flat inside . ami_da_4
+C 1292.64 You could have a flat screen inside , yeah , but I am just wondering whether we want an LCD screen inside . ami_da_9
+D 1295.95 Have I misunderstood you ? ami_da_5
+C 1299.06 It would not be like full colour , it would just be black and white , but there would be touch touch buttons , so you would not be pressing down on them , w ami_da_4
+C 1299.06 or we could have rubber buttons which are made of this material which is anti RSI . ami_da_4
+A 1305.92 Okay . ami_da_1
+B 1312.35 I think it would be good to have a contrast between , if the whole thing is going to be this rubber thing it would be good to open it up and see something quite fancy looking inside . ami_da_9
+C 1316.18 Is rubber . ami_da_1
+D 1321.04 Yeah . ami_da_1
+B 1322.37 Now how would you distinguish , if you had it bare , how would you distinguish where you had to press , I mean ami_da_5
+B 1322.37 Like one of the palm pop thing . ami_da_9
+C 1328.39 Yeah I had not I had not really thought of that to be honest . ami_da_4
+D 1329.81 I just had another idea , I do not know if it helps with that , but just to do with the RSI . ami_da_4
+D 1334.49 Is it possible , just as an option , when we open it up , people can use their fingers to press the button , or we have inside like a small pointer thing when people want to . ami_da_5
+C 1341.3 Yeah you could , you could have some sort of stylus that you could pull out ami_da_4
+C 1341.3 but I ami_da_9
+C 1341.3 I think they could get a bit easily lost , ami_da_9
+C 1341.3 because I had ami_da_3
+D 1349.52 Yeah . ami_da_9
+A 1349.89 Absolutely , f for somebody who very often , if he would a person who switches channels very often or does use a particular function very often will find it very irritating to use a and he might spoil the touch pad very fast compared to a button like , if you keep punching with an pointer or whatever . ami_da_9
+D 1350.41 They are easy to replace as well , cheap . ami_da_9
+B 1350.45 It would have to be attached . ami_da_9
+C 1357.41 Yeah . ami_da_1
+C 1360.13 Yeah . ami_da_1
+C 1364.51 Yeah . ami_da_1
+C 1367.68 Yeah okay . ami_da_9
+D 1368.02 Yeah just a thought ami_da_9
+D 1368.02 they would not actually need one and they could use anything they have got , ami_da_4
+D 1368.02 could not they ? ami_da_5
+D 1368.02 A pencil or a pen , so they would not really need a ami_da_4
+B 1374.37 Okay , we will talk about that so if you finish your and we will come back to that . ami_da_6
+C 1377.38 Yeah that is ami_da_2
+C 1377.38 yeah ami_da_4
+C 1377.38 that that is the end of m ami_da_4
+C 1377.38 my ami_da_4
+C 1377.38 Yeah . ami_da_1
+B 1379.23 That is you , right okay . ami_da_9
+A 1380.42 And just one small question before like you are , ami_da_7
+A 1380.42 regarding the circuit , since we are hav having a flip top , we can customise the two circuits for different type of buttons like we are keeping the standard buttons on the top and the more complex buttons under this thing , so we can divide the circuit like you know . ami_da_6
+C 1389.91 yeah . ami_da_1
+C 1393.63 Yeah yeah that that would be fairly simple , ami_da_9
+C 1393.63 I mean you would you would actually have two separate you would have two separate circuit boards ami_da_4
+C 1393.63 but they would be joined by wires or like some cabling between them , because in the in the actual flip bit you would have some linking . ami_da_4
+A 1398.69 Okay . ami_da_1
+A 1403.89 Okay . ami_da_1
+D 1413.28 I will just raise another point while it occurs to me , ami_da_7
+D 1413.28 it kind of applies to both our designers here , so I am not sure how it would fit in . ami_da_4
+D 1419.02 If we flip open , now you know how you have got some mirrors in nightclubs that are mirrors when you turn to them ami_da_4
+D 1419.02 and you turn away ami_da_4
+D 1419.02 and it gives like an advertising display , ami_da_4
+D 1419.02 you seen those ? ami_da_5
+D 1419.02 And they kind of respond to the turn of your body . ami_da_4
+B 1427.92 No . ami_da_4
+D 1431.38 Is it possible that when we open our flip top shell it is a little compact mirror and when you press a button it then goes onto the phone display th the remote control display thing . ami_da_5
+B 1441.55 We are marketing to guys as much as we are to women . ami_da_9
+D 1445.33 They do not look at themselves ? ami_da_5
+D 1445.33 Just a thought . ami_da_9
+B 1448.66 Well it is a remote control , you were sitting watching TV ami_da_9
+B 1448.66 are you going to want to sort of open it and ami_da_9
+B 1448.66 say oh shit I should go and have a shower and do my hair before I put the T ami_da_9
+B 1448.66 Yeah , no , no . ami_da_1
+D 1451.08 Yeah . ami_da_1
+D 1453.41 I know what you mean , ami_da_9
+D 1453.41 it is with us using the ideas for a mobile ph ami_da_2
+D 1453.41 it is with us using the ideas for mobile phones I kind of got sidetracked onto that ami_da_9
+D 1453.41 I think , okay . ami_da_9
+D 1462.02 trying to think of other features we can build in that would not cost too much ami_da_4
+D 1462.02 but maybe we will leave that one on the side . ami_da_6
+C 1466.12 Yeah . ami_da_9
+D 1467.27 Okay . ami_da_9
+B 1467.49 Okay . ami_da_1
+C 1469.38 I mean you can you could do it , ami_da_4
+C 1469.38 you could have a ami_da_3
+C 1469.38 because if you if you just put the full charge through an LCD display it will completely blank it out , but I do not know if you could get any mirror effect on it , I am not sure about ami_da_4
+C 1469.38 Yeah . ami_da_1
+D 1481.17 Oh I think forget about the mirror ami_da_9
+D 1481.17 that was just a very quick passing thought ami_da_4
+D 1481.17 yeah . ami_da_4
+B 1484.52 Okay , okay . ami_da_9
+A 1485.92 Okay , ami_da_2
+A 1485.92 would like to share something which I did here . ami_da_7
+A 1492.37 First thing is basically on design we just took the input from the previous meeting , especially from the marketing and industrial design , to check on the customer needs and feasibility . ami_da_4
+A 1502.9 Second is we checked into competitors , the picture here shows one of the standard models offered by competitors here . ami_da_4
+A 1508.02 So y you generally see there is not much of variety and like marketing team said , people need trendy , they are bored of black and white . ami_da_4
+A 1515.7 So you generally see rectangular shape , very monotonous kind of designs here . ami_da_4
+A 1522.92 And second thing is there is too much of confusion here . ami_da_4
+A 1527.29 No particular remote is standard . ami_da_4
+A 1531.18 Like , some some people have a ami_da_3
+A 1531.18 Here you see this ? ami_da_5
+A 1531.18 This is on a I I ami_da_3
+A 1531.18 I found th that only common feature is the ch channel control and volume control , rest other buttons , they are in a very disorganized and they are not consistent th with other models and all . ami_da_4
+B 1548.32 Okay . ami_da_1
+A 1549.28 Okay , and second as already discussed with William , we are going to have m maybe a G GUI interface in the f in the middle of the flip top and g graphic user interface basically which is what we d do in computer , have icons or touch pad or whatever , ami_da_4
+A 1549.28 which is ami_da_3
+A 1549.28 Like you have on a l ami_da_2
+A 1549.28 icons or something y you have is a good example of GUI graphic user interface . ami_da_4
+C 1555.92 Yeah . ami_da_1
+D 1557.6 Sorry what does that stand for ? ami_da_5
+D 1557.6 Okay . ami_da_1
+B 1558.24 Which means ami_da_5
+B 1558.24 Okay . ami_da_9
+C 1562.31 Yeah . ami_da_1
+C 1564.18 If you if ami_da_2
+C 1564.18 yeah if you have like buttons that appear on the screen in this LCD screen . ami_da_4
+C 1574.84 Yeah . ami_da_9
+A 1576.34 So basically not point or click Press any particular device , he just has to click on that particular icon to simplify . ami_da_4
+B 1582.98 Okay . ami_da_1
+A 1584.31 And on the top m repetitive buttons which are like volume or channel changing and all could be on the pointing device , that means the use of button . ami_da_4
+A 1592.81 So he need not use a pointer to keep changing the channel if a person is frequent surfer . ami_da_4
+A 1598.78 So we are having a combination of boards , so f on the s simpler board , on the top we have this button , rubber buttons , to keep frequently changing the channels . ami_da_4
+B 1609.46 Can we swap that round so th that the ones that we use all the time are on the bottom part ? ami_da_6
+B 1609.46 Because if you are thinking about holding it you would be using your thumbs to press , just like a mobile phone . ami_da_4
+C 1622.52 Yeah . ami_da_9
+D 1622.57 No you would hold it you do not if you flip it open then you would be ami_da_9
+D 1622.57 Would not you ? ami_da_11
+D 1622.57 Is not that the idea ? ami_da_11
+D 1622.57 You us ami_da_2
+D 1622.57 if we just use the shell as an example again , you open that , you have got your LCD display there ami_da_4
+D 1622.57 and you have got the buttons there ami_da_4
+D 1622.57 so you are holding it in the palm of your hand , ami_da_4
+D 1622.57 yeah . ami_da_4
+B 1630.77 Yeah . ami_da_1
+C 1635.08 Yeah , ami_da_9
+C 1635.08 yeah ami_da_9
+C 1635.08 but you can do it with your thumb li ami_da_9
+C 1635.08 Yeah . ami_da_1
+B 1635.33 That is what I was just saying , ami_da_9
+B 1635.33 and then have the and then have the LCD at the top and then be able to touch that for the other controls , so have the the volume and the programme , things like that , on the lower side . ami_da_6
+A 1636.8 But ami_da_3
+A 1643.44 Okay ami_da_9
+A 1643.44 and you mean to the ami_da_3
+A 1643.44 And the lower distance . ami_da_6
+A 1650.76 Oh f perfect . ami_da_9
+B 1652.03 Okay . ami_da_9
+A 1655.62 So the findings are too many cluttered buttons . ami_da_4
+A 1658.63 Repetition of certain but buttons which I already explained , example the volume and channel control buttons . ami_da_4
+A 1663.84 All are confusing and in inconsistent . ami_da_4
+A 1666.13 Okay we had a latest finding of voice recognition , there was a mail which mentions that our division has developed a new speech recognition s feature . ami_da_4
+A 1675.57 We have to check into the for financial f feasibility whether we can incorporate it this at a low cost , ami_da_4
+A 1675.57 but for ami_da_2
+A 1675.57 like we had ami_da_4
+A 1675.57 g s response from the customers that they would like to have the feature of finding it . ami_da_4
+A 1691.25 So it could be like , where is the remote , and the remote answers I am here . ami_da_4
+C 1694.76 Yeah . ami_da_9
+A 1695.27 Some kind of thing or it gives a b bleep sound or some kind of sound and if this can be incorporated this would be more you can say trendy also ? ami_da_4
+A 1695.27 And technologically innovative also . ami_da_4
+C 1708.38 Yeah . ami_da_1
+A 1708.98 So we we can check into the financial feasibility of incorporating this . ami_da_6
+A 1716.23 My personal preferences would be like , as already marketing department , they want something to do with fruit ami_da_4
+A 1716.23 so I would not say the design should be like a fruit , ami_da_9
+A 1716.23 but yeah we can take inspiration from fruit colours , like the vibrant colours , red chilli tomato red or whatever and second thing is cer certain standard buttons we should have , ami_da_6
+A 1716.23 like for example , i if you see the previous slide I think most of the users would now be well acquainted with this cer central pattern , here , ami_da_4
+A 1716.23 so we we we would not change h that particular pattern ami_da_6
+A 1716.23 because i this is the most consistent thing in all remote controls . ami_da_4
+C 1730.76 Yeah . ami_da_9
+C 1743.54 Well , yeah ami_da_3
+C 1743.54 we ami_da_3
+C 1743.54 Yeah . ami_da_9
+B 1757.45 I ca not see that , ami_da_4
+B 1757.45 is that play and stop and things ? ami_da_5
+B 1757.45 Or is that volume and channel ? ami_da_5
+B 1757.45 Okay . ami_da_9
+A 1760.16 This is central one , the one ami_da_4
+A 1760.16 you ami_da_4
+A 1760.16 yeah volume and channel . ami_da_4
+A 1764.29 So keep that m that standardised because that is the most common feature across all models , ami_da_6
+A 1764.29 if you look at all the models , it is here . ami_da_4
+A 1773.65 This and voice recognition . ami_da_4
+B 1787.76 Right . ami_da_2
+B 1788.65 Okay . ami_da_2
+B 1790.14 I am not sure how long we have got left , ami_da_4
+B 1790.14 but we need to make a decision about the things we have discussed . ami_da_6
+B 1802.7 So , we agree on ami_da_2
+B 1802.7 Do we agree on the battery ? ami_da_11
+B 1802.7 Yeah . ami_da_9
+D 1809.8 Kinetic ? ami_da_6
+A 1810.14 The kinetic . ami_da_9
+C 1811.55 Yeah . ami_da_9
+B 1813.06 , that means that there is no function for li the port , you know that it sits in , then pressing the button then having ami_da_9
+B 1813.06 so we could incorporate voice recognition for the finding it . ami_da_6
+C 1822.95 Yeah I think I mean ami_da_3
+C 1822.95 if ami_da_3
+C 1822.95 Yeah it is it is qui ami_da_9
+C 1822.95 it is quite a cool feature to have ami_da_9
+C 1822.95 and also if they have got it if they have got these parts already in stock , then it wo not be cheap to re manufacture them , or it will be cheap sorry to re manufacture them . ami_da_4
+B 1824.25 It is a bi ami_da_9
+B 1824.25 i ami_da_9
+B 1824.25 it is like a g ami_da_9
+B 1824.25 it is a gadget , it is a selling point . ami_da_9
+C 1841.48 So do you reckon that is a good idea that , where is the remote , I am here thing ? ami_da_11
+C 1841.48 I think that would be quite fun . ami_da_9
+B 1848.0 I think the only ami_da_2
+B 1848.0 I think the only pitfall that we would have would be how much it is going to cost if that means we have to cut down somewhere else , ami_da_9
+B 1848.0 but I think pretty much we have used cheap relatively cheap and simple things . ami_da_4
+C 1855.2 Yeah . ami_da_1
+C 1863.14 Yeah . ami_da_1
+C 1865.0 Yeah to s th well ami_da_4
+C 1865.0 it is it is not as expensive as it would be if it was full colour because if we have just got a black and white one , I mean they use them in calculators so . ami_da_4
+B 1865.2 The LCD is not cheap . ami_da_4
+B 1876.52 Yeah , okay . ami_da_9
+A 1877.46 Maybe we could start with the black and white . ami_da_6
+C 1880.02 Yeah . ami_da_9
+A 1880.73 That that way we could upgrade later . ami_da_6
+B 1880.79 And you could ami_da_3
+B 1880.79 yeah . ami_da_9
+D 1883.7 Yeah , we talked about kinetic charging , we have deci seem to have decided on that , ami_da_4
+D 1883.7 did we decide on double A or triple A batteries ? ami_da_5
+D 1883.7 No , one of the decisions we had to make was whether we had double A or triple A batteries ami_da_4
+D 1883.7 because they have still got to be charged this way have not they ? ami_da_5
+D 1883.7 I ami_da_9
+D 1883.7 oh I see . ami_da_9
+B 1884.08 Okay . ami_da_1
+C 1890.54 Well you cou . ami_da_3
+B 1891.65 Do you want like a back up ? ami_da_5
+B 1891.65 , okay so we have got battery . ami_da_4
+C 1899.26 K no the kinetic ones come come with a sort of w watch a battery that goes in a watch . ami_da_4
+D 1905.07 Right , okay , got you . ami_da_9
+C 1906.15 So it is a lot smaller , ami_da_4
+C 1906.15 so it would ami_da_3
+C 1906.15 Yeah . ami_da_4
+D 1908.4 Got you on that okay , ami_da_9
+D 1908.4 did not realise . ami_da_4
+B 1915.88 The inside components is pretty standardised across the board is not it ? ami_da_5
+B 1915.88 So there is not a really a decision to be made there , . ami_da_9
+A 1921.81 Yeah . ami_da_4
+B 1928.08 The buttons ami_da_4
+B 1928.08 what did you give us as our ami_da_5
+B 1928.08 The bare board LCD or ami_da_4
+B 1928.08 On the top one okay you have got the touch okay ami_da_9
+B 1928.08 and then ami_da_5
+B 1928.08 Okay , okay . ami_da_9
+C 1936.36 Yeah ami_da_4
+C 1936.36 the well I think were we are going for the LCD on that one , on the buttons , on the on the on on the top one we are going to ami_da_4
+C 1936.36 yeah . ami_da_9
+C 1950.04 On the bottom we were going to have the rubber , the rubber ones , the anti RSI ones . ami_da_4
+D 1959.77 Sorry could you repeat that last part ? ami_da_12
+D 1959.77 LCD screen . ami_da_4
+C 1961.78 , okay on we have got the flip the flip screen , the top one is going to be the LCD and the bottom one is going to be the rubberised buttons . ami_da_4
+D 1969.83 Okay . ami_da_9
+A 1971.44 And for the ami_da_3
+A 1971.44 sorry . ami_da_14
+B 1973.36 No , it is fine . ami_da_9
+A 1977.09 For the body design I think plastic , ami_da_6
+A 1977.09 w ami_da_4
+A 1977.09 yeah ami_da_4
+A 1977.09 we could use the body , ami_da_4
+A 1977.09 for the inside ami_da_9
+A 1977.09 and rubber as a padding or for the grip , something like to add to the design . ami_da_6
+C 1980.19 Plastic , ami_da_12
+C 1980.19 okay . ami_da_9
+B 1981.56 For the inside . ami_da_4
+C 1983.35 Yeah . ami_da_9
+D 1988.2 so we decided on a rubber casing for the plastic shell , a variety of designs , ami_da_4
+D 1988.2 okay . ami_da_9
+A 1991.72 Plast right . ami_da_9
+B 1992.25 Oh I think so ami_da_9
+B 1992.25 , I think so . ami_da_9
+D 1995.97 and it is just ami_da_2
+D 1995.97 although it is rubberised and spongy , apart from that we are just going to go for sort of vegetable and fruit colours , ami_da_4
+D 1995.97 we are not going to try and make it actually a vegetable or fruit design or anything else , like a shell that we discussed , ami_da_5
+D 1995.97 just go for the colours . ami_da_9
+C 2006.05 no . ami_da_4
+B 2007.04 No ami_da_4
+B 2007.04 I think I ami_da_2
+B 2007.04 we do not want to be tacky ami_da_9
+B 2007.04 if we have got a kind of different shape anyway the fact the m the material that we would be using would be cheap , ami_da_4
+B 2007.04 so we could make it red , we could make it psychedelic , you know , we could make it black and white zebra stripes , ami_da_6
+B 2007.04 but that is not really what we are focusing on , what we are focusing on is the m you know yes . ami_da_9
+A 2008.16 It is ami_da_3
+A 2008.16 I it is different . ami_da_9
+D 2010.38 Okay . ami_da_9
+D 2031.8 The feel . ami_da_9
+B 2033.84 So we could just pick anything . ami_da_4
+D 2034.76 Okay . ami_da_1
+D 2037.64 Is that going to be ami_da_2
+D 2037.64 this image I have got in my head of something kind of shaped like that , maybe about that size , made of plastic , fits into the palm of the hand , rubberised cover that is spongy . ami_da_4
+D 2049.18 Is that really going to fit fancy look and feel ami_da_11
+D 2049.18 which was the major thing that people wanted , market research , ami_da_4
+D 2049.18 is that fancy ? ami_da_11
+B 2055.21 It is just different it is just different from everything else ami_da_9
+B 2055.21 and I mean , I am trying to imagine clean looking houses , sort of beige and black ami_da_4
+B 2055.21 so you either want something that goes with that , ami_da_9
+B 2055.21 which is what is on the market anyway , ami_da_4
+B 2055.21 or you want something that contrasts as ami_da_9
+B 2055.21 you know like you get clocks now ami_da_4
+B 2055.21 that are more of a talking point than an actual clock because they are so interesting and ami_da_4
+D 2080.86 Yeah . ami_da_1
+D 2082.3 I am just kind of pushing at that to see if you came out with anything else , ami_da_4
+D 2082.3 but I mean I totally agree . ami_da_9
+D 2086.84 We looked at those remotes , I mean they are kind of anonymous , very similar looking things . ami_da_4
+D 2090.8 This would definitely be different enough , ami_da_9
+D 2090.8 I just wondered if anybody could come up with something even more ami_da_4
+D 2090.8 Well the thing is the rubberised covers are going to be s relatively cheap to produce , that if in a year is time we we get feedback from the design fairs that show something else is coming ami_da_4
+D 2090.8 I mean it is so easy for us to just produce that ami_da_4
+D 2090.8 and it can be slipped on , ami_da_4
+D 2090.8 which is another beauty of it . ami_da_9
+B 2094.28 And you would just have an ami_da_2
+B 2094.28 across the b you would have so many different options that you could do , ami_da_4
+B 2094.28 you could have a plain black one , you could have sparkly pink glittery ones for your little ami_da_6
+B 2116.3 And ones tha ones that have rubbery spikes ami_da_6
+B 2116.3 y you know , you could just go so far with it , ami_da_4
+B 2116.3 like a puffer fish , ami_da_6
+B 2116.3 you could just , you could take it wherever , ami_da_4
+B 2116.3 so I think that is quite a flexible thing . ami_da_9
+A 2116.51 Right . ami_da_1
+C 2121.37 You can you can just ami_da_3
+C 2121.37 Yeah . ami_da_1
+A 2122.88 Acupressure , you could talk of acupressures . ami_da_6
+C 2128.75 Yeah . ami_da_1
+A 2130.84 And finally the body should be retouchable , ami_da_6
+A 2130.84 may maybe ch you can change the body or the case casing the case outside , ami_da_5
+A 2130.84 it should be moulded it with the design in such a way you can change it every time . ami_da_6
+B 2136.69 Yes . ami_da_4
+C 2141.32 Yeah , yeah ami_da_9
+C 2141.32 j with these rubber these rubberised ca ami_da_2
+C 2141.32 not the actual plastic outside case , just the rubber thing that goes round the outside . ami_da_4
+A 2148.21 Okay . ami_da_9
+A 2149.19 The rubber . ami_da_9
+B 2149.62 Yeah . ami_da_1
+B 2152.26 Okay we have got five minutes , , or that might have been up for a while . ami_da_4
+D 2156.44 , so can I just recap Sarah , ami_da_7
+D 2156.44 for the decisions that we have made , kinetic charging , the watch type batteries , LCD display on th the top side of the flip top , rubberised buttons on the bottom side , we are going to use fruit and vegetable colours for the rubber cover , the case itself is plastic . ami_da_4
+A 2156.57 Fine . ami_da_1
+A 2159.26 Yeah . ami_da_9
+D 2175.86 That is how far we have got , ami_da_4
+D 2175.86 what else do we have to add to our decisions here ? ami_da_5
+A 2180.25 Fine , we were talking of voice recognition also because that we are not for how to look it remote control if it is lost . ami_da_4
+A 2190.83 So , are we looking at voice ? ami_da_5
+A 2190.83 Or maybe like William was suggesting in the last thing some devices you put on key chains . ami_da_6
+D 2190.95 Yes , it was just , there was just a cost issue with that , ami_da_4
+D 2190.95 but it is a good idea ami_da_9
+D 2190.95 we just need to check on the cost , ami_da_6
+D 2190.95 is that right ? ami_da_11
+D 2190.95 And incorporating the company logo ? ami_da_5
+A 2201.36 For l ami_da_9
+A 2201.36 yeah , ami_da_9
+A 2201.36 the whistle . ami_da_9
+C 2201.54 Oh yeah , yeah ami_da_9
+C 2201.54 the whistle ones , yeah . ami_da_4
+A 2204.25 So we can if financially voice recognition is not feasible we could go for a whistle . ami_da_6
+A 2220.58 Yep . ami_da_4
+B 2221.33 Have you ami_da_5
+B 2221.33 Okay . ami_da_1
+A 2222.6 sorry ami_da_14
+A 2222.6 I did not mention this , ami_da_4
+A 2222.6 but we will be incorporating in the design . ami_da_6
+D 2226.56 Because I took it from the feedback you gave in the last meeting from y from y your report , it is not just a case of having a little RR hidden somewhere , they do want it to be obvious that it is our product ami_da_4
+D 2226.56 do not they ? ami_da_5
+D 2226.56 Since it is the only one of its kind on the market it is obviously going to be ours . ami_da_9
+B 2235.57 Well they do , ami_da_4
+B 2235.57 but I think we can you could ami_da_3
+B 2235.57 well it is , it is , ami_da_9
+B 2235.57 I think you just address that with advertising . ami_da_6
+D 2244.26 Yeah . ami_da_1
+B 2244.76 , you associate the name with the individual product that it is ami_da_6
+B 2244.76 and that does the work for you . ami_da_9
+C 2247.83 Yeah . ami_da_1
+D 2248.51 Okay . ami_da_1
+B 2250.35 Obviously it will have a logo on it just like everything , ami_da_6
+B 2250.35 but everything else has a logo on it . ami_da_4
+B 2254.19 The point is that it is got to stand out somehow differently ami_da_4
+B 2254.19 but I think it does , without that ami_da_9
+B 2254.19 so I am not worried about that . ami_da_9
+D 2257.1 Okay . ami_da_1
+D 2260.3 Okay . ami_da_9
+D 2261.5 Did we ami_da_2
+D 2261.5 I know at the last meeting we spoke about a beeper , I think that was you talked about a beeper for a location , ami_da_4
+D 2261.5 have we just rejected that in favour of voice recognition then ? ami_da_5
+B 2268.77 Depending on how i I mean we have got this memo saying that it is something that the company is looking into , so ami_da_4
+B 2268.77 that seems to make sense , but if it turns out that it is hugely expensive we would have to cut down somewhere else , then it is worth thinking about . ami_da_9
+C 2269.86 Yeah , depending on the expense of it . ami_da_9
+C 2276.09 And they have got in stock , ami_da_4
+C 2276.09 so yeah . ami_da_9
+B 2286.98 But I think we will find out more about cost afterwards . ami_da_4
+C 2288.74 Yeah . ami_da_1
+B 2291.51 Right I am going to wrap it up there . ami_da_7
+C 2291.54 Okay . ami_da_1
+A 2295.07 Fine . ami_da_1
+B 2296.32 I got a end meeting now message on my mo yeah ami_da_4
+B 2296.32 so . ami_da_2
+A 2300.18 Yeah . ami_da_1
+A 2302.57 Again a questionnaire huh ? ami_da_5
+B 2302.58 so I think we have probably got ami_da_2
+B 2302.58 it says , closing we have forty minutes ami_da_4
+B 2302.58 so I think we have probably got about that time before we come back . ami_da_4
+B 2314.36 It is either that or we only had forty minutes to discuss what we just discussed and do not know how long that took . ami_da_4
+B 2325.9 Is everyone happy ? ami_da_11

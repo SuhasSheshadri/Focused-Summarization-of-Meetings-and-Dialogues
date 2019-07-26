@@ -1,0 +1,768 @@
+B 43.74 yeah . ami_da_1
+A 48.57 Okay . ami_da_12
+A 51.42 I g ami_da_3
+A 51.42 yeah . ami_da_16
+A 56.88 Time is it ? ami_da_5
+A 56.88 Okay . ami_da_2
+D 58.83 Fourteen twenty six . ami_da_4
+A 62.55 Lovely to see you all again . ami_da_14
+A 64.5 it is our conceptual design meeting and it is starting at approximately fourteen twenty five ami_da_4
+A 64.5 and so we have forty minutes for this one again ami_da_4
+A 64.5 and so we will go just after three o'clock . ami_da_6
+A 75.96 okay ami_da_2
+A 75.96 our agenda , we are going to do an opening , I am going to review the minutes of the last meeting , then we will have your three presentations and then we will have to make a decision on the remote control concepts , and finally we will close . ami_da_4
+B 91.66 Okay . ami_da_1
+A 91.68 So ami_da_2
+A 91.68 opening . ami_da_4
+A 93.63 these are our minutes from r the functional design . ami_da_4
+A 96.46 We decided our target group is the focus on who can afford it , because we have international appeal and we said it is for all age groups , different functions of it . ami_da_4
+A 105.01 Our main objectives were simplicity and fashion . ami_da_4
+A 108.27 And s ami_da_2
+A 108.27 in ami_da_3
+A 108.27 specific functions are something to keep the remote from getting lost , large buttons for the essential functions , a possibility for extra functions , like a sliding a sliding piece and a long life battery or a charging station . ami_da_4
+A 126.98 Okay , ami_da_2
+A 126.98 now three presentations . ami_da_4
+A 128.59 I would like to do it in this order , first do the conceptual specification of components , properties and materials and then the conceptual specification of user interface and finally trend watching . ami_da_6
+B 134.2 That would be me . ami_da_4
+C 138.56 Yep . ami_da_1
+B 142.36 Alright . ami_da_9
+B 146.72 Well . ami_da_16
+A 153.1 okay . ami_da_16
+A 160.96 Function F eight it . ami_da_4
+A 162.31 There we go . ami_da_6
+B 164.24 Alright . ami_da_9
+B 165.92 I am very excited by this one actually guys I had a lot of fun doing it . ami_da_9
+B 173.18 Components design . ami_da_4
+B 175.17 This is where you look at what does it take to make a remote control and what should we make our specific remote control out of . ami_da_4
+B 188.09 So , ami_da_2
+B 188.09 we need to examine each element separately , ami_da_6
+B 188.09 but we are designing a full thing , so you want to keep it integrated as a whole . ami_da_4
+B 194.95 The main elements of remote controls in general , and therefore ours as well , are the case , the buttons , the circuit board with the chip and the battery . ami_da_4
+B 203.23 These are all things that we had sort of addressed before , ami_da_4
+B 203.23 but I am going to take each one a little bit separately here ami_da_7
+B 203.23 as we figure out what they should be made of and what they should look like . ami_da_8
+B 212.76 The case , the options that I have gotten from headquarters about what we can do , there is there is the shape of a case , we could do a flat sh a flat case , a curved case or maybe even a double double curved case . ami_da_4
+B 225.13 I have not seen any pictures of what this exactly looks like yet , ami_da_4
+B 225.13 just keep that in mind , ami_da_6
+B 225.13 but these are the options that we have from manufacturing and we can make our case out of plastic , the m the main base will be plastic , but we have all these sort of fashion and technological elements we can add in , wood , latex , titanium , rubber or other coloured types of plastic . ami_da_4
+B 246.27 That would be our case . ami_da_4
+B 247.97 buttons , for buttons we have pushbuttons , which is what Real Reaction uses the most often , but we also have scror scroll wheels , which can have integrated pushbuttons , or we could go all high tech and have an L LCD screen . ami_da_4
+B 263.77 circuit board and chip ami_da_4
+B 263.77 we can have a simple one , a regular one or an advanced one , depending on what our other needs are . ami_da_4
+B 271.05 And then battery I think is where things get most exciting . ami_da_9
+B 274.18 We are talking about long life batteries here . ami_da_4
+B 276.59 we can we can have your sort of basic double A batteries , but we also have these options of using a kinetic battery , like are used in high tech watches , where you just have to move it a little bit to get it to power up . ami_da_4
+B 290.17 so simple movements like pushing buttons would recharge the battery . ami_da_4
+B 293.8 Or a solar battery , ami_da_4
+B 293.8 although there are slight complications with solar batteries ami_da_9
+B 293.8 as in we ca not use a latex case if we have a solar battery . ami_da_4
+B 303.33 Or something they only described as the type of battery you find in torches from about fifty years ago , flashlights . ami_da_4
+B 311.02 Not quite sure what that is , but that is the description that I received , so that is what I am passing on to you . ami_da_4
+B 316.18 So those are our options . ami_da_4
+B 318.69 personal preferences that I was thinking through here is what we have been talking about all through , fashion and simplicity . ami_da_4
+B 327.09 So if we are going for fashion in our cases , I think that what we are going to want to look at is a curved or a double curved case , probably with a variety of design elements . ami_da_6
+B 337.91 Maybe titanium , maybe some wood . ami_da_6
+B 339.69 We are going to have to investigate that better when I get specifics of the actual materials , ami_da_6
+B 339.69 but that is sort of what I have in mind . ami_da_4
+B 346.01 And we want to go for simplicity . ami_da_4
+B 347.93 Probably pushbuttons , ami_da_6
+B 347.93 but I am sort of intrigued by the idea of a scroll scroll wheel , if anyone has anything any ideas on that ? ami_da_11
+B 347.93 I mean I know the iPods and things right now have touch scroll buttons which are exactly like what they are describing , ami_da_4
+B 347.93 so that might be something we want to look into . ami_da_6
+B 365.49 And I am really intrigued by the idea of a kinetic battery . ami_da_6
+B 369.05 Solar I do not think would be such a good idea , ami_da_9
+B 369.05 because how often are you sure that your remote control will get a certain amount of light . ami_da_4
+B 376.92 But this idea of the kinetic , that you do not have to replace , and that a simple just shaking it around will make it work , ami_da_4
+B 376.92 I think that that m would be a very interesting thing . ami_da_9
+B 385.93 But I think we would also want to go for e a simple chip or regular chip ami_da_6
+B 385.93 to keep our costs down . ami_da_4
+B 391.79 we really only need a regular or advanced chip t if we are going to start using an LCD . ami_da_4
+B 397.25 So I think we want to be aware of not making things overly t technological if they do not need to be , ami_da_6
+B 397.25 because that will keep our manufacturing price way down . ami_da_4
+B 407.17 That is what I have for options . ami_da_4
+B 409.55 I would appreciate anyone is input , ami_da_11
+B 409.55 but that is what I am seeing for the future of the the look of this thing . ami_da_4
+D 416.85 Is double curved like would be like two hands kind of thing ? ami_da_5
+D 416.85 Okay . ami_da_12
+B 420.6 I am not sure . ami_da_4
+B 421.17 I have not received any specific visuals of this yet . ami_da_4
+D 424.26 Because I am imagining like double curved is like , you know , like two sides that curve and then like one curve would just be like a single vertical ish kind of looking thing , but I have no idea . ami_da_4
+B 428.63 This is what I am sort of ami_da_3
+B 428.63 Yeah . ami_da_2
+B 433.46 I am not sure , ami_da_9
+B 433.46 but I will let you know as soon as I get any pictures . ami_da_7
+D 436.42 Sounds good . ami_da_14
+A 437.95 Yeah , I wonder ami_da_16
+B 439.37 I know if we do have a double curved case , it ca not have any titanium in it . ami_da_4
+B 444.44 But the titanium , they were quite they are marketing quite hard to us as being used in the space programme , ami_da_4
+B 444.44 so that could be quite interesting . ami_da_9
+B 451.37 Space age remote . ami_da_6
+B 454.59 Just all things to keep in mind . ami_da_6
+A 455.06 Just an interesting marketing kind of element . ami_da_9
+B 456.9 Yeah . ami_da_9
+B 458.88 That is about all I have to do , guys . ami_da_4
+B 461.67 I hope I did not go through that too quickly . ami_da_16
+A 464.71 just a real quick question ami_da_7
+A 464.71 the weight of these different elements , have you ami_da_5
+A 464.71 no idea , okay . ami_da_12
+B 469.02 Yeah , ami_da_12
+B 469.02 n ami_da_3
+B 469.02 no idea , no idea . ami_da_4
+B 472.0 I am assuming that a kinetic battery is not going to take up that much weight , and that a tita titanium is very light , I know , ami_da_4
+B 472.0 but other than ami_da_3
+B 472.0 that is really basic , ami_da_4
+B 472.0 I mean , that is all I have gotten so far . ami_da_4
+A 488.97 Okay . ami_da_12
+B 489.5 Alright ? ami_da_13
+B 489.5 Any other questions ? ami_da_5
+B 489.5 No ? ami_da_12
+B 489.5 Okay . ami_da_12
+C 493.77 Uh huh . ami_da_4
+C 494.4 Do not think so . ami_da_4
+A 497.66 okay . ami_da_2
+B 497.81 I have save this in the shared projects , if anyone wants to look and I have c considerable notes on the topic as well , if anyone needs any more information . ami_da_4
+A 501.28 Thank you , perfect . ami_da_14
+D 502.15 Thanks . ami_da_14
+B 507.86 Just in my notebook , ami_da_4
+B 507.86 but if anyone has any specific questions , do not hesitate to email me or something . ami_da_6
+A 508.53 if you made notes yourself you can put those on our underneath our ami_da_6
+A 508.53 oh , in your book , ami_da_12
+A 508.53 then do not worry about that . ami_da_9
+B 520.0 Alright ? ami_da_2
+B 520.0 I guess I can ami_da_3
+B 520.0 I know . ami_da_9
+A 522.95 Okay ami_da_2
+A 522.95 now we are concepts concepts of user interface . ami_da_6
+A 532.89 Yeah , . ami_da_2
+A 533.3 This one is so much tighter than the other one . ami_da_4
+A 536.94 Okay . ami_da_16
+A 538.58 Nope . ami_da_16
+A 540.79 There we go . ami_da_4
+A 543.19 Here you are . ami_da_14
+C 544.76 Jess . ami_da_14
+B 554.81 G oh , geez . ami_da_16
+C 583.38 Alright , so ami_da_2
+C 583.38 I am going to describe the the concept of the user interface of this des device . ami_da_7
+C 591.08 we have talked about the two essential properties of the user interface . ami_da_4
+C 597.39 We want it to be simple and we want it to be fashionable . ami_da_4
+C 601.85 other ami_da_3
+C 601.85 we have also got to remember that this is a device that serves as a useful purpose . ami_da_4
+C 608.17 we want people to be able to use it s as a remote control , ami_da_4
+C 608.17 so we need to determine what the essential functions of the d of the device are and make sure that we include that we have included all of those and that we actually end up with a device that is going to be useful to people . ami_da_6
+C 628.23 We have a number of different choices for a design concept ami_da_4
+C 628.23 and s that is that is something that that I will show you some examples of ami_da_7
+C 628.23 , but essentially we need to choose how how is this device going to work , ami_da_8
+C 628.23 how how ami_da_3
+C 628.23 what kind of model is there going to be for user interaction with this device . ami_da_8
+C 650.63 once we have chosen a a concept for it , we can then design the features around the concept , making sure that we get all the essential functions in the device and the extra functions and the more advanced features . ami_da_6
+C 666.55 And of course we also have to make it look cool . ami_da_6
+C 671.57 So basically , ami_da_2
+C 671.57 that is what we do not want . ami_da_9
+C 674.29 M we do not want lots of buttons , complicated features . ami_da_6
+C 678.51 We want something that looks nice and simple . ami_da_6
+C 682.16 Here is a a fairly simple device . ami_da_4
+C 683.86 This is an an iPod from Apple . ami_da_4
+C 686.32 I think the main thing to notice about it is it just has four buttons . ami_da_4
+C 691.08 It is very minimalistic in its design . ami_da_4
+C 694.37 you use these four buttons to m to move around a range of settings on the small LCD screen . ami_da_4
+C 701.62 the thing I like about this is that it is very very quick to access the main features . ami_da_9
+C 709.15 you can just about make out that the button three buttons are previous track , next track and play pause . ami_da_4
+C 718.26 They are the main the main features of the iPod , the things you will use a all the time . ami_da_4
+C 723.14 then if you want to do anything more advanced , you go into the little menu on the LCD screen and you use the buttons just to scroll around and and find the more advanced features that you want . ami_da_4
+C 733.77 So I think that is that is a good a good kind of model that we could have . ami_da_6
+C 738.24 here is a another example . ami_da_4
+C 741.25 This is it is an interesting idea ami_da_9
+C 741.25 and I think i it looks pretty cool . ami_da_9
+C 747.54 it is certainly got novelty value . ami_da_9
+C 750.32 it is nice and colourful , it is nice and bright . ami_da_9
+C 753.41 it is also something that you can kind of feel your way around . ami_da_4
+C 757.4 The buttons are are different shapes ami_da_4
+C 757.4 and and you can sort of ami_da_3
+C 757.4 yeah ami_da_2
+C 757.4 if you are watching TV in the dark or whatever , you can work out which button is which ami_da_4
+C 757.4 and basically , yeah ami_da_2
+C 757.4 it is ith it is fun . ami_da_9
+C 771.63 So ami_da_2
+C 771.63 I I like I like this idea of just having buttons for the features that you use most often . ami_da_9
+C 777.66 So you would need a few buttons to select your favourite channels . ami_da_6
+C 781.59 I mean most people , when they watch TV , they have two hundred and fifty channels on their TV and they watch of about four of them at the most . ami_da_4
+C 789.25 So , ami_da_2
+C 789.25 you have buttons for your favourite channel , changing the volume , ami_da_6
+C 789.25 which is something you do all the time when you are watching TV , ami_da_4
+C 789.25 and the button to switch it off , in case you get bored . ami_da_6
+C 798.55 other features , things like adjusting the brightness , tuning the TV , I do not know what else you do with a TV . ami_da_4
+C 807.56 but these are these are all necessary functions . ami_da_4
+C 811.82 you ca not have a t ami_da_3
+C 811.82 there is no point having a television that you ca not tune or that you ca not set the contrast , ami_da_4
+C 811.82 so we need to find a way of including these somehow . ami_da_6
+C 821.14 and one other suggestions I would make is to in is to include in a menu system , a bit like on the iPod . ami_da_6
+C 828.38 So ami_da_2
+C 828.38 we would either have a small LCD display on the device itself , or have a dis a menu display that comes up on your television and can b be controlled through the device . ami_da_6
+C 840.39 And that would allow you to access access the advanced features whilst keeping a very small and simple set of buttons for the features that you use most often . ami_da_4
+A 856.17 Okay . ami_da_9
+B 856.79 So you would be advocating an LCD then ? ami_da_11
+B 856.79 Okay . ami_da_12
+C 860.38 I think that is that is one way to go , ami_da_4
+C 860.38 yes . ami_da_9
+C 863.67 I mean there are there are advantages and disadvantages if you if you have an LCD display , ami_da_4
+C 863.67 it is it is nice , ami_da_9
+C 863.67 because it is it it lets you just sort of sit there and st and control your television from your armchair . ami_da_4
+C 877.28 There are disadvantages , ami_da_4
+C 877.28 an an LCD display would have to be quite small , ami_da_9
+C 877.28 because we are we are I ami_da_3
+C 877.28 well ami_da_2
+C 877.28 we are ami_da_3
+C 877.28 I assume we are going to be making quite a small device . ami_da_11
+C 886.8 it would also have to have a kind of backlighting in it , ami_da_6
+C 886.8 because you ten you tend to watch TV in the dark , but you need to be able to see your LDD LCD display . ami_da_4
+B 893.8 Right ami_da_9
+B 893.8 Right . ami_da_9
+C 897.63 The alternative is to have a an on screen display on your television that you control through your remote control . ami_da_6
+C 904.39 a bit like a bit like how they have these digital boxes where you you press the buttons and it comes up with your this thing of watch lo what is on each channel . ami_da_4
+C 914.72 I mean that that is also a good idea . ami_da_9
+B 914.83 Okay . ami_da_12
+C 917.07 It is ami_da_3
+C 917.07 it can it does have it is problems as well , ami_da_4
+C 917.07 if you have got a small TV and you are sitting on the other side of a room , it is hard to read the little text that comes up . ami_da_9
+C 925.2 but that is a that is a design decision that we can make . ami_da_4
+B 928.65 Okay . ami_da_1
+A 929.78 I do think that one of the important features for a remote is seeing a menu and seeing what is on . ami_da_4
+A 934.87 and so ami_da_2
+A 934.87 like favourite channels is is applicable , ami_da_4
+A 934.87 but I think th that you do need to have some kind of function where it is you have t you can see the title of the show or possibly a description of it . ami_da_6
+C 934.96 Yeah . ami_da_9
+B 944.88 Well ami_da_2
+B 944.88 Are you are you tak ami_da_3
+B 944.88 Yeah . ami_da_9
+C 948.07 Yeah . ami_da_1
+A 948.39 Like ami_da_2
+A 948.39 I I know I use that often enough . ami_da_4
+D 949.17 Wait , ami_da_6
+D 949.17 but is that separate from what he was saying ? ami_da_5
+D 949.17 Should I plug that in ? ami_da_11
+D 949.17 Maybe it is just not ami_da_3
+D 949.17 Is it on ? ami_da_5
+D 949.17 Ri ami_da_3
+D 949.17 What F do you have to press , ami_da_8
+D 949.17 five ? ami_da_11
+D 949.17 I just keep pressing lots of them . ami_da_15
+A 951.61 Well ami_da_2
+A 951.61 if it if it was a L LCD on th on the remote , I do not know that you could f that you would be able to see a ami_da_4
+A 951.61 Okay . ami_da_12
+B 955.8 No , I think I think we are talking menu like contrast and tuning the VCR or something if I have understood you correctly , rather than menu as what is on . ami_da_9
+C 963.4 Yeah , that that would be one of the features , yes . ami_da_9
+A 966.05 Okay . ami_da_12
+C 966.79 But it is it is it is ami_da_3
+C 966.79 something to bear in mind is that if we put a display on the remote control the c communication is one way , so you ca not have the televisions and information back to the remote control , at least I do not think you can . ami_da_4
+A 966.94 Because that would be more specifically a digital box , ami_da_4
+B 979.21 Oh , ami_da_12
+B 979.21 good point . ami_da_9
+C 980.44 I am not sure . ami_da_9
+B 982.16 Yeah . ami_da_9
+A 990.38 Okay , ami_da_2
+A 990.38 now we are moving on to market . ami_da_6
+A 993.29 Marketing . ami_da_6
+C 1027.04 Is that going on ? ami_da_11
+C 1027.04 Okay . ami_da_11
+C 1034.96 that should be alright , actually . ami_da_9
+A 1045.38 Eight . ami_da_6
+D 1054.05 Well , ami_da_2
+D 1054.05 I do not know how relevant all of this going to be . ami_da_4
+D 1058.86 If anything , the that they gave me . ami_da_4
+B 1060.52 No signal . ami_da_4
+A 1060.63 Oops , ami_da_16
+A 1060.63 it is not plugged in , quite in well enough . ami_da_4
+D 1062.12 Alright . ami_da_2
+A 1065.92 There we are . ami_da_4
+B 1069.7 Oop , ami_da_16
+B 1069.7 there we go . ami_da_6
+A 1072.7 okay . ami_da_6
+D 1077.27 Oh yeah . ami_da_16
+D 1081.18 Okay , so ami_da_2
+D 1081.18 we are going to look a little bit at trend watching . ami_da_6
+D 1086.66 Basically , I was given an executive summary that was a market investigation on remote controls that was recently conducted , and then also some fashion watchers in Paris and Milan commented on some things that are going to be going on this year . ami_da_4
+D 1104.48 So ami_da_2
+D 1104.48 first they had people they ranked the important aspects of r remote controls , and right now i d they are saying that currently there is a functional look and feel preference , but that really , over the next year it ami_da_4
+D 1104.48 it that is going to be switching to fancy look and feel remotes , so that just goes back to the whole desire of our c Real Reaction company wanting to focus on fashion ami_da_4
+D 1104.48 and so , ami_da_2
+D 1104.48 even though we are stressing , when we are talking , we have all been talking about this like simplicity and easy to use idea , they are sort of wanting us to remember that the number one thing for everyone is that it is fancy look and feel . ami_da_4
+D 1144.85 And as these are ranked , the top one is doubly important to the second one , which is doubly important to the third one , ami_da_4
+D 1144.85 so just to take that weight into account . ami_da_6
+B 1150.87 Okay . ami_da_1
+D 1154.41 The second thing that was mentioned as important was the technological innovations . ami_da_4
+D 1159.13 That would be like if we use something like the space material or the LCD screen , things like that . ami_da_4
+D 1164.29 And then ease of use was the third most important , ami_da_4
+D 1164.29 whi ami_da_3
+D 1164.29 so ami_da_2
+D 1164.29 really , no matter what , we need to focus the most on fancy look and feel , according to this . ami_da_6
+D 1172.44 I do not know how much we agree with that . ami_da_9
+D 1175.15 And then the fashion watch talks about that this year is top trend for clothes , shoes and furniture is fruits and vegetables and ami_da_4
+D 1175.15 tha ami_da_4
+D 1175.15 that there is a preference for spongy , tight material . ami_da_4
+A 1186.85 S ami_da_3
+A 1186.85 sweet . ami_da_14
+D 1191.81 And so that brings us to my personal preferences . ami_da_7
+D 1195.86 Who wants a spongy remote or one with fruit and vegetable padding . ami_da_5
+D 1200.19 Personally , I do not really think that I want one that is going to go out of style or go stale , excuse the pun , in a year , so ami_da_6
+D 1200.19 even though this is coming from us as , you know , trend watch , market research , ami_da_4
+D 1200.19 I do not know how much of it we necessarily want to take away . ami_da_11
+D 1218.46 Also , considering that the d research b has been carried out by Real Reaction , I am a little hesitant as to like , how these questions may have been worded , and if necessarily this whole fashion to technology y edas ease of use is necessarily the right ranking . ami_da_9
+D 1235.84 Personally , like I might reverse it , ami_da_9
+D 1235.84 but if we are working for this company then I guess no matter what , we have to stress fashion the most . ami_da_6
+D 1242.02 But it does not necessarily need to be a spongy material . ami_da_6
+B 1248.18 That ami_da_3
+B 1248.18 there is all kinds of scope for imagination in that one though . ami_da_14
+D 1251.33 Yeah . ami_da_9
+D 1254.08 I do not have a lot of notes to share if you want them , that pretty much sums it up . ami_da_4
+D 1258.93 So yeah . ami_da_4
+A 1259.84 Okay , ami_da_2
+A 1259.84 do we have any s some questions for this , ami_da_8
+A 1259.84 let is see . ami_da_6
+D 1263.06 Yeah , ami_da_12
+D 1263.06 what can I possibly enlighten on ? ami_da_13
+A 1268.64 do you have any ideas how to possibly use these ? ami_da_8
+A 1268.64 how to how to use a fruit or vegetable or or the spongy material at all ? ami_da_8
+A 1268.64 Like ami_da_2
+A 1268.64 could we make a s like could we make a spongy remote ? ami_da_8
+A 1268.64 It would be easier on the hands . ami_da_9
+B 1283.41 If it is latex if it is latexy ami_da_4
+B 1283.41 , mean ami_da_2
+B 1283.41 An I if th ami_da_3
+B 1283.41 my understanding of a latex case is that it is in fact hard to protect stuff inside , but that it is covered with the latex , ami_da_6
+B 1283.41 which is spongier and softer on your hands . ami_da_4
+A 1285.94 It is kind of and then it ami_da_3
+A 1285.94 we would have to find a way to protect like the chip and all that , ami_da_6
+A 1285.94 I dunno . ami_da_4
+C 1288.24 A kind of thing that ami_da_3
+C 1288.24 Yeah . ami_da_9
+A 1291.73 But ami_da_3
+B 1303.49 It is ami_da_3
+B 1303.49 there is something to be said , I mean we we got that thing earlier from you about not wanting it to R R repetitive stress injuries and things ami_da_4
+B 1303.49 and and ami_da_3
+B 1303.49 Yeah , ami_da_2
+B 1303.49 something grippable , ami_da_6
+B 1303.49 I mean we do not we do not we do not want to go spongy , maybe . ami_da_9
+D 1314.97 Yeah , ami_da_2
+D 1314.97 so something , m m instead of a necess ami_da_3
+D 1314.97 yeah , grip , ami_da_9
+D 1314.97 I am thinking grip more than like sinking into your hands , ami_da_6
+D 1314.97 you know , ami_da_2
+D 1314.97 i and I think ami_da_3
+D 1314.97 I am envisioning more like , you know , the material that you have when you sit on like a bicycle , ami_da_6
+D 1314.97 so that it does not hurt when you are sitting down for a long time , ami_da_4
+D 1314.97 like ami_da_2
+D 1314.97 I am imagining that sort of thing , ami_da_6
+D 1314.97 I do not know what th that material is called . ami_da_4
+C 1321.64 Yeah . ami_da_9
+C 1322.98 Yeah . ami_da_9
+B 1324.83 Yeah . ami_da_9
+B 1333.43 Yeah , I think that given the list of materials ami_da_9
+B 1333.43 I w ami_da_9
+B 1333.43 I was forwarded ami_da_9
+B 1333.43 it is that seems doable . ami_da_9
+B 1340.13 could we go in fruit and vegetable colours ? ami_da_11
+B 1340.13 We could colour co ordinate them , ami_da_6
+B 1340.13 li ami_da_3
+B 1340.13 The buttons could be fruit shaped . ami_da_6
+A 1343.14 F for sure , ami_da_9
+A 1343.14 or maybe like couple main ones being like , I dunno , lemons or strawberries or something . ami_da_6
+A 1352.05 Could they be smelly ? ami_da_11
+A 1352.05 I do not know . ami_da_9
+C 1353.43 I Is it supposed to be shaped like a vegetable ? ami_da_11
+C 1353.43 like I dunno , like carrots or something . ami_da_11
+B 1354.21 Oh well ami_da_2
+B 1354.21 it is quite easy to s shape thing like carrot ami_da_9
+B 1354.21 is not it ? ami_da_11
+B 1354.21 Or maybe the buttons could be shaped like different fruits . ami_da_6
+D 1354.69 Oh God . ami_da_15
+A 1361.35 Or carrot shaped , ami_da_12
+C 1364.84 Maybe , ami_da_9
+C 1364.84 or ami_da_3
+C 1364.84 Kind of like a potato . ami_da_5
+A 1366.08 Like large button , ami_da_6
+A 1366.08 that is what I was thinking of , ami_da_4
+A 1366.08 yeah . ami_da_9
+D 1368.66 What about the idea of like a round remote ? ami_da_11
+D 1368.66 Instead of like a vertical up and down one . ami_da_11
+D 1372.64 Like in terms of holding it . ami_da_11
+D 1374.41 Like that is a f shape of a fruit . ami_da_11
+B 1375.3 be ami_da_3
+B 1375.3 yeah . ami_da_4
+B 1377.43 It would be harder to f bu buttons I think . ami_da_3
+D 1377.88 Just to tie it in a little . ami_da_4
+A 1377.9 Might ami_da_3
+A 1377.9 would you think you you do you think you would be able to hold it ? ami_da_11
+A 1377.9 Because I think the reason they are long is ami_da_4
+A 1377.9 yeah . ami_da_9
+C 1378.3 Yeah . ami_da_12
+B 1385.43 It would be harder to press button . ami_da_9
+C 1386.29 Depends . ami_da_9
+A 1386.57 Harder to push . ami_da_9
+C 1387.07 When you when you use a remote , do you press the buttons with your thumb , usually ? ami_da_5
+C 1387.07 Or your fingers ? ami_da_5
+C 1387.07 Or maybe you want something that is shaped like a mobile phone , ami_da_6
+C 1387.07 so you you hold it in one hand , and you press the buttons with your thumb . ami_da_4
+D 1391.45 Yeah . ami_da_9
+B 1392.87 I ami_da_3
+B 1392.87 Yeah , that is ts how I tend to do it . ami_da_9
+A 1393.72 I usually hold it in one hand . ami_da_4
+A 1395.17 Maybe ami_da_4
+A 1395.17 But then the buttons would have to be very small . ami_da_9
+D 1404.29 Yeah , ami_da_9
+D 1404.29 because otherwise your fingers ca not move around . ami_da_4
+A 1404.41 Do not you think ? ami_da_11
+A 1404.41 But I mean in order to get to all of them , ami_da_4
+A 1404.41 you know . ami_da_2
+B 1404.65 No just thumb sized . ami_da_9
+B 1405.83 Jus ami_da_3
+B 1405.83 Yeah . ami_da_12
+D 1407.24 But I like i ami_da_3
+D 1407.24 I love the idea of the wheel like the iPod . ami_da_9
+C 1409.63 Yeah . ami_da_12
+A 1410.86 They would have to be within a certain amount of space with each other . ami_da_6
+C 1411.41 Maybe . ami_da_9
+B 1412.19 That is true . ami_da_9
+C 1412.34 But if you have only got like four or five buttons anyway , then it is it is not so much a problem , perhaps . ami_da_9
+B 1416.27 Right . ami_da_12
+B 1417.71 I ami_da_3
+B 1417.71 When I am when I am pressing buttons on my iPod , that is how I do it , hold it and press the four . ami_da_4
+C 1422.23 So you hold it in one hand and you press you press the buttons with your thumb ami_da_12
+C 1422.23 and ami_da_3
+C 1422.23 And you find that works quite well ? ami_da_11
+C 1422.23 Is that ami_da_3
+C 1422.23 The button on an iPod , is it what is it , is it just four buttons or is it li more like a scroll thing ? ami_da_5
+C 1422.23 Right . ami_da_1
+B 1423.51 Yeah . ami_da_4
+B 1425.96 Yeah , ami_da_4
+B 1425.96 or in ami_da_3
+B 1425.96 and use my thumb or my pointer finger on the touch scroll wheel . ami_da_4
+B 1432.3 Yeah ami_da_9
+B 1432.3 It ami_da_3
+B 1432.3 wel well ami_da_2
+B 1432.3 yeah , ami_da_9
+B 1432.3 it would ami_da_3
+B 1432.3 I mean each version of it has been a little bit different , ami_da_4
+B 1432.3 but ami_da_3
+B 1432.3 Oh yeah , ami_da_12
+B 1432.3 you had one of the in between ones , when they were not doing that anymore . ami_da_4
+D 1436.27 Because th ami_da_3
+D 1436.27 It is like five , because there is one in the middle . ami_da_4
+A 1441.18 It is a scroll , ami_da_4
+A 1441.18 yeah , it is a wheel . ami_da_4
+A 1447.32 The one I have does not have the four on i like around it , I do not think . ami_da_4
+B 1467.06 Ts ami_da_3
+B 1467.06 and you press the centre button , ami_da_4
+B 1467.06 that is that is your all purpose select button right there . ami_da_4
+C 1469.62 Oh , I see , right , yeah . ami_da_12
+C 1472.1 Oh , okay . ami_da_12
+B 1472.71 Since it is the one in the centre that is not marked , yeah . ami_da_4
+C 1473.09 Yeah , that is quite a good design . ami_da_9
+D 1476.99 I think why it would be good for us is because like you could have the same wheel sort of effect for like channel flipping and then the other one could be like for volume . ami_da_6
+B 1483.46 Yeah . ami_da_9
+D 1484.91 Like just the idea of like those ami_da_3
+D 1484.91 so few buttons for main things , but then how you could go back to the menu ami_da_6
+D 1484.91 and like , ami_da_2
+D 1484.91 I dunno ami_da_9
+D 1484.91 if we would want it on the screen there or on the actual TV . ami_da_8
+B 1487.18 t ami_da_3
+B 1487.18 Yeah . ami_da_1
+D 1494.45 I kind of am wanting to say on the TV , ami_da_6
+D 1494.45 because if you are changing the brightness , do not you want to see it happening , kind of ? ami_da_11
+D 1494.45 And then you could still have that available . ami_da_4
+C 1500.74 Yeah . ami_da_9
+B 1501.09 Yeah . ami_da_9
+B 1502.47 Yeah , I think an LCD screen might be good in theory , but not as useful in practice . ami_da_9
+C 1507.87 I think it could be difficult in practice , ami_da_9
+C 1507.87 yeah . ami_da_9
+B 1510.31 Yeah . ami_da_9
+C 1510.7 Also z yeah , because you would be z looking down at the LCD screen , than back up at your TV and people do not want to do that . ami_da_4
+B 1514.01 Right . ami_da_9
+B 1516.09 Oh ami_da_12
+B 1516.09 we probably have to get going , ami_da_6
+B 1516.09 do not we ? ami_da_11
+B 1516.09 Okay . ami_da_1
+A 1517.79 Okay ami_da_2
+A 1517.79 we have we have about fifteen minutes left , ami_da_4
+A 1517.79 so I am I am going to continue with my pres presentation . ami_da_7
+A 1525.9 I have one more slide before we close , but in that slide is when we need to make decisions about this these kinds of things , ami_da_4
+A 1525.9 so I will just bring that up and show you all ami_da_7
+A 1525.9 before we move on . ami_da_6
+A 1538.5 Yeah , ami_da_9
+A 1538.5 and then like the the covers could be spongy latex ami_da_6
+A 1538.5 wherea ami_da_3
+A 1538.5 but the actual model could be titanium . ami_da_6
+D 1541.23 If I get any more information of fruits and vegetables , I will let you know . ami_da_7
+B 1541.57 Could Could we could we have changeable covers like for your mobile ? ami_da_11
+B 1541.57 In different fruit and vegetable colours , ami_da_11
+B 1541.57 yeah . ami_da_4
+C 1548.96 Like , to make it different fruits . ami_da_5
+C 1553.88 Yeah , it is possible . ami_da_9
+B 1557.62 Exactly . ami_da_9
+B 1561.04 And you could co ordinate with your house or whatever . ami_da_6
+C 1566.04 I think maybe th the packaging , ami_da_3
+C 1566.04 it should be like a lemon and the the packaging is like the peel . ami_da_6
+B 1566.07 All these options . ami_da_16
+C 1573.38 So instead of opening the box you just kind of peel it , and the remote control is inside . ami_da_4
+B 1573.46 Ooh . ami_da_9
+D 1577.98 Well , ami_da_2
+D 1577.98 there we go . ami_da_9
+B 1578.47 Oh . ami_da_9
+C 1578.49 Do not know . ami_da_9
+D 1579.73 The iPod packaging is me like was so that was like half the fun . ami_da_4
+D 1583.73 It is like the way it all comes all cute . ami_da_9
+B 1583.76 Yeah . ami_da_9
+D 1587.38 Lemons ? ami_da_16
+D 1587.38 Yeah , ami_da_9
+D 1587.38 I mean , ami_da_2
+D 1587.38 it would t totally take care of our problem of not wanting to change batteries . ami_da_9
+B 1587.54 Options . ami_da_16
+A 1590.05 Okay , ami_da_2
+A 1590.05 components concept . ami_da_5
+A 1593.61 Energy , chip on print . ami_da_5
+B 1595.47 Uh hu ami_da_12
+B 1595.47 oh , ami_da_12
+B 1595.47 oh yes . ami_da_12
+B 1597.61 Right , ami_da_2
+B 1597.61 I had sort of skipped over that hoping it would not get be necessary ami_da_4
+B 1597.61 but ami_da_3
+B 1597.61 Alright , ami_da_9
+B 1597.61 so ami_da_2
+B 1597.61 decisions , ami_da_3
+B 1597.61 what the ami_da_3
+B 1597.61 okay ami_da_2
+B 1597.61 deci decisions on energy I am thinking is based on the battery . ami_da_6
+A 1597.67 G ami_da_3
+A 1597.67 That is th th this is the agenda they gave me . ami_da_4
+A 1604.27 So ami_da_2
+A 1604.27 can you just explain what that is real quick ? ami_da_6
+B 1612.47 I dunno , ami_da_9
+B 1612.47 what do people think about this kinetic battery idea ? ami_da_11
+B 1612.47 Am I ami_da_3
+B 1612.47 Yeah . ami_da_11
+A 1617.19 I think it is awesome . ami_da_9
+A 1618.18 I think it is really cool . ami_da_9
+B 1628.23 Yeah . ami_da_9
+C 1628.81 Yeah , I think it is good , ami_da_9
+C 1628.81 as as long as we consider the the cost and the how reliable it is , ami_da_6
+C 1628.81 but as far as I know , the technology is good . ami_da_9
+B 1635.23 Right , ami_da_2
+B 1635.23 I have not gotten any ami_da_4
+B 1635.23 yeah , ami_da_9
+B 1635.23 any more information on cost other than it is more expensive than a regular battery , but but if we are using a an i a cheaper chip , then it will even out , I think . ami_da_4
+D 1637.04 Costs . ami_da_4
+D 1643.21 But over time ami_da_4
+D 1643.21 Yeah , ami_da_9
+D 1643.21 it is a ami_da_3
+D 1643.21 But if you c if you could scroll through the channels , and then the volume would just be and the volume would just be like the same way , forward and backward as I am just thinking like it would make it much like sleeker sort of looking . ami_da_9
+B 1648.51 circuit boards . ami_da_7
+B 1651.55 yeah , ami_da_2
+B 1651.55 I got a whole bunch of information on how circuit boards are produced . ami_da_4
+B 1655.55 They are they are thin fibreglass with copper wires etched on to them , and di ami_da_4
+B 1655.55 I think they are quite easily printed on by machine , which is chip on print is where the machine prints on the wires and solders it all together for us . ami_da_4
+B 1668.41 I do not really know what to tell you as far as decisions . ami_da_7
+B 1670.87 I was not really given any options , I was just given that this is how they are done . ami_da_4
+A 1675.01 Okay . ami_da_12
+B 1675.64 yeah , ami_da_2
+B 1675.64 I ca not ca not really tell you . ami_da_4
+B 1679.44 I can I can tell you a whole lot about how it works . ami_da_4
+B 1682.39 But I do not know any decisions on ami_da_7
+B 1682.39 Yeah . ami_da_4
+A 1684.76 If they are if they are really options . ami_da_4
+B 1687.86 I am sorry , ami_da_14
+B 1687.86 I did f ami_da_3
+B 1687.86 Yeah . ami_da_9
+A 1688.59 Okay . ami_da_9
+C 1688.8 Al all circuit boards are pretty much the same , I think . ami_da_4
+C 1691.33 it is fairly fairly standard . ami_da_4
+A 1695.44 okay , ami_da_2
+A 1695.44 then we will move on to the case . ami_da_6
+A 1699.82 oh ami_da_2
+A 1699.82 bu ami_da_3
+A 1699.82 I guess maybe if we decided on like a simple , a regular , or an advanced chip , maybe . ami_da_6
+B 1705.12 Right . ami_da_9
+B 1705.86 Well okay , ami_da_2
+B 1705.86 here is the here is the thing on the chips that I that I got . ami_da_7
+B 1709.6 simple , regular , advanced chip on print . ami_da_4
+B 1712.82 The chip on print includes an infrared sensor , so we do not have to worry about that . ami_da_4
+B 1717.52 , okay , ami_da_2
+B 1717.52 the pushbutton ami_da_3
+B 1717.52 if we are going to have pushbuttons , they require a simple chip , but a scroll wheel requires a regular chip , and an LCD requires advanced . ami_da_4
+B 1730.0 Do we want a scroll wheel , or do we just want pushbuttons ? ami_da_11
+B 1730.0 Oh . ami_da_16
+C 1734.16 I do not think we ne really need the scroll whe wheel . ami_da_9
+C 1739.45 I mean it might be nice for changing the volume . ami_da_9
+A 1742.29 It would be nice for changing the volume , but I do not know how useful it would be for changing the channel . ami_da_9
+C 1742.42 but ami_da_3
+C 1742.42 I do not think it would really work . ami_da_9
+A 1746.38 Because you do not have control over numbers ami_da_4
+A 1746.38 or ami_da_3
+A 1746.38 We have five minutes left for the meeting , so . ami_da_4
+C 1749.03 Yeah , ami_da_9
+C 1749.03 you really need buttons for changing a channel . ami_da_6
+B 1749.35 Yeah , ami_da_2
+B 1749.35 th it would be it would be handy for going through ami_da_3
+B 1749.35 if there was an on screen menu of your channel choices , than you can scroll down on the scroll . ami_da_6
+C 1758.01 Yeah . ami_da_1
+B 1761.22 Yeah . ami_da_1
+B 1766.16 Yeah . ami_da_1
+B 1772.69 Yeah . ami_da_9
+D 1773.47 And otherwise , no matter how may buttons we have , we are going to have like , you know , black with red sticking out ami_da_4
+D 1773.47 and th no ami_da_3
+D 1773.47 it is going to inevitably sort of start looking like those group of sort of ugly ones that we saw stacked up . ami_da_9
+C 1773.49 Yeah . ami_da_1
+C 1782.34 Yeah . ami_da_1
+A 1787.27 So , ami_da_2
+A 1787.27 have a scroll for volume ? ami_da_11
+A 1787.27 F ami_da_3
+B 1790.72 F ami_da_3
+B 1790.72 or for all those secret functions ? ami_da_11
+B 1790.72 When you get on the on screen menu of all your functions that your remote could do for you without the buttons and you could have a scroll wheel to go through those menus . ami_da_6
+C 1802.45 I think ami_da_9
+C 1802.45 yeah , ami_da_9
+C 1802.45 I think a scroll wheel would be nice , but it is not necessary . ami_da_9
+B 1806.71 Right . ami_da_12
+C 1806.74 Yeah . ami_da_9
+B 1807.55 So we could either go with a simple or a regular chip , depending and maybe we could table that decision for later . ami_da_6
+B 1814.22 I do not know . ami_da_9
+A 1817.45 I think w ami_da_3
+A 1817.45 well ami_da_2
+A 1817.45 I think when we go on to the une userface , we are going to have to decide the interface we are going to have to decide whether we are going to have a scroll or not . ami_da_6
+B 1822.65 Okay . ami_da_12
+B 1825.27 Well , ami_da_2
+B 1825.27 let is think about that while we talk about the case . ami_da_6
+A 1827.4 Okay , ami_da_9
+A 1827.4 let is do case . ami_da_6
+B 1828.53 I am kind of liking the idea of latex , if if spongy is the in thing . ami_da_9
+A 1834.14 I am a little I am a little hesitant about it , ami_da_9
+A 1834.14 because I am worried about protecting the stuff on the inside . ami_da_4
+B 1839.11 Okay . ami_da_12
+A 1839.81 Yeah , I would be more okay with like a titanium actual thing and then maybe like a mobile phone kind of thing . ami_da_9
+D 1840.6 Oh ami_da_2
+D 1840.6 could it be hard , and then something around it ? ami_da_11
+D 1840.6 I am thinking curved of some sort . ami_da_9
+B 1842.01 yeah , ami_da_9
+B 1842.01 everything I have N ami_da_3
+B 1842.01 oh wha what I have ami_da_3
+B 1842.01 what I have seen , just not related to this , but of latex cases before , is that there is like a hard plastic inside , and it is just covered with the latex . ami_da_4
+A 1858.65 Okay . ami_da_12
+B 1859.42 Not too thick a layer of latex , just enough to be grippable , like bike handles or or anything that you have seen like that . ami_da_4
+A 1862.84 Okay . ami_da_12
+B 1866.05 The inside is hard . ami_da_4
+B 1867.43 I do not think we need to worry about protecting the circuit board , I think that that is done for us . ami_da_4
+A 1869.48 Ge o ami_da_3
+A 1869.48 Okay . ami_da_12
+C 1872.73 Okay . ami_da_12
+C 1873.3 Yeah . ami_da_12
+A 1873.46 So ami_da_2
+A 1873.46 we we do want latex . ami_da_11
+C 1875.83 Yeah . ami_da_9
+B 1876.23 Yeah . ami_da_9
+A 1877.65 Okay . ami_da_9
+A 1879.38 Latex . ami_da_16
+A 1880.19 and probably in colours , maybe fruity , vegetable colours . ami_da_11
+B 1885.42 Yeah . ami_da_9
+A 1886.36 Fruity colours . ami_da_16
+A 1890.61 Okay ami_da_2
+A 1890.61 let is go to the ufe user interface then we will come back to the chip I suppose . ami_da_6
+B 1896.18 Oh ami_da_2
+B 1896.18 and we want a curved case , ami_da_6
+B 1896.18 yeah ? ami_da_11
+B 1896.18 Or a double curved ? ami_da_11
+B 1896.18 Yeah , okay . ami_da_9
+A 1900.54 Well , ami_da_2
+A 1900.54 we do not really know what the difference is , ami_da_4
+A 1900.54 right ? ami_da_11
+A 1900.54 Yeah . ami_da_9
+C 1904.45 Yeah . ami_da_9
+B 1906.48 We do not really know what the difference Good point . ami_da_9
+A 1909.14 okay , ami_da_2
+A 1909.14 interface , the type and the supplements . ami_da_6
+A 1914.2 So ami_da_2
+A 1914.2 push or scroll , right ? ami_da_11
+A 1914.2 Or both ? ami_da_11
+C 1915.79 Yep . ami_da_9
+C 1919.82 And I think if we want to keep our costs down , we should just go for pushbuttons , ami_da_9
+C 1919.82 because then we can have a a simple chip ami_da_4
+C 1919.82 and it is simpler , it is it is cheaper to make pushbuttons than it is a scroll button . ami_da_9
+C 1934.13 So in terms of in terms of economics it is probably better to have pushbuttons . ami_da_9
+A 1940.94 And if we had a sc an on screen kind of thing that you could scroll through , like you can use your buttons to scroll through things . ami_da_6
+C 1947.69 Yeah , ami_da_9
+C 1947.69 yeah , it is it is it is fairly simple . ami_da_9
+A 1949.11 I think that ami_da_3
+A 1949.11 yeah . ami_da_9
+A 1951.17 For channel surfing I think a scroll an actual like an iPod is kind of scroll thing would be too fast , I dunno . ami_da_9
+B 1956.92 Yeah . ami_da_9
+B 1958.93 I say pushbuttons at least unless we get any information ami_da_9
+B 1958.93 but I have no idea how much more expensive a scroll wheel is than than a pushbutton , but it is gotta be some more expensive , ami_da_4
+B 1958.93 so ami_da_2
+B 1958.93 I think it might be better to put our money into the stuff like the kinetic battery and the cool case ami_da_6
+B 1958.93 because ami_da_3
+B 1958.93 Yeah . ami_da_1
+C 1969.98 Yeah . ami_da_9
+C 1977.01 Yeah . ami_da_9
+A 1977.57 Is that okay with you ? ami_da_11
+A 1977.57 How you feeling ? ami_da_11
+D 1978.99 Yeah . ami_da_9
+D 1979.49 And let is like see if we get anything else . ami_da_6
+D 1981.06 I mean I am not like hard sold on the scroll wheel , it is more just to give it a different kind of look , but if it is going to be in a latex type thing and that is going to look cool , then that is probably going to have a bigger impact than the scroll wheel . ami_da_4
+A 1988.48 It might be cool enough . ami_da_9
+A 1994.13 Okay , so ami_da_2
+A 1994.13 we are going to go with type pushbuttons , and then supplements , ami_da_6
+A 1994.13 how are we going to do that ? ami_da_8
+A 1994.13 I assume that is what else we are going to like h ha the the additional buttons we can use . ami_da_4
+C 1998.52 Yep . ami_da_1
+C 2002.68 what do you mean by supplements , exactly ? ami_da_12
+C 2002.68 Yep . ami_da_9
+B 2013.63 Oh . ami_da_12
+A 2013.72 So we are going to have like a menu button , so that we can access on screen things then ? ami_da_11
+A 2013.72 Okay , ami_da_12
+A 2013.72 so ami_da_2
+A 2013.72 we are doing an on screen menu that we can scroll through . ami_da_6
+C 2018.12 Yeah . ami_da_9
+B 2019.05 Alright . ami_da_9
+C 2019.21 in ami_da_3
+C 2019.21 Yeah . ami_da_9
+B 2021.11 So ami_da_2
+B 2021.11 what are what are our buttons going to be ? ami_da_8
+B 2021.11 On off ami_da_6
+B 2021.11 So like one through five , or ami_da_11
+B 2021.11 No . ami_da_9
+C 2024.22 On off , ami_da_9
+C 2024.22 volume , favourite channels , and menu . ami_da_6
+C 2030.92 Yeah , yeah ami_da_9
+C 2030.92 about ami_da_3
+C 2030.92 yeah like ami_da_9
+C 2030.92 yeah , ami_da_9
+C 2030.92 a bit like radio presets . ami_da_9
+D 2031.01 Like a radio type sorta situation ? ami_da_11
+C 2035.84 we would not even need the numbers . ami_da_9
+A 2036.2 Pre set channels ami_da_16
+A 2036.2 and then we are going to need numbers one through zero , ami_da_6
+A 2036.2 right ? ami_da_11
+A 2036.2 Well , ami_da_2
+A 2036.2 but in order to pre set a cha ami_da_3
+A 2036.2 oh ami_da_12
+A 2036.2 I guess you can just hold it down when you get to one when you are scrolling through . ami_da_6
+C 2045.17 I think maybe numbers seems is kind of old fashioned . ami_da_9
+C 2050.49 Yeah , yeah , ami_da_9
+C 2050.49 you can just ami_da_3
+C 2050.49 and you need some kind of , I dunno , sort of up down kind of button , ami_da_4
+C 2050.49 but the volume control could double for that , for example . ami_da_6
+B 2056.41 Yeah , up down . ami_da_9
+A 2062.14 Okay , ami_da_2
+A 2062.14 finishing the meeting now . ami_da_6
+A 2064.26 our next meeting starts in thirty minutes , you each have things to do , look and feel design , user interface design , product evaluation , and you two are going to work together on a prototype using modelling clay . ami_da_4
+A 2074.56 You will get specific instructions from your personal coach . ami_da_4
+B 2075.15 Ooh . ami_da_9
+C 2075.56 Cool . ami_da_9
+A 2078.16 did we decide on a chip ? ami_da_5
+A 2078.16 Let is go with a simple chip ? ami_da_6
+A 2078.16 Okay . ami_da_9
+B 2080.86 Simple chip . ami_da_9
+C 2081.48 Yep . ami_da_9
+A 2083.34 We are done . ami_da_4
+A 2084.85 Thank you everyone . ami_da_14
+A 2089.21 Oh ami_da_2
+A 2089.21 I di ami_da_3
+B 2091.4 Okay , cool . ami_da_12
+C 2095.37 Clay . ami_da_4

@@ -1,0 +1,665 @@
+D 41.24 Okay . ami_da_9
+A 41.74 Okay , almost there . ami_da_9
+C 43.17 Okay . ami_da_2
+C 44.13 We will sta I will use the PowerPoint , I guess . ami_da_6
+C 48.1 How was that , was that fun ? ami_da_11
+C 48.1 Okay . ami_da_2
+A 51.06 Yeah , ami_da_9
+A 51.06 yeah . ami_da_9
+D 52.01 Very fun . ami_da_9
+C 56.66 oh I have forgotten to mail you the minutes , ami_da_4
+C 56.66 but I will do . ami_da_7
+A 60.45 Okay . ami_da_1
+C 61.19 Upsidaisy . ami_da_16
+C 62.99 we ami_da_2
+C 62.99 Yeah . ami_da_9
+B 66.73 E excuse me ami_da_14
+B 66.73 I forgot my copy . ami_da_4
+C 69.48 Alright , okay ami_da_9
+C 69.48 , yeah . ami_da_9
+C 73.19 He is going to get his pen . ami_da_4
+D 74.52 Oh right . ami_da_9
+D 74.97 Okay . ami_da_9
+C 75.56 Will you guys first with your prototype before we get to the good news ? ami_da_6
+C 75.56 we have budget problems . ami_da_4
+A 86.23 Yeah , ami_da_7
+A 86.23 there is good news ? ami_da_5
+A 86.23 Oh . ami_da_9
+A 92.32 Oh . ami_da_9
+A 94.37 Cutbacks . ami_da_14
+C 94.37 I am afraid you are all sacked . ami_da_14
+C 95.38 Oops . ami_da_16
+C 96.25 I do not even have this on . ami_da_4
+C 120.13 Okay , have you got a presentation to make ? ami_da_5
+C 120.13 No . ami_da_9
+A 120.92 Okay . ami_da_1
+B 122.62 No , not mine yet . ami_da_4
+C 123.33 Okay ami_da_9
+C 123.33 so it is just your your show . ami_da_4
+A 124.57 Oh . ami_da_1
+A 126.64 maybe we should bring so that the camera can see . ami_da_7
+A 129.08 Yeah . ami_da_7
+D 129.3 Okay . ami_da_9
+D 129.9 Sure . ami_da_9
+A 131.25 Okay . ami_da_9
+D 135.76 We made three for you . ami_da_4
+C 137.23 Three ? ami_da_9
+C 137.23 Oh . ami_da_9
+D 139.7 one is based on the banana , one is based on the tomato ami_da_4
+D 139.7 and the other one is st ami_da_3
+D 139.7 Look . ami_da_6
+C 145.3 Tomato ? ami_da_5
+C 145.3 What tomato ? ami_da_5
+C 145.3 I do not recall a tomato . ami_da_4
+D 150.59 Oh yeah , ami_da_4
+D 150.59 well yeah , we had v some red left over . ami_da_4
+D 153.12 So . ami_da_2
+C 153.13 I see , okay . ami_da_9
+D 154.07 Okay , ami_da_2
+D 154.07 so this is the non to non no buttons one , or as few buttons as possible , mainly speak recognition . ami_da_4
+D 164.28 The yellow there is the ami_da_4
+D 164.28 the slogan , yeah , ami_da_9
+D 164.28 that we need to incorporate , it is very simple . ami_da_4
+C 166.79 Logo . ami_da_4
+C 168.28 Okay , brilliant . ami_da_9
+D 170.4 If you do need buttons , you can flip it over , and there is some there , but mainly it is speech recognition . ami_da_4
+C 174.28 Okay . ami_da_1
+C 177.89 Okay , so the buttons would be like , you know individual users , or ami_da_5
+C 177.89 Yeah . ami_da_9
+D 181.14 Yeah . ami_da_4
+D 182.21 Yeah and ami_da_2
+D 182.21 yeah they might project things onto the screen which you can do on there . ami_da_4
+C 187.01 Alright , okay . ami_da_9
+D 187.96 I am not sure about that . ami_da_4
+D 189.89 and this one is the one w more like the one w that we looked at earlier . ami_da_4
+C 195.22 Right . ami_da_1
+D 195.68 Yeah , you guys can have a look at that if you want . ami_da_6
+C 197.11 That is groovy . ami_da_9
+B 197.8 Yeah . ami_da_9
+B 200.21 can I have ami_da_16
+B 200.21 Oh sorry s ami_da_14
+C 201.03 Well I like the feel of it , I like the feel of it . ami_da_9
+D 201.99 Yeah , sure . ami_da_9
+D 204.91 that one is ami_da_3
+D 204.91 Oh no , it is delicate . ami_da_4
+C 206.76 At Oh dear . ami_da_9
+D 209.8 That is that is already got its stand that one . ami_da_4
+D 211.77 That is it stand . ami_da_4
+C 212.54 Alright , okay . ami_da_9
+D 212.6 It does also lie flat , but that is the that yellow stand there represents the the charging stand . ami_da_4
+C 219.33 Okay , brilliant . ami_da_9
+D 219.61 the black on the back is the slogan . ami_da_4
+C 223.56 Okay , nice and obvious there , if it is standing up , I guess , ami_da_9
+C 223.56 yeah . ami_da_9
+D 225.01 yeah , that ami_da_9
+D 225.01 Well , we did think of that . ami_da_4
+D 228.44 Yeah , if it is standing up it is it is on there , ami_da_9
+D 228.44 but also we are going to have the company name on the front , which is the little black kind of line in the middle . ami_da_4
+C 236.59 Oh right , okay , brilliant . ami_da_9
+C 238.02 Like that from its centre . ami_da_9
+D 238.04 So and that is the transmit the LED thing . ami_da_4
+D 243.51 These are the s two scroll ones which we thought could be channel up and down and volume up and down . ami_da_4
+D 249.41 We n were were not sure about putting them there , because i it is it kind of could get bashed . ami_da_4
+C 255.44 Where you are , yeah , were you are holding it kind of ami_da_9
+D 257.46 Yeah . ami_da_9
+D 257.97 Well , if you hold it , ami_da_4
+D 257.97 you can you all can hold it , ami_da_6
+D 257.97 is ami_da_2
+D 257.97 it does actually feel quite ergonomic , if you have got small hands . ami_da_4
+C 264.07 Yeah . ami_da_9
+D 266.22 , obviously I do not think that is real sized . ami_da_4
+C 266.64 Okay . ami_da_1
+D 269.08 It would have to be a bit bigger . ami_da_4
+C 269.51 Yeah , okay . ami_da_9
+C 270.02 Yeah , scale model , yeah . ami_da_9
+D 271.54 Okay . ami_da_2
+D 272.35 that is a speaker at the top , so you can speak into it like a little walkie talkie as well for speak recognition . ami_da_4
+D 279.36 and ami_da_2
+D 279.36 then the buttons . ami_da_4
+D 283.5 Yeah kind of self explanatory , just buttons whenever you need them . ami_da_4
+D 286.51 Tried to keep it simple . ami_da_4
+D 287.73 Oh that is the charging base prongs at the bottom . ami_da_4
+D 292.19 We used those . ami_da_4
+D 292.92 And then the big red button in the middle is the on and off one . ami_da_4
+C 294.29 Alright , excellent . ami_da_9
+D 300.16 It is not in the traditional place , but it is quite an obvious place . ami_da_4
+C 300.22 Okay . ami_da_9
+C 302.05 No . ami_da_9
+C 303.07 It is out of the way as well , I suppose , so . ami_da_9
+C 305.81 Excellent . ami_da_9
+D 307.36 So there we go ami_da_16
+D 307.36 and and we have the banana based one too . ami_da_4
+A 312.74 Oh yeah , ami_da_9
+A 312.74 yeah . ami_da_9
+C 314.24 Yep . ami_da_1
+A 315.07 This one is , I suppose for the younger audiences . ami_da_4
+C 318.84 Okay , so so Barney the banana . ami_da_9
+A 319.22 A a more friendly type of ami_da_4
+A 319.22 Right , right . ami_da_9
+A 322.84 It is to induce more television watching I suppose or ami_da_4
+A 322.84 Yeah . ami_da_1
+C 326.65 excellent , just what we need . ami_da_9
+D 328.35 Yeah . ami_da_1
+A 329.9 Say it for the camera . ami_da_14
+C 333.31 Lo Sort of Loch Ness banana . ami_da_9
+A 335.9 Right , right . ami_da_9
+C 337.6 Cool ami_da_9
+C 337.6 yeah . ami_da_9
+C 339.81 Well , nice to have options at least . ami_da_9
+D 341.53 Yeah . ami_da_9
+A 341.79 Yep . ami_da_9
+C 342.86 Okay and ami_da_3
+C 342.86 Oh there are issues , oh there are issues . ami_da_9
+D 343.06 So are there any improvements or issues or ami_da_11
+D 343.06 Oh . ami_da_16
+A 346.52 It wo not stand . ami_da_4
+A 349.63 Just let it lie down , ami_da_6
+A 349.63 it wont stand . ami_da_4
+C 352.34 main problem that we have unfortunately being finance . ami_da_4
+C 358.37 , let is just enter in the evaluation criteria . ami_da_4
+C 362.43 unfortunately the unit we are currently going to produce minus the extra scroll buttons , it is going to cost us fourteen point six Euros . ami_da_4
+D 375.16 Oh . ami_da_16
+C 376.67 So we have to ami_da_3
+C 376.67 rea ami_da_14
+C 376.67 Sorry , ami_da_14
+C 376.67 I have accidentally highlighted somehow ami_da_4
+A 377.25 What is on the on the left ? ami_da_5
+A 377.25 Okay . ami_da_9
+C 384.63 There we go . ami_da_9
+C 388.63 Oh god , ami_da_16
+C 388.63 why is it doing that ? ami_da_5
+C 388.63 There we go . ami_da_16
+D 389.02 Ooh . ami_da_16
+C 397.76 So basically , in order to save our two Euros I was thinking that we could have essentially the same shape , but just have it flattened . ami_da_6
+D 413.5 More like a traditional remote control . ami_da_9
+C 415.11 Yeah , I mean it is already got a kind of cool shape , ami_da_9
+C 415.11 so but it would not have to be curved sort of in and out . ami_da_6
+C 421.71 And by doing so ami_da_3
+C 421.71 Oh no , hold on . ami_da_16
+C 425.29 Does not save us quite as much . ami_da_4
+C 428.29 I do not know what is going on with this again . ami_da_4
+A 430.1 W why is the double curved two of them ? ami_da_5
+A 430.1 Is i ami_da_3
+C 434.9 Oh , good point . ami_da_9
+B 437.38 And double curve on both sides ? ami_da_4
+B 437.38 Curve . ami_da_2
+B 443.14 Yeah , this is double curve , ami_da_4
+B 443.14 no ? ami_da_5
+B 443.14 This is double curve . ami_da_4
+C 443.73 That is sort of curve in and out . ami_da_9
+B 446.5 It ami_da_3
+B 446.5 This one is single curve . ami_da_4
+B 449.58 Because this is single curve , this is curved on both sides . ami_da_4
+B 453.17 So double curve . ami_da_4
+C 453.91 No , ami_da_9
+C 453.91 I think it means double curved as in like a single curve on that bottom half , and the double curved would be if it was that similar curve upward . ami_da_4
+D 456.77 Like an S shape . ami_da_4
+D 466.51 Okay . ami_da_1
+C 467.18 Okay , I might be wrong though . ami_da_4
+B 468.57 Like this , one curve on this side , one curve on that side . ami_da_5
+C 471.49 I do not think that counts as a curve , I think that is just a shape . ami_da_4
+D 474.73 Okay . ami_da_1
+C 475.06 A curvature is like the this case . ami_da_4
+B 477.12 Maybe . ami_da_3
+D 478.93 Okay . ami_da_1
+A 479.03 Because that is the the biggest expense there , right . ami_da_5
+C 481.63 Yeah , and why why I have got it two , ami_da_4
+C 481.63 I do not know , I ca not seem to select any more however . ami_da_4
+A 482.01 got two of them ami_da_4
+A 482.01 Okay . ami_da_9
+A 488.25 Well we can work around that Cut things out . ami_da_6
+C 491.4 Right . ami_da_16
+C 492.01 No . ami_da_16
+A 496.44 But you think it should be one . ami_da_5
+C 498.44 It is meant to be one , ami_da_4
+C 498.44 yeah , ami_da_4
+C 498.44 I do not know why I put two in there , ami_da_4
+C 498.44 but ami_da_2
+C 498.44 Hold on till I find it , ami_da_6
+C 498.44 I think this shift button might be stuck again . ami_da_4
+A 500.89 Okay . ami_da_1
+C 508.55 No maybe the shift button is stuck in . ami_da_4
+A 512.84 Yeah . ami_da_1
+C 514.47 okay , so that would take away three , which would give us ami_da_4
+C 514.47 Oh that is fine . ami_da_9
+B 515.48 Should ami_da_3
+B 515.48 you can do one thing . ami_da_6
+A 519.91 Yeah , so we are ami_da_3
+A 519.91 We should fire the accountants . ami_da_14
+C 520.52 Eleven eleven Euros sixty . ami_da_4
+D 520.73 Cool . ami_da_9
+D 522.56 Cool . ami_da_9
+C 523.68 We cou Oh not quite , have the scroll wheel , unfortunately . ami_da_4
+D 525.88 So we could even add something . ami_da_6
+C 531.9 What ? ami_da_12
+C 531.9 Yeah . ami_da_9
+A 532.85 Fire the accountants . ami_da_14
+A 540.15 yeah , we could add things . ami_da_6
+A 543.82 Maybe if you click back in that bottom right cell , where you are starting from , and then use the arrow keys . ami_da_6
+A 548.65 Does that work ? ami_da_5
+A 548.65 No . ami_da_9
+C 549.19 Yeah , I know , that just extends it as well . ami_da_4
+C 551.83 I do not know . ami_da_9
+B 554.01 You just select one box outsi ami_da_6
+B 554.01 yeah , this box . ami_da_9
+B 556.77 Then move it with the help of this ami_da_6
+B 556.77 Okay . ami_da_9
+C 560.82 It One of the buttons is sticking , I do not know . ami_da_4
+B 561.58 Just just ami_da_2
+B 561.58 Okay , just a minute . ami_da_16
+B 567.01 Okay . ami_da_2
+B 567.76 No input , like this . ami_da_6
+B 570.83 Shift . ami_da_4
+B 571.58 No it is not . ami_da_4
+C 571.61 No , it is because the the shift button is stuck , or something . ami_da_9
+B 573.33 Yeah , it is not working . ami_da_9
+A 575.84 Is it the other shift button maybe ? ami_da_5
+A 575.84 Did you try both shift buttons ? ami_da_5
+A 575.84 It could be the other side . ami_da_4
+B 575.86 Should we ask Meli ami_da_2
+B 575.86 Should we ask our technical expert Melissa ? ami_da_6
+B 575.86 Yeah . ami_da_9
+C 581.16 No that is fine . ami_da_9
+C 582.01 we have worked out what it would be anyway . ami_da_4
+C 586.29 Yeah . ami_da_4
+C 589.32 Cancel . ami_da_16
+C 590.95 Piss off . ami_da_16
+A 592.65 That is too bad . ami_da_9
+C 596.06 Oh well , never mind . ami_da_9
+C 599.77 Right , so that is finances ami_da_4
+C 599.77 and I dunno what we ami_da_2
+C 599.77 what could we reckon we could add ? ami_da_8
+C 599.77 Well I suppose that is our that is that is our design that we have got . ami_da_9
+D 606.84 Well maybe we could add something , ami_da_6
+D 606.84 but maybe if ami_da_3
+D 606.84 What do you th ami_da_2
+D 606.84 We are trying to save money , so . ami_da_4
+D 613.58 Yeah , if we are happy with the design there is no point in spending money , if we do not have to . ami_da_9
+C 613.83 So ami_da_9
+C 613.83 Yeah . ami_da_1
+D 618.09 But if there is anything you think we have missed out there , then , you know , feel free to add it . ami_da_6
+D 622.11 Maybe ami_da_2
+D 622.11 I mean obviously it would be bigger ami_da_4
+D 622.11 so there might be more space for the the slogan on the front , ami_da_4
+D 622.11 because it is not in an ideal place right now . ami_da_9
+C 629.08 Yeah yeah . ami_da_1
+C 631.73 Well that is that is ami_da_2
+C 631.73 Okay , so project evaluation . ami_da_4
+C 635.02 We have under twelve Euros fifty . ami_da_4
+C 638.75 Project process , how do we think that went ? ami_da_11
+C 638.75 Are we happy ? ami_da_11
+C 638.75 Okay . ami_da_2
+A 643.23 Oh . ami_da_16
+A 644.57 Yeah I think we have a a winning product . ami_da_9
+C 655.04 Evaluation . ami_da_16
+C 658.06 Oh we have been writing this up for m months . ami_da_16
+D 659.3 I think it went quite smoothly . ami_da_9
+C 664.31 room for creativity , were we happy with that ? ami_da_11
+C 664.31 No , I mea ami_da_4
+C 664.31 I think it means sort of individually . ami_da_4
+D 667.83 W I think we were very creative . ami_da_9
+D 672.42 Oh right ami_da_9
+D 672.42 , okay . ami_da_9
+C 675.61 Yes , no , maybe ? ami_da_11
+C 675.61 Okay . ami_da_9
+C 677.74 Groovy . ami_da_9
+C 678.6 So we are just going to . ami_da_3
+C 680.12 yeah , ami_da_2
+C 680.12 okay . ami_da_2
+C 681.18 Teamwork ? ami_da_11
+C 681.18 Leadership , ami_da_11
+C 681.18 sorry . ami_da_14
+A 684.04 Great leadership . ami_da_9
+D 684.09 Excellent leadership . ami_da_9
+C 685.62 Thank you very much . ami_da_14
+C 686.29 You are all get you are all getting a raise . ami_da_14
+C 688.46 teamwork . ami_da_9
+C 689.93 I thought went well . ami_da_9
+A 690.92 Yeah , ami_da_9
+A 690.92 yeah . ami_da_9
+D 691.27 Yeah , everyone got enough input , I think . ami_da_9
+C 691.73 Yeah . ami_da_9
+C 694.38 and well means , yeah . ami_da_4
+B 696.24 Yeah , we ami_da_3
+B 696.24 Yeah . ami_da_1
+C 696.34 The technical stuff was brilliant . ami_da_14
+C 699.93 Let is buy more . ami_da_14
+D 700.06 Yeah . ami_da_1
+C 700.87 Right . ami_da_2
+C 703.06 I do not know what , new ideas found , means , to be honest . ami_da_4
+A 703.92 These pens are are neat though . ami_da_9
+B 707.04 Yeah , these are new ideas , like glow in the dark or something like that . ami_da_9
+B 710.76 We discussed all the new ideas , ami_da_4
+B 710.76 but of course we could not reach any proper goals , we could not use these , ami_da_9
+B 710.76 but we h we are using these scroll buttons like this . ami_da_4
+B 720.31 These are new ideas we And new shapes , everything ami_da_9
+D 722.78 Yeah . ami_da_9
+C 723.09 okay . ami_da_9
+B 723.39 At le ami_da_3
+B 723.39 Yeah . ami_da_9
+C 724.0 Groovy . ami_da_9
+C 725.01 So just general thumbs up for all of us then . ami_da_9
+C 728.21 That kind of unfortunately is too quick . ami_da_9
+D 731.97 Okay . ami_da_9
+A 733.03 Okay . ami_da_9
+D 733.42 Well . ami_da_2
+C 735.77 I suppose yeah . ami_da_16
+A 738.44 so let is talk about our bonuses and the raises we are getting for this , right . ami_da_6
+C 742.45 That is it , I think another couple of days holiday pay might be well in order for all of you . ami_da_9
+A 747.95 Right , right . ami_da_9
+C 748.36 Let is see if I can get this bloody thing to work . ami_da_7
+A 752.72 maybe we should start cleaning up the clay . ami_da_6
+C 753.12 Whoops . ami_da_16
+D 756.07 Yeah , maybe . ami_da_9
+B 756.39 So So ami_da_3
+B 756.39 Brian , have you have you finished ? ami_da_5
+B 756.39 mine needs also this . ami_da_4
+C 757.52 Does it go back in , does it ? ami_da_5
+C 757.52 Reusable . ami_da_4
+A 763.22 Something we should get . ami_da_3
+C 763.64 I do not know what this is but it is really really annoying . ami_da_9
+C 768.75 Uh huh . ami_da_16
+C 770.66 I have , yes . ami_da_4
+C 773.84 Huh ? ami_da_12
+C 773.84 Oh right , okay ami_da_9
+C 773.84 , you have got more , okay . ami_da_9
+B 774.07 At last mine is also the presentation . ami_da_4
+D 777.95 Oh , you got a presentation , ami_da_9
+D 777.95 sorry . ami_da_13
+B 778.24 Yeah , ami_da_9
+B 778.24 yeah . ami_da_9
+C 778.48 Sorry . ami_da_14
+A 779.54 Oh ok ami_da_9
+C 779.95 It did not bother to tell me that on this thing . ami_da_4
+B 780.69 S ami_da_3
+B 780.69 is the project evaluated , that is mine . ami_da_4
+C 785.0 Is it ? ami_da_16
+C 785.0 Okay . ami_da_2
+C 788.92 Does not tell me . ami_da_4
+C 792.39 Oh you are doing that . ami_da_9
+B 793.92 Yeah . ami_da_9
+C 795.19 We evaluated ourselves , we thought we were great . ami_da_4
+D 797.51 Yeah . ami_da_1
+D 805.58 , love to eat that now . ami_da_14
+A 806.63 Anybody ami_da_14
+A 806.63 Clay covered banana . ami_da_9
+D 808.1 Kind of a green banana now . ami_da_9
+D 812.7 It is ami_da_2
+D 812.7 this as well , ami_da_4
+D 812.7 sorry , ami_da_14
+D 812.7 we forgot to mention it will be made out of kind of a rubbery latex , new material that we have got . ami_da_4
+C 819.82 O okay , ami_da_9
+C 819.82 hold on . ami_da_16
+D 820.16 I have got . ami_da_3
+A 824.05 blue . ami_da_5
+C 831.65 I wonder w which cell do I want . ami_da_16
+A 843.51 It is fun to touch . ami_da_9
+D 844.73 Yeah . ami_da_9
+B 868.17 So . ami_da_2
+C 869.77 Okay , I did not realise you had that bit . ami_da_4
+B 870.2 Yeah . ami_da_2
+D 873.25 Oh could you pass the tomato please . ami_da_6
+B 874.37 So . ami_da_2
+D 875.3 Sorry . ami_da_14
+D 876.23 Thank you . ami_da_14
+B 877.74 So now is the final evaluation , final evaluation of the of our product . ami_da_4
+B 882.68 How we are going to means at what standard what standard ami_da_2
+B 882.68 whether it meets our standards or not . ami_da_4
+B 890.04 How mu ami_da_2
+B 890.04 What rating we will give to these products . ami_da_4
+B 893.3 So of course this is will be a team work , ami_da_4
+B 893.3 w ami_da_4
+B 893.3 we together have to decide wha what rating we will give to this product and everything . ami_da_4
+C 900.76 Okay . ami_da_1
+B 900.82 So what methodology I will tell you on what basis we are going to discuss all this . ami_da_7
+B 906.92 We will give the rating to this product based on the user requirements , whether it meets the user requirements or not , this product . ami_da_4
+B 916.33 Then trends , whether it is as fashion trends or not ? ami_da_4
+B 916.33 Means because we have already stated that people do prefer fashionable things nowadays . ami_da_4
+B 928.41 So this is also an important factor for our evaluation also . ami_da_4
+B 932.78 Then marketing strategy of the company . ami_da_4
+B 935.05 As we have already discussed that our company is quite in the market , not only in terms of providing quality products , not only in pro providing latest technologies , but also in terms of providing environmental s ami_da_4
+B 935.05 Yeah . ami_da_9
+D 949.36 Sorry . ami_da_14
+D 950.38 Sorry , ami_da_14
+D 950.38 carry on . ami_da_6
+B 951.53 So ami_da_2
+B 951.53 but also in terms of providing environmental safe products , ami_da_4
+B 951.53 yeah like keeping keeping in mind all the safety issues . ami_da_4
+B 961.39 So ami_da_2
+B 961.39 Now comes the criteria rating with seven point scale . ami_da_4
+C 967.99 Okay . ami_da_1
+B 968.07 I am having this scale this scale , ami_da_4
+B 968.07 so we have to do it on a board . ami_da_6
+D 976.13 Okay . ami_da_9
+C 976.6 Alright , okay . ami_da_9
+C 977.33 The board working again , is it ? ami_da_5
+B 978.36 the user requirem I think . ami_da_3
+A 982.41 Do we have the the marker for the board ? ami_da_5
+A 982.41 There it is . ami_da_4
+B 988.52 Thank you . ami_da_14
+B 992.31 So . ami_da_2
+B 1082.79 So these are the three crite criterias for our evaluation of our product . ami_da_4
+B 1089.08 First of all comes user requirement . ami_da_4
+B 1092.75 So we will see whether this product meets all user requirements or not . ami_da_4
+B 1098.22 I ami_da_2
+B 1098.22 I will ami_da_2
+B 1098.22 first I would like to have your views , what do you think whether it meets all user requirements or not ? ami_da_11
+B 1098.22 S ami_da_3
+B 1098.22 So what do you think you will personally give . ami_da_11
+D 1104.89 I think ami_da_2
+D 1104.89 Yeah , it did . ami_da_9
+D 1109.81 It had all the basic buttons that they needed as well as the new technology that people said they wanted . ami_da_4
+C 1118.05 Yeah . ami_da_1
+D 1118.99 so . ami_da_2
+C 1119.57 When the user requirement is essentially just to operate the TV , ami_da_4
+C 1119.57 so yeah , ami_da_9
+C 1119.57 of course we have not actually got a working model yet . ami_da_4
+D 1121.79 Does it work ? ami_da_4
+D 1121.79 Yeah . ami_da_9
+D 1124.68 So . ami_da_9
+D 1127.89 I would say seven . ami_da_9
+B 1129.62 Seven . ami_da_9
+D 1130.93 Seven is good , yeah , is not it ? ami_da_5
+D 1130.93 I ca not ami_da_3
+D 1130.93 True or false ? ami_da_16
+D 1130.93 No sorry tr one is true . ami_da_4
+C 1135.02 One , yeah . ami_da_9
+B 1137.04 one is means highest ranking , ami_da_5
+B 1137.04 okay . ami_da_9
+D 1139.36 Yeah . ami_da_4
+B 1140.5 But I think highest ranking is seven , ami_da_4
+B 1140.5 or one ? ami_da_5
+B 1140.5 Okay , right right . ami_da_9
+C 1142.66 No it is it is ami_da_4
+C 1142.66 like true is one end , and false is the oth ami_da_4
+C 1142.66 Oh , I will go for a one . ami_da_9
+A 1143.28 No that is false . ami_da_4
+D 1146.8 Okay , so one . ami_da_9
+B 1147.25 So it is one for from your point of view . ami_da_9
+D 1150.63 Yep . ami_da_9
+B 1151.08 And what do you say our Industrial Expert ? ami_da_11
+B 1151.08 d you can you can tell on on the like ami_da_2
+B 1151.08 I think she has given her views on the basis of design , because she was our i Interface Expert . ami_da_4
+A 1157.56 It is hard to know . ami_da_9
+A 1158.51 I ami_da_9
+A 1158.51 I give it a two . ami_da_9
+A 1169.41 Okay . ami_da_1
+B 1169.54 But you can give your views based on technology , ami_da_6
+B 1169.54 whether the technology meets the requirements of the customers or not ? ami_da_11
+B 1169.54 Two . ami_da_12
+A 1176.52 yeah , ami_da_9
+A 1176.52 I think ami_da_9
+A 1176.52 i ami_da_9
+A 1176.52 it might even exceed it . ami_da_9
+A 1181.91 But I guess there is a kind of a shortage of buttons . ami_da_9
+A 1185.73 I am going to give it a two . ami_da_9
+A 1189.05 Two . ami_da_9
+B 1189.32 And what about you , Brian ? ami_da_11
+B 1189.32 You will go for one . ami_da_9
+C 1194.79 Basic requirements but of the pro of the project . ami_da_4
+B 1195.74 Okay . ami_da_2
+B 1198.5 for me personally it is everything fine , it may be having good design , it may be meeting all the requirements of the customers like technology wise , price wise , ami_da_9
+B 1198.5 but there is one thing which limits the customers , ami_da_11
+B 1198.5 like we are having only two , three designs , like we are having one banana design and the other one is orange , ami_da_4
+B 1198.5 and ami_da_3
+B 1198.5 yeah , lower end . ami_da_9
+D 1218.85 yellow . ami_da_4
+C 1221.42 Yeah th Come on that was the tha ami_da_3
+C 1221.42 Okay . ami_da_1
+B 1222.37 And the third one is what you ge that is not a f fruit look . ami_da_4
+D 1226.32 Uh huh . ami_da_1
+B 1226.34 But if a person does not like banana , or orange , you are limiting him . ami_da_9
+D 1231.32 Uh huh . ami_da_1
+B 1231.51 No , do not buy our product , because we are l we like this only . ami_da_9
+D 1235.35 Okay . ami_da_1
+B 1235.77 So we are showing our preference for particular fruits , two or three kinds rather , ami_da_9
+B 1235.77 and ami_da_3
+B 1235.77 Yeah . ami_da_9
+C 1240.75 Being fruitist . ami_da_14
+D 1242.12 Is that no is that not trends ? ami_da_11
+B 1242.45 So . ami_da_2
+B 1244.69 no , personally as a Marketing Expert ami_da_9
+B 1244.69 I do not believe that , ami_da_9
+B 1244.69 because whatever companies they launch their products in the shape of fruits , they give a range of products , a range of shapes , like if we see , look at the smallest thing , toffee chocolates , they give a variety of different things . ami_da_4
+B 1262.04 Some children like to buy banana shape , some apple shape , some even pineapple shape , some orange shape . ami_da_4
+B 1267.4 So you can what shape a person will like . ami_da_9
+B 1270.98 So in this case giving only one or two choices we are lim limiting our customers . ami_da_9
+B 1276.1 And by limiting them , we are limiting our sales , limiting our profit also . ami_da_9
+D 1276.41 Uh huh . ami_da_1
+D 1280.12 But in electronics , I think , it is not q always quite so you do not always have so many choices as with chocolates . ami_da_9
+D 1287.95 I think , you know , if you are going to buy a TV maybe a company will have That you are going to choose from , a company will have two or three choices , but they are different designs . ami_da_4
+D 1299.16 We were coming up with one product . ami_da_4
+B 1303.92 maybe . ami_da_9
+B 1304.98 Okay but I will I will personally wo not give it beyond three . ami_da_9
+D 1306.12 No , I mean obviously your opinion , ami_da_9
+D 1306.12 I am just trying to ami_da_3
+D 1306.12 Okay . ami_da_9
+B 1311.69 So we can ami_da_3
+B 1311.69 Yeah , on an average we can think three , four sevenths , maybe . ami_da_4
+C 1313.74 He is a tough cookie . ami_da_9
+B 1321.79 Three or four ? ami_da_5
+B 1321.79 , no sorry , ami_da_9
+B 1321.79 it should be No ami_da_4
+B 1321.79 sorry , sorry , sorry , sorry , ami_da_14
+B 1321.79 we are doing a very wrong thing . ami_da_9
+C 1326.19 Six . ami_da_4
+C 1327.13 Five or six . ami_da_4
+D 1328.92 What are we doing ? ami_da_5
+D 1328.92 Adding them up ? ami_da_5
+D 1328.92 Oh . ami_da_9
+A 1329.78 What are we doing ? ami_da_5
+A 1329.78 We are going to average them ? ami_da_5
+A 1329.78 Okay . ami_da_9
+B 1333.26 Yeah , ami_da_4
+B 1333.26 yeah , we are taking everything , ami_da_4
+B 1333.26 and that is ami_da_2
+B 1333.26 I have taken it very wrongly . ami_da_9
+A 1335.47 So seven fourths . ami_da_9
+B 1336.77 Yeah ami_da_9
+B 1336.77 three four four two six seven seven sev ami_da_16
+B 1336.77 Yeah one pe exactly . ami_da_9
+A 1337.27 About one point ami_da_4
+A 1337.27 f one point eight . ami_da_4
+B 1341.57 So we can say one or two . ami_da_6
+A 1343.52 Okay . ami_da_9
+D 1343.64 Okay . ami_da_9
+B 1344.56 because it is one point eight two , so we will do two . ami_da_6
+C 1346.32 Oh I see . ami_da_9
+A 1349.01 Yeah round it up to two . ami_da_9
+B 1349.96 Yeah . ami_da_9
+D 1350.42 Okay , yeah . ami_da_9
+B 1350.93 So where were the trends . ami_da_11
+A 1351.32 So trends . ami_da_4
+A 1354.49 Can you explain what you want us to write there ? ami_da_5
+A 1354.49 How it how conforms to the current trends ? ami_da_5
+A 1354.49 Okay . ami_da_9
+B 1357.4 Sorry ? ami_da_12
+B 1357.4 Yeah , again the the fashion trends , this also like whether it it will be fashionable to have these products in the as a fruit shape or something . ami_da_4
+D 1370.13 Okay . ami_da_9
+D 1371.09 Well going on the specifications that we had , that fruit and vegetables are quite popular , and that people like something that is good to look at and not many buttons , I would give it , well , because it is hard to make a fruit good to look at , that that looks cool , you know , so I would actually give it a three . ami_da_9
+D 1398.88 Tha three or four , I am not sure . ami_da_9
+D 1401.84 Three . ami_da_9
+B 1402.12 Okay . ami_da_9
+D 1402.47 Go for three . ami_da_9
+B 1402.6 Yeah . ami_da_9
+D 1403.36 That is fine . ami_da_9
+B 1403.88 Okay . ami_da_9
+A 1405.13 As far as the technology it its' got the latest trends in speech technology , but it is missing the screen , as we said , but it does have the push buttons , or the scroll buttons , but it does not have that fancy solar power or the the vibrating energy mechanism . ami_da_9
+A 1424.44 So I give it a a four . ami_da_9
+A 1426.96 I would give it a kind of middle of the road for for technology . ami_da_9
+C 1431.86 Yeah , I am sort of pret ami_da_3
+C 1431.86 Just the fruit does me in ami_da_9
+C 1431.86 , I mean it might it might be trendy to some , but I am just not swallowing the fruit , ami_da_9
+C 1431.86 so ami_da_2
+C 1431.86 also I would have liked to have seen the LCD screen in it . ami_da_9
+D 1441.61 Yeah . ami_da_1
+C 1447.98 so yeah I would say about four as well . ami_da_9
+B 1454.04 personally I wi ami_da_9
+B 1454.04 I think that in terms of trends , these products are quite good , like , these products are in fruit shape , ami_da_9
+B 1454.04 because that wha people now ami_da_2
+B 1454.04 our fashion trend shows that people like everything all f everything that is being advertised , like clothes , shoes , and everything is being advertised in the form of fruits and vegetables , or getting them or showing some association with them . ami_da_4
+B 1481.4 So and in this way our product is good . ami_da_9
+B 1484.38 And the second thing , now people do not want any complicated or bulky products and ours is quite simple and quite handy . ami_da_9
+B 1493.03 So that is also ef that also ami_da_2
+B 1493.03 Our product meets the f the fashion trends of the market . ami_da_9
+B 1500.06 And yes . ami_da_2
+B 1502.05 It is cus spongy also . ami_da_9
+B 1503.89 So they can play with it , it is quite good . ami_da_9
+B 1506.2 So then I think , maybe I can give it two . ami_da_9
+B 1511.37 So four five ten thirteen thirteen . ami_da_16
+B 1516.72 So we can ami_da_3
+B 1516.72 Is it fine ? ami_da_5
+B 1516.72 So what about company strategy ? ami_da_11
+B 1516.72 Okay . ami_da_9
+A 1520.54 Yeah . ami_da_4
+A 1525.7 Well it was yellow . ami_da_9
+D 1528.3 Yeah , the company strategy , okay . ami_da_16
+D 1531.7 there was lot of discussing , that was good . ami_da_9
+D 1535.2 I feel I got my say . ami_da_9
+D 1537.53 so I would give the company strategy a two . ami_da_9
+A 1547.34 Well , I think it is the the remote control conforms to the the company strategy . ami_da_4
+D 1552.44 Okay . ami_da_9
+C 1553.07 Yeah , ami_da_9
+C 1553.07 yeah . ami_da_4
+A 1553.16 Is that the question ? ami_da_5
+D 1554.33 Is it ? ami_da_9
+D 1554.33 Okay . ami_da_9
+D 1556.76 Okay , so ami_da_2
+D 1556.76 one or two . ami_da_9
+A 1561.15 Yeah . ami_da_1
+D 1561.19 One . ami_da_9
+D 1561.83 Okay , just leave it , it is fine . ami_da_9
+A 1564.42 I will go with two . ami_da_9
+B 1567.25 So what about you , Brian ? ami_da_11
+B 1567.25 Yeah , and me also , like , this product me me me this meets all company strategy ami_da_9
+B 1567.25 like our product should be as per customers' requirement , as per latest technology , and it should be environmental safe . ami_da_4
+C 1569.4 yeah , ami_da_2
+C 1569.4 a three . ami_da_3
+C 1572.87 Pretty much kept to the company strategy , so I would go for a a one , as we not only kept it , but we were limited by Cool , groovy . ami_da_9
+B 1600.84 So since our product meets all these requirements , so I would also prefer to give it rank one . ami_da_9
+B 1607.0 So four six six ami_da_16
+B 1607.0 half . ami_da_1
+A 1608.72 So one and a half . ami_da_4
+D 1610.64 Yeah , one . ami_da_9
+B 1611.17 So we can say two or one ami_da_11
+B 1611.17 Okay . ami_da_9
+A 1614.6 A two . ami_da_9
+B 1616.48 So th seven seven . ami_da_16
+B 1627.2 overall we are getting two something , ami_da_4
+B 1627.2 but we can round it as two . ami_da_6
+A 1632.38 Yep . ami_da_9
+D 1632.5 Okay . ami_da_9
+B 1633.18 Yeah . ami_da_9
+B 1634.03 So I think overall evaluation of our product is quite good . ami_da_9
+A 1634.68 S ami_da_3
+A 1634.68 Okay . ami_da_9
+C 1638.71 Cool . ami_da_9
+B 1638.99 So we can launch it . ami_da_6
+B 1641.31 Yeah . ami_da_6
+C 1641.94 Brilliant . ami_da_9
+D 1642.02 Woo hoo . ami_da_9
+C 1650.92 In which case we are done . ami_da_4
+C 1653.88 Because we have evaluated and we are within budget . ami_da_4
+D 1658.83 Cool . ami_da_9
+B 1659.69 So ami_da_2
+B 1659.69 yeah . ami_da_9

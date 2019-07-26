@@ -1,0 +1,370 @@
+A 2.19 Okay , ami_da_2
+A 2.19 good morning . ami_da_14
+A 2.99 This is our first team meeting . ami_da_4
+B 3.62 Good day . ami_da_14
+D 4.82 Morning . ami_da_14
+C 5.4 Morning . ami_da_14
+A 6.65 I will be your Project Manager for today , for this project . ami_da_4
+A 9.34 My name is Mark will be giving this presentation for you to kick the project off . ami_da_4
+A 15.0 That is my ami_da_3
+A 15.0 that is the agenda for today . ami_da_4
+A 17.12 Well , ami_da_2
+A 17.12 of course we are new to each other , ami_da_4
+A 17.12 so I would like to get acquainted first . ami_da_6
+A 20.49 So let is do that first , ami_da_6
+A 20.49 I mean ami_da_3
+A 20.49 Let is start with you , ami_da_6
+A 20.49 can you introduce yourself ? ami_da_11
+A 20.49 You are our Marketing Expert . ami_da_4
+D 25.46 Yes . ami_da_9
+D 26.36 my name is Dirk , Dirk Meinfeld . ami_da_4
+D 29.79 I will be Pr Project the Marketing Expert . ami_da_4
+D 34.48 And I will see what the user wants and what we can do with the new produ project product . ami_da_4
+A 43.23 Okay , excellent . ami_da_14
+A 44.4 And you are User Interface ami_da_4
+A 44.4 Yeah . ami_da_1
+B 45.04 Nick Broer , User Interface Designer . ami_da_4
+B 47.97 I am going to look at the technical design from the user point of view . ami_da_4
+A 52.34 Excellent . ami_da_14
+A 53.54 Okay . ami_da_14
+C 54.29 My name is Xavier Juergens , I am the Industrial Designer , and there are three main questions that I have to find an answer to today . ami_da_4
+C 60.98 First one is what happens inside the apparatus , second is what is the apparatus made of , and the third is what should it look like . ami_da_4
+A 68.66 What should it look like ? ami_da_12
+A 68.66 Okay . ami_da_12
+A 72.54 Oh , ami_da_2
+A 72.54 let is kick it off . ami_da_6
+A 73.76 Oh , there we go . ami_da_2
+A 75.17 So , ami_da_2
+A 75.17 our new project is about ami_da_3
+A 75.17 we need design a remote control for television set , ami_da_4
+A 75.17 so , ami_da_2
+A 75.17 which has to be original , trendy and user friendly . ami_da_4
+A 83.59 I took this off our corporate website . ami_da_4
+A 85.25 It is ami_da_3
+A 85.25 I think well it sums up what we need to do . ami_da_4
+A 88.55 We are inspired by latest fashion , not only electronics , but also the latest trends in clothes and interior design . ami_da_4
+A 93.6 That is why our product will always fit in your home . ami_da_4
+A 96.17 So apparently we need to be very at very open to what is currently hot in the market . ami_da_6
+A 102.71 So that is what you need to do to bring us the latest info and what people want . ami_da_6
+D 103.73 Yeah . ami_da_9
+D 105.64 Yeah . ami_da_9
+A 106.57 So So ami_da_2
+A 106.57 we put the fashion in electronics . ami_da_4
+A 109.85 So that is what we need to go for . ami_da_6
+A 111.94 Anyway , we will take this project in three steps , three pha three phase of design . ami_da_4
+A 116.06 First step will be the functional design . ami_da_4
+D 117.85 Yeah . ami_da_1
+A 118.68 And that is basically what we are going to do . ami_da_4
+A 120.15 Everybody has a piece of individual work and a meeting afterwards , so we can share information ami_da_4
+A 120.15 about ami_da_3
+A 120.15 So ami_da_2
+A 120.15 I am going to keep this short , ami_da_7
+A 120.15 since we had a technical problem . ami_da_4
+A 126.76 So skip through this . ami_da_7
+A 130.88 Okay . ami_da_2
+A 132.2 Every meeting we everybody can present their their views and everything , so to help with these , you have we have the SMARTboards here . ami_da_4
+A 139.73 We can use a regular PowerPoint presentation . ami_da_4
+A 142.89 I am supposed to give you an introduction on this doodling board , ami_da_7
+A 142.89 so it is ami_da_3
+A 142.89 actually it is very easy . ami_da_9
+A 148.99 Like it says , very simple , ami_da_9
+A 148.99 you just take out the pen . ami_da_4
+A 152.83 Like you see here , I will just take the take here . ami_da_7
+A 157.09 That is it , you just put it on the board . ami_da_4
+A 159.5 You see a pen here . ami_da_4
+A 162.18 You go here , just like using a pen . ami_da_4
+A 165.34 You can just draw whatever you want . ami_da_4
+A 168.62 It is like the eraser , can erase whatever you want . ami_da_4
+A 173.06 And so it will be easy just to illustrate your views , if you want to change the format , you just either take out jus just like the pen , and whatever you want , your current colour , your line width , just to make the line bigger . ami_da_4
+A 188.53 So it should be really easy . ami_da_4
+D 189.48 Okay . ami_da_1
+A 190.18 This is to take the ami_da_3
+A 190.18 just take a new slide and back again . ami_da_4
+A 193.91 We are just going to keep using this board all the time , ami_da_4
+A 193.91 so I think it will be ami_da_3
+A 193.91 it is very clear for everyone , I suppose . ami_da_13
+A 199.68 So ami_da_2
+A 199.68 I will take this out . ami_da_7
+A 204.7 Okay . ami_da_2
+A 206.05 We will use that later . ami_da_4
+A 206.93 Anyway . ami_da_4
+A 209.38 Yeah , just just ami_da_2
+A 209.38 just stuff that you want to share , just put it in the in the project folder , ami_da_6
+A 209.38 like I put my presentation now . ami_da_4
+A 215.54 I will put the the minutes of every meeting , I will put them there too , ami_da_7
+A 215.54 so everybody can read up if they have to leave early or whatever . ami_da_4
+A 221.9 So ami_da_2
+A 221.9 next , been here . ami_da_16
+A 225.61 Well , ami_da_2
+A 225.61 going to give the electronic white board a shot . ami_da_7
+A 229.25 So ami_da_2
+A 229.25 basic idea is we have a blank sheet . ami_da_4
+A 234.8 Just try whatever you want , and like it says , draw your favourite animal . ami_da_6
+A 240.68 I think the creative genius should go first . ami_da_6
+B 243.02 The creative genius ? ami_da_12
+B 243.02 Thank you very much . ami_da_14
+A 245.93 So , draw us your favourite animal . ami_da_6
+B 248.22 Well , ami_da_2
+B 248.22 I am more into the technical aspects of drawing , ami_da_4
+B 248.22 so I am not really good at drawing animals , ami_da_15
+B 248.22 but the animal which I Oh . ami_da_3
+A 252.35 Draw us a technical animal . ami_da_14
+A 257.11 Yeah , it is still erasing . ami_da_4
+B 258.72 Pen . ami_da_16
+B 261.05 format . ami_da_16
+B 265.18 Else my animal will be like king size . ami_da_4
+B 268.56 I pretty much like a dolphin , ami_da_9
+B 268.56 because of its its freedom basically . ami_da_4
+B 276.06 Let is see . ami_da_2
+B 278.17 A head . ami_da_16
+B 282.34 actually worked with this . ami_da_4
+B 283.7 It is like it is a very high tech . ami_da_9
+B 289.44 Bit low responsive though . ami_da_9
+B 291.84 Prefer pen and paper . ami_da_9
+A 292.49 So that is what we do not want . ami_da_6
+A 293.77 We want a high responsive product . ami_da_6
+A 295.26 So ami_da_6
+A 295.26 It looks more like nuclear bomb . ami_da_14
+D 299.83 Very nice dolphin . ami_da_14
+B 300.59 It does not look like a nuclear bomb . ami_da_4
+B 303.34 This thing is not doing what I am What I want . ami_da_4
+B 309.21 So ami_da_2
+B 309.21 Yeah , well it does look like a nuclear bomb . ami_da_4
+A 309.58 Let is go easy on it . ami_da_14
+B 319.01 I will just finish up real soon , ami_da_7
+B 319.01 because I am ami_da_3
+B 319.01 So it does not really look like a dolphin , but then again , this is all new for me . ami_da_4
+A 334.08 Anyway , it should It ami_da_3
+A 334.08 It is supposed to be a dolphin , you like the freedom that it that it represents . ami_da_4
+C 337.04 Uh huh . ami_da_1
+B 338.27 Like the ocean , like swimming . ami_da_4
+B 340.44 Do that in my spare time , ami_da_4
+B 340.44 so that is basically an ami_da_3
+B 340.44 Now we can forget this ever happened . ami_da_14
+A 343.75 What do you like ? ami_da_4
+A 343.75 Okay . ami_da_2
+A 346.43 Well , ami_da_2
+A 346.43 our Marketing Expert . ami_da_6
+A 348.84 Show us an animal . ami_da_6
+D 350.43 an animal . ami_da_9
+D 352.97 I like the elephant . ami_da_9
+A 353.28 Pick a pick a ami_da_2
+A 353.28 pick a clean sheet . ami_da_6
+A 355.53 Oh . ami_da_4
+D 356.2 What ? ami_da_12
+D 356.2 Yeah . ami_da_12
+A 357.53 Take a clean sheet first . ami_da_4
+D 359.69 Oh yeah . ami_da_12
+A 360.58 Just press next . ami_da_6
+A 361.45 That is it . ami_da_9
+D 362.14 Oh , a blank . ami_da_16
+D 363.03 Okay , ami_da_9
+D 363.03 next . ami_da_16
+D 364.23 Free , ami_da_3
+D 364.23 I like the elephant . ami_da_9
+D 366.08 It is big , it is strong , ami_da_4
+D 366.08 so Oh , ami_da_2
+D 366.08 it is a little bit ami_da_9
+D 366.08 You have to hold it , ami_da_4
+D 366.08 right ? ami_da_11
+B 372.96 It is not really that responsive , no . ami_da_9
+D 382.87 It is a beautiful animal . ami_da_9
+D 392.24 Oh , ami_da_2
+D 392.24 you have to p press it pretty hard . ami_da_4
+D 397.51 With a smile on it , ami_da_4
+D 397.51 it is very important . ami_da_14
+A 399.84 It is a cute elephant . ami_da_9
+D 401.43 Yeah . ami_da_1
+D 415.4 And not to forget its tail . ami_da_4
+D 421.1 Oh . ami_da_16
+A 422.17 It is a nice beard . ami_da_9
+D 423.87 Yeah , it is okay . ami_da_9
+B 428.37 And you was making comments on my dolphin . ami_da_15
+D 428.62 Yes . ami_da_9
+D 432.39 I will beat the dolphin . ami_da_14
+D 434.09 No . ami_da_14
+A 435.08 Okay , so ami_da_2
+A 435.08 it is just a bee . ami_da_4
+D 436.77 Yeah . ami_da_1
+A 437.62 So ami_da_2
+A 437.62 I suggest you make us the elephant in the market . ami_da_6
+A 440.12 The big and strong player in the market . ami_da_6
+D 441.72 Yeah . ami_da_9
+A 441.94 This would be good . ami_da_9
+D 443.04 Yeah . ami_da_9
+A 444.09 Okay , excellent . ami_da_14
+A 445.45 On to the next one . ami_da_6
+C 446.93 Okay . ami_da_9
+D 448.07 yeah . ami_da_16
+C 451.83 Okay , ami_da_2
+C 451.83 you should press next . ami_da_5
+D 453.05 Yeah . ami_da_4
+A 453.77 Press next . ami_da_4
+A 454.6 Yeah , it is up there . ami_da_4
+C 455.9 Okay . ami_da_12
+A 458.38 That is it . ami_da_9
+C 459.09 Okay , well ami_da_2
+C 459.09 the animal I would like to draw is a tiger . ami_da_7
+B 464.94 You picked a hard one , did not you ? ami_da_9
+B 464.94 Got it . ami_da_12
+D 470.45 Experience with the tiger . ami_da_16
+C 470.61 My drawing skills are really bad , so . ami_da_9
+D 474.36 What ? ami_da_12
+D 474.36 They are Okay uh huh . ami_da_12
+C 475.76 They are really bad , my drawing skills . ami_da_4
+A 493.32 Sure looks smooth . ami_da_9
+D 493.85 Oh . ami_da_3
+C 499.36 I am not sure how the legs should go , ami_da_4
+C 499.36 but ami_da_3
+C 499.36 these are stripes . ami_da_4
+C 518.91 I have picked this animal because it is very fast . ami_da_4
+C 522.09 It is ami_da_3
+C 522.09 it knows exactly what it wants . ami_da_4
+C 525.01 it hardly ever wastes any resources . ami_da_4
+A 527.58 What does it want ? ami_da_5
+A 527.58 Okay . ami_da_1
+C 529.17 well , basically ami_da_2
+C 529.17 it hunts for prey , but it does it always in a very well thought way . ami_da_4
+C 535.77 it knows exactly what it wants . ami_da_4
+C 536.84 It never kills an animal just for the killing , so it is very efficient . ami_da_4
+C 541.56 And it tries to do everything as fast as possible . ami_da_4
+C 544.95 And it always goes for security , in seeking a hide spot and and doing everything , security , speed and efficiency is important . ami_da_4
+C 554.7 And I think those things we can use . ami_da_6
+A 555.77 I agree . ami_da_9
+D 558.37 Okay . ami_da_12
+A 559.86 Yay ami_da_2
+A 559.86 , I am supposed to draw the animal next . ami_da_7
+A 564.96 I introduce to the world the amazing ant . ami_da_4
+D 579.29 hard worker . ami_da_4
+A 581.46 Great team workers . ami_da_9
+D 582.54 Yeah . ami_da_1
+C 582.69 Yeah . ami_da_9
+A 583.44 Do everything to ami_da_3
+A 583.44 really small , but together they are really strong . ami_da_4
+A 585.73 So I am going to give it a smiley face . ami_da_7
+D 586.0 Yeah , ami_da_9
+D 586.0 yeah . ami_da_9
+C 586.38 Oh . ami_da_1
+A 591.78 Not sure where the p . ami_da_3
+A 592.96 Just put them here . ami_da_7
+A 596.08 Whatever . ami_da_7
+A 601.47 Think it need shoes . ami_da_7
+A 602.72 So ami_da_7
+A 602.72 I am just too lazy to draw it all black , so ami_da_4
+A 602.72 That is the coolest ant ever . ami_da_9
+B 632.52 You have done this before , have not you ? ami_da_5
+B 632.52 Well , ami_da_2
+B 632.52 I basically had a question . ami_da_7
+A 634.71 I love to draw ants . ami_da_14
+A 635.78 It is my hobby . ami_da_14
+A 636.42 Anyway Nah . ami_da_2
+A 638.12 Just ami_da_2
+A 638.12 I think it is very representative what we drew , I guess . ami_da_4
+A 641.58 Like you take just take your freedom and use a a trendy interface that you design for us . ami_da_6
+D 642.0 Yeah . ami_da_1
+A 648.28 Just Yeah . ami_da_2
+A 650.52 You are supposed to make i make it different from from what other people have , and just make it a little distinct . ami_da_6
+A 655.63 Anyway . ami_da_2
+A 656.92 another beep to stop the meeting . ami_da_4
+A 659.95 See . ami_da_7
+A 661.26 Warning . ami_da_4
+A 661.88 Finish meeting now . ami_da_4
+A 666.35 put this down . ami_da_7
+A 670.04 Examples . ami_da_16
+A 670.73 Well ami_da_2
+A 670.73 I guess we have a little little time extra , ami_da_4
+A 670.73 but ami_da_3
+A 670.73 Just a little quick discussion to to open open our work . ami_da_6
+A 679.43 So what do you guys think about ami_da_8
+A 679.43 The first idea is just very short . ami_da_6
+A 682.43 I will start with you . ami_da_6
+A 683.17 What are y ami_da_8
+A 683.17 What are your first ideas for the new product ? ami_da_8
+A 683.17 What ami_da_3
+A 683.17 The project I got was just for a TV remote control . ami_da_4
+B 687.06 Do ami_da_3
+B 687.06 Are we going to introduce a multi remote control ? ami_da_5
+B 687.06 Is it just the TV ami_da_5
+B 687.06 or do we want to in ami_da_3
+B 687.06 Just for TV remote control . ami_da_12
+D 692.41 Yeah . ami_da_1
+A 695.5 Yeah , I guess so . ami_da_4
+B 696.7 Okay . ami_da_12
+B 697.64 Well , ami_da_2
+B 697.64 I was thinking about design remote control , with our motto and all . ami_da_6
+D 698.07 But ami_da_3
+D 698.07 Yeah . ami_da_9
+B 703.25 thing to keep in mind is that we need to stick to what people are familiar with . ami_da_6
+B 710.05 No rational changes or whatever , because it revolutionary changes , ami_da_6
+B 710.05 yes . ami_da_9
+A 713.66 Okay , ami_da_2
+A 713.66 so very intuitive design , I guess . ami_da_11
+B 716.93 we might have to consider other design aspects of our product . ami_da_6
+B 721.87 So that was something I wanted to add , ami_da_4
+B 721.87 and perhaps some usability aspect . ami_da_6
+B 728.42 TV is becoming central in most homes . ami_da_4
+B 730.41 Do we want people who are disabled in any way to , yeah , to be able to use it as well ? ami_da_5
+B 730.41 Yeah . ami_da_1
+A 737.13 Yeah , we want ami_da_3
+A 737.13 I suppose we want almost everyone to be using it . ami_da_4
+A 741.58 So I think I mean , really disabled people , yeah , might be a problem , ami_da_9
+A 741.58 but I think it is a little take it into consideration . ami_da_6
+A 750.77 yeah . ami_da_2
+A 752.18 I think we really need to cut the meeting short . ami_da_4
+A 753.87 You have anything you want to share quickly ? ami_da_5
+A 753.87 It should be light , okay . ami_da_12
+C 755.87 Only one thing that has to be added according to me ami_da_4
+C 755.87 is the the material it is made of , it should be something light . ami_da_6
+C 763.0 That is ami_da_3
+C 763.0 it speaks for itself , ami_da_4
+C 763.0 but some ami_da_3
+C 763.0 Yeah . ami_da_4
+D 765.62 Yeah . ami_da_1
+A 765.98 , let is see , ami_da_2
+A 765.98 where did I ami_da_3
+A 765.98 Let is skip that . ami_da_7
+A 769.77 Oh , this is it . ami_da_4
+A 770.86 Sorry , ami_da_14
+A 770.86 I skipped this sheet . ami_da_4
+D 771.2 Selling price . ami_da_16
+A 771.96 What do we ami_da_3
+A 771.96 This Quick ami_da_3
+A 771.96 What we are going to ami_da_3
+A 771.96 Selling price , twenty five Euros . ami_da_4
+A 775.2 That is for you . ami_da_6
+A 775.59 The production price , twelve and a half Euros , approximately . ami_da_4
+C 777.44 Okay . ami_da_9
+A 778.79 Just go go for that . ami_da_6
+A 779.8 We will reach the reach that profit . ami_da_4
+C 779.97 Okay . ami_da_9
+B 782.0 Okay , well ami_da_2
+B 782.0 that is not that much to work with . ami_da_9
+D 783.29 international . ami_da_3
+A 784.81 No , it is not much to work on . ami_da_9
+A 785.77 I am sorry , ami_da_14
+A 785.77 I skipped it . ami_da_4
+A 787.38 Anyways , that is ami_da_2
+A 787.38 Yeah , ami_da_2
+A 787.38 this is it . ami_da_4
+A 789.96 Do you have anything you you came up with yet ? ami_da_8
+A 789.96 About marketing transfer , whatever ? ami_da_8
+A 789.96 Marketing ami_da_4
+A 789.96 I am not sure what you what you came up with yet . ami_da_8
+D 795.0 about what ? ami_da_12
+D 795.0 Marketing ? ami_da_12
+D 795.0 no , not really yet , ami_da_4
+D 795.0 but I have some ideas ami_da_4
+D 795.0 and I will say it ami_da_3
+D 795.0 Okay . ami_da_1
+A 800.31 You have anything to share ? ami_da_8
+A 800.31 Or else we will cut the meeting just cut the meeting short ami_da_7
+A 800.31 since we are supposed to stop . ami_da_4
+A 806.04 Okay . ami_da_12
+A 808.43 Anyways , ami_da_2
+A 808.43 the the personal coach will give you the your p your personal assignments and everything . ami_da_4
+A 813.12 So we will just meet back in here thirty minutes . ami_da_4
+C 814.82 Okay . ami_da_1
+A 815.42 I am sure we have that . ami_da_4
+A 819.57 Yeah , ami_da_2
+A 819.57 thanks for attending . ami_da_14
+D 822.37 Okay . ami_da_9

@@ -1,0 +1,518 @@
+D 0.02 It is Play Doh . ami_da_4
+A 4.12 Play Doh is edible . ami_da_4
+A 5.15 Did you know that ? ami_da_5
+A 5.15 It is definitely ami_da_4
+A 5.15 Yeah . ami_da_1
+D 7.91 Because kids ami_da_9
+D 7.91 yeah . ami_da_9
+B 8.85 I used to eat it . ami_da_4
+C 8.91 I have , I have definitely eaten it before . ami_da_4
+C 10.81 I did not know was edible . ami_da_4
+D 13.39 But , it is it is made edible because , ami_da_3
+D 13.39 yeah . ami_da_9
+A 13.86 It is it is chew proof . ami_da_4
+D 16.92 It is made edible because kids eat it , ami_da_4
+D 16.92 and if it is was not edible then ami_da_3
+D 16.92 Well , normal babies . ami_da_4
+A 18.55 Yeah . ami_da_1
+C 22.06 Actually that makes sense , ami_da_9
+C 22.06 because I remember like , peopl ami_da_4
+C 22.06 I dunno ami_da_4
+C 22.06 if my Mom ever did it ami_da_4
+C 22.06 but I remember other people is Moms making like home made Play Doh where you just like make the colouring and make some sort of sort of dough . ami_da_4
+A 33.43 Yeah . ami_da_1
+D 34.09 Oh yeah it is , yeah . ami_da_9
+D 35.88 Oh yeah . ami_da_9
+A 45.03 Right . ami_da_2
+A 45.79 Everybody everybody ready ? ami_da_5
+A 45.79 Okay , let is have your let is get have the presentation ? ami_da_6
+A 45.79 Nice . ami_da_1
+C 47.83 Yeah . ami_da_4
+B 48.3 Yep . ami_da_4
+C 51.83 We have got some . ami_da_3
+B 54.88 We have got a cool prototype . ami_da_4
+C 55.09 Yeah , it is pretty exciting . ami_da_9
+C 57.69 So , ami_da_2
+C 57.69 everything that we wanted we wanted it to be ergonomic and to be made out of rubber , very simple and easy to use , ami_da_4
+C 57.69 yeah , double curved , ami_da_9
+C 57.69 but also something that was going to jump out at people , something that would be different , separate it from the other remotes out on the market . ami_da_4
+B 68.02 Double curved . ami_da_4
+C 80.59 So I think if you put this in the palm of your hand , you will see what a nice thing we have going here . ami_da_6
+D 87.92 That is cool . ami_da_9
+C 89.71 So , basically , if you hold it like that , the one on your thumb , yeah , the thumb button is the power button . ami_da_4
+C 99.96 Your index finger is channel up , middle finger is channel down , ring finger is volume up , your pinkie is volume down . ami_da_4
+D 108.53 What is the big blue thing ? ami_da_5
+D 108.53 Oh cool . ami_da_9
+C 110.36 That is the lock button , has a L L on it ami_da_4
+C 110.36 and then the M is a mute button . ami_da_4
+C 114.91 And then it also has digit For muting the ami_da_4
+C 114.91 and then then you can also there is a numeric keypad on the top ami_da_4
+C 114.91 so you can key directly to the to the channel if you want . ami_da_4
+A 115.72 what button ? . ami_da_12
+D 117.41 And mute . ami_da_4
+A 118.16 Oh mute . ami_da_12
+A 125.3 Okay . ami_da_1
+C 127.86 So it is really basic functionalities as far as what keys are available , ami_da_4
+C 127.86 but we think it is very comfortable and very innovative and it looks different . ami_da_9
+A 135.69 That certainly does . ami_da_9
+C 137.74 So all the , I mean the important keys are right at your f ami_da_4
+C 137.74 f you know right at at a convenient place for you to to access them . ami_da_4
+C 146.29 So you do not you ami_da_3
+C 146.29 Yeah . ami_da_9
+B 146.34 Which is ant anti RSI . ami_da_4
+C 150.09 It should be . ami_da_9
+C 151.45 And it is also conformable to the size of your hand . ami_da_4
+C 153.99 I mean if that is too big , it is a rubber remote , so you can , you know change that . ami_da_4
+A 156.21 Yeah . ami_da_1
+A 158.59 Is great . ami_da_9
+D 161.3 Oh it is so cute . ami_da_9
+C 161.64 So d does that what mesh with what you guys were hoping and for and expecting or does it ami_da_11
+C 161.64 , that is good thinking , ami_da_9
+C 161.64 yeah . ami_da_9
+A 168.5 I have one thing about it , but it is a small thing , but it would mean we would have to make a right handed one and a left handed one . ami_da_9
+B 178.96 Oh right , yeah . ami_da_9
+A 181.97 But , that is I do not see why that is not possible . ami_da_9
+C 184.18 Yeah , if we build rocket ships why ca not we build left handed and right handed remotes . ami_da_9
+A 187.52 Yeah . ami_da_9
+A 189.28 They make left handed scissors , you know . ami_da_4
+D 193.67 Yeah , ami_da_3
+D 193.67 but then ami_da_3
+D 193.67 but then you can learn to use your right h ami_da_4
+D 193.67 like I was just thinking if there is left handers and right handers in the family , what , they have two remotes ? ami_da_11
+D 193.67 Yeah , I am sure they will be able to ami_da_9
+D 193.67 I mean it is only pressing buttons , you do not have to do anything , you know , extraordinary . ami_da_4
+C 193.78 Yeah , I did not I did not think about that , but I would ami_da_9
+C 193.78 yeah , . ami_da_9
+A 205.48 Yes s . ami_da_1
+B 205.64 Yeah , I know I know people who have left handed and right handed people in the family and they all use the computer for the whole the same computer the fes family and they have a mouse , and everybody is using right handed mouse . ami_da_4
+A 215.04 Sure . ami_da_1
+A 215.79 Sure . ami_da_1
+C 220.76 Uh huh . ami_da_1
+D 225.34 I think everybody can press a button with their left and right hand so ami_da_4
+D 225.34 Yeah , it is not ami_da_9
+D 225.34 Yeah . ami_da_9
+C 226.1 Yeah . ami_da_1
+B 228.29 Imagine d are you right handed ? ami_da_5
+B 228.29 Imagine you are doing it with your left hand , ami_da_6
+B 228.29 I do not think it is too ami_da_9
+B 228.29 But we can have both ami_da_6
+B 228.29 Yeah . ami_da_9
+A 230.78 Yeah . ami_da_4
+D 244.4 Have them in stock . ami_da_6
+A 246.13 Yeah . ami_da_9
+D 247.01 Make them more appealing as well . ami_da_9
+A 248.22 But other than that , I mean and that is , you know , that is just something , I think I think it is great , yeah , great idea . ami_da_9
+C 255.56 Do you think it says RR ? ami_da_11
+C 255.56 Fashion to electronics . ami_da_9
+B 257.92 I think it does . ami_da_9
+A 259.56 I think it is , well , if the RR motto is , we bring fashion to to electronics , I would say that could be quite fashionable . ami_da_9
+C 266.32 Yeah . ami_da_9
+B 266.55 Yeah . ami_da_1
+C 268.18 Yeah . ami_da_9
+C 268.72 And it is got the b the black and yellow and blue . ami_da_4
+C 271.63 Plus red , which is sort of a a fruit and vegetable . ami_da_4
+A 272.24 Yeah . ami_da_1
+B 275.76 There you go . ami_da_16
+A 277.99 Yeah . ami_da_1
+C 280.36 So that is that is our end of things ami_da_4
+C 280.36 wha ami_da_3
+C 280.36 That is ami_da_3
+C 280.36 Yeah . ami_da_1
+A 283.43 Yeah , very good , yeah . ami_da_9
+A 284.26 It is come up with what we have you know , the things that is what we have what we were looking at doing , has not it , all seems to be there . ami_da_9
+A 294.08 Well done . ami_da_9
+D 295.19 And all the playing around is ami_da_3
+D 295.19 Yeah , I am just ami_da_3
+D 295.19 do you want to plug in ? ami_da_5
+D 295.19 Okay . ami_da_9
+A 298.05 before we move on I need that cable . ami_da_4
+A 303.65 Thank you . ami_da_14
+A 304.84 Yeah . ami_da_2
+A 307.52 One thing I do need to do we need to look at , is the costs . ami_da_6
+C 314.28 The costs , was that what you said ? ami_da_12
+C 314.28 But it is edible . ami_da_4
+B 315.59 Play Doh is very cheap . ami_da_4
+A 316.76 Well , yeah . ami_da_9
+D 321.32 Play Doh wo not last very long everybody will go like , oops , it is gone . ami_da_4
+A 321.38 Yeah . ami_da_1
+B 330.39 Chew proof . ami_da_4
+D 331.97 Well , they will buy more of them if you eat them , . ami_da_14
+C 333.35 That was the main criteria from the last meeting , it had to be chew proof . ami_da_14
+A 339.68 right . ami_da_2
+A 342.96 Okay , now I think we will do this ami_da_2
+A 342.96 I could do you know , I can do this o on my own or I could do it with you , ami_da_4
+A 342.96 but it is just easy enough to go through it with you , ami_da_9
+A 342.96 so we are going for the kinetic power . ami_da_4
+D 345.12 Yeah . ami_da_1
+B 347.22 Oh ho ho . ami_da_16
+B 356.21 Yep . ami_da_1
+A 358.65 And the electronics , we decided on it being just a simple , the easiest thing that is inside it . ami_da_4
+A 367.7 Ooh . ami_da_16
+A 368.78 So the case , we have gone for the double curved . ami_da_4
+A 375.66 and it is made out of rubber . ami_da_4
+A 382.46 The interface is push buttons . ami_da_4
+A 388.14 And button supplements well they are in diff special colours , ami_da_4
+A 388.14 are not they ? ami_da_5
+A 388.14 So special colours . ami_da_4
+D 393.35 Yeah . ami_da_4
+C 394.59 Yeah . ami_da_1
+D 397.49 It is better for ami_da_3
+D 397.49 And special material . ami_da_4
+A 398.01 Special form , yeah , ami_da_4
+A 398.01 they are a special form there in shapes and stuff . ami_da_4
+C 401.8 Yeah , ami_da_9
+C 401.8 I mean , these these ones on the side are curved kind of , so The buttons are rubber . ami_da_4
+A 403.85 Yep . ami_da_1
+A 404.49 Yeah . ami_da_1
+A 410.1 Are they made out of any special material ? ami_da_4
+A 410.1 No they are not . ami_da_4
+B 410.4 Rubber . ami_da_4
+A 413.03 They are not made out of wood or titanium or rubber or anything , they are just simple ami_da_4
+A 413.03 Okay . ami_da_9
+D 417.78 Well they are rubber , are not they ? ami_da_4
+D 417.78 We are under budget . ami_da_4
+B 419.97 Yeah . ami_da_1
+A 420.64 Right . ami_da_9
+A 422.67 So let is see if that comes within budget . ami_da_6
+A 426.75 And it does . ami_da_4
+A 428.31 That is going to cost ami_da_2
+A 428.31 Yeah . ami_da_9
+A 430.54 That is going to cost ten ten Euro seventy cents a unit to make . ami_da_4
+A 436.45 And our target was it had to come in at under twelve fifty . ami_da_4
+C 436.58 That is cool . ami_da_9
+C 439.14 Yeah . ami_da_1
+C 439.93 Yeah . ami_da_1
+A 440.8 So , ami_da_2
+A 440.8 this is all very very good . ami_da_9
+C 441.51 And we are actua actually making a better profit than we expected . ami_da_4
+A 447.32 The bosses will be very pleased . ami_da_9
+A 450.5 Okay , let is just save this ami_da_7
+A 450.5 so I can e mail it to you . ami_da_7
+A 461.77 Save it in save it in the my documents . ami_da_16
+D 461.94 It is already saved , I think . ami_da_4
+A 480.1 Splendid . ami_da_9
+A 481.9 Okay . ami_da_2
+A 487.6 So , that is done with this with this doodah , ami_da_4
+A 487.6 so you are . ami_da_6
+A 493.05 Gonna do what you were going to do , ami_da_6
+A 493.05 your evaluation . ami_da_4
+D 493.49 Thank you . ami_da_14
+D 501.83 Oh , yeah . ami_da_9
+D 503.05 This is where we all get to ami_da_2
+D 503.05 I get to write on the , oops , on the board . ami_da_7
+D 508.85 Right . ami_da_2
+D 510.64 Oh . ami_da_16
+D 512.53 Is function ami_da_16
+D 512.53 Okay . ami_da_2
+A 514.13 F eight . ami_da_4
+A 522.43 I love the smell of that Play Doh . ami_da_4
+C 525.28 Yeah , ami_da_9
+C 525.28 have some have some . ami_da_6
+A 525.66 I cou . ami_da_3
+D 529.45 Okay . ami_da_2
+D 530.68 So , evaluation . ami_da_4
+D 533.3 We are going to do it all together so we evaluate each criteria . ami_da_4
+D 535.99 I have got the criterias . ami_da_4
+D 537.83 And we have to do it on a scale of one to seven , one being true , ami_da_4
+D 537.83 so it is it is more like it is fits the criteria , and ami_da_4
+D 537.83 seven being as in it does not fit the criteria . ami_da_4
+D 549.18 And the criterias are , ami_da_3
+D 549.18 and I will draw this up on the board ami_da_7
+D 549.18 so we have a box ami_da_4
+D 571.52 And this is false , this is just like to keep you informed . ami_da_4
+D 575.76 So seven is here and one is here and then you have got in the middle . ami_da_4
+D 580.74 So the first criteria . ami_da_4
+D 582.73 Do you all get what we are doing ? ami_da_13
+D 582.73 Okay , cool . ami_da_9
+D 585.5 Okay , first criteria , look and feel . ami_da_4
+D 587.56 So the does remote look and feel fashionable to what we talked about ? ami_da_11
+D 587.56 As it is it colour wise and is it spongy ? ami_da_11
+D 587.56 So what mark should we give for that ? ami_da_11
+D 587.56 As in it is not . ami_da_11
+A 597.38 I would give it a seven . ami_da_9
+C 598.74 Yeah . ami_da_9
+C 601.59 Oh , sorry , one . ami_da_9
+A 602.08 Oh sorry , one , d ami_da_9
+A 602.08 yeah . ami_da_9
+B 602.46 A one . ami_da_9
+D 602.7 A one a one . ami_da_12
+D 604.4 So I will just write criteria criteria one we get one . ami_da_7
+D 611.46 Second criteria , new technology . ami_da_4
+D 614.8 Have we implemented new technology ? ami_da_11
+D 614.8 As in the new high tech ami_da_3
+D 614.8 So it is . ami_da_3
+B 618.88 Well , the kinetic thing , yeah . ami_da_9
+C 620.29 Yeah . ami_da_9
+A 620.58 Yeah . ami_da_9
+C 622.16 That was our main technological innovation w every everything else was fairly simple , but the fact that we used the kinetic energy was new . ami_da_9
+D 627.25 So we will give it a ami_da_3
+D 627.25 Yeah . ami_da_1
+B 628.81 Well so the ami_da_3
+B 628.81 Yeah . ami_da_1
+C 630.63 It is ergonomic , but that is not that is that is a design that is a des that is a design thing , ami_da_9
+C 630.63 yeah . ami_da_9
+A 631.83 Yeah , but that is not a technological thing , that is another thing , i that is another marketing thing . ami_da_9
+B 633.17 Yeah . ami_da_9
+B 634.4 Yeah . ami_da_9
+B 635.05 True . ami_da_9
+A 635.71 So on the technical side of it it Easy to use . ami_da_4
+D 637.7 I would say it is about a a twoish ? ami_da_9
+D 637.7 Two . ami_da_11
+C 638.72 It is about in the mid in the middle somewhere , maybe , yeah , I dunno . ami_da_9
+B 639.18 Two . ami_da_9
+D 641.11 Three . ami_da_11
+B 642.09 Yeah . ami_da_9
+C 642.49 Maybe three , yeah . ami_da_9
+D 644.87 three . ami_da_4
+D 647.43 So criteria three is is it easy to use ? ami_da_11
+D 647.43 I think it is a one , I think . ami_da_9
+A 652.3 I would say it is I would not ami_da_2
+A 652.3 not if you are left handed it is not . ami_da_9
+C 652.52 Yeah . ami_da_1
+A 657.17 I would give it a ami_da_9
+A 657.17 I would give it a two , because i i it ami_da_9
+A 657.17 i it ami_da_9
+A 657.17 i it is more geared for right handed people than left handed people , but ami_da_9
+A 657.17 Yeah . ami_da_1
+D 659.52 Two , ami_da_9
+D 659.52 so it is ami_da_3
+D 659.52 But if we make a right handed and a left handed then ? ami_da_11
+D 659.52 Yeah . ami_da_1
+C 660.94 Okay . ami_da_1
+C 670.13 If we are going to have one left handed and one right handed then I would give it a one , but otherwise otherwise a two . ami_da_9
+B 674.52 Yeah . ami_da_1
+A 675.9 Give it a t give it a two . ami_da_9
+D 677.34 Yeah , okay . ami_da_9
+D 679.4 Okay , criteria four is costs . ami_da_4
+A 682.08 Cost . ami_da_4
+A 683.59 It is come in under budget . ami_da_4
+D 683.68 is great . ami_da_9
+C 685.17 Yeah . ami_da_1
+A 685.18 So that is a definite one . ami_da_9
+C 686.43 That was great . ami_da_9
+D 687.67 Yeah . ami_da_9
+A 691.37 Amount of buttons . ami_da_4
+D 693.16 Like the amount of buttons , ami_da_4
+D 693.16 because people like a lot le like ami_da_3
+D 693.16 So it is a one ? ami_da_11
+D 693.16 criteria six . ami_da_4
+A 694.4 Contains only the necessary buttons . ami_da_9
+A 697.43 Yeah . ami_da_9
+B 697.45 Yeah . ami_da_9
+C 698.04 Yeah . ami_da_9
+D 702.18 RSI is it good against ? ami_da_11
+D 702.18 Yes . ami_da_9
+B 703.82 Yes s yeah . ami_da_9
+A 704.53 So it is anti RSI . ami_da_9
+D 704.58 Very good . ami_da_9
+D 706.08 It is one . ami_da_9
+D 708.42 And criteria seven , which is the last one , ami_da_4
+D 708.42 does it get lost ? ami_da_11
+D 708.42 Is it easy to get lost ? ami_da_11
+D 708.42 No ? ami_da_9
+D 708.42 But it is smallish . ami_da_9
+B 711.33 It is yellow . ami_da_4
+A 712.63 I do not think it is going to get lost easily . ami_da_9
+C 713.51 It is very bright , yeah . ami_da_9
+C 718.01 It is not the kind of thing that is going to slip like between a couch cushion or something , you know . ami_da_9
+B 718.37 Two . ami_da_9
+C 724.0 Maybe it will . ami_da_9
+B 726.52 T ami_da_3
+D 727.36 I think i it would , could be , could get lost . ami_da_9
+C 729.42 You think it could lost ami_da_12
+A 731.35 two . ami_da_9
+D 732.32 Yeah . ami_da_9
+D 733.22 I mean it is not fully ami_da_2
+D 733.22 it is not fully like you ca not say ami_da_2
+D 733.22 I mean , it is not a one , definitely . ami_da_9
+A 733.49 I mean it ami_da_3
+A 733.49 No , ami_da_3
+A 733.49 I mean ami_da_3
+A 733.49 I mean , you could still flush it down the toilet theoretically , but ami_da_9
+A 733.49 Okay . ami_da_9
+C 738.19 Okay . ami_da_1
+C 740.16 Yeah , anything , I mean . ami_da_9
+C 741.05 Okay . ami_da_9
+C 741.34 It is bigger than the average mobile , I guess . ami_da_9
+D 743.97 Yeah . ami_da_9
+C 745.51 But , yeah , it can get lost . ami_da_9
+D 746.92 The mobiles get lost all the time . ami_da_4
+C 748.53 Yeah . ami_da_1
+C 749.45 Okay , yeah , two is fine . ami_da_9
+D 749.99 But then you ring them and you find them . ami_da_4
+C 752.14 Yeah , ami_da_1
+C 752.14 yeah . ami_da_1
+D 754.23 So Yeah . ami_da_4
+D 756.11 So , that is that . ami_da_4
+D 757.71 So that is the evaluation , ami_da_4
+D 757.71 so I would say Yay . ami_da_9
+A 762.29 Alright it is all all systems go . ami_da_9
+D 762.92 It is like like a number one . ami_da_9
+B 763.53 We have , we have done well . ami_da_9
+C 765.11 Yeah . ami_da_1
+D 768.65 Number one product . ami_da_9
+D 771.16 All done , thanks . ami_da_9
+A 772.02 We ca not fail . ami_da_9
+D 772.63 We fitted all the criterias . ami_da_9
+D 777.68 Yeah . ami_da_2
+D 779.76 Yeah , so ami_da_2
+D 779.76 So that is that one . ami_da_16
+A 782.55 Well done , Reissa . ami_da_9
+A 786.63 Okay , I ami_da_9
+A 786.63 I think I just want to put in as Project Manager the you know , little bit of praise for everybody here for how they have worked on it , you know , both individually and as a team . ami_da_9
+A 801.77 You know you have w everyone is come up with their own individual ideas in their own different departments , ami_da_4
+A 801.77 and then come together and worked in , you know , integrally , you know , at the right times , psp , you know , especially you two . ami_da_9
+A 817.96 That is all , you know , gone very very well ami_da_9
+A 817.96 and and ami_da_2
+A 817.96 and be you know , has been good communication going on . ami_da_9
+C 819.41 Yeah . ami_da_1
+C 824.92 Yeah , ami_da_9
+C 824.92 during our design I mean there was some s some heated heated discussion , ami_da_4
+C 824.92 but we we kept we tried to keep it cool and ami_da_9
+C 824.92 and ami_da_9
+C 824.92 just just ami_da_3
+C 824.92 We just had to we just had to squeeze our product a little bit and ami_da_14
+C 824.92 Now you guys have been a a great team . ami_da_9
+A 834.37 Did you have to go down to the the corporate squash court and bash a few balls about ? ami_da_14
+A 834.37 Fantastic . ami_da_9
+B 837.32 Well . ami_da_3
+B 839.54 You know ami_da_16
+B 839.54 It is . ami_da_3
+C 848.19 Think we are the we are the envy of all the of all the other RR teams , . ami_da_14
+D 849.55 been cool . ami_da_9
+A 851.98 I think So ami_da_9
+A 851.98 I ami_da_2
+A 851.98 I , you know , ami_da_2
+A 851.98 and I think we have ami_da_9
+A 851.98 co we have come we have come up with something new , something that has not been done before ami_da_9
+A 851.98 , we have not we are not just rehashing an old design . ami_da_9
+D 861.57 In four diff ami_da_2
+D 861.57 in in four meetings . ami_da_4
+A 864.07 Yeah . ami_da_9
+D 864.64 Funny , all designer meetings could be this quick . ami_da_9
+A 868.02 You know , maybe this is not a simulation , maybe this is actually ami_da_14
+A 868.02 so it is like Sony or someone like that they are ami_da_14
+A 868.02 they are just , ami_da_14
+A 868.02 yeah , they get ami_da_14
+A 868.02 Yeah . ami_da_14
+C 873.13 Yeah I think they are actually trying to find ideas for a ideal remote . ami_da_14
+D 877.48 They are using our ideas . ami_da_14
+A 880.83 Yeah , two years' time this will be on the market . ami_da_14
+A 884.15 Ex exactly that product ami_da_14
+A 884.15 thum ami_da_2
+A 884.15 we will go , yeah , we designed that and no one will believe us . ami_da_14
+A 892.62 But ami_da_2
+A 892.62 No , I think when this meeting is finished like officially , there b we will get a questionnaire to fill in . ami_da_4
+C 895.75 So at this stage , I mean , is this the last meeting of the project ? ami_da_5
+C 895.75 We do not have another one after it is gone gone to marke market or something ? ami_da_5
+C 895.75 So there is no way to like predict what our ami_da_3
+C 895.75 Because we had a ami_da_2
+C 895.75 we originally had a As far as our financial goals , we had a specific number for profits that we wanted . ami_da_4
+D 899.79 Yeah . ami_da_4
+B 904.35 Y ami_da_3
+B 904.35 Oh really ? ami_da_9
+B 904.35 yep . ami_da_9
+A 909.35 Or six , ami_da_14
+A 909.35 I have not got message . ami_da_4
+D 910.64 Just start summarising now . ami_da_6
+D 914.26 You can reply to the same message . ami_da_6
+D 919.22 See summary , there . ami_da_4
+D 920.76 If you just reply to that one . ami_da_4
+C 938.16 It was fifty mil fifty million I do not remember . ami_da_4
+D 940.92 Was it was it fifty or five ? ami_da_5
+D 940.92 Depends how much we sell . ami_da_4
+C 944.06 But there is not a way to compute that , ami_da_4
+C 944.06 I mean , since we saved on the on the production cost , do we know how much we are making on profit ? ami_da_5
+A 951.41 It gets handed over to another department . ami_da_4
+A 954.55 What our what our project was was to come up with the product , basically . ami_da_4
+A 959.7 the for the ami_da_2
+A 959.7 and just basically is it it come can is it within budget . ami_da_4
+A 964.33 When it c when it comes to all the other things of how to sell it and , you know , the b the profits and all that ami_da_4
+A 964.33 that is other departments ami_da_4
+A 964.33 it is another team that actually work out the mai the ami_da_4
+A 964.33 oh yeah , the all the guys in the profit sharing , yeah . ami_da_9
+C 975.63 But we have a vested interest ami_da_9
+C 975.63 prof profit sharing . ami_da_4
+A 987.32 Yeah , that is it . ami_da_9
+A 988.41 You know , we have we have we have made i we have made ami_da_2
+A 988.41 we have designed the product , we have ma ami_da_4
+A 988.41 we have got the prototype , it is within budget , it is does everything that we wanted it to do . ami_da_4
+D 989.59 We finished an hour earlier . ami_da_4
+A 1000.44 It is new , it is it is something that that is not out there already . ami_da_4
+C 1006.63 I think actually and one advantage of of this is that after the , you know , after this fad of fruit and vegetables passes this will still be c a cool remote , you know . ami_da_9
+C 1017.23 We are not we are not you know , tying tying our cart to that one horse . ami_da_4
+A 1022.6 Yeah . ami_da_9
+A 1023.45 Well , this is very marketable in that it is ami_da_9
+A 1023.45 it is it is something that is kind of new and looks a bit quirky for people who want that , ami_da_9
+A 1023.45 it is that it is , ami_da_2
+A 1023.45 hang on , ami_da_16
+A 1023.45 I wrote it down here somewhere ami_da_4
+A 1023.45 Oh no ami_da_4
+A 1023.45 I thi ami_da_4
+A 1023.45 I put it in one of my e mails that I sent off . ami_da_4
+D 1023.9 Definitely . ami_da_1
+A 1041.73 that , you know , it is marketable in the sense that it is whilst all these other remotes actually do give you repetitive strain injury , our one does the complete opposite , you know , ami_da_4
+A 1041.73 so that is something that is new , ami_da_9
+A 1041.73 which is one of the criteria they asked us to come up with something with something new . ami_da_4
+C 1060.32 It make watching TV healthy . ami_da_9
+A 1062.41 Yeah , and if you are not having a good time with the TV , you can f throw it about , you know . ami_da_9
+D 1062.9 Yeah . ami_da_1
+A 1066.84 It is fine , it is kid proof . ami_da_9
+D 1068.23 Just do not sh do not throw it at any of the ornaments and break them . ami_da_9
+A 1072.05 Well , you can break the ornaments , but you wo not break that . ami_da_14
+D 1074.16 No . ami_da_9
+A 1076.74 Yeah . ami_da_9
+A 1080.01 So all in all , I think we have done very well . ami_da_9
+A 1082.87 Well done everybody . ami_da_9
+D 1084.74 Yay . ami_da_14
+C 1084.75 Right , you too . ami_da_9
+A 1086.48 Drinks are on the company . ami_da_4
+B 1088.91 Cool . ami_da_9
+A 1089.51 In the corporate bar that is next to the corporate swimming pool on the top floor that we are that have all just gained access to . ami_da_4
+B 1098.03 Glad to hear that . ami_da_9
+A 1100.72 Yeah . ami_da_2
+A 1104.62 That is it . ami_da_4
+C 1105.3 That is it . ami_da_9
+A 1105.82 Well , as far as I t as far as I know . ami_da_4
+D 1110.08 Yep . ami_da_1
+D 1112.92 We have not got the five minute left thing yet . ami_da_5
+A 1116.07 No . ami_da_4
+A 1117.88 Anyone want to play I spy ? ami_da_14
+A 1117.88 Yeah , I guess . ami_da_9
+C 1122.7 I guess it is probably better that we wrap it up than have five minutes of silence . ami_da_6
+C 1131.94 Should we call the day then ? ami_da_11
+C 1131.94 , right . ami_da_9
+A 1135.22 I mean we are going to get asked to fill out another questionnaire . ami_da_4
+A 1141.89 It is probably going to be the same as one we have done before . ami_da_4
+D 1150.45 In project . ami_da_4
+A 1150.52 But I am not the authority to say that it is . ami_da_4
+A 1157.6 how does everyone feel about the technology that is been used in this ? ami_da_11
+A 1157.6 The sort of using of the the pens and writing on these special pads and all that ? ami_da_11
+A 1157.6 Yeah . ami_da_9
+D 1168.47 I love it . ami_da_9
+D 1169.77 I love it . ami_da_9
+D 1171.77 I think it is cool . ami_da_9
+D 1173.8 Being all wired up and a vibrating pen and it is cool . ami_da_9
+D 1179.58 Being watched . ami_da_9
+D 1182.11 Wow . ami_da_16
+C 1184.34 Your moment to shine . ami_da_14
+A 1193.08 I thi you know , I would I would ami_da_2
+A 1193.08 n ami_da_2
+A 1193.08 yeah , ami_da_2
+A 1193.08 as we said earlier , I have not never seen that before . ami_da_4
+A 1199.63 something that t the whiteboard thingy , ami_da_4
+A 1199.63 that is great . ami_da_9
+B 1202.7 Yeah . ami_da_1
+A 1208.75 , but a p a pen with a camera on it , I do not think it is such a new thing . ami_da_9
+A 1213.74 I mean it is i or in such a new idea . ami_da_9
+A 1217.44 It would be different if it was sort of hand writing recognition stuff , but as it is not ami_da_9
+A 1217.44 it is literally that will come up on a computer screen as a picture file rather than actual text . ami_da_4
+C 1230.1 Right , ami_da_9
+C 1230.1 I think they do want to do hand writing recognition on that , it is just the first step . ami_da_4
+A 1232.02 Yeah . ami_da_1
+A 1232.77 Yeah . ami_da_1
+D 1235.86 Logitech . ami_da_16
+C 1237.41 I guess we should end this , since we are off off topic . ami_da_6
+D 1240.34 Yeah . ami_da_9
+C 1240.77 So . ami_da_6
+C 1242.62 Shall we ami_da_6

@@ -1,0 +1,681 @@
+A 57.11 Okay . ami_da_2
+A 57.51 Everybody found his place again ? ami_da_5
+A 57.51 Yeah ? ami_da_5
+A 57.51 That is nice . ami_da_14
+D 60.55 Yes . ami_da_4
+A 63.7 Okay so ami_da_2
+A 63.7 this is our second meeting . ami_da_4
+A 67.77 And ami_da_2
+A 67.77 still failing ? ami_da_5
+A 67.77 now we are going into the functional design . ami_da_4
+D 71.8 Yeah . ami_da_4
+A 77.26 important thing of this phase is that we are going to try to get an agreement about the user requirements , technical function design , and the working design . ami_da_9
+A 93.12 So that we can move onto the second phase . ami_da_9
+A 97.19 But first this phase . ami_da_6
+A 99.59 first an announcement . ami_da_7
+A 102.73 There is a little adaptation in the air conditioning system . ami_da_4
+A 107.05 So ami_da_2
+A 107.05 There is our ghost mouse again . ami_da_4
+A 112.88 That that means that you can have a little trouble with , little trouble with the air conditioning , ami_da_4
+A 112.88 that is because of this ami_da_3
+A 112.88 It is in wing C and E . ami_da_4
+B 120.38 Okay . ami_da_12
+D 121.11 Okay . ami_da_12
+A 123.39 So ami_da_2
+A 123.39 it should be over in a in a while , couple of days . ami_da_4
+A 128.53 But it is going to be cold anyway , ami_da_4
+A 128.53 so I do not think you are going to need it . ami_da_4
+D 132.84 No . ami_da_9
+A 134.39 Then our agenda . ami_da_4
+A 135.84 Now ami_da_2
+A 135.84 first the opening . ami_da_4
+A 137.47 this time I will take the minutes . ami_da_7
+A 140.36 you are going to have a presentation . ami_da_4
+A 143.75 All of you . ami_da_4
+A 145.02 and we have got forty minutes for the whole prese for the whole presentations . ami_da_4
+A 153.65 So I suggest we take about seven minutes per presentation , ami_da_6
+A 153.65 and then we can have a little discussion about the new project requirements which have been sent to me . ami_da_4
+A 164.39 And then the decision on the control functions which we want to include and those which we do not want to include . ami_da_4
+A 172.91 So ami_da_2
+A 172.91 we have got forty minutes for all of it . ami_da_4
+A 175.11 So ami_da_2
+A 175.11 I suggest let is start with the first presentation . ami_da_6
+D 178.78 Yes . ami_da_9
+A 179.47 who wants to be first ? ami_da_8
+A 179.47 Okay . ami_da_9
+D 182.76 Think I will go first . ami_da_7
+A 185.62 So ami_da_2
+A 185.62 Just maybe it is easier if you ami_da_3
+A 185.62 Yeah ami_da_2
+A 185.62 I think you will tell your presentation as well . ami_da_6
+A 193.37 Just which function you have and what you are going to talk about . ami_da_6
+D 206.59 Okay . ami_da_9
+D 206.85 My name is Freek Van Ponnen . ami_da_4
+D 208.13 I am the Market Expert . ami_da_4
+D 209.65 But you already knew that . ami_da_4
+D 212.1 I have done some research . ami_da_4
+D 214.26 We have we have been doing research in a usability lab where we observed users operating remote controls . ami_da_4
+D 223.02 we let them fill out a questionnaire . ami_da_4
+D 225.56 We had one hundred of these test subjects . ami_da_4
+D 229.36 in addition we did some market research . ami_da_4
+D 232.2 see what the market consists of . ami_da_4
+D 235.26 What ages are involved . ami_da_4
+D 238.9 Well ami_da_2
+D 238.9 these are three quite astonishing results , I thought . ami_da_9
+D 244.6 remotes are being considered ugly . ami_da_4
+D 247.53 F ami_da_3
+D 247.53 seventy five percent of the people questioned indicated that they thought their remote were was ugly . ami_da_4
+D 256.33 and an additional eighty percent indicated that they would spend more money on a fancy looking remote control . ami_da_4
+D 262.85 So ami_da_2
+D 262.85 in addition remotes were not very functional . ami_da_4
+D 267.33 Fifty percent of the people indicated they only loo used about ten percent of the buttons on a remote control . ami_da_4
+D 275.08 And fifty percent of the people indicated that their remote tended to get lost in their room . ami_da_4
+D 280.47 So ami_da_2
+D 280.47 some things . ami_da_16
+D 285.34 Then we did some research to the most relevant functions . ami_da_4
+D 288.94 Channel selection and volume selection both got a ten on a scale of one to ten for relevancy . ami_da_4
+D 296.65 The power button got a nine . ami_da_4
+D 298.67 And teletext got a six and a half . ami_da_4
+D 301.17 So these are the most most important functions on a remote control . ami_da_4
+D 307.0 Then there are some one time use function . ami_da_4
+D 309.28 That is what I like to call them . ami_da_4
+D 310.87 That audio settings , video settings , and channel settings buttons . ami_da_4
+D 315.5 Which are not really used very frequently , but are still considered to be of some importance . ami_da_4
+D 322.1 channel selection was also indicated to be used very frequently . ami_da_4
+D 327.03 One hundred and sixty eight times per hour . ami_da_4
+D 332.14 Then these are the ami_da_3
+D 332.14 This is the market . ami_da_4
+D 335.02 sixty percent of the market consists of users between the ages ami_da_4
+D 335.02 sixteen and forty ami_da_4
+D 335.02 f six . ami_da_4
+D 342.13 Main characteristic of this group is that they are very critical on the remote control . ami_da_4
+D 348.74 they like to use new f new functions . ami_da_4
+D 352.85 But they also are very critical . ami_da_4
+D 354.38 They wo not spend their money very easily . ami_da_4
+D 356.37 So ami_da_2
+D 356.37 the users of forty six to sixty five years cons ami_da_4
+D 356.37 The make up forty percent of the market . ami_da_4
+D 365.24 They are not really very interested in features . ami_da_4
+D 367.31 But they do tend to spend their money a lot easier . ami_da_4
+D 373.83 What I think this indicates for our design . ami_da_6
+D 380.68 I think we should make a remote for the future . ami_da_6
+D 383.36 And this means we would have to focus on the age ages sixteen to forty five . ami_da_6
+D 390.82 this also makes up most the biggest part of the market , so that will also be where our main profit would be gettable . ami_da_4
+D 400.47 this would mean we would have to make a fancy design . ami_da_6
+D 404.85 The results also indicated that about one quarter of the people questioned thought that the remote control caused RS RSI . ami_da_4
+D 417.57 this is certainly something to take into account . ami_da_6
+D 422.17 And thirty four percent thought that it was hard to learn a n how to operate a new control , remote control . ami_da_4
+D 429.21 So these are two factors that I think should be included in the design . ami_da_6
+D 433.79 Besides of course that the remote must look very nice . ami_da_6
+D 438.07 And the functionality As a lot of people indicated , they only use about ten percent of the buttons , ami_da_4
+D 438.07 I think we should make very few buttons . ami_da_6
+D 447.27 this will also be beneficial to the design of the remote . ami_da_9
+D 453.27 I think the most frequently used buttons should be emphasised . ami_da_6
+D 456.7 Especially the channel selection and audio selection buttons . ami_da_6
+D 461.62 Because they are used most ami_da_4
+D 461.62 and so they should be robust . ami_da_6
+D 465.39 They should not break down easily . ami_da_6
+D 469.16 Then as mo as a lot of people indicated that their remote got lost in the room , ami_da_4
+D 469.16 it might be ami_da_3
+D 469.16 and I say might be ami_da_4
+D 469.16 because it would certainly boost the production costs a lot . ami_da_9
+D 486.78 But it might be a good idea to make a docking station . ami_da_6
+D 489.85 And this would , could get a button in it which would send a signal to the remote which would then beep . ami_da_6
+D 496.55 So you would know where it is in the room . ami_da_4
+D 498.9 And in addition to this it could recharge the batteries in the remote if you put it in . ami_da_6
+D 505.71 Then a surprisingly great deal of people w indicated that an LCD screen in the remote control would be preferred . ami_da_4
+D 517.11 This was mostly people in the age of sixteen to twenty five . ami_da_4
+D 524.36 But up till forty five it remains feasible . ami_da_4
+D 528.06 This would also greatly increase the production costs ami_da_9
+D 528.06 but I think these are just some small factors we could consider . ami_da_6
+A 538.03 Okay . ami_da_9
+D 538.59 That would be all . ami_da_4
+A 540.04 Thank you . ami_da_14
+A 541.03 So ami_da_3
+A 541.03 anybody have any questions until now ? ami_da_5
+A 541.03 About functional requirements ? ami_da_5
+A 541.03 Okay ami_da_12
+A 541.03 that is clear . ami_da_9
+D 544.2 Any questions ? ami_da_5
+D 544.2 Okay . ami_da_12
+C 547.87 No . ami_da_4
+A 550.67 Now to the second . ami_da_6
+B 560.28 okay . ami_da_2
+B 561.39 I have been looking at the user interface of it . ami_da_4
+A 567.51 Yeah . ami_da_1
+B 567.75 f for the techno f functions of of it . ami_da_4
+B 571.18 Okay . ami_da_16
+A 574.62 Yeah ami_da_2
+A 574.62 you can take your time . ami_da_6
+A 575.71 We have got plenty of time , ami_da_4
+A 575.71 so ami_da_3
+A 575.71 Yeah . ami_da_9
+B 576.96 Oh . ami_da_12
+D 577.42 Yeah ami_da_2
+D 577.42 you should go to the top thingy . ami_da_6
+D 580.5 Slide show . ami_da_6
+D 581.5 Oh yeah . ami_da_9
+B 581.65 Okay . ami_da_9
+A 582.3 There it is . ami_da_9
+A 583.19 Yeah . ami_da_9
+B 584.44 yeah . ami_da_2
+B 586.58 I think we must use the general functions of the remote control . ami_da_6
+B 592.15 I have do I have done a little research on the internet and not much information about it , about interface ami_da_4
+B 592.15 but Yeah ami_da_2
+B 592.15 I I have been thinking about a simple manner to put a lot of functions in one in one remote control . ami_da_4
+B 621.13 so you have got a lot of devi devices like DVD television , stereo . ami_da_4
+B 628.44 So ami_da_2
+B 628.44 But it must be user friendly . ami_da_4
+B 633.18 So ami_da_2
+B 633.18 you c you ca not put a a lot of functions in one ami_da_6
+B 633.18 Yeah . ami_da_6
+B 640.42 Yeah . ami_da_6
+B 643.53 In one remote control . ami_da_6
+A 645.36 One remote . ami_da_4
+B 645.88 But Yeah . ami_da_2
+B 651.28 yeah . ami_da_2
+B 654.8 Got many functions in one remote control , ami_da_4
+B 654.8 but yeah ami_da_2
+B 654.8 you can see , this is quite simple remote control . ami_da_4
+B 663.54 few buttons but ami_da_4
+B 663.54 This re remote control got a a lot of buttons . ami_da_4
+B 670.14 people do not like it , ami_da_4
+B 670.14 so Well ami_da_2
+B 670.14 what I was thinking about was keep the general functions like they are . ami_da_6
+B 683.47 So ami_da_2
+B 683.47 like the on off button . ami_da_6
+B 686.65 keep it ami_da_6
+B 686.65 yeah ami_da_6
+B 686.65 l like a red button . ami_da_6
+B 689.74 everybody everybody knows it ami_da_4
+B 689.74 so you do not have to change that . ami_da_6
+B 695.96 My personal preferences . ami_da_4
+B 701.83 Use a display for specific functions of the different device . ami_da_6
+B 707.06 So ami_da_2
+B 707.06 Wh what I was th thinking about was ami_da_4
+B 707.06 you have got this the remote control ami_da_4
+B 707.06 and you got here the general functions , like the on off button sound ami_da_6
+B 707.06 I dunno ami_da_6
+B 707.06 And here you have got a s kind of a display . ami_da_6
+B 742.76 It is a touchscreen . ami_da_6
+B 744.38 So yeah ami_da_2
+B 744.38 you got a general ami_da_6
+B 744.38 f f the functions of the device for a DVD player or so the pl ami_da_6
+B 744.38 yeah ami_da_6
+B 744.38 f for playing reverse . ami_da_6
+B 759.19 And you got here real buttons for selecting a device . ami_da_6
+B 765.86 So ami_da_2
+B 765.86 this button is for a DVD ami_da_6
+B 765.86 or ami_da_3
+B 765.86 So ami_da_2
+B 765.86 for every device you have got a a f a b a part display of a part buttons . ami_da_4
+B 780.34 So ami_da_2
+B 780.34 you you never got all the buttons on w one device . ami_da_4
+B 786.21 So ami_da_2
+B 786.21 that is my idea about it . ami_da_4
+A 790.17 Okay . ami_da_12
+B 790.45 yeah and let is see . ami_da_2
+B 797.06 yeah . ami_da_2
+B 798.09 So ami_da_2
+B 798.09 a touchscreen . ami_da_6
+B 799.45 and th the buttons the real buttons we have to use . ami_da_4
+B 803.95 We better c use quite large buttons ami_da_6
+B 803.95 for ami_da_3
+B 803.95 yeah . ami_da_2
+B 809.94 Everybody have to use it so ol even even old people young people . ami_da_4
+B 816.64 So ami_da_2
+B 816.64 we must keep buttons quite s simple and quite large . ami_da_6
+B 822.68 So Yeah . ami_da_2
+A 823.58 Yeah . ami_da_1
+B 828.33 yeah . ami_da_2
+B 830.42 That was my part of it . ami_da_4
+A 831.72 Okay . ami_da_12
+B 832.37 So ami_da_3
+B 832.37 N I ami_da_9
+B 832.37 I do not think so . ami_da_9
+A 833.06 Anybody has questions about the technical functions ? ami_da_5
+A 833.06 Yeah . ami_da_9
+C 836.31 Well ami_da_2
+C 836.31 I think if we are going to use a touchscreen we are going to go way above the twelve and a half Euros . ami_da_9
+B 844.27 you got quite a cheap touchscreen . ami_da_6
+A 847.05 Touchscreen . ami_da_4
+B 847.51 S it is not in colour or something . ami_da_6
+B 850.69 it is just one colo ami_da_3
+B 850.69 yeah . ami_da_9
+B 857.68 I seen w something on the internet not today but a few weeks ago . ami_da_4
+B 866.83 you got ami_da_4
+B 866.83 yeah ami_da_4
+B 866.83 quite an a kind of touchscreen ami_da_4
+B 866.83 and it is for twenty Euros or less . ami_da_4
+A 882.6 Huh . ami_da_1
+B 882.87 So it is possible . ami_da_4
+A 884.94 Okay . ami_da_9
+A 885.39 That is nice . ami_da_9
+D 886.27 Well ami_da_2
+D 886.27 it would certainly make a fancy design . ami_da_9
+A 886.54 Yeah . ami_da_1
+B 888.56 Yeah . ami_da_9
+C 889.68 But the It would not be very robust . ami_da_9
+D 889.9 So ami_da_2
+D 889.9 That is true . ami_da_9
+C 892.66 It is very fragile and you can get scratches on it . ami_da_9
+A 896.05 That is right . ami_da_9
+B 896.62 Yeah that is true . ami_da_9
+D 897.09 We would have to look into that . ami_da_6
+A 897.27 maybe we can first listen to your presentation ? ami_da_11
+A 897.27 And then we have a little discussion about the requirements and design . ami_da_6
+D 901.66 Yeah . ami_da_9
+C 901.68 That is . ami_da_9
+C 904.92 Okay . ami_da_9
+A 920.01 I think it is going to ami_da_3
+A 920.01 it is not too much . ami_da_9
+A 923.51 Okay . ami_da_9
+C 923.73 Okay ami_da_2
+C 923.73 I have got a presentation about the working design . ami_da_7
+C 927.77 first about how it works . ami_da_7
+C 930.03 It is really simple of course . ami_da_4
+C 930.99 Everybody knows how a remote works . ami_da_4
+C 932.85 The user presses a button . ami_da_4
+C 934.68 The remote determines what button it is , uses the infrared to send a signal to the TV . ami_da_4
+C 939.99 The TV switches to the frequency , or what function it is . ami_da_4
+C 944.22 So ami_da_2
+C 944.22 we have got the the plate . ami_da_4
+C 948.11 It gots conductive disks for every button . ami_da_4
+C 952.06 When the user presses a button , a signal got sent , goes to the LED and transmits tranmi transmits its to the TV . ami_da_4
+C 960.05 It is a very simple device , technically speaking . ami_da_4
+C 963.4 So ami_da_2
+C 963.4 this is a schematic overview . ami_da_4
+C 966.14 You have got the buttons . ami_da_4
+C 968.02 The power source . ami_da_4
+C 970.17 And when a button gets pressed , its goes to the chip . ami_da_4
+C 974.68 The chip controls the infrared bulb and perf perhaps a normal bulb . ami_da_4
+C 980.59 When you press a button you can actually see your pressed button . ami_da_4
+C 985.58 Well ami_da_2
+C 985.58 I think we should use default materials , simple plastics . ami_da_6
+C 990.94 Keep the inner workings simple , ami_da_6
+C 990.94 so it is robust . ami_da_4
+C 994.41 I think we should focus on aesthetics , the design and the user interface , ami_da_6
+C 994.41 because if you are going to use high tech materials the price is going to go sky high . ami_da_9
+C 1004.88 And you only have to design a remote once , and if you use high tech materials it come back in every product . ami_da_4
+C 1012.08 So ami_da_2
+C 1012.08 it is , in my idea , it is it is going to be smart to invest in di in design and not in in the product itself . ami_da_9
+C 1021.92 That is it . ami_da_4
+A 1023.16 Okay . ami_da_12
+A 1023.58 Thank you . ami_da_14
+A 1031.07 Okay . ami_da_2
+A 1038.37 Okay ami_da_2
+A 1038.37 now I hope everybody has a little bit more insight in the functions we all have and what we are doing right now . ami_da_4
+A 1049.26 I am the Project Manager ami_da_4
+A 1049.26 so I am here to mess things up and tell you some new requirements . ami_da_7
+A 1058.24 that is , ami_da_3
+A 1058.24 we have got to design a remote which is only suitable for TV . ami_da_4
+A 1067.39 that is because it will be too complex and the time to market will be too big , if we want to have it for more functions . ami_da_9
+B 1068.8 Okay . ami_da_1
+A 1078.78 So it has to be simple . ami_da_4
+A 1080.96 another point is we have to skip the teletext , because in the world of upcoming internet we think teletext is going to be a thing of the past . ami_da_4
+A 1096.01 And it is a function we do not need in our remote control . ami_da_4
+A 1101.83 internet is also mentioned in a function we can use . ami_da_6
+A 1107.39 maybe also on televisions it will be available as well . ami_da_4
+A 1111.83 Another one is the customer is forty plus . ami_da_4
+A 1116.72 that is the the market we have to to to target , because we are going to develop a new product which is specially designed for the younger customers . ami_da_4
+A 1126.66 this is a bit pity for the Marketing Expert . ami_da_14
+A 1132.57 Because he was aiming on the the younger persons . ami_da_4
+A 1136.82 So we have to find a market which is above forty plus but which will suit our remote control , and the other way round . ami_da_4
+A 1146.48 And we have to be very attent in putting the corporate image in our product . ami_da_4
+A 1154.49 So it has to be visible in our design , in the way our device works . ami_da_4
+A 1160.26 And we have to be very clear on this point as well . ami_da_4
+A 1165.72 So ami_da_2
+A 1165.72 I suggest let is have a discussion on the control functions . ami_da_6
+A 1173.66 Yeah . ami_da_16
+D 1174.94 So ami_da_2
+D 1174.94 is there any discussion possible about the new product requirement ? ami_da_5
+D 1174.94 Yeah ami_da_2
+D 1174.94 because you are you are saying that teletext is going to be an old feature and it is not going to be used anymore anyway pretty soon . ami_da_4
+A 1178.98 we can see if we can find a way between the functions we want to use and the market we want to reach with our product . ami_da_6
+A 1189.25 Against the no teletext ? ami_da_12
+A 1189.25 Yeah ami_da_2
+A 1189.25 it is it is ami_da_3
+A 1189.25 Standard remote . ami_da_4
+D 1198.96 And new TVs will have internet access on them . ami_da_4
+D 1201.97 But I think if you are targeting people of forty plus , the chance that they will have a TV with internet access within the next like twenty years is very slim . ami_da_4
+D 1214.14 In addition people indicated that teletext simply was an important feature for the remote control . ami_da_4
+B 1214.21 Yeah . ami_da_1
+D 1221.33 So I think it is pretty dumb to put no teletext feature on it . ami_da_9
+D 1227.37 I am pretty much against it . ami_da_9
+D 1230.95 Yes . ami_da_4
+D 1235.33 Besides that , I think the market for forty plus is like pretty small . ami_da_9
+D 1243.2 But I mean if I s if I see this , it is I think we are just going to go for another pretty and not innovative remote control . ami_da_4
+B 1245.2 forty ami_da_3
+B 1245.2 Yeah . ami_da_1
+A 1252.41 No ami_da_9
+A 1252.41 I think we can ami_da_3
+A 1252.41 I think we can do a lot with the design and the simple buttons ami_da_6
+A 1252.41 which were also mentioned . ami_da_4
+A 1262.38 if we put a lot of effort in those , we can make a remote control with just two or three buttons . ami_da_6
+A 1269.7 Or just a remote which is suitable for the market we want to reach ami_da_6
+A 1269.7 because it is forty percent of the market . ami_da_4
+A 1276.61 And ami_da_2
+A 1276.61 if you look in Holland at the whole generation of forty plus , fifty plus , it it is the the biggest share of the of the whole population now . ami_da_4
+D 1291.04 Yes ami_da_9
+D 1291.04 but it is not the biggest part of the market . ami_da_4
+A 1295.49 No . ami_da_9
+D 1295.58 And besides that , they are not very critical ami_da_4
+D 1295.58 so ami_da_3
+D 1295.58 I mean they do not really care what the remote control is like . ami_da_4
+D 1303.15 They will just pretty much take the first thing they see and which looks acceptable . ami_da_4
+A 1308.73 But do not you think that if we make a remote which is typically made for this market , that people think the people think that is the the device I have looked for although I did not realise it . ami_da_11
+A 1324.56 So ami_da_2
+A 1324.56 let is try it . ami_da_6
+D 1326.95 No . ami_da_9
+D 1328.22 I think that would be the case in the sixteen to forty five age category . ami_da_4
+D 1336.26 because they are critical and ami_da_4
+D 1336.26 they they want to have a fancy remote control . ami_da_4
+B 1340.71 Yeah . ami_da_1
+D 1341.96 People of forty plus , I mean they want it to work , but as soo as soon as it works it is okay with them . ami_da_4
+A 1351.65 Yeah . ami_da_1
+C 1352.77 I think that if we are If we put our marketing right we can sell this just like I do not know if you have heard about it in the news , the the elderly mobile phone ? ami_da_6
+C 1352.77 Yeah ami_da_2
+C 1352.77 if we if we make a remote control just l with that idea in mind , we could make tons of money , I think . ami_da_9
+D 1353.21 So ami_da_2
+D 1353.21 I have not heard of it . ami_da_4
+A 1362.98 Yeah . ami_da_4
+A 1363.53 It is a big success . ami_da_4
+A 1365.52 Very big success . ami_da_4
+A 1367.31 Yeah . ami_da_1
+C 1372.49 We do not have to focus on on on the on the design then but on functionality . ami_da_6
+A 1372.51 I think so as well . ami_da_9
+C 1378.72 We just change our focus on the project , ami_da_6
+C 1378.72 and I think we can we can sell this . ami_da_9
+A 1387.22 I simply think that the new products we are going to make , spef specifically design , are designed for younger people , ami_da_4
+A 1387.22 so maybe we can focus ourself on the elderly people . ami_da_6
+A 1408.6 And I think we have to see what requirements we need for those remote controls . ami_da_6
+A 1419.18 Because what you told is the channel selection is important . ami_da_4
+D 1423.96 Yes . ami_da_9
+A 1424.19 Volume selection , power and teletext . ami_da_4
+D 1427.46 Yes . ami_da_9
+A 1428.09 Okay . ami_da_2
+B 1428.59 Yeah . ami_da_9
+A 1429.49 No ami_da_9
+A 1429.49 we we have not voted yet , ami_da_4
+A 1429.49 so ami_da_3
+A 1429.49 I think teletext can be can be a function as well . ami_da_6
+D 1430.35 But obviously the board tends to disagree . ami_da_4
+A 1445.87 But only if if it wo not higher the the cost , ami_da_6
+A 1445.87 because I do not know if it will be a lot more money to implement teletext as well , but I do not think it will be a problem . ami_da_4
+A 1458.56 Or is teletext a ami_da_3
+A 1458.56 Yeah . ami_da_1
+B 1459.03 But deaf people need teletext for for subtitles . ami_da_4
+D 1463.51 Yeah , also . ami_da_9
+B 1463.95 So it is ami_da_3
+B 1463.95 Yeah . ami_da_9
+A 1465.48 Yeah . ami_da_9
+A 1465.97 So ami_da_2
+A 1465.97 I suggest ami_da_3
+A 1465.97 Yeah . ami_da_12
+D 1466.64 I think it would definitely be a bad idea not to include teletext . ami_da_9
+B 1467.47 It is ami_da_3
+A 1470.57 Is anybody really against teletext ? ami_da_11
+A 1470.57 No ? ami_da_12
+A 1470.57 Just that , that we just keep the teletext . ami_da_4
+C 1474.4 No . ami_da_9
+A 1481.67 I think that is a good idea as well , especially for the subtitles . ami_da_9
+A 1486.8 Maybe we can make that another point of advantage in our remote control , if we make a k a button ex for example for big subtitles , which is instantly on the remote control . ami_da_6
+B 1505.85 Yeah yeah . ami_da_1
+A 1505.87 For elderly people they can think , oh I want to have subtitles , and they push the button and they get the big subtitles . ami_da_4
+C 1512.2 that is a good idea . ami_da_9
+B 1512.45 Yeah . ami_da_9
+B 1513.22 Yeah . ami_da_9
+A 1514.02 so ami_da_2
+A 1514.02 I think teletext can v can be very useful in our advantage . ami_da_9
+A 1520.64 Functionality should be few buttons , you said . ami_da_4
+D 1527.62 Yes . ami_da_9
+A 1528.29 I think that is very important we have a few buttons . ami_da_9
+B 1528.52 Yeah . ami_da_1
+A 1535.32 So to keep it simple . ami_da_4
+D 1535.95 But I do not think that is really an issue any more ami_da_9
+D 1535.95 because ami_da_3
+D 1535.95 Well ami_da_2
+D 1535.95 might be . ami_da_9
+B 1543.91 If it is only for televi ami_da_3
+B 1543.91 Yeah . ami_da_1
+D 1544.17 But I mean it , if it is only for TV you are not going to need a lot of buttons anyway . ami_da_4
+B 1547.15 Yeah . ami_da_1
+D 1548.58 You need a one to zero button , next channel , previous channel , volume up , volume down , and some teletext buttons ami_da_4
+D 1548.58 but I think if you if you only l ami_da_3
+D 1548.58 Nah . ami_da_9
+A 1548.69 No . ami_da_9
+B 1551.76 Yeah . ami_da_1
+A 1559.52 Yeah . ami_da_1
+A 1562.0 But do you need ami_da_3
+A 1562.0 But do you need the buttons for one to zero . ami_da_5
+B 1562.51 So we can s we can skip the display , ami_da_6
+B 1562.51 so we do not need it . ami_da_4
+A 1572.19 Maybe c we can Maybe we can use ami_da_3
+A 1572.19 No , ami_da_9
+A 1572.19 maybe we can implement the scroll button ? ami_da_11
+A 1572.19 Or a joystick like ? ami_da_11
+A 1572.19 There are other ways too . ami_da_4
+B 1572.47 Yeah . ami_da_1
+D 1572.58 Think if you are going to include teletext you do . ami_da_4
+D 1575.08 I think many people like to use that . ami_da_4
+D 1577.4 Because if you should , if you want to switch from channel one to like thirty five , you do not want to push the next channel button thirty five times . ami_da_4
+B 1584.22 Yeah . ami_da_1
+A 1594.5 Just look if you look at telephones . ami_da_4
+B 1595.7 Yeah . ami_da_1
+A 1596.49 The Sony telephone has a scroll button which is very useful in searching names or ami_da_4
+A 1596.49 That is right . ami_da_9
+B 1600.07 Yeah . ami_da_1
+D 1603.26 That is true ami_da_9
+D 1603.26 but I do not think there are many TVs that can switch channels that fast . ami_da_4
+D 1610.89 And so you would need like the TV would need an a function where you can actually view all channels and scroll through it . ami_da_4
+D 1620.25 And I dunno if many channels would do have that . ami_da_4
+D 1625.08 If many TVs have that . ami_da_4
+C 1626.06 Yeah . ami_da_9
+C 1626.93 And besides that it is ami_da_3
+C 1626.93 If we are going to focus on elderly people they will have to adapt . ami_da_4
+C 1632.75 They are not used to using scroll buttons . ami_da_4
+C 1635.48 So perhaps we should s stick to the basic layout . ami_da_6
+A 1640.74 the numbers ami_da_12
+A 1640.74 yeah . ami_da_12
+A 1642.36 Yeah ami_da_2
+A 1642.36 they can see how much buttons there are going to be on on the display , and if it is too much we can reconsider it . ami_da_6
+A 1650.76 But I think there wo not be very much buttons . ami_da_4
+B 1651.31 Yeah . ami_da_9
+A 1653.28 Or there do not have to be a lot . ami_da_4
+D 1654.01 But I do not think I think if you are going to make a remote control only to operate a TV , you there is not much you can gain on having as few buttons as possible . ami_da_9
+D 1664.97 Because I think there are pretty many remote controls that can only operate a TV , which already only have the minimum number of buttons . ami_da_4
+D 1673.13 I do not think there is much to be gained in that area . ami_da_9
+A 1676.18 The number of buttons ? ami_da_5
+A 1676.18 I think it is very important in the in the design . ami_da_9
+D 1677.79 Yeah . ami_da_4
+A 1681.93 You can make a very fancy design with putting the buttons on the right places . ami_da_4
+A 1687.63 And if you have less buttons you can do a lot more with ami_da_3
+A 1687.63 To operate only the TV ami_da_12
+A 1687.63 yeah . ami_da_12
+D 1691.61 That is true but I think there is simply not much to gain on the competition when you when you are making a remote control only for to operate only the TV . ami_da_9
+D 1702.17 Because if you have a a remote control only to operate a TV there is simply not a lot of buttons required . ami_da_4
+D 1710.06 There is not a lot of functions required so most existing remote controls simply do not have a lot of buttons either . ami_da_4
+A 1715.8 No . ami_da_9
+B 1716.14 No . ami_da_9
+A 1717.28 So . ami_da_2
+D 1717.66 So ami_da_2
+D 1717.66 I think it would be very hard to actually gain on the competition here . ami_da_9
+A 1722.53 Okay . ami_da_12
+A 1722.85 So ami_da_2
+A 1722.85 we can ami_da_3
+A 1722.85 Yeah . ami_da_9
+D 1723.04 That would that would cost a a big marketing expedition which was one of the arguments to make it only for the TV because we did not have the time to market a lot . ami_da_4
+A 1729.82 That is right . ami_da_9
+A 1737.0 Yeah . ami_da_9
+A 1738.0 So ami_da_2
+A 1738.0 you suggest we could better focus on for example the docking station . ami_da_11
+A 1745.7 like other functions . ami_da_11
+A 1749.59 Instead of f of less buttons . ami_da_11
+D 1749.74 Maybe . ami_da_9
+D 1752.79 Well yeah ami_da_2
+D 1752.79 I think , mean we obviously need a good way to position all the buttons ami_da_9
+D 1752.79 and ami_da_3
+D 1752.79 But I do not think we should spend very much time in that . ami_da_6
+A 1763.06 No . ami_da_12
+A 1764.56 Do you think the docking station will is allowed in the budget we have ? ami_da_5
+A 1764.56 Because it can be ami_da_3
+A 1764.56 No . ami_da_1
+C 1772.61 It should be possible yes . ami_da_4
+C 1774.26 If it is not too fancy . ami_da_4
+B 1774.35 No . ami_da_1
+C 1776.04 And if the remote stays rather small , it should be possible ami_da_4
+C 1776.04 yeah . ami_da_9
+A 1778.99 Yeah . ami_da_2
+B 1779.4 No . ami_da_1
+A 1779.91 Because I think that is ami_da_3
+A 1779.91 That is a good advantage point as well . ami_da_9
+A 1784.56 If we have a fancy looking docking station ami_da_9
+A 1784.56 or very ami_da_3
+A 1784.56 That is a nice requirement . ami_da_9
+C 1785.69 Yes . ami_da_9
+A 1794.83 Docking station . ami_da_16
+C 1797.0 So ami_da_2
+C 1797.0 we are just going to focus on the extras ? ami_da_11
+C 1797.0 Yeah . ami_da_12
+A 1800.46 I think so . ami_da_9
+D 1801.92 Yeah ami_da_2
+D 1801.92 I think maybe we should do some research into what elderly people like to have in a like to have extra in a new remote control . ami_da_6
+A 1808.23 Yeah . ami_da_9
+A 1811.17 That is a good point . ami_da_9
+A 1812.59 You said they easily get lost as well . ami_da_4
+D 1820.0 Yes ami_da_9
+D 1820.0 well ami_da_2
+D 1820.0 fifty percent of the people indicated that remote control tended to get lost . ami_da_4
+A 1822.91 Yeah . ami_da_9
+A 1824.57 So maybe we should implement the audio sign , or something . ami_da_6
+D 1829.65 Yeah ami_da_9
+D 1829.65 that was what I suggested . ami_da_4
+A 1831.03 Yeah . ami_da_1
+C 1831.58 Like with your key chain , if you whistle it goes it makes a sound . ami_da_4
+D 1831.88 You have it on ami_da_3
+D 1831.88 Yeah ami_da_9
+D 1831.88 you have it is on some phones too , which have a docking station . ami_da_4
+A 1832.88 Yeah . ami_da_9
+B 1834.41 Hm . ami_da_1
+C 1839.11 Yeah . ami_da_1
+D 1839.19 And you just press a button and the phone goes ringing . ami_da_4
+A 1842.67 Yeah . ami_da_2
+A 1843.23 So ami_da_2
+A 1843.23 audio signal should be possible as well . ami_da_9
+D 1843.28 So you know where it is . ami_da_4
+A 1847.06 I think it is not too expensive . ami_da_4
+B 1848.31 No . ami_da_9
+A 1851.26 another point is the LCD screen . ami_da_11
+A 1859.2 I do not know if that will rise the cost too much , ami_da_9
+A 1859.2 because ami_da_3
+A 1859.2 Yeah . ami_da_9
+C 1865.23 Y i ami_da_3
+C 1865.23 I think we will have to choose between the docking station or the screen , ami_da_4
+C 1865.23 because it is ami_da_3
+C 1865.23 Well ami_da_2
+C 1865.23 I do not think they have different television sets in every country . ami_da_4
+A 1871.66 It will be too much as well . ami_da_9
+D 1873.15 I think since a lot of people indicated that a new remote control is hard to learn , and we are focusing on elderly people here which tend to have a hard time understanding new devices , ami_da_4
+D 1873.15 it might be a good idea to have just a little screen on it , which would explain a button if you press it . ami_da_6
+D 1889.28 Which would tell you what it does . ami_da_6
+A 1892.2 Yeah . ami_da_1
+D 1893.11 And it would not have to be touchscreen or a very expensive screen , ami_da_6
+D 1893.11 but ami_da_3
+D 1893.11 Just a small screen ami_da_4
+D 1893.11 with two ami_da_3
+D 1893.11 Yeah . ami_da_4
+A 1895.66 Based . ami_da_4
+B 1895.96 Okay . ami_da_9
+B 1897.09 Yeah . ami_da_9
+A 1898.96 Just the LCD . ami_da_5
+A 1900.15 Oh just the normal screen . ami_da_5
+A 1903.17 That is a good idea . ami_da_9
+A 1904.17 So ami_da_3
+A 1904.17 Some extra info . ami_da_5
+A 1906.79 Feedback . ami_da_5
+A 1908.98 Yeah . ami_da_9
+B 1909.01 Yeah . ami_da_1
+A 1909.39 I think that is a good idea as well . ami_da_9
+D 1911.51 But I dunno if that would that would fit into the costs . ami_da_9
+A 1914.64 As the small screen . ami_da_16
+A 1924.27 Extra button info . ami_da_16
+A 1929.41 I think that should be possible as well . ami_da_9
+A 1932.7 let is see what did we say . ami_da_5
+A 1938.0 More . ami_da_5
+A 1938.69 Should be fancy to , fancy design , easy to learn . ami_da_4
+A 1942.33 Few buttons , we talked about that . ami_da_4
+A 1944.69 Docking station , LCD . ami_da_4
+A 1947.68 general functions ami_da_4
+A 1947.68 Yeah . ami_da_2
+A 1956.04 Okay . ami_da_2
+A 1960.37 And default materials . ami_da_9
+A 1964.52 I think that is a good idea as well , ami_da_9
+A 1964.52 because elderly people do not mind if it is a titanium cover or just a plastic one . ami_da_4
+A 1974.89 So that does not really matter . ami_da_9
+D 1975.2 No . ami_da_9
+A 1976.88 So ami_da_2
+A 1976.88 I think we nee ami_da_3
+A 1976.88 let is specify the target group . ami_da_6
+D 1978.99 I think probably elderly people would be a little bit more careful with their remote controls than youngsters . ami_da_4
+A 1993.16 Because are we talking about elderly elderly people or people from forty to eighty . ami_da_5
+A 1999.66 Because I think what we are going to design now is for people above sixty , maybe . ami_da_4
+D 2009.37 Yeah . ami_da_12
+B 2009.54 Yeah . ami_da_12
+A 2010.43 what do we want ? ami_da_8
+A 2010.43 If we want a with for example the the telephone for elderly people , we can target the real elderly people . ami_da_6
+D 2011.08 I think I think that would be a ami_da_3
+D 2011.08 If we should do something like that it would be a , I think it would be really good for for the image of the company . ami_da_9
+A 2033.23 Yeah . ami_da_1
+D 2033.79 And I think , I think there would be a good market for it . ami_da_9
+A 2038.01 So ami_da_2
+A 2038.01 that is the ami_da_3
+A 2038.01 Now you are talking about sixty to eighty for example . ami_da_5
+D 2038.5 If we are able to really bring an innovative product . ami_da_9
+D 2045.1 Yeah the really ami_da_4
+D 2045.1 But I would have to look into that a little more . ami_da_6
+A 2046.81 Yeah . ami_da_12
+A 2048.72 Sixty . ami_da_16
+A 2052.34 Okay . ami_da_9
+A 2053.44 And different cultures . ami_da_8
+A 2056.42 Are we ami_da_8
+A 2056.42 Okay . ami_da_1
+A 2064.19 No . ami_da_9
+B 2064.8 No . ami_da_9
+C 2065.47 Because ami_da_3
+C 2065.47 Yeah . ami_da_9
+A 2067.61 We have got five minutes left just now . ami_da_4
+B 2068.43 So ami_da_2
+B 2068.43 Okay . ami_da_12
+D 2069.67 Okay . ami_da_12
+A 2070.08 Small warning . ami_da_4
+D 2070.58 And with the little screen in it , which explains the buttons . ami_da_9
+A 2075.16 Should ami_da_3
+A 2075.16 Yeah . ami_da_9
+D 2075.17 You could I think we n it would be a lot easier to adapt it to different cultures . ami_da_9
+A 2082.09 In different languages , you know . ami_da_4
+D 2083.18 Yeah . ami_da_9
+A 2083.6 Yeah . ami_da_9
+B 2083.9 Yeah . ami_da_9
+A 2085.22 or you have to put a language button in it , ami_da_6
+A 2085.22 but that will be a bit unnecessary I think . ami_da_9
+B 2086.12 Right . ami_da_1
+B 2089.03 No . ami_da_9
+B 2089.85 Yeah . ami_da_9
+D 2090.25 Yeah . ami_da_9
+A 2090.85 It is better to put it on different markets with it all . ami_da_6
+B 2093.64 Yeah . ami_da_9
+A 2094.64 Okay . ami_da_2
+A 2095.98 So ami_da_2
+A 2095.98 that is the the target . ami_da_4
+A 2098.8 then a few small things . ami_da_6
+A 2105.96 okay . ami_da_2
+A 2108.08 I will put the minutes in the project project document folder . ami_da_4
+A 2112.26 what we are going to do for the next meeting is the Industrial Designer will do the components concept , User Interface Designer the user interface concept , and the trend watching . ami_da_4
+A 2124.58 So ami_da_2
+A 2124.58 just keep in mind the things we have said about the target group , requirements , and the trends which are going on . ami_da_6
+A 2134.93 And specific instructions will be sent to you by the personal coach . ami_da_4
+D 2140.48 Okay . ami_da_1
+A 2140.81 So ami_da_2
+A 2140.81 I thank you for this meeting . ami_da_14
+A 2143.85 And I think we have a lunch break now . ami_da_6
+A 2147.94 So ami_da_2

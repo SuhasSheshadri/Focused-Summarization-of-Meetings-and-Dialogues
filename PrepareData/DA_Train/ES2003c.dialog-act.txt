@@ -1,0 +1,688 @@
+B 11.81 Alright , yeah . ami_da_9
+B 13.27 crack on . ami_da_6
+B 14.5 Okay so ami_da_2
+B 14.5 we will start off with a quick overview of the minutes . ami_da_4
+B 19.96 I think to sum up the last meeting , would be to say the requirements that we have set out . ami_da_7
+B 27.18 Those are we were going to go for what seemed to be a fairly minimal design based on a small joystick , LCD and a couple of other buttons for navigation with power being I suppose one of the main single purpose buttons . ami_da_4
+B 48.01 we were also going to use novelty of being able to locate the remote control again via a small transmitter with any luck , the idea to try and separate us and also because of the minimal design looks like we will be able to be fairly adventurous in the actual physical shape of our remote control with any luck . ami_da_4
+B 68.33 that pretty much sums up the last one . ami_da_4
+B 72.06 So ami_da_2
+B 72.06 we will just crack on , like to maybe start with the Industrial Designer if it is possible . ami_da_6
+D 79.67 okay . ami_da_9
+B 79.76 the con today is the concep today . ami_da_3
+D 81.28 I will just ami_da_3
+D 81.28 I have a presentation I just saved it in the the folder . ami_da_4
+B 84.2 This meeting is the conceptual design phase ami_da_4
+B 84.2 and is ami_da_3
+B 84.2 Sorry about this . ami_da_14
+B 95.87 And is to cover things like what the parts might be made of , , can we outsource these from elsewhere , will we have to construct any items ourselves ? ami_da_8
+B 95.87 Yeah , okay ami_da_9
+B 95.87 well ami_da_2
+B 95.87 I will just I will load it up then . ami_da_7
+B 118.79 Which one do y ami_da_3
+B 118.79 Oh , ami_da_2
+B 118.79 interface concept ? ami_da_5
+B 118.79 That is you . ami_da_12
+A 123.29 Yeah , that is me . ami_da_4
+B 124.89 We have got trend watching , that is you . ami_da_4
+D 125.66 It is ami_da_3
+D 125.66 Components design . ami_da_4
+B 129.12 Components design . ami_da_12
+B 139.27 Okay . ami_da_9
+D 140.89 Alright . ami_da_9
+D 142.14 So . ami_da_2
+D 146.31 The case le that is what I wrote first of all , could be plastic our plastic . ami_da_4
+D 151.66 but later on we found out that it can be rubber as well , or titanium or even wood . ami_da_4
+D 159.26 So ami_da_2
+D 159.26 we decide what it is going to be . ami_da_6
+D 161.78 Probably plastic . ami_da_6
+D 163.17 we need the infra red transmitter . ami_da_4
+D 167.63 Get that off the shelf . ami_da_6
+D 168.75 joystick we will probably if we are going to use it , could be plastic w or rubber even as well . ami_da_4
+D 177.79 if you go on to the next slide . ami_da_6
+D 181.28 If you go on to f findings , ami_da_6
+D 181.28 it is like two or three slides down . ami_da_4
+D 189.16 Right . ami_da_2
+B 189.21 Okay . ami_da_9
+D 189.43 So , ami_da_2
+D 189.43 this is what I found we can use . ami_da_4
+D 193.18 three different types of batteries . ami_da_4
+D 197.08 can either use a hand dynamo , or the kinetic type ones , you know that they use in watches , or else a solar powered one . ami_da_4
+B 208.55 Okay . ami_da_1
+B 212.27 Now , ami_da_2
+B 212.27 the kinetic one , we have because that is the ones where like you the movement causes it . ami_da_5
+C 214.95 Cost is ami_da_3
+C 214.95 Yeah . ami_da_4
+D 218.4 Yeah . ami_da_4
+B 219.48 the bat the battery for a a watch would not require a lot of power , would be my one query . ami_da_4
+B 227.36 Is a kinetic one going to be able to supply enough power ? ami_da_5
+B 227.36 Do you think ? ami_da_5
+B 227.36 W ami_da_2
+B 227.36 Which I suppose as well would allow us to go off the shelf again , you would say ? ami_da_5
+A 232.63 There is also a watch moves around a great deal more . ami_da_4
+D 236.02 Yeah , ami_da_2
+D 236.02 I do not think it would . ami_da_4
+C 236.16 Yeah . ami_da_1
+D 241.56 And solar cells , I dunno about that . ami_da_9
+C 245.15 yeah . ami_da_16
+D 247.99 We should probably just use conventional batteries . ami_da_6
+D 252.1 , just like in usual remote controls . ami_da_6
+D 259.56 Yeah . ami_da_4
+D 263.27 And these are three different types of or two different types three different types of shapes you can have . ami_da_4
+D 268.25 one is a flat one , and then more original ones are single curved one or one with a double curved . ami_da_4
+D 275.1 the materials are tha there as you can see , but you ca not have a titanium one for a double curved , ami_da_4
+D 275.1 which would be ami_da_3
+D 275.1 Yeah , and light . ami_da_4
+C 282.84 Titanium , the really strong metal , titanium ? ami_da_5
+C 282.84 Is it not also it is expensive ? ami_da_5
+C 282.84 Two curves . ami_da_4
+D 288.37 , i think so as well , ami_da_4
+D 288.37 yeah . ami_da_4
+D 290.83 They make mountain bikes out of that , ami_da_4
+D 290.83 do not they . ami_da_11
+D 293.1 So it is really light as well . ami_da_4
+B 294.48 Curious . ami_da_4
+B 295.22 , I do not know if you would be able to off the top of your head or not , ami_da_4
+B 295.22 the single curved and double curved , would you be able to give an example ? ami_da_5
+B 295.22 could you maybe draw something ? ami_da_11
+B 295.22 I you do not ami_da_3
+B 295.22 does not have to be perfect , ami_da_6
+B 295.22 it is just because I am not quite sure if I understand the difference between the two . ami_da_4
+D 304.36 T yeah . ami_da_9
+D 313.76 Well ami_da_2
+D 313.76 for a curved , well I was thinking to f for to sit in your the palm of your hand . ami_da_6
+D 322.25 maybe like this , with the joy pad here . ami_da_6
+D 326.75 Joystick here . ami_da_6
+D 328.18 And maybe an okay button around here , ami_da_6
+D 328.18 so that the thumb can use it quite easily . ami_da_4
+D 337.88 I do not exactly ami_da_3
+D 337.88 Double curved . ami_da_4
+D 343.14 It probably means this is probably double curved . ami_da_4
+D 345.9 whereas a single curved would be like that . ami_da_4
+D 352.58 I guess . ami_da_9
+D 354.61 Or not necessarily . ami_da_9
+B 356.23 So it might literally just be ami_da_5
+B 356.23 okay . ami_da_12
+D 360.87 Yeah ami_da_2
+D 360.87 like that . ami_da_4
+D 361.87 Whereas this is two curves . ami_da_4
+D 363.6 so I guess that is what they mean by double curve . ami_da_4
+B 367.37 Alright . ami_da_12
+D 370.24 which obviously ami_da_3
+D 370.24 it looks better than the single curve , ami_da_9
+D 370.24 but you ca not have it in titanium , ami_da_4
+D 370.24 which is a nice material . ami_da_9
+D 383.19 and for the buttons , it can have the scroll wheel which they use in mouses for com PCs . ami_da_4
+D 392.79 but it requires a more expensive chip to use , and if you want to use LCD it is even more expensive . ami_da_4
+D 404.53 So ami_da_2
+D 404.53 you have to decide , ami_da_6
+D 404.53 there is trade offs there . ami_da_4
+D 407.81 if you want the buttons to be ami_da_3
+D 407.81 oh yeah , ami_da_2
+D 407.81 if you have a double curve control and it is rubber , then you have these rubber buttons as well . ami_da_4
+D 417.88 But you are going to ha ami_da_3
+D 417.88 I reckon you are going to have to have key a number keypad anyway for the amount of channels these days . ami_da_6
+D 426.92 You would not want to just have to scroll through all the channels to get to the one you want . ami_da_4
+D 430.04 You want to enter just the number of it , if you know it . ami_da_4
+D 432.49 So ami_da_2
+D 432.49 I reckon we are going to have to have a number keypad anyway . ami_da_6
+D 439.84 Do you think ? ami_da_11
+D 439.84 Yeah . ami_da_4
+B 441.2 Okay , ami_da_2
+B 441.2 that was definitely something we can talk about . ami_da_6
+B 447.45 so ami_da_2
+B 447.45 you have got a little bit about the the chip that we might require as well ? , do you have any idea so far , ami_da_5
+B 447.45 like when we are saying that we would need an advanced chip for an LCD , ami_da_4
+B 447.45 does that in shoot the cost up by a drastic amount ? ami_da_5
+B 447.45 Or ? ami_da_5
+B 447.45 Well ami_da_2
+B 447.45 I think compared to say just pressing buttons . ami_da_4
+D 455.03 So , ami_da_2
+D 455.03 depends where ami_da_3
+D 455.03 going to spend the money if you want the f fancy LCD display . ami_da_4
+C 478.79 Need an advanced chip for the LCD . ami_da_5
+C 481.18 Is that did I ami_da_3
+C 481.18 Advanced , like three eight six advance . ami_da_5
+D 483.01 Yep . ami_da_1
+B 487.25 if you press a button that sends a certain transmission through the infra red , whereas I think if we are controlling the LCD we definitely require a much more powerful chip . ami_da_4
+C 497.42 Okay . ami_da_1
+B 497.65 Just compared to the chip you would use for pushing buttons I think is the the point being made . ami_da_4
+C 501.64 Okay , sure . ami_da_12
+B 502.83 If I have not over stepped . ami_da_14
+B 504.52 Yeah ? ami_da_11
+B 504.52 Okay , ami_da_2
+B 504.52 should I go on , or go back ? ami_da_11
+B 504.52 Well ami_da_2
+B 504.52 we would also be relying on the the bulk buying in producement and such . ami_da_4
+D 504.57 Yeah ami_da_2
+D 504.57 i ami_da_3
+D 504.57 the previous slides just explain what is in the internal components of the remote control . ami_da_4
+C 512.8 , if we only have twelve Pounds fifty , ami_da_4
+C 512.8 twelve Euros , not even twelve Pounds . ami_da_9
+C 518.45 Twelve Euros , what is that , like eight pounds or something like that , nine Pounds ? ami_da_5
+C 518.45 Okay , ami_da_12
+C 518.45 that is good point . ami_da_9
+B 528.34 I assume . ami_da_4
+B 529.27 We have to look into the costs of those . ami_da_6
+B 531.48 So , ami_da_2
+B 531.48 sorry . ami_da_14
+D 539.64 If you go to the one before that ami_da_6
+D 539.64 so ami_da_2
+D 539.64 it just says what it does , translate the key press into an infra red signal and this is received by the TV . ami_da_4
+D 548.6 the chip just needs to detect the signal or detect the key press and then it will send it to the tr the amplifier . ami_da_4
+B 557.05 Okay . ami_da_1
+D 558.87 And then the next slide just shows how the copper wires interact with the buttons , the rubber buttons , to get sent to the chip . ami_da_4
+D 575.5 So ami_da_2
+D 575.5 that is just how the control works inside . ami_da_4
+D 580.49 we have to decide on what buttons we are going to use . ami_da_6
+B 586.45 Okay . ami_da_9
+B 595.17 So ami_da_2
+B 595.17 in the information that you have been supplied , how feasible would you say that the idea of using an LCD looks ? ami_da_5
+B 595.17 I mean that sounds like quite a good requirement to me . ami_da_9
+D 605.32 I think we can do it if we use conventional batteries and not have solar cells or kinetic . ami_da_4
+D 614.97 and then maybe use single curved case . ami_da_6
+D 623.94 Because we might need it to be curved for the thumb to use the joyst joystick easily . ami_da_4
+D 630.74 and then you will need the advanced chip obviously for the LCD . ami_da_4
+B 641.47 conventional battery would seem to make sense . ami_da_9
+B 644.45 I am not sure if there is any cost differences between single and double curved ami_da_4
+B 644.45 and I am ami_da_3
+B 644.45 I do not know about anybody else , ami_da_11
+B 644.45 but plastic or rubber as a traditional form of casing would seem to be a good way forward ? . ami_da_6
+A 658.21 I am actually going to be bold and go oo go straight for rubber for reasons I will go into in more detail . ami_da_9
+B 665.99 Okay . ami_da_1
+C 666.85 I also have a preference for rubber . ami_da_9
+B 669.34 Okay , ami_da_12
+B 669.34 well Yeah , well ami_da_2
+B 669.34 will we move on to user interface , ami_da_6
+B 669.34 and ami_da_3
+B 669.34 yeah ? ami_da_11
+B 669.34 sorry , ami_da_14
+B 669.34 as long as were you ? ami_da_5
+B 669.34 Yeah . ami_da_12
+C 670.91 Based on my research . ami_da_4
+D 680.53 Yep I am finished . ami_da_4
+B 681.11 Okay . ami_da_12
+B 683.5 and d d d interface concept . ami_da_4
+A 688.45 Yep . ami_da_9
+A 688.99 Now I am going to have to work between the the slides and the and the white board ami_da_7
+A 688.99 because I actually I have some fairly concrete things this time . ami_da_4
+B 695.5 Yeah . ami_da_9
+A 703.19 I was given a an HTML file giving various ideas from from other previous remote control designs , ami_da_4
+A 703.19 and pretty much decided to just dump them all . ami_da_9
+A 715.14 I was not very impressed by them ami_da_9
+A 715.14 and they did not seem to re ami_da_3
+A 715.14 nothing I saw seemed to meet the sorts of design specifications that we are going for today . ami_da_4
+A 723.34 so ami_da_2
+A 723.34 what I ra ami_da_3
+A 723.34 rather than looking at other remotes , ra oomp be better to simply look at the human hand . ami_da_6
+A 731.03 and try and f and try and figure out a way of laying out the elements we have already decided on , ami_da_6
+A 731.03 so that if r a if so that the finger is e each finger or thumb is wherever it needs to be already . ami_da_4
+A 744.79 so ami_da_2
+A 744.79 next slide , if you please . ami_da_6
+A 749.84 and what we have basically decided on was the the the joy the joystick , two function buttons and the LCD , just keep it paired down to the absolute minimum . ami_da_4
+A 761.18 I do not actually think we need the the numeric keypad ami_da_6
+A 761.18 because if you m ami_da_3
+A 761.18 because one of the menus that we could have available v via via the LCD is one where you scroll through channels , ami_da_6
+A 761.18 so if there is something f ami_da_3
+A 761.18 and be bear in mind since this is not meant to work for f f f for di for digital or or for or for cable , whatever , you are basically looking at four or five terrestrial channels , and then your VC and then the channel through your VCR and or DVD player . ami_da_4
+C 783.55 digital . ami_da_3
+D 784.06 , okay . ami_da_12
+A 801.38 And or box . ami_da_4
+A 805.58 So it is not ami_da_3
+A 805.58 I am not really excessively concerned about that . ami_da_9
+A 809.42 You must have two two modes , basic mode , where the joystick is left right left right for channels , up down for volume , and the and the menu mode for further functions . ami_da_6
+A 824.28 now the reason I was particularly interested in using rubber for this is that if we are going to have a highly ergonomic design , it needs to be ergonomic for left or right handed people . ami_da_6
+A 835.7 , so you ami_da_3
+B 836.67 Can I just jump in slightly there ? ami_da_11
+B 836.67 That would suggest the double curved design is probably going to be most appropriate , then . ami_da_11
+A 842.64 Yes , absolutely . ami_da_9
+B 843.83 okay . ami_da_1
+A 844.29 , basi basically what I basically what the what be having , I would say , the the whole thing articulated at two points , so that if you if you are handing it from a lef left or right handed user you can adjust it ami_da_6
+A 844.29 so that the the LC the LCD and the The joystick would be in the right place . ami_da_4
+A 872.25 And also this is a rather nicer de design gimmick that the the you know the whole thing you know it should have sort of organic feel to it that it should be , you know , soft to touch and can be moved around all nice . ami_da_6
+A 889.21 okay ami_da_2
+A 889.21 on to on to the next to the next slide . ami_da_6
+B 889.65 Okay . ami_da_1
+B 890.17 , yeah . ami_da_9
+B 894.93 Just to let you know we will probably be quite tight for time as well , because I think you have probably got a lot you would like to say , I guess . ami_da_4
+A 898.02 Okay . ami_da_12
+A 900.95 Yeah , ami_da_9
+A 900.95 okay basically ami_da_2
+A 900.95 I can add pretty pictures to this . ami_da_7
+A 910.34 The ami_da_3
+A 910.34 Assuming the hand the hand to be in about sort of this position , hol holding the remote , ami_da_4
+A 910.34 the the joystick unit should rest over the the joint of the f of the four finger ami_da_6
+A 910.34 so that it is directly accessible for the thumb . ami_da_4
+A 933.44 and it would need t there would need to be a it would need to be articulated just below that ami_da_6
+A 933.44 so that it could be switched around for left or right handed users . ami_da_4
+A 942.92 So . ami_da_2
+A 950.71 You then have a grip section that can be more or less the same irrespective of handedness . ami_da_6
+A 959.04 You just have big two big buttons that cover most of the area so it can in the upper part , one for the four finger , one for the middle finger . ami_da_6
+A 967.78 , and that ami_da_3
+A 967.78 Th this part here is the joystick . ami_da_4
+C 968.22 Is this the joystick ? ami_da_5
+C 968.22 Okay . ami_da_12
+A 973.41 This would be the actual grip . ami_da_4
+A 975.84 Probably where you would want to have the battery as well . ami_da_6
+A 979.59 That would be probably the bulkiest part . ami_da_4
+A 982.31 And you then have , at the at the bottom , the LCD , and this would need to be articulated as well . ami_da_6
+A 989.7 And basically I would want this to rest here , right at the base of the wrist . ami_da_6
+A 994.08 So it would fit just nicely in the hand . ami_da_9
+A 995.91 And again , this part could be rotated , ami_da_6
+A 995.91 so it can ami_da_4
+A 995.91 So so so that it can be adjusted to either left or right handed user . ami_da_4
+A 1013.14 So ami_da_2
+A 1013.14 the t the top function button in basic mode would be the on off switch and menu mode would be the enter button . ami_da_6
+A 1024.81 And then the bottom function buttons switches between between modes . ami_da_6
+A 1028.52 now ami_da_2
+A 1028.52 programming it ami_da_3
+A 1028.52 actually thi this is one thing I have found with the replacement remote control . ami_da_4
+A 1035.66 Programming them can be a right pain . ami_da_9
+A 1038.33 So I thought th the simplest way around that would be to have a cable to connect it to the computer some some fair iv fairly fairly simple software on the computer just so that you on your computer ami_da_6
+A 1038.33 just so that you could pr program it at a rather in a rather more comfortable interface . ami_da_9
+A 1057.41 And you could download programs for it from for TVs from all sort of main manufacturers . ami_da_6
+A 1065.52 though you i it would be necessary to have have ami_da_6
+A 1065.52 a m have a ha have a mode for programming it without the computer , ami_da_6
+A 1065.52 just in case there are there are still people left out there who do not have them yet . ami_da_4
+A 1084.5 But . ami_da_2
+A 1085.46 Yeah . ami_da_2
+B 1089.1 Okay . ami_da_1
+A 1089.33 That is that is my idea . ami_da_4
+B 1093.27 Excellent , ami_da_14
+B 1093.27 right . ami_da_2
+C 1097.36 Okay . ami_da_2
+B 1099.07 File open . ami_da_16
+C 1100.21 We go . ami_da_16
+B 1101.97 Trend watching . ami_da_16
+C 1105.51 Okay . ami_da_9
+C 1109.36 So ami_da_2
+C 1109.36 to gather my research , two basic methods . ami_da_4
+C 1113.88 We compared whether people want the remote control to do a lot of stuff or they want it to look cool . ami_da_4
+C 1120.55 And then we we research fashion trends in Europe , what is what is the new black , ami_da_4
+C 1120.55 you know , ami_da_2
+C 1120.55 as it goes . ami_da_3
+C 1127.95 Next slide please . ami_da_6
+B 1128.64 Okay . ami_da_1
+C 1130.02 we found , in order of importance , people want the remote control to look cool more than they want it to to be cool . ami_da_4
+C 1137.52 As in they want it to do a lot of good s ami_da_3
+C 1137.52 they want it to look like it does a lot , and if it does do a lot that is a bonus , but they do not care so much , ami_da_4
+C 1137.52 you know . ami_da_3
+C 1146.21 They want it to be ami_da_3
+C 1146.21 that is sounds a bit like a contradiction . ami_da_4
+C 1150.1 Technology technical technologically innovative . ami_da_4
+C 1155.12 People want it to be that , but s still they care more about the way it looks than what it does . ami_da_4
+C 1160.43 So ami_da_2
+C 1160.43 like the interface is really important . ami_da_4
+C 1163.72 And easy to use , it it just so happens that from the second point to the third point is twice as important I mean the second point is twice as important as the third point . ami_da_4
+C 1174.69 People want it I is ami_da_3
+C 1174.69 it has to be cooler than easy to use , ami_da_4
+C 1174.69 you know , ami_da_2
+C 1174.69 if it has the newest features , even if it is difficult to use , prefer it to have the newest features . ami_da_4
+C 1186.78 And if it is easy to use that is a bonus . ami_da_4
+C 1189.42 The fashion , now this is seems a bit odd to me , ami_da_9
+C 1189.42 but fruit and veg is the new is the new black for furniture , for clothes , for shoes . ami_da_4
+C 1198.43 How that relates to a remote control I do not know . ami_da_4
+C 1201.02 But I I see ami_da_3
+C 1201.02 I come on to that in the next in the next slide . ami_da_7
+C 1205.1 Spongy . ami_da_4
+C 1205.97 I have als I have been saying everything is the new black . ami_da_4
+C 1207.79 Well ami_da_2
+C 1207.79 spongy is the new black as well . ami_da_4
+C 1209.56 So ami_da_2
+C 1209.56 we have the choice between rubber and plastic . ami_da_4
+C 1212.32 If it is the type of rubber that you can squeeze , you know , it is spongy , then can I skip the rest ? ami_da_11
+C 1212.32 Okay . ami_da_12
+D 1217.13 Oh yeah , ami_da_2
+D 1217.13 I forgot to mention that . ami_da_4
+D 1218.52 The rubber material is the type of stress ball material , not just normal rubber . ami_da_4
+C 1225.25 Okay , ami_da_12
+C 1225.25 so ami_da_2
+C 1225.25 kind of spongy material . ami_da_4
+D 1225.59 Forgot to say that . ami_da_4
+C 1229.02 So so ami_da_2
+C 1229.02 my personal opinion ? ami_da_7
+C 1229.02 we want something fancy and techni technologically innovative , obviously . ami_da_6
+B 1229.46 Okay . ami_da_1
+C 1240.92 But what we what we need is something that looks like it is from the future that looks cool , that is that is different , ami_da_6
+C 1240.92 you know , ami_da_2
+C 1240.92 that is ami_da_3
+C 1240.92 everyone has a white remote control , black remote control , ami_da_4
+C 1240.92 you need something cool . ami_da_6
+C 1251.82 Like , titanium is cool ami_da_9
+C 1251.82 but it is expensive . ami_da_4
+C 1254.57 And maybe it is a bit of overkill for a remote control . ami_da_9
+C 1258.59 now the fruit and veg options , either we we go in that direction or we stay totally away from it . ami_da_6
+C 1265.16 I mean the research did come up with fruit and veg , ami_da_4
+C 1265.16 so maybe it is important ami_da_9
+C 1265.16 for ami_da_3
+C 1265.16 it is the up to the interface guy . ami_da_6
+C 1271.93 So ami_da_2
+C 1271.93 if we stay away from it , s you know stay away from it , but if we are going to go along with it then it does not necessarily have to be like an apple or something like that , or a kiwi fruit . ami_da_6
+C 1282.84 It could be something like , I say potato peeler ami_da_6
+C 1282.84 but I am sure you guys have a have a much cooler idea than I do . ami_da_9
+C 1290.06 So ami_da_2
+C 1290.06 I think cool is the key . ami_da_4
+C 1292.77 Few questions about a spongy remote control . ami_da_9
+C 1296.17 I have never seen one before . ami_da_4
+C 1297.2 I have seen plastic remote controls . ami_da_4
+C 1299.35 I think maybe they were ami_da_3
+C 1299.35 I do not know , ami_da_9
+C 1299.35 back in the day when they first came up with remote controls , they had a reason for it being sturdy , you know . ami_da_4
+C 1310.35 For being strong and sturdy . ami_da_4
+C 1311.98 So ami_da_2
+C 1311.98 if we want something strong and sturdy , I say stay with plastic or titanium , ami_da_6
+C 1311.98 but if we go with spongy , we can stress that you can drop this as many times as you want , it does not matter , it is spongy material , it is not going to break , ami_da_4
+C 1311.98 you know . ami_da_2
+C 1325.48 I just do not know how the LED and the lights are going to fit into a spongy material because it is not going to be completely squeezable . ami_da_4
+C 1334.0 So ami_da_2
+C 1334.0 how do things fit it ? ami_da_5
+C 1334.0 And if we are going to use spongy , we can say it is long lasting , ami_da_4
+C 1334.0 you know ami_da_2
+C 1334.0 it is damage resistant and stuff like that , ami_da_4
+C 1334.0 so . ami_da_2
+C 1344.35 So ami_da_2
+C 1344.35 just to summarise , ami_da_7
+C 1344.35 people want stuff that is cool , that is that looks like it is cool , and if it is cool then that is a bonus ami_da_4
+C 1344.35 does not have to be ami_da_3
+C 1344.35 people like fruit and veg . ami_da_4
+C 1356.16 We can either go down that alley or stay totally away from it . ami_da_6
+C 1360.04 People like spongy material . ami_da_4
+C 1361.15 If we are going to use spongy material we have to think of how practical it is , and how we can further promote that idea . ami_da_6
+C 1367.07 And also , this was this year . ami_da_4
+C 1369.47 So , ami_da_2
+C 1369.47 things change all the time , every year ami_da_4
+C 1369.47 you know ami_da_2
+C 1369.47 they they always talk about this year , this is the new black . ami_da_4
+C 1375.63 Well ami_da_2
+C 1375.63 next year something else is going to be the new black and we are stuck with last year is fruit and veg type stuff . ami_da_4
+C 1381.99 Okay . ami_da_2
+B 1382.3 Okay . ami_da_1
+C 1383.46 That is me . ami_da_4
+B 1387.56 Well , ami_da_2
+B 1387.56 I would say that the most you could probably hope for is gaining a year is lead on most people anyway . ami_da_4
+B 1393.36 You always have to bring out new designs , ami_da_4
+B 1393.36 so if we can get next year then that is possibly a good place to start anyway . ami_da_9
+B 1408.39 Seems like a a lot of the components could be off the shelf , ami_da_6
+B 1408.39 so ami_da_2
+B 1408.39 I do not exactly what cost would be incurred . ami_da_4
+B 1414.9 I can see your point about the number keypad , ami_da_9
+B 1414.9 but I have ami_da_3
+B 1414.9 I would say that we can probably incorporate it into the menu system if you need to do traversal of a large number of channels . ami_da_6
+D 1424.1 Yeah . ami_da_1
+B 1427.97 My feeling would be that even if at a later date this was to be taking control of boxes as well ami_da_6
+B 1427.97 having the use of the LCD and the joystick would probably allow you to manipulate enough channel numbers ami_da_4
+B 1427.97 for you to be ami_da_3
+A 1440.49 Yeah , actually ami_da_2
+A 1440.49 if you have got a lot of channels , the number keypad can be quite annoying as well , ami_da_9
+A 1440.49 becau it is ami_da_3
+A 1440.49 you know ami_da_2
+A 1440.49 if you are trying to remember what , you know , what number is the discovery channel or whatever . ami_da_9
+A 1452.98 It is just irritating . ami_da_9
+C 1453.17 That is a good point . ami_da_9
+C 1453.94 You can incorporate names into the menu . ami_da_6
+A 1454.31 But if you h but but but if you have a me but if you have a menu structure , then you can sub group them . ami_da_6
+C 1458.97 Okay . ami_da_2
+A 1459.57 So you ami_da_3
+A 1459.57 Yeah . ami_da_9
+C 1459.57 Even news , music . ami_da_6
+B 1459.74 Okay . ami_da_1
+C 1461.57 Like they do on sky digital kind of . ami_da_6
+C 1464.34 Yeah . ami_da_12
+B 1465.56 So ami_da_2
+B 1465.56 what it looks like to me is we will use a large number of standard components , , ami_da_4
+B 1465.56 say something like lithium ion battery , ami_da_6
+B 1465.56 the kind that you find in most small hand held devices now . ami_da_4
+B 1480.78 Looks like we going for a double curved design . ami_da_4
+B 1485.53 I do not know what cost implications there are in that . ami_da_4
+B 1488.84 , looks like we are pretty much decided on some kind of flexible rubber . ami_da_4
+B 1494.43 Though I would have to say depending on how flexible it is , we might need to have some kind of inner frame . ami_da_6
+A 1500.91 Yeah , ami_da_2
+A 1500.91 I I would say definitely , ami_da_9
+A 1500.91 I mean I mean I mean ami_da_2
+A 1500.91 the the idea of having it sort of articulated i th ami_da_3
+A 1500.91 there would be basically two points of articulation . ami_da_6
+A 1513.07 W one below and one above the m the the main sort of grip . ami_da_6
+B 1519.28 Do you think there is any way we could maybe remove the articulation ? ami_da_9
+B 1519.28 I can see why it looks appealing , ami_da_9
+B 1519.28 but it could be a weak point in the structure , do you think ? ami_da_11
+B 1519.28 That would be a worry of mine . ami_da_9
+A 1519.75 So ami_da_2
+D 1531.41 If you are going with the fruit and veg thing , looks like a banana . ami_da_4
+D 1535.45 F if you want to design it that way . ami_da_6
+A 1537.91 I d I do not thi ami_da_9
+A 1537.91 I do not think that it would be a a structural weakness , ami_da_9
+A 1537.91 I mean if you have a firm s sub structure , you can then incorporate articulation into that . ami_da_4
+A 1546.77 If you then have a sort of outer skin of flexible , spongy rubber then you have something that is you know very much you know organic , ami_da_6
+A 1546.77 and I think would look rather co I mean mi rather cool . ami_da_9
+A 1561.59 I mean my drawing there does not does not do it justice , ami_da_9
+A 1561.59 it makes it makes it look more a little bit more like a vibrator than a than a than a remote control , ami_da_4
+A 1561.59 but . ami_da_3
+B 1570.71 Yeah , ami_da_2
+B 1570.71 we wo not add that functionality . ami_da_14
+C 1572.22 Okay . ami_da_9
+C 1572.99 Course not . ami_da_9
+B 1573.49 However , one interesting point is , ami_da_9
+B 1573.49 I do not know how serious you were there , ami_da_4
+B 1573.49 but we ami_da_3
+B 1573.49 if we take some of the ideas why do not we make the damn thing yellow to incorporate the des the colour of the logo ? ami_da_6
+B 1573.49 I dunno . ami_da_9
+D 1583.85 Yeah . ami_da_1
+C 1587.02 Sure , yeah . ami_da_9
+D 1587.05 Okay . ami_da_9
+B 1589.04 It is an certainly a different colour from your average ami_da_4
+B 1589.04 That is true . ami_da_9
+A 1593.52 Make it harder to lose , as well . ami_da_4
+D 1595.79 Yeah . ami_da_9
+C 1596.38 Sure . ami_da_9
+B 1597.89 Was there anything in your research ami_da_3
+C 1600.21 The noise for when you lose the banana , f yeah , for when you lose the remote control , it could be like a a monkey noise or something like that , rather than a standard beep beep . ami_da_6
+C 1611.93 Y you know , ami_da_2
+C 1611.93 you lose the monkey the banana , y you lose the banana , ami_da_4
+C 1611.93 you press a button , and you hear like monkey screams or something like that to direct you towards the banana . ami_da_6
+D 1614.83 monkey . ami_da_1
+A 1622.72 I th ami_da_3
+A 1622.72 I mean if it ami_da_3
+A 1622.72 I think that is something that could perhaps be programmable , ami_da_6
+A 1622.72 though maybe have monkey as default . ami_da_9
+C 1629.03 S ami_da_3
+C 1629.03 oh , ami_da_2
+C 1629.03 I was going to talk about the programmable remote control . ami_da_4
+C 1633.48 Now I think it would be cool if you had one remote control that could work with all TVs , ami_da_9
+C 1633.48 you know ami_da_2
+C 1633.48 you s you click a button ami_da_4
+C 1633.48 and it finds the frequency that works with your particular television . ami_da_4
+C 1643.34 But why you would need to program it like as as a standard feature , ami_da_5
+C 1643.34 I I do not know . ami_da_4
+A 1647.8 Well basi basically ami_da_2
+A 1647.8 the for f for ami_da_3
+A 1647.8 I mean ami_da_2
+A 1647.8 e each manufacturer will have a partic will have a particular command set that the TV responds to . ami_da_4
+A 1659.91 It is not simply a matter of frequency . ami_da_9
+C 1659.92 Yeah . ami_da_1
+A 1661.96 So ami_da_2
+A 1661.96 usually what is done is you have this big booklet full of different possi you will have all of them sort of programmed in to the remote , and you will have this little booklet of codes ami_da_4
+A 1661.96 you then find your ma find your manufacturer and try the different codes that come under that manufacturer is name until you find the right one . ami_da_4
+C 1688.63 That is because televisions , they do not give the remote control any type of feedback when you send it . ami_da_4
+A 1688.76 Yeah , that is right . ami_da_9
+C 1693.61 Okay . ami_da_12
+A 1694.31 So ami_da_2
+A 1694.31 that is that is quite annoying ami_da_9
+A 1694.31 and we probably would still have to do that . ami_da_6
+A 1700.51 But if we had some sort of hook up to your computer as an option , then if you have got a computer you can avoid that rather irritating thing . ami_da_6
+B 1711.57 An interesting point is that if the person does not have the computer , we can still make the process easier ami_da_9
+B 1711.57 because instead of having to look up codes , maybe we can have it that one of the options they have is that they look up the name of the company on the LCD and then they maybe look up different names of different actual units that have been produced . ami_da_6
+A 1726.19 Yeah . ami_da_9
+A 1728.43 Yeah . ami_da_1
+B 1733.49 Or we have the remote control just go through them until it is like does this do the correct function , and such . ami_da_6
+C 1738.91 Is it is it actually a book of names to digits , or is it like a few pages ? ami_da_5
+C 1738.91 I was just thinking , if we were to store this information , some type of mapping . ami_da_6
+A 1743.87 booklet . ami_da_4
+A 1745.79 Some pages . ami_da_4
+C 1751.81 This person probably need to use this feature like once , you know , when you first buy the remote control , or whenever they buy a new television , ami_da_4
+C 1751.81 so ami_da_2
+C 1751.81 once every s ami_da_3
+C 1751.81 Yeah , ami_da_9
+C 1751.81 and it is ami_da_3
+A 1759.26 Yeah . ami_da_1
+B 1759.44 Does not have to be used very often ami_da_4
+B 1759.44 that is right , yeah . ami_da_9
+A 1761.92 Yeah . ami_da_9
+A 1762.39 But it is a ami_da_9
+A 1762.39 but it is a nuisance . ami_da_9
+A 1764.2 And it is a nuisance very close to the to to actually purchasing it , ami_da_9
+A 1764.2 so it is something that you are likely to be thinking about . ami_da_4
+A 1772.19 If you if there is w i ami_da_3
+A 1772.19 if there is one in the shop that is that says it can avoid much of that nuisance , you might be favourably inclined towards it . ami_da_4
+B 1787.41 Okay , ami_da_2
+B 1787.41 this ami_da_3
+B 1787.41 just to give us a rough idea of what we are meant to be doing for the next stage . ami_da_4
+B 1792.85 I am pretty sure that you got that anyway . ami_da_4
+B 1795.56 This is the conceptual one . ami_da_4
+B 1799.58 I think we have come up ami_da_3
+B 1799.58 I think we have covered everything we need to here . ami_da_4
+B 1803.72 I think we have decided on what , you know , decided on standard items for most of rubber and such , ami_da_4
+B 1803.72 so ami_da_2
+B 1803.72 we are now looking at the detailed design and what we need to be doing for the next meeting . ami_da_4
+B 1814.64 So for example , ami_da_2
+B 1814.64 I will just start at the top , ami_da_7
+B 1814.64 you have got yourself and the Industrial Designer going to be working quite closely at this stage ami_da_4
+B 1814.64 because it will be hard not to , obviously . ami_da_9
+B 1828.87 looking from prototyping of some des description using clay . ami_da_4
+B 1838.57 I suppose you will be told a lot more about that as progress . ami_da_4
+B 1843.12 The user interface design , They are kind of it looks they are the idea I have pushed forward so far is maybe more of a physical one there , ami_da_4
+B 1843.12 whereas possibly be more interested in maybe how the LCD is going to incorporate , do you think ? ami_da_8
+B 1843.12 Or do you s perceive that most the design design decisions still need to be based on the physical layout ? ami_da_11
+B 1843.12 , that is very true . ami_da_9
+A 1869.68 well ami_da_2
+A 1869.68 I I think other than ge getting a sort of more aesthetically pleasing form for it , ami_da_6
+A 1869.68 mo most of the sort of layout design decisions are are made , I would say . ami_da_4
+A 1887.6 but then again , the the menu structure to to a considerable extent that is going to vary according to the model of television , and also any customisations that the user might wish to incorporate . ami_da_6
+A 1903.17 So ami_da_2
+A 1903.17 and one of the nice things about having an LCD and a menu structure is that there is that flexibility to it . ami_da_9
+B 1918.03 Okay . ami_da_2
+B 1919.6 got product evaluation as well . ami_da_4
+C 1922.17 Yeah , ami_da_2
+C 1922.17 you see I do not ami_da_3
+C 1922.17 some of these things kind of logically follow the others . ami_da_4
+C 1927.5 How can t ami_da_3
+C 1927.5 product evaluation , does not that come after actually seen a product prototype . ami_da_5
+B 1933.7 I I think we would be ami_da_3
+B 1933.7 yeah , ami_da_2
+B 1933.7 no , it would be more a case of how do we envisage us performing the product evaluation once we have a model to test with . ami_da_4
+C 1944.18 Oh , that is the okay , sure sure sure . ami_da_12
+B 1945.76 so ami_da_2
+B 1945.76 it would be a case of ami_da_6
+B 1945.76 do you think that just bringing users in to have them test it out , maybe putting a certain number of products into the field in certain places ami_da_6
+B 1945.76 which I suppose is quite similar . ami_da_4
+B 1957.58 Or just kind of hitting the streets ami_da_6
+B 1957.58 and you know saying this is a new remote control ami_da_6
+B 1957.58 , what do you think of the look of it ? ami_da_6
+B 1957.58 I think the target audience is pretty much anybody under the age of say maybe sixty or something ludicrous . ami_da_6
+C 1964.22 Okay , sure . ami_da_12
+C 1967.89 At this stage we still have no no target audience ami_da_4
+C 1967.89 or ami_da_3
+C 1967.89 Okay . ami_da_9
+B 1981.73 the reason I am saying that is we are just looking at a a replacement remote control , something that is stylish , so maybe you are even just maybe you are narrowing down your target audience simply by saying if they are buying it that often or they are maybe looking to replace something then , they have got a bit of free cash , ami_da_4
+B 1981.73 so that puts them potentially in the younger age bracket . ami_da_6
+C 1992.85 And it is stylish . ami_da_4
+B 2003.43 Maybe even single , just for the reasons of excess cash flow . ami_da_6
+B 2010.86 Although of course I mean at twenty five Euros , I do not think we are looking at charging the earth for the device . ami_da_4
+C 2015.07 Yep . ami_da_1
+A 2015.68 Yeah . ami_da_1
+B 2016.16 Think that is well within the normal bracket . ami_da_4
+C 2016.34 Okay . ami_da_1
+B 2018.0 your idea of the USB would I think would largely depend on the cost . ami_da_9
+B 2023.42 USB is definitely one of the cheapest interfaces out there , but it might push the cost of the overall unit up because it would require not just the connection but the chip for communicating with the rest of the system . ami_da_4
+B 2037.11 That one might have to be based on ami_da_3
+B 2037.11 The the idea was that maybe it could connect up for allowing a software interface on the PC for a larger programming due to the fact that we have gone for such a nice , easy minimal design , normally . ami_da_4
+C 2037.33 Programmable memory as well . ami_da_4
+D 2039.17 The USB for which ? ami_da_5
+D 2039.17 Oh right ami_da_12
+D 2039.17 , okay . ami_da_12
+C 2040.66 For the remote control . ami_da_4
+C 2054.66 We have w definitely talking some type of ami_da_3
+C 2054.66 Different . ami_da_4
+D 2057.5 But did not they just say it is just for TV , ami_da_5
+D 2057.5 or are we going to ami_da_3
+D 2057.5 Okay , yeah . ami_da_12
+B 2060.74 It is just for TV , but for programming it to use your TV , you might hook it up to the PC . ami_da_4
+B 2068.26 I am not sure , but I am thinking maybe that the additional cost of the USB might be prohibitive . ami_da_9
+B 2074.34 We do not know unless it would make sense to . ami_da_3
+C 2076.84 But you are going to need some type of flash memory or something . ami_da_6
+A 2076.91 Yeah , ami_da_2
+A 2076.91 I mean it is ami_da_3
+A 2076.91 Yeah . ami_da_1
+C 2080.64 Well ami_da_2
+C 2080.64 something that does not ami_da_3
+C 2080.64 you would not have to redo the whole thing once the batteries are changed , you know , once you turn off the power . ami_da_4
+A 2085.33 Yeah . ami_da_2
+A 2086.23 The other thing ami_da_3
+A 2086.23 I mean it ami_da_6
+A 2086.23 I mean it would need to ha ami_da_6
+A 2086.23 it would need to have some sort of on board memory anyway . ami_da_6
+C 2093.24 Yeah . ami_da_9
+A 2094.58 f for one for one thing because I do think that the menu system should be ami_da_3
+A 2094.58 I mean although you know , it is not going to be terribly complicated if it is just controlling one device , ami_da_4
+A 2094.58 the menu system ought to be o ought to be customisable ami_da_6
+A 2094.58 and ami_da_3
+C 2113.12 Different languages , different skins and stuff like that . ami_da_6
+B 2117.34 W ami_da_2
+B 2117.34 It would make sense to . ami_da_9
+A 2117.53 How how how you want say the the the menu structure for flicking through channels if you have got lots of channels . ami_da_6
+C 2125.38 Sure . ami_da_9
+C 2126.1 I if it was customisable as in different languages and stuff , that does open ami_da_3
+C 2126.1 it is supposed to be international , ami_da_4
+C 2126.1 right ? ami_da_11
+C 2126.1 So . ami_da_3
+A 2126.17 That sort of thing . ami_da_6
+C 2134.17 It would make sense if you could ami_da_9
+C 2134.17 Okay . ami_da_1
+B 2134.6 I would say to . ami_da_9
+B 2135.85 and we would better be careful about the time as well . ami_da_6
+B 2139.2 We have already had the five minute warning , ami_da_4
+B 2139.2 so . ami_da_2
+B 2143.28 I would say yeah . ami_da_9
+B 2145.85 International would make sense . ami_da_9
+B 2147.67 you are going to look at product evaluation . ami_da_4
+B 2150.05 I am ami_da_3
+B 2150.05 I would better start writing up a hell of a lot of crap . ami_da_7
+B 2153.21 you are going to look a bit more at the kind of the physical make up you say . ami_da_6
+B 2157.75 looks like we are going to need a maybe a kind of prototype in clay . ami_da_4
+A 2158.02 Yeah . ami_da_9
+B 2163.14 we will see how that goes . ami_da_14
+A 2165.05 Are we going to be supplied with the clay is what I want to know . ami_da_5
+A 2167.86 Where is the clay ? ami_da_5
+B 2169.23 So ami_da_2
+B 2169.23 do ami_da_3
+B 2169.23 I think we have got an idea of where we need to go for the next meeting , ami_da_4
+B 2169.23 would you say ? ami_da_11
+B 2169.23 Yeah , I would s that would be my my feeling . ami_da_9
+C 2175.16 Yeah . ami_da_9
+D 2176.44 they are going with the fashion thing , like the design , spongy rubber . ami_da_11
+C 2179.41 The fruit and veg . ami_da_11
+C 2181.42 This one . ami_da_4
+A 2185.29 I th ami_da_9
+A 2185.29 I think I would largely want to actually steer clear of the whole sort of fruit and veg thing . ami_da_9
+A 2191.19 Bu but but the spongy idea I like . ami_da_9
+A 2196.79 I like it a lot . ami_da_9
+B 2197.87 We seem to have quite a general consensus that the idea of the the r rubber could be quite ami_da_11
+B 2197.87 Yeah . ami_da_9
+C 2197.88 Yeah . ami_da_1
+C 2203.11 Yeah . ami_da_1
+A 2203.99 I having it i having it sort of br bright yellow ami_da_9
+A 2203.99 I think that is quite a good idea , ami_da_9
+A 2203.99 though maybe we could have options for colours as well . ami_da_6
+C 2214.44 Yeah . ami_da_9
+A 2215.85 and again this has the advantage of being harder to lose . ami_da_9
+C 2219.28 Sure . ami_da_9
+C 2219.57 I mean we are trying to promote a remote control , but we want to keep the company brand as well , ami_da_4
+C 2219.57 so . ami_da_3
+B 2225.32 So we always need to remember that somewhere we are meant to be getting the slogan on . ami_da_8
+B 2230.23 Possibly I am think I am not sure ami_da_6
+B 2230.23 but I am seeing a little bit of space around maybe the joystick area which could be used . ami_da_6
+A 2236.92 Yeah . ami_da_2
+A 2237.48 I was like ami_da_3
+B 2245.62 Okay . ami_da_9
+B 2246.67 And I think that says it all really . ami_da_4
+C 2248.02 I think so too . ami_da_9
+B 2249.43 Right . ami_da_2

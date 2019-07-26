@@ -1,0 +1,854 @@
+A 24.28 Okay , so ami_da_2
+A 24.28 now we are on the conceptual design meeting . ami_da_4
+A 28.92 y getting close to the last is the penultim meeting . ami_da_4
+B 36.26 How was lunch ? ami_da_14
+A 38.14 great . ami_da_14
+D 40.13 Thanks Do not be sarcastic . ami_da_14
+D 45.45 Mark . ami_da_14
+A 49.02 So ami_da_2
+A 49.02 I will again do the secretary part we will have three presentation first the industrial design , first Rama then Mark and then Sammy . ami_da_4
+D 58.72 Rama . ami_da_4
+C 60.4 Ramaro . ami_da_4
+A 64.45 we have to take a decision on the control remote control concepts and we have forty minutes . ami_da_4
+A 77.79 So ami_da_2
+A 77.79 what we want to ami_da_3
+A 77.79 the decision we want to take on this meeting are on the first on the component concept , so what kind of energy we use what kind of chip on print and one ki kind of case . ami_da_4
+A 95.4 And also on user interface concept what kind of interface we use and if there is some supplements . ami_da_4
+A 104.11 And at the end Sammy will give a trend watching on what he is he is been doing . ami_da_4
+A 113.47 It is ami_da_3
+A 113.47 So , ami_da_2
+A 113.47 let is go . ami_da_6
+A 118.48 First with Rama . ami_da_6
+A 128.98 Participant two . ami_da_5
+C 130.73 Yeah , participant two . ami_da_4
+C 134.0 Component . ami_da_6
+C 139.56 Yep . ami_da_9
+C 142.08 So ami_da_2
+C 142.08 we are to mainly design f mainly need to know which components we will use for energy , and the material and interface . ami_da_4
+C 150.81 For energy there are maybe two or three possibilities . ami_da_4
+C 154.34 First one , we can use simple battery , or we can use traditional solar cells ami_da_4
+C 154.34 or ami_da_3
+C 154.34 and the material we can have plastic , rubber which is good for this RSA ami_da_4
+C 154.34 and then titanium , which can be which have very good look ami_da_9
+C 154.34 an and then interface we are to use push buttons or liquid crystal ami_da_4
+C 154.34 d LCD display . ami_da_4
+C 187.64 And we can use some , moving kind of thing . ami_da_4
+C 197.7 So , ami_da_2
+C 197.7 as we discussed before , ami_da_4
+C 197.7 we need to ami_da_3
+C 197.7 we would like to have some speech recognition s chip in our remote control . ami_da_4
+C 209.35 So ami_da_2
+C 209.35 this can be simple kind of programmable chip ami_da_6
+C 209.35 and ami_da_3
+C 209.35 which can use microphone sensors . ami_da_6
+C 217.7 And we also want to look at our remote control , ami_da_4
+C 217.7 so . ami_da_2
+C 226.44 Still we are looking for possible technical specifications and how w easy we can do and within our pri range , like we are to in our twelve Euros or around that . ami_da_6
+C 242.27 So we are looking for simple devices or simple technology to do the location of remote control in a room or in a house . ami_da_6
+A 250.66 , okay . ami_da_1
+C 254.31 So ami_da_2
+C 254.31 we discussed an ami_da_3
+C 254.31 Excuse me . ami_da_14
+C 266.1 So ami_da_2
+C 266.1 we would like to propose battery instead of solar cells ami_da_6
+C 266.1 and it would be problematic to have enough energy with the solar cells ami_da_9
+C 266.1 and so we would like to just use simple battery . ami_da_6
+C 279.97 And also we want to go for titanium design instead of rubber or ami_da_6
+C 279.97 and ami_da_3
+C 279.97 well ami_da_2
+C 279.97 the problem is with this design we found that we ca not use double curved shapes . ami_da_4
+D 293.38 What is a double curved shape ? ami_da_5
+D 293.38 Uh huh . ami_da_12
+C 294.82 Like you can have two curves . ami_da_4
+B 299.21 Why ? ami_da_5
+C 301.16 it is I think in manufacturing ami_da_4
+C 301.16 I guess it is problematic . ami_da_4
+C 309.19 So , ami_da_2
+C 309.19 we want to go for simple push buttons ami_da_6
+C 309.19 because it need a simple chip and it is really lesser re really less expensive compared to LCD ami_da_4
+C 309.19 which are ami_da_3
+C 309.19 which needs advanced chip technology and it is more expensive , since we want to put some other features such as speech recognition ami_da_4
+C 309.19 we want to reduce cost . ami_da_6
+D 331.32 The cost . ami_da_4
+A 331.4 I want to know why it b just sorry but for the point before why not the rubber , if it is something that it seems to be light . ami_da_5
+C 336.94 And also like in if you put a it is be difficult to do all the moulding of buttons and these things ami_da_4
+C 336.94 and ami_da_3
+C 336.94 Yeah . ami_da_4
+A 347.4 Okay . ami_da_12
+A 348.11 You m titanium it is more ami_da_5
+A 348.11 Yes ami_da_1
+A 348.11 so Uh huh . ami_da_1
+B 351.2 W we can use something like you know the whole body is titanium but there are some rubber or ami_da_6
+B 351.2 I dunno some rubber parts ami_da_6
+B 351.2 like ami_da_2
+B 351.2 to make it feel better ami_da_9
+B 351.2 and to ami_da_3
+B 351.2 you know ami_da_2
+B 351.2 Yeah . ami_da_1
+D 362.3 like this ? ami_da_5
+C 362.61 Yeah . ami_da_1
+C 365.46 Like in cell phones recently ami_da_4
+C 365.46 these you can with the rubber in four directions and ami_da_3
+C 365.46 yeah . ami_da_2
+B 368.42 Yeah . ami_da_1
+A 370.64 Okay . ami_da_1
+C 372.87 But full assembly We will use mainly for titanium ami_da_6
+C 372.87 rubber is expensive and also it is bit difficult to do all the shapes . ami_da_4
+A 378.52 Okay . ami_da_1
+A 380.96 Okay . ami_da_1
+A 384.13 Okay . ami_da_1
+C 385.72 And this push buttons ami_da_3
+C 385.72 we we would like to use push buttons instead of LCDs ami_da_6
+C 385.72 and so we want to mo ami_da_3
+C 385.72 I mean we are we want to put speech recognition ami_da_4
+C 385.72 so we want to reduce price on this technology ami_da_6
+C 385.72 and so that we can have enough space or enough money ami_da_4
+C 385.72 for S S ami_da_3
+C 385.72 Y ami_da_4
+C 385.72 yeah ami_da_4
+C 385.72 we have simple buttons and speech recognition technology , ami_da_4
+C 385.72 so l ami_da_3
+C 385.72 So ami_da_2
+C 385.72 it is like a ami_da_3
+C 385.72 Yeah ami_da_2
+C 385.72 maybe maybe we can see depending on how we will come up with our full design ami_da_9
+C 385.72 then if we have enough money or like for and ami_da_3
+C 385.72 because the speech recognition technology will take at least five Euros or or something ami_da_4
+C 385.72 so we want to reduce the cost on display ami_da_6
+C 385.72 or this inter ami_da_3
+C 385.72 Ok Yeah , that can we we can consider , ami_da_9
+C 385.72 because like it wo not take much money I guess , ami_da_4
+C 385.72 because ami_da_3
+C 385.72 Okay , yep . ami_da_2
+A 388.7 yeah ami_da_1
+A 388.7 so ami_da_1
+A 388.7 Okay , s so ami_da_2
+A 388.7 simple button and speech recognition for the more complicated . ami_da_5
+D 408.22 Speech ami_da_1
+D 408.22 LCD . ami_da_4
+A 415.08 Okay . ami_da_12
+B 415.65 Okay , ami_da_12
+B 415.65 and still we have ami_da_3
+B 415.65 can we still include the L LSD display ? ami_da_11
+B 415.65 LCD ami_da_12
+B 415.65 yeah ami_da_12
+B 415.65 LCD . ami_da_12
+D 422.63 Seems not , ami_da_9
+D 422.63 it is either LCD or push button . ami_da_4
+B 424.6 No , ami_da_9
+B 424.6 it is not going to be a t no touchable but still like a source of information or source for menus . ami_da_6
+B 440.34 Okay , ami_da_12
+B 440.34 so let is try it , ami_da_6
+B 440.34 let is t ami_da_3
+B 440.34 Yeah , yeah , ami_da_4
+B 440.34 it is it is not going to be a touch pad , just a display for giving you information . ami_da_6
+D 447.26 The LCD would ami_da_3
+D 447.26 The display would only be display and not touch sensitive you mean . ami_da_5
+D 454.97 Just for output , ami_da_4
+D 454.97 yeah . ami_da_1
+D 458.4 Yeah . ami_da_1
+A 468.74 Okay . ami_da_1
+C 472.92 You have any further questions ami_da_5
+C 472.92 or ? ami_da_3
+C 472.92 Yeah . ami_da_1
+D 475.99 I guess no ami_da_4
+D 477.81 So ami_da_2
+D 477.81 the batteries are going to be very light . ami_da_5
+C 483.01 Yeah , ami_da_4
+C 483.01 we are to go for li ami_da_3
+C 483.01 and now I think we have many options in the market ami_da_4
+C 483.01 so we can go for small nickel or alkaline batteries for really light batteries and with good price . ami_da_4
+D 488.65 Okay . ami_da_1
+D 497.73 So ami_da_2
+D 497.73 this device on n that can be used for speech recognition could also be used for just the finding it basically , instead of clapping why not just be ask . ami_da_6
+C 508.55 Yeah , ami_da_9
+C 508.55 that is ami_da_3
+C 508.55 then the the one thing we want to know is like ami_da_6
+C 508.55 because remote control is used for like in the household ami_da_4
+C 508.55 so it ami_da_4
+C 508.55 it ami_da_4
+C 508.55 it will be it m maybe ami_da_4
+C 508.55 at least five , six people want to use it ami_da_4
+C 508.55 so so how to how to define our re speech recognition ami_da_8
+C 508.55 whether we want to do s speaker independent or speaker dependent . ami_da_11
+C 532.64 If we are going for more speaker independent then it would be like again cumbersome ami_da_9
+C 532.64 and we need really m more technology ami_da_4
+C 532.64 and so ami_da_2
+C 532.64 Yeah , ami_da_4
+C 532.64 if if everybody in the house n to locate then we are to go for some speaker independent technology or something . ami_da_6
+A 541.3 Okay , ami_da_12
+A 541.3 for the location . ami_da_5
+D 550.68 Okay . ami_da_1
+A 556.54 Okay . ami_da_2
+A 558.46 So ami_da_2
+A 558.46 let is now go to the ami_da_3
+A 558.46 you do not have more question ? ami_da_5
+A 558.46 thank you . ami_da_14
+D 561.54 No , it is okay . ami_da_4
+B 561.91 No more questions . ami_da_4
+C 562.49 Yep . ami_da_12
+C 562.85 Thank you . ami_da_14
+D 563.15 Puts less of constraint on what we can do ami_da_4
+D 563.15 but ami_da_3
+D 563.15 it is always like that . ami_da_4
+B 565.39 yeah , ami_da_9
+B 565.39 yeah . ami_da_9
+A 565.75 Yeah . ami_da_9
+C 565.83 Yeah . ami_da_9
+D 568.44 We have dreams and the in the end ami_da_4
+D 568.44 we find out that it is not feasible . ami_da_4
+A 572.93 Yeah , ami_da_1
+A 572.93 but . ami_da_1
+C 573.67 Oh . ami_da_4
+D 573.99 Anyway . ami_da_6
+C 574.58 We have some limitations . ami_da_4
+D 576.53 Yeah . ami_da_1
+B 576.57 But still LSD is already quite nice , ami_da_9
+B 576.57 LC ami_da_12
+B 576.57 I am an artist , ami_da_4
+B 576.57 sorry . ami_da_14
+D 578.48 LCD . ami_da_4
+D 579.1 LSD is something else , ami_da_4
+D 579.1 and it is quite nice as well . ami_da_9
+A 586.02 Okay . ami_da_1
+D 590.78 So , ami_da_2
+D 590.78 go on artist . ami_da_6
+B 590.92 So , ami_da_2
+B 590.92 that is not ami_da_3
+B 590.92 I hope that is not too much . ami_da_16
+A 591.37 yeah . ami_da_2
+A 593.67 Now let is talk about interface . ami_da_6
+B 594.11 Okay . ami_da_2
+B 595.8 participant number three . ami_da_4
+A 598.54 Three . ami_da_12
+C 598.88 Three . ami_da_1
+B 600.45 have a look at this ami_da_6
+B 600.45 no it is ami_da_3
+B 600.45 yeah . ami_da_9
+A 601.1 Which one ? ami_da_5
+A 601.1 Okay . ami_da_9
+B 613.36 so ami_da_2
+B 613.36 the concept of the interface . ami_da_7
+B 618.0 Generally I developed quite a broad concept not only for the interface , but for possible instruction or user is manual and all the complex things that come together with your TV and remote controls . ami_da_4
+B 634.21 So let is start with this . ami_da_6
+B 636.02 We got our perfect remote control with a lot of buttons ami_da_9
+B 636.02 and we got explanation for every button ami_da_4
+B 636.02 and you can use your time ami_da_4
+B 636.02 and it will take i some days to learn all this buttons ami_da_4
+B 636.02 and the LCD is going to be somewhere here ami_da_6
+B 636.02 and go back button ami_da_4
+B 636.02 , I do not know really where it is , maybe one of this buttons , and power on and off I ami_da_4
+B 636.02 I do not remember ami_da_4
+B 636.02 so ami_da_2
+B 636.02 it it it should be ami_da_3
+B 636.02 maybe this button is power on and off ? ami_da_4
+B 636.02 Or no ? ami_da_9
+B 636.02 I can see nothing . ami_da_4
+B 675.4 So ami_da_2
+B 675.4 that is our concept . ami_da_4
+B 677.59 It is called the millennium remote control . ami_da_4
+D 682.33 Let is change millenniums . ami_da_9
+B 684.8 Yeah . ami_da_1
+C 685.99 So ami_da_2
+C 685.99 maybe you can use in the end and ami_da_3
+D 688.2 does not make sense . ami_da_4
+D 689.14 This is very ugly . ami_da_9
+B 690.26 Really ? ami_da_5
+B 690.26 I thought you like it . ami_da_4
+D 693.89 Oh no , too much concept . ami_da_9
+B 694.36 okay ami_da_2
+B 694.36 just press the button , please . ami_da_6
+A 698.21 No . ami_da_4
+B 700.47 Yeah , ami_da_9
+B 700.47 we will not use this . ami_da_6
+B 702.44 We will not use this . ami_da_6
+B 704.23 But instead of this I will devise That is our concept . ami_da_6
+D 708.08 back today . ami_da_4
+B 711.25 And it is got just few buttons , quite low looking , and all this stuff we already we already discussed . ami_da_4
+A 721.59 Okay . ami_da_1
+B 722.18 And what will people say ? ami_da_11
+B 722.18 They will say it is perfect . ami_da_9
+B 728.21 Or what will say ? ami_da_11
+B 728.21 they will say it is splendid . ami_da_9
+B 732.75 And e everyone will say I will buy it . ami_da_4
+B 737.29 And everyone is going to be satisfied . ami_da_4
+D 741.91 Do you think it can come in several colours ? ami_da_11
+D 741.91 Or did the ami_da_3
+D 741.91 but not the case . ami_da_11
+B 746.51 I would make a backlight of the LCD screen with different colours . ami_da_6
+B 753.29 Not the case . ami_da_9
+D 754.67 the case would only be in that aluminium titanium stuff , ami_da_5
+D 754.67 like ami_da_3
+D 754.67 Yeah , ami_da_9
+D 754.67 well ami_da_2
+D 754.67 they like something which is ami_da_3
+D 754.67 yeah , ami_da_12
+D 754.67 okay , ami_da_12
+D 754.67 so that would be the option ami_da_6
+B 759.04 Yeah . ami_da_4
+A 759.82 Because apparently from your survey people like colours , ami_da_4
+A 759.82 no ? ami_da_11
+A 759.82 Okay . ami_da_1
+C 764.28 Yeah . ami_da_9
+B 768.39 Okay , so ami_da_2
+B 768.39 let is remember there is a Nokia phone which changeable panels . ami_da_4
+B 774.41 Do you like it ? ami_da_11
+B 774.41 That is why you do not have it . ami_da_4
+D 776.23 I do not know ami_da_9
+D 776.23 I do not have a Nokia phone , ami_da_4
+D 776.23 but ami_da_3
+D 776.23 I do not use that but again , I might ami_da_4
+D 776.23 Yeah , ami_da_2
+D 776.23 bu but ami_da_3
+C 779.33 But it is ami_da_3
+C 779.33 But it would be expensive , no ? ami_da_5
+C 779.33 If you use colour LCD . ami_da_5
+B 783.25 That is why , ami_da_4
+B 783.25 because it is nasty . ami_da_9
+B 791.83 No . ami_da_4
+C 794.14 instead of that maybe we can change the colour of the assembler . ami_da_6
+C 799.37 Maybe we can just ami_da_3
+C 799.37 if users want more colours they can pay more money to get this the shapes and they can have different assembly . ami_da_6
+B 811.46 , I am here . ami_da_16
+C 813.77 So users have different ami_da_4
+C 813.77 I mean they have their own interests , colour interests and so ami_da_4
+C 813.77 So we can just ami_da_3
+C 813.77 if they want they can just pay another two Euro . ami_da_6
+A 820.12 So ? ami_da_1
+A 820.12 Uh huh , okay , ami_da_12
+A 820.12 so ami_da_2
+A 820.12 you you propose something with option i that increase the price if we if you want o more colours on LCD , ami_da_5
+A 820.12 yeah . ami_da_9
+B 824.88 Okay . ami_da_1
+C 827.52 Yeah . ami_da_1
+C 829.54 Yeah ami_da_4
+C 829.54 yeah yes . ami_da_4
+C 831.27 If they want like so that we can ami_da_3
+C 831.27 yeah . ami_da_4
+D 833.37 Kind of upgradable remote control . ami_da_6
+C 835.17 Yeah . ami_da_9
+D 836.85 Wow , wow . ami_da_16
+A 837.18 Okay . ami_da_12
+C 837.98 Just they will get few more things and few more colours . ami_da_6
+B 841.27 Okay , ami_da_2
+B 841.27 what ami_da_3
+B 841.27 there is one more decisi one more solution in fact , ami_da_6
+B 841.27 because there are some some paints that can change colour according to where they are , like they can reflect different colours depending on what is around , like what colour is around , and depending on the temperature , ami_da_4
+B 841.27 yeah . ami_da_9
+C 855.42 Lights , yeah . ami_da_9
+A 857.24 And thermodynamic also . ami_da_4
+C 859.82 Yeah . ami_da_1
+D 860.28 Like a chameleon . ami_da_4
+C 862.64 Yeah yeah . ami_da_1
+B 864.07 We can make it in fact . ami_da_6
+A 865.36 Yeah ami_da_2
+A 865.36 but that is maybe mo too much expensive , yeah . ami_da_9
+B 865.91 If if if the ami_da_3
+B 865.91 okay . ami_da_12
+A 869.14 But it can be in maybe in an a gradable version , ami_da_6
+A 869.14 but ami_da_3
+B 872.64 so ami_da_2
+B 872.64 Uh huh . ami_da_12
+C 873.18 Yeah . ami_da_9
+D 874.11 Because I think there are two kinds of people . ami_da_4
+D 875.92 Those for which the remote control is is to be something useful ami_da_4
+D 875.92 I am going to talk about this later ami_da_7
+D 875.92 but ami_da_3
+D 875.92 and those for which is something that that that is specific to them ami_da_4
+D 875.92 so it it is like a signature . ami_da_4
+D 893.28 My remote control is pink . ami_da_4
+D 895.66 Nobody else than me has a pink remote control . ami_da_4
+D 900.32 And that makes me special . ami_da_4
+A 903.57 Okay ami_da_2
+A 903.57 and you think that we do not have to make to make them pay more ami_da_11
+A 903.57 because of o or this is ami_da_3
+A 903.57 Okay , ami_da_12
+A 903.57 so so ami_da_2
+A 903.57 i ami_da_3
+A 903.57 it is not a s base service ami_da_5
+A 903.57 it is a ami_da_3
+D 910.3 I think I think they would be ready p ready to pay more for that . ami_da_4
+D 914.08 Those who wanted to have it pink . ami_da_14
+D 918.23 No no . ami_da_4
+B 919.21 So , ami_da_2
+B 919.21 be an option , ami_da_6
+B 919.21 yeah . ami_da_4
+D 920.99 It might be optional , yeah . ami_da_9
+A 921.79 Okay . ami_da_12
+C 921.91 But those people will be really few , ami_da_4
+C 921.91 no ? ami_da_11
+C 921.91 So like ami_da_2
+C 921.91 we can those ami_da_3
+D 924.54 The the young people the young people want to be different from their friends . ami_da_4
+D 928.79 Although similar but have something just slightly better . ami_da_4
+C 930.3 Yeah . ami_da_1
+D 932.54 Pink ami_da_4
+A 932.7 So m so ami_da_2
+A 932.7 maybe that is if that it is a selling point ami_da_6
+A 932.7 maybe it has to be the base . ami_da_6
+B 937.74 Yeah , yeah , ami_da_1
+B 937.74 yeah . ami_da_2
+D 938.47 Yeah . ami_da_1
+B 940.16 But you know if you want to be different you just take your remote control with you all the time . ami_da_6
+B 946.34 And it makes you different , ami_da_4
+B 946.34 you know ? ami_da_13
+B 946.34 Anyone has their remote controls here ? ami_da_5
+B 946.34 No ? ami_da_5
+D 946.41 Yeah , ami_da_9
+D 946.41 yeah . ami_da_9
+A 946.59 And you will be different . ami_da_4
+D 947.41 You always have your remote . ami_da_4
+A 948.22 in the train , hello no . ami_da_14
+D 948.87 Oh , you do not ? ami_da_14
+D 948.87 Yeah . ami_da_14
+D 950.93 You do not have your remo ami_da_14
+D 950.93 Wh ami_da_3
+D 950.93 you you know like ami_da_2
+D 950.93 for instance take the iPod . ami_da_4
+A 955.06 Want to change my neighbour . ami_da_14
+D 957.94 It is a kind of remote control . ami_da_4
+D 959.86 it is white and it is so white that you see it from any anywhere . ami_da_4
+D 964.1 It has this distinctive look and feel and look which people seems to like just because it is a colour that we do not usually see in a remote control . ami_da_4
+B 971.38 Okay . ami_da_1
+D 977.46 White . ami_da_4
+B 978.31 Uh huh , uh huh . ami_da_12
+B 979.82 Could we integrate something into our remote control , something like light ? ami_da_11
+B 979.82 That they can use it in darkness , like . ami_da_6
+D 979.91 Seems important . ami_da_16
+D 986.45 glow in the dark , ami_da_6
+D 986.45 so ami_da_3
+D 986.45 Okay . ami_da_16
+B 987.04 Hand light , ami_da_6
+B 987.04 yeah . ami_da_9
+C 988.74 Yeah ami_da_9
+C 988.74 maybe like the infrared like we can put some radium chips or something ami_da_6
+C 988.74 so that like at least ami_da_3
+C 988.74 yeah . ami_da_2
+A 996.95 Iradium ? ami_da_14
+A 996.95 sorry . ami_da_14
+B 1000.75 Okay . ami_da_1
+C 1001.21 Yeah , ami_da_2
+C 1001.21 that ami_da_3
+C 1001.21 Oh . ami_da_9
+B 1002.61 Okay . ami_da_1
+A 1007.55 Okay . ami_da_2
+B 1009.08 Okay . ami_da_2
+B 1009.68 S well , ami_da_2
+B 1009.68 let is go on maybe with the presentation . ami_da_6
+A 1009.69 So ami_da_2
+D 1012.61 Yeah . ami_da_9
+D 1013.56 Uh huh , yeah sure . ami_da_9
+B 1015.06 And the remote control is going to be smart ami_da_6
+B 1015.06 but how smart should it be to not to complicate things too much ? ami_da_8
+B 1015.06 And ami_da_2
+B 1015.06 I dunno that is a question to you ami_da_4
+B 1015.06 and to to ami_da_3
+D 1033.25 Well so ami_da_2
+D 1033.25 I heard that it seems that speech recognition is something that can be done ami_da_4
+D 1033.25 so that is the smartness of the thing . ami_da_6
+D 1041.86 Currently we do not have guns with speech recognition or beer cans with speech recognition ami_da_4
+D 1041.86 but we may have remote controls with speech recognition . ami_da_6
+B 1051.35 Okay , okay . ami_da_9
+D 1052.34 I dunno . ami_da_9
+A 1053.6 , that is a nice world . ami_da_14
+B 1053.88 So just just just just think about it . ami_da_6
+D 1057.91 Do not touch the remote . ami_da_16
+B 1058.71 Thank you . ami_da_14
+A 1059.4 Okay . ami_da_14
+D 1059.92 But yeah . ami_da_2
+D 1061.43 Are are you saying here that the remote controls should be aware of who is using it ? ami_da_5
+D 1061.43 So ami_da_2
+D 1061.43 for instance the young guy would not be able to use it because his father does not want . ami_da_4
+B 1073.35 yeah ami_da_4
+B 1073.35 I just want to say it should be real smart . ami_da_6
+D 1073.92 Like with some ami_da_3
+D 1073.92 Maybe fingerprint recognition or . ami_da_6
+B 1078.37 Voice recognition is quite tough . ami_da_4
+B 1080.02 I say do not use it , and the control just looks . ami_da_6
+C 1084.26 Yeah . ami_da_1
+B 1086.82 Because I ordered jus To l to l lock it . ami_da_6
+C 1089.72 that that could be feasible I guess , ami_da_9
+C 1089.72 like ami_da_3
+C 1089.72 So ami_da_2
+C 1089.72 since we have we want to do some speaker dependent speech recognition ami_da_3
+C 1089.72 so we can use ami_da_3
+C 1089.72 yeah . ami_da_9
+D 1094.71 Okay . ami_da_9
+D 1100.16 So it could be smart in that way . ami_da_6
+C 1102.66 Yeah , ami_da_9
+C 1102.66 yeah . ami_da_9
+A 1106.41 Okay . ami_da_1
+D 1107.92 But for instance th I I am thinking about the other particularity that the the remote control could have . ami_da_6
+D 1115.48 S since it it knows who is using it , ami_da_4
+D 1115.48 it might also record the kind of channels you are u more often using and levels of volumes that you are more often things like that and provide you ways of using them , I dunno , somehow , ami_da_6
+D 1115.48 I dunno , ami_da_9
+D 1115.48 that might be expensive ami_da_4
+D 1115.48 but ami_da_3
+D 1115.48 that might also be a good sales pitch again . ami_da_9
+C 1124.79 Yeah . ami_da_1
+B 1128.33 Yeah , sure . ami_da_9
+C 1129.51 Yeah . ami_da_1
+C 1134.21 Yeah . ami_da_1
+C 1136.98 it is ami_da_3
+D 1140.59 The remote that knows you . ami_da_6
+A 1147.05 Okay . ami_da_6
+B 1148.42 Okay , ami_da_9
+B 1148.42 thanks . ami_da_14
+A 1150.73 So ami_da_2
+A 1150.73 it is ami_da_3
+A 1150.73 yeah , Marketing Expert . ami_da_4
+D 1151.17 My turn ? ami_da_5
+D 1151.17 Okay , ami_da_2
+D 1151.17 it is alright . ami_da_9
+A 1161.21 Participant two ? ami_da_5
+A 1161.21 Four , ami_da_12
+A 1161.21 sorry . ami_da_14
+C 1161.97 Four . ami_da_4
+D 1162.75 Four , I think . ami_da_4
+D 1165.2 Trend , ami_da_4
+D 1165.2 yeah . ami_da_9
+D 1169.69 No ami_da_16
+D 1169.69 yes . ami_da_6
+D 1175.9 Okay , so ami_da_2
+D 1175.9 I am going to talk about trends ami_da_7
+D 1175.9 and I hope this can help us to to understand l how we should design our remote control . ami_da_16
+D 1186.62 So , ami_da_2
+D 1186.62 next slide please . ami_da_6
+D 1188.95 So ami_da_2
+D 1188.95 first maybe just a small recap on how how do we watch trends ami_da_7
+D 1188.95 so ami_da_2
+D 1188.95 it is not so simple you might think that it is easy ami_da_4
+D 1188.95 but it is not so simple . ami_da_4
+D 1200.05 Anyway these days the best source of information is the web as you know , so have to to go often on the web and look at what the others are doing , and ask real people who are using real remote controls every day or any other tool that is similar to a remote control which basically is a small device that people have with them , always , like a phone . ami_da_4
+D 1225.89 We can we can use the phone as a as a good example of where to in be inspired . ami_da_6
+D 1236.67 Of course those tha d who are watching the trends are also have also to be inspired because in fact they are not only watching the trends ami_da_4
+D 1236.67 , they are inventing it , they are creating the trend . ami_da_4
+D 1247.71 I hope I am going to try to help you on that . ami_da_7
+D 1251.17 This is more risky ami_da_9
+D 1251.17 because you are not following the trend , you try to invent it , which means either you succeed ami_da_4
+D 1251.17 and you make a lot of money ami_da_4
+D 1251.17 or you do not ami_da_4
+D 1251.17 and you are out of business . ami_da_4
+D 1262.24 So anyway ami_da_2
+D 1262.24 next slide please . ami_da_6
+D 1266.8 to be to be quick ami_da_7
+D 1266.8 there is a lot of words here ami_da_4
+D 1266.8 but basically there are in in the market of of remote controls ami_da_6
+D 1266.8 there are three aspects that we should very pay much attention to . ami_da_6
+D 1280.44 The first one , which seems to be the most important one , is that it has to be fancy , it has to have a fancy look and feel . ami_da_4
+D 1288.48 And interestingly this is the very most important thing . ami_da_4
+D 1291.37 It has to be fancy . ami_da_4
+D 1293.68 Strangely enough it is more important to be fancy than to be wi and now that is the second thing it has to be , it has to be technologically i innovative ami_da_4
+D 1293.68 , it has to be new with some of new technology inside and ami_da_4
+D 1293.68 and this is also more important than the last thing which we w may think that would have been the most important , which is that it should be easy to use and it should be easy to use as a remote control . ami_da_4
+D 1321.49 So as you see it first have to be very nice , s something that people are proud of that ami_da_4
+D 1321.49 i they can be id identified with ami_da_4
+D 1321.49 and and then something that contains very novel stuff that they can talk about with their friends , huh , mine has this and not yours . ami_da_4
+D 1345.76 And finally of course it has to be useful as a remote control ami_da_4
+D 1345.76 but it seems that it is not so important that it is useful as a remote control . ami_da_4
+D 1354.71 Next slide please . ami_da_6
+D 1357.24 and now in a more general broad way of seeing th the thing . ami_da_7
+D 1365.28 If we look back and not look at only remote controls I think it is important to see that the trends are quite the same in many areas ami_da_4
+D 1365.28 so ami_da_2
+D 1365.28 currently the the trends that we see in l in l big cities like Paris and Milan , well , it seems that this year things should have a fruit and vegetable way of of look or feel ami_da_4
+D 1365.28 or ami_da_3
+D 1365.28 so . ami_da_2
+D 1393.0 And I think of course ami_da_4
+D 1393.0 i ami_da_4
+D 1393.0 it applies to everything . ami_da_4
+D 1397.09 That is the thing with trends . ami_da_4
+D 1398.86 It it can travel f from clothe to furniture same idea . ami_da_4
+D 1404.14 Fruit and vegetable . ami_da_4
+D 1405.17 Think fruit and vegetable . ami_da_4
+D 1409.98 And if we co we compare to last year , now it has to be spongy , ami_da_4
+D 1409.98 yeah . ami_da_9
+B 1415.13 What is spongy ? ami_da_5
+B 1415.13 Okay . ami_da_12
+D 1416.2 Well ami_da_2
+D 1416.2 this ami_da_3
+D 1416.2 so so I think i ami_da_3
+D 1416.2 When we were talking about rubber , ami_da_4
+D 1416.2 I think the rubber aspect might be important ami_da_6
+D 1416.2 because it is what is probably more feasible in terms of sponginess . ami_da_9
+C 1416.81 Yeah ami_da_2
+C 1416.81 kind of maybe ami_da_3
+C 1416.81 Yeah ami_da_2
+C 1416.81 it ami_da_3
+C 1416.81 Yeah . ami_da_1
+A 1431.33 S ami_da_3
+A 1431.33 So maybe titanium it is not a good idea . ami_da_9
+C 1433.63 Yeah . ami_da_9
+D 1436.31 Seems not , seems not . ami_da_9
+C 1438.47 We need to think about . ami_da_6
+D 1440.2 Yeah . ami_da_9
+D 1443.61 So ami_da_2
+D 1443.61 Think more of something in the colours of like fruit and vegetables and spongy , ami_da_4
+D 1443.61 as a ami_da_3
+D 1443.61 even in the shape it has to be more round and more look natural somehow . ami_da_4
+A 1443.76 sorry Mark . ami_da_14
+A 1445.27 It seems to be ami_da_3
+A 1445.27 Mm mm . ami_da_1
+C 1450.31 Fruit . ami_da_1
+C 1452.36 Even shape ? ami_da_5
+C 1452.36 More ami_da_3
+C 1452.36 yeah . ami_da_1
+C 1462.29 Yeah . ami_da_1
+D 1463.07 I mean And not those futuristic remote control with angles and and titanium like . ami_da_4
+D 1471.75 So ami_da_2
+D 1471.75 that is what people seem to ami_da_3
+D 1471.75 yeah ami_da_4
+D 1471.75 i ami_da_4
+D 1471.75 I know it is quite far from what you thought ami_da_4
+D 1471.75 but that is that is fashion ami_da_4
+D 1471.75 and ami_da_3
+D 1471.75 Okay ami_da_2
+D 1471.75 that is all I have to say . ami_da_4
+A 1474.52 You are old fashioned . ami_da_15
+A 1475.63 Sorry . ami_da_14
+A 1485.79 Okay . ami_da_12
+A 1488.22 you have questions ? ami_da_5
+C 1489.33 So ami_da_2
+C 1489.33 these abilities are mainly ad addressed by young people ? ami_da_5
+C 1489.33 Or it is This you ami_da_3
+C 1489.33 you so did you ami_da_3
+C 1489.33 Where ? ami_da_5
+C 1489.33 Oh . ami_da_12
+D 1496.55 These I am sorry . ami_da_12
+D 1500.56 Yeah , yeah ami_da_12
+D 1500.56 we have people listening to the trends everywhere in the world , of course , as you know our company is quite big ami_da_4
+D 1500.56 and so I am just asking them what are the current trends according to them when they go in the stores and when they ask their friends ami_da_4
+D 1500.56 that are also ami_da_3
+D 1500.56 well . ami_da_2
+C 1506.22 Oh , ami_da_12
+C 1506.22 okay , . ami_da_1
+C 1508.9 It is not from ami_da_3
+C 1514.08 Yeah . ami_da_1
+C 1518.53 Yeah . ami_da_1
+C 1519.73 It is more general trend it is not particular to the remote control . ami_da_5
+D 1522.1 No , it is not it is not this ami_da_4
+D 1522.1 this is very general , yeah . ami_da_4
+D 1525.03 But it seems that trends travel across things . ami_da_4
+C 1528.35 Yeah . ami_da_1
+D 1528.95 The what we ami_da_3
+D 1528.95 Sure . ami_da_9
+C 1530.68 Yeah ami_da_2
+C 1530.68 but some materials n they are to be they are to be something like solid like they ca not be really spongy ami_da_4
+C 1530.68 or ami_da_3
+C 1530.68 yeah yeah . ami_da_1
+D 1538.01 Yeah . ami_da_9
+D 1538.95 We have to I think we have to have the look of fruit and vegetables ami_da_6
+D 1538.95 but we still have to put our chips inside , so of course . ami_da_4
+C 1541.64 yeah , yeah ami_da_9
+C 1541.64 sponge , ami_da_6
+C 1541.64 yeah yeah ami_da_2
+C 1541.64 at least that is ami_da_3
+C 1541.64 Yeah yeah ami_da_9
+C 1541.64 that ami_da_3
+C 1541.64 yeah yeah . ami_da_9
+D 1547.62 This is your problem . ami_da_4
+D 1550.62 This is not mine . ami_da_4
+C 1551.89 Yeah . ami_da_9
+C 1553.49 Yeah , ami_da_2
+C 1553.49 looking ami_da_3
+C 1553.49 yeah ami_da_2
+C 1553.49 fruit . ami_da_9
+C 1554.93 These things can be easily incorporated . ami_da_9
+C 1557.61 We can have t colours or this shape ami_da_6
+C 1557.61 or at least ami_da_3
+D 1557.75 Yeah , ami_da_9
+D 1557.75 I think in the colours and in the the kind of material . ami_da_6
+D 1561.38 If if it is something like rubber made or I think it it is also going to be good . ami_da_9
+C 1564.21 Yeah . ami_da_1
+D 1568.42 Okay ? ami_da_13
+D 1568.42 Yep . ami_da_14
+C 1569.23 Yeah . ami_da_12
+A 1569.4 Okay . ami_da_12
+A 1572.87 No more question ? ami_da_5
+A 1572.87 Okay . ami_da_14
+D 1577.21 Thanks . ami_da_14
+A 1578.44 So . ami_da_16
+A 1590.92 Okay , so ami_da_2
+A 1590.92 we will have next meeting in thirty minutes again . ami_da_4
+A 1595.62 now you have to go straight on this individual action ami_da_6
+A 1595.62 which i which are for Rama wil design , Mark the user interface design , and Sammy the product evaluation . ami_da_4
+C 1603.15 Look and feel de ami_da_3
+A 1614.46 you will work together on a new on on a prototype using modelling clay . ami_da_4
+C 1623.47 sounds interesting . ami_da_9
+A 1624.49 and I as always your personal coach will send you specific instruction . ami_da_4
+D 1635.64 Okay . ami_da_12
+B 1636.33 Okay . ami_da_12
+D 1639.11 Thanks . ami_da_14
+C 1640.02 So , ami_da_2
+C 1640.02 can we highlight the specific features of our ami_da_11
+C 1640.02 yeah , ami_da_2
+C 1640.02 so so ami_da_2
+C 1640.02 we want the speech recogniser and we want some kind of buttons and we want some themes like fruits or vegetables , ami_da_4
+C 1640.02 that is ami_da_3
+C 1640.02 we want to follow general trend . ami_da_4
+A 1643.24 Yeah you are right , you have to ami_da_9
+A 1643.24 So ami_da_2
+A 1643.24 you say s S ami_da_3
+A 1643.24 do we agree on that ? ami_da_11
+A 1643.24 Yeah . ami_da_9
+D 1658.88 Spongy . ami_da_4
+C 1660.26 Yeah . ami_da_16
+A 1665.57 We have to . ami_da_4
+C 1666.42 So , ami_da_2
+C 1666.42 do you think ami_da_3
+B 1667.89 So ami_da_2
+B 1667.89 we have to ami_da_5
+B 1667.89 for ami_da_3
+B 1667.89 yeah ami_da_12
+B 1667.89 so ami_da_2
+B 1667.89 are we confident enough on creating trends ? ami_da_11
+B 1667.89 Well , ami_da_2
+B 1667.89 we can make it smell like fruit . ami_da_6
+D 1669.35 No , we do not have to , but seems it is the trend . ami_da_4
+A 1670.26 No . ami_da_9
+D 1671.86 Again , as I said we can also try to make it , to create the trend . ami_da_6
+C 1672.13 Yeah . ami_da_9
+D 1676.69 So there is no ami_da_3
+D 1676.69 Well , ami_da_2
+D 1676.69 that is ami_da_3
+D 1676.69 you t can try to convince us . ami_da_6
+C 1676.88 Yeah . ami_da_1
+D 1688.87 Okay . ami_da_9
+A 1689.53 Okay , that is a good idea . ami_da_9
+C 1691.31 That is ami_da_3
+C 1691.31 So ami_da_2
+C 1691.31 what about location and these things , people are really interesting on those features ? ami_da_5
+C 1691.31 Or they really like They more want these fancy features ami_da_5
+C 1691.31 like ami_da_3
+C 1691.31 Feature ami_da_4
+C 1691.31 Yeah . ami_da_9
+D 1691.34 that is a good idea , ami_da_9
+D 1691.34 I ami_da_3
+D 1691.34 I think i ami_da_3
+D 1691.34 yeah ami_da_2
+D 1691.34 i it is again in this ami_da_3
+D 1691.34 what I said first it has to be fancy ami_da_4
+D 1691.34 so I think if nobody else pro provides currently a remote control with that kind of stuff and if we can provide it ami_da_9
+D 1691.34 I think it is a good sell for us ami_da_9
+D 1691.34 because we have it and others do not . ami_da_4
+A 1691.54 So titanium smell like fruit . ami_da_5
+B 1693.83 Yeah . ami_da_4
+C 1724.71 Yeah . ami_da_1
+A 1725.81 Okay . ami_da_1
+D 1725.93 It is fancy . ami_da_4
+D 1727.08 Whether it is useful or not does not seem to be very important . ami_da_4
+C 1729.92 Yeah . ami_da_12
+A 1730.36 I I agree with this ami_da_9
+A 1730.36 Now we have to decide on what kind of fanciness . ami_da_6
+C 1731.49 Yeah . ami_da_1
+A 1739.59 Do we take titanium smelling like fruit , or do we make spongy fruity like ami_da_11
+C 1744.6 Yeah . ami_da_2
+C 1746.17 we will try to explore these two options ami_da_6
+C 1746.17 and ami_da_3
+C 1746.17 yeah yeah . ami_da_9
+D 1748.01 Maybe you could explore the two option . ami_da_9
+A 1749.22 Yeah , ami_da_9
+A 1749.22 yeah . ami_da_9
+B 1751.03 Could we make a titanium shape ? ami_da_11
+B 1751.03 I mean fruit shaped . ami_da_11
+C 1753.88 yeah ami_da_9
+C 1753.88 at least like we can make banana ami_da_6
+C 1753.88 or ami_da_3
+C 1753.88 yeah ami_da_4
+C 1753.88 it is it is ami_da_3
+C 1753.88 yeah ami_da_2
+C 1753.88 that is a ami_da_3
+C 1753.88 we are to look for and and s we are to see the whether rubber is expensive ami_da_6
+C 1753.88 and d ami_da_3
+A 1758.84 Do not you say that you cannot do double shape curved shape ami_da_5
+A 1758.84 yeah . ami_da_9
+B 1758.92 But ami_da_3
+B 1758.92 Doub double curved . ami_da_4
+D 1763.74 Seems to be . ami_da_3
+A 1766.77 Okay . ami_da_1
+B 1768.66 Okay , okay . ami_da_1
+B 1773.22 In fact I just agreed to make to make the like titanium panels on a whole rubber body . ami_da_4
+B 1785.28 Well , okay ami_da_2
+B 1785.28 w we will see . ami_da_6
+A 1785.71 Mm mm . ami_da_2
+A 1786.73 Okay , so ami_da_2
+A 1786.73 you explore now that you are going to work together these these two . ami_da_6
+B 1790.07 Yeah We will see . ami_da_9
+A 1792.2 Or or spongy an ami_da_3
+A 1792.2 yeah . ami_da_1
+C 1794.36 Yeah . ami_da_2
+C 1795.4 Maybe we can have two different assembly also like one spongy and one kind of titanium . ami_da_6
+C 1802.92 we have only the plastic or the the chippy yeah fibre chips or ami_da_3
+D 1805.45 If you have time . ami_da_9
+B 1805.89 We will see . ami_da_9
+A 1808.32 Yeah ami_da_2
+A 1808.32 I do not think w ami_da_3
+A 1808.32 I think we have to choose . ami_da_6
+A 1811.43 If we choose titanium or if we choose spongy but it cannot be both . ami_da_6
+B 1814.5 We will see . ami_da_9
+B 1815.14 I I really do not like this modelling clay ami_da_9
+B 1815.14 because you know it makes some for for ami_da_4
+B 1815.14 I dunno ami_da_9
+B 1815.14 yeah ami_da_2
+B 1815.14 we will look . ami_da_7
+C 1817.17 Yeah . ami_da_1
+D 1821.16 For creation . ami_da_4
+C 1822.23 Yeah . ami_da_9
+C 1824.82 Yeah . ami_da_1
+A 1826.84 you can pretend that it is titanium . ami_da_6
+C 1827.49 Even design . ami_da_3
+D 1830.62 You can paint it afterward . ami_da_6
+B 1833.49 Okay , okay . ami_da_1
+D 1833.63 No problem . ami_da_9
+D 1834.12 We have a very large department of paint . ami_da_4
+A 1837.62 Yeah , ami_da_2
+A 1837.62 do do not worry , ami_da_6
+A 1837.62 you you you speak with . ami_da_3
+D 1840.22 You will do it . ami_da_6
+B 1841.42 Alright , alright . ami_da_9
+A 1843.95 Okay . ami_da_2
+A 1844.99 So ami_da_2
+A 1844.99 explore a shape . ami_da_6
+C 1851.57 So ami_da_2
+C 1851.57 still we want to keep LCD ? ami_da_11
+C 1851.57 Or ami_da_11
+C 1851.57 Okay . ami_da_12
+A 1854.91 I think it is what we say , that we have an an LCD with information . ami_da_9
+D 1856.31 Yeah . ami_da_1
+A 1860.51 Not ami_da_3
+D 1860.53 The thing is that if we want to have as he says if we want to have a small number of buttons we need to have a kind of output that says currently what their actions are . ami_da_6
+C 1866.13 Yeah , ami_da_2
+C 1866.13 then we can ami_da_3
+C 1866.13 yeah , ami_da_9
+C 1866.13 yeah , ami_da_9
+C 1866.13 that user friendly ami_da_6
+C 1866.13 or ami_da_3
+D 1872.96 Yeah . ami_da_9
+D 1874.45 That is the converse to having zillions of button where each button does only one thing . ami_da_4
+C 1876.47 Yeah . ami_da_1
+C 1879.36 Yeah . ami_da_9
+A 1884.31 Okay . ami_da_2
+C 1884.31 and we just stick with two batteries so it is not any solar or ami_da_11
+C 1884.31 yeah ami_da_9
+C 1884.31 yeah ami_da_9
+C 1884.31 j ami_da_9
+C 1884.31 yeah , ami_da_9
+C 1884.31 because ami_da_3
+C 1884.31 Yeah . ami_da_1
+D 1887.92 Yeah . ami_da_9
+D 1888.63 Classical , we stay classical in that we do not reinvent the wheel . ami_da_6
+A 1889.37 Yeah , ami_da_9
+A 1889.37 yeah , ami_da_9
+A 1889.37 yeah . ami_da_9
+D 1894.03 Anyway it is very ami_da_3
+D 1894.03 in general I think people change TV more often than batteries of their remote control . ami_da_4
+D 1901.92 So . ami_da_2
+A 1903.25 Yeah . ami_da_1
+D 1903.26 Because the trend goes faster than the life of the ami_da_4
+D 1903.26 So it is very ami_da_3
+D 1903.26 Okay . ami_da_5
+A 1910.92 Okay . ami_da_2
+A 1913.83 So ami_da_2
+A 1913.83 are we ami_da_5
+C 1914.29 Yeah . ami_da_4
+C 1915.56 Yeah , we are done . ami_da_4
+A 1917.97 Okay . ami_da_2

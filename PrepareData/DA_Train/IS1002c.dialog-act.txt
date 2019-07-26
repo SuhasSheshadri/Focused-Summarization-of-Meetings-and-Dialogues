@@ -1,0 +1,766 @@
+A 6.83 Afternoon guys . ami_da_14
+A 11.6 It is going to be . ami_da_3
+D 14.15 Rock and roll . ami_da_14
+A 15.36 Oh . ami_da_3
+A 22.27 Okay . ami_da_1
+D 23.13 So do we need to re train Mike on how to put his mic on ? ami_da_14
+D 23.13 Okay , can he get it all by himself this time ? ami_da_14
+D 23.13 So ami_da_3
+D 23.13 I believe I can fly . ami_da_14
+C 27.06 Think s . ami_da_3
+A 27.14 We may do . ami_da_14
+A 29.76 I dunno , I am feeling like a big boy . ami_da_14
+C 30.75 Pro ami_da_3
+C 30.75 Probably not , because he is Is been listening to too much . ami_da_14
+C 39.35 He is getting retarded . ami_da_14
+B 42.8 Alright well we got some exciting stuff for you guys . ami_da_4
+C 42.87 Yay . ami_da_14
+C 45.76 Or not . ami_da_9
+B 47.16 Or not . ami_da_4
+C 47.94 Yeah . ami_da_1
+D 48.65 Just what I needed was something exciting . ami_da_9
+D 52.42 Remember , I am an old man . ami_da_4
+A 55.36 Okay , ready to go ? ami_da_5
+A 55.36 Okay so we have got our conceptual design meeting . ami_da_4
+B 57.37 All ready . ami_da_4
+C 59.06 Apparently I am old as well . ami_da_14
+A 61.34 Hopefully we have all got exciting ideas now . ami_da_8
+D 61.8 Thirty is really young , eh ? ami_da_14
+D 61.8 Jose he man is . ami_da_14
+B 63.67 We do . ami_da_7
+A 64.4 k exciting ideas . ami_da_16
+A 66.29 Okay so here is our agenda our agenda . ami_da_4
+A 69.47 I am going to open . ami_da_7
+A 72.25 I am going to talk for a bit about what we are going to do . ami_da_7
+A 75.95 I am going to take some notes . ami_da_7
+A 77.4 We are going to all do a presentation , and then hopefully we are going to make some decisions now . ami_da_4
+A 83.67 Yep . ami_da_1
+B 84.32 Alright . ami_da_1
+A 84.62 Well when I say hopefully , we have to . ami_da_4
+A 86.51 So I am going to let you guys talk before we make decisions . ami_da_4
+A 92.65 And does anyone really want to go first ? ami_da_8
+A 92.65 You p two ? ami_da_5
+A 92.65 What is ami_da_5
+A 92.65 Components design . ami_da_1
+B 95.53 I guess I will go first . ami_da_7
+B 97.78 Yeah . ami_da_4
+B 99.52 Component , I think . ami_da_4
+B 101.24 Yeah . ami_da_4
+B 103.14 Yep that is it . ami_da_9
+C 104.98 Presented by name . ami_da_14
+B 107.72 My name is . ami_da_3
+A 109.65 Your name is name ? ami_da_14
+A 109.65 Huh hi name . ami_da_14
+B 110.71 My name is name . ami_da_14
+C 111.87 My name is Inigo Montoya . ami_da_14
+C 114.1 You killed my father . ami_da_14
+B 116.48 Sorry ami_da_14
+B 116.48 I did this in a bit of a rush . ami_da_4
+C 116.52 Prepare to die . ami_da_4
+D 118.02 N name . ami_da_14
+B 118.52 So so here is a look inside your really old looking remote control . ami_da_4
+A 118.63 Right . ami_da_1
+B 123.28 you have got a printed a printed circuit board here , and you have got all these buttons which kind of press down little rubber nubbies into these little holes that activate ami_da_4
+B 123.28 Yeah we have all broken a remote control . ami_da_9
+A 135.06 We have all broke a remote control ri s ami_da_4
+A 135.06 yeah . ami_da_4
+D 136.62 I have ami_da_3
+D 136.62 I just love you tech guys , huh . ami_da_9
+B 139.03 So you have also got you have got your chip here , your batteries here , and some sorta electronics . ami_da_4
+B 145.39 Well ami_da_3
+B 145.39 so you have got here is here ami_da_4
+B 145.39 is a transistor , and this amplifies your signal , you have got the LED here on the end of the on the end of the printed circuit board . ami_da_4
+D 147.65 Yeah y do jabber ami_da_14
+C 148.68 Yeah there is a thingy and a dingy and ami_da_14
+C 148.68 Nah . ami_da_1
+A 151.54 You press this and it does th I dunno who and whatnot . ami_da_14
+B 161.97 you have got a couple diodes here for I do not know who and whatnot . ami_da_4
+B 168.01 So exactly . ami_da_9
+B 170.2 So we have got a i in this in this drawing he in this example here , this is a eighteen pin chip ami_da_4
+B 170.2 I dunno . ami_da_4
+D 173.76 P ami_da_3
+D 173.76 Yeah . ami_da_1
+B 181.99 it is two double A batteries . ami_da_4
+B 183.74 This is pretty standard remote . ami_da_9
+B 186.72 So here are options for our power sources . ami_da_4
+B 190.21 You can use a basic battery , which we have already discussed , th our tech department also said we have the option of doing some kind of hand dynamo where maybe you crank it or something like that . ami_da_4
+B 201.47 I do not know if that is really ami_da_9
+B 201.47 I do not know we got some qu crazy guys down there in that department ami_da_9
+B 201.47 so ami_da_9
+B 201.47 You shake it . ami_da_5
+A 201.48 Okay . ami_da_1
+C 202.64 I want to change that . ami_da_14
+A 207.93 Okay . ami_da_1
+D 208.1 I ami_da_4
+D 208.1 I gotta ami_da_4
+D 208.1 I gotta flashlight , ami_da_4
+D 208.1 and yeah ami_da_4
+D 208.1 but it is interesting because you shake it like this . ami_da_4
+D 215.95 Like this . ami_da_4
+B 216.83 Yeah . ami_da_1
+B 217.49 So that is the next bullet is the the kinetic provision of energy , so it is like that flashlight where you have to shake it . ami_da_4
+D 218.9 And that is on the camera . ami_da_14
+D 224.92 Yeah . ami_da_1
+A 225.78 Okay . ami_da_1
+B 226.16 we have got solar cells , ami_da_4
+B 226.16 which I do not think is a very good idea because you could not use your remote at night which does not make a lot of sense . ami_da_9
+A 235.33 okay . ami_da_1
+B 235.64 And finally we have got our cradle o our power cradle idea . ami_da_4
+A 239.03 Okay so we basically have battery versus cradle here ? ami_da_5
+A 239.03 Okay . ami_da_9
+B 240.99 M battery versus cradle ami_da_4
+B 240.99 I think is ami_da_4
+B 240.99 yeah . ami_da_4
+C 243.12 I like the kinetic . ami_da_9
+A 245.59 So we have battery versus cradle ami_da_4
+A 245.59 It is actually a novel thing because you could sell it a as a novelty , ami_da_4
+A 245.59 just to be actually serious for a minute here , ami_da_6
+A 245.59 you could ami_da_3
+D 245.6 I g ami_da_9
+D 245.6 I ami_da_9
+D 245.6 I figured you would . ami_da_9
+B 246.44 It could be fun . ami_da_9
+D 247.06 Yes . ami_da_9
+D 249.35 Yeah . ami_da_9
+B 253.83 Yeah . ami_da_1
+B 254.62 Well it is it is more ami_da_9
+B 254.62 I mean it is more eco friendly than the than the cradle ami_da_9
+B 254.62 because you are still using power off the grid with the cradle . ami_da_4
+B 262.48 So our case design . ami_da_4
+B 266.8 We have choices in materials and choices in the general shapes that we can do . ami_da_4
+B 272.01 Our material choices are a plastic latex ty or plastic , a rubber latex type thing , wood , or titanium . ami_da_4
+B 281.6 If we go with titanium we are going to be limited in the amount of shapes we can do because it is tough to shape the titanium , and ami_da_4
+B 281.6 Yeah pers ami_da_3
+B 281.6 I think wood ami_da_3
+B 281.6 i ami_da_3
+B 281.6 I I ca not see anybody wanting to use a wooden remote , ami_da_9
+B 281.6 it is just anti technology really , you know . ami_da_4
+A 292.03 Wood wood would ge would give us a little bit of a marketing niche , would not it . ami_da_6
+A 298.26 Nah . ami_da_1
+D 299.44 It it it ami_da_3
+A 302.48 Okay . ami_da_9
+D 307.98 to me in a marketing sense it is not it is not relative . ami_da_4
+D 311.02 We can we can o we can accentuate whatever whatever product you put in there we can find a way to accentuate it . ami_da_7
+B 315.85 Right . ami_da_9
+B 316.61 And what we may be able to do , and I think this might be the best option is to combine some a couple of these . ami_da_6
+A 316.91 Okay . ami_da_1
+B 322.39 my recommendation personally would be to do some kind of a plastic inner shell with a like a rubber outer shell , ami_da_6
+B 322.39 to make it to mak like a thick plastic inner shell and a t kind of a to have that rubber outer shell to make it more durable , ami_da_4
+B 322.39 and also maybe i I think it feels a little better than the plastic . ami_da_9
+A 343.8 Okay . ami_da_5
+A 343.94 Do you get a good grip on the rubber ? ami_da_5
+A 343.94 Yeah okay . ami_da_1
+B 345.2 Yeah ami_da_4
+B 345.2 Yeah . ami_da_1
+D 346.22 And if you make it from that super rubber , when you drop it on the floor it can bounce right back up in your hand . ami_da_6
+D 350.6 You do not even need to lean down to get it . ami_da_6
+B 352.39 The advantages of working with plastic and rubber is w we we will have a lot more options just in terms of shape because you can extrude plastic in basically any shape you want . ami_da_4
+B 361.57 So and then we can cover you know the breakable bits with rubber ami_da_6
+B 361.57 yeah ami_da_6
+B 361.57 so ami_da_6
+B 361.57 But basically these are curved and double curved ami_da_4
+B 361.57 I ami_da_4
+B 361.57 I believe that the tech department , in their in their message to me , that they were referring to the number of th curves in the bottom . ami_da_4
+A 369.35 Okay . ami_da_1
+B 382.55 I have no idea exactly what they are talking about , but that is what they told me , uncurved , flat , curved , or double curved . ami_da_4
+A 385.78 Okay . ami_da_1
+B 389.0 I would guess this like this pen would be kind of like a double curved , where it is curved on m m multiple axes , right ? ami_da_6
+B 389.0 I think curved means just curved in one axis ami_da_4
+B 389.0 and double curved is curved in two axes or surfaces . ami_da_6
+A 401.65 Okay . ami_da_1
+B 403.35 I have no idea . ami_da_6
+A 403.37 I think it might mean something like that sorta shape because a double curve rather than a ami_da_6
+A 403.37 yeah that is what . ami_da_3
+D 407.35 yeah that is ami_da_9
+D 407.35 yeah ami_da_9
+D 407.35 that is what I see . ami_da_9
+B 408.1 Oh okay ami_da_12
+B 408.1 oh like a wave , okay . ami_da_12
+D 410.19 Yeah that is what I see also . ami_da_9
+B 410.69 Alright that makes sense okay . ami_da_12
+B 413.1 okay , with the interface we have the following options , we can u we can use push buttons , we can use a scroll wheel with an integrated push button , and LCD display , or multiple scrolling wheels . ami_da_4
+D 422.56 Ooh . ami_da_16
+B 427.12 so these are all options that the user interface guy can has at his disposal to put together a user interface . ami_da_4
+A 436.83 Okay . ami_da_1
+B 437.81 For electronics , we have these very technical descriptions here . ami_da_4
+B 443.43 A simple chip , which is the least expensive , but I have no numbers to give you , a regular chip , which is like the medium porridge the medium expense Yes ami_da_4
+B 443.43 the difference is , with a simple chip a simple chip will operate ami_da_3
+B 443.43 oh why does not this scroll up ? ami_da_9
+B 443.43 Previous previous , okay . ami_da_16
+A 453.71 D do we have actually any concept of what the difference is between a simple chip and an advanced chip ? ami_da_5
+A 453.71 Okay . ami_da_1
+B 467.6 A simple chip is required to operate push buttons . ami_da_4
+B 470.93 an advanced chip is required to to operate the LCD display , and it did not say specifically , ami_da_4
+B 470.93 but I I have a hunch that a regular chip is going to be the scroll wheel and the multiple scroll wheels . ami_da_4
+A 485.96 Okay . ami_da_1
+B 486.44 So but yeah . ami_da_2
+A 488.66 Yeah that makes sense . ami_da_9
+B 491.14 That is the end of my presentation . ami_da_4
+A 491.36 So presentation from I guess design would go best . ami_da_6
+A 498.76 Next . ami_da_6
+A 507.96 Technical functions or interface concept ? ami_da_5
+A 507.96 Yeah that is it . ami_da_16
+B 510.63 I think ami_da_3
+B 510.63 No . ami_da_9
+C 511.7 Oh interface concept . ami_da_4
+C 517.63 Very long presentation . ami_da_9
+A 521.57 Yes , but it has your name on it . ami_da_14
+C 524.59 Well that does not bo bode well for it for it tats as well . ami_da_16
+C 528.74 so , ami_da_2
+C 528.74 somehow that thing is too big , but ami_da_9
+C 528.74 okay ami_da_2
+C 528.74 our manufacturing division wanted the speech recognition . ami_da_4
+C 537.85 They say they could put it to work ami_da_4
+C 537.85 but we do not think so . ami_da_4
+C 542.19 No . ami_da_9
+C 542.65 It it it ami_da_4
+C 542.65 you will be you know be affected by the by the other speech and ami_da_4
+C 542.65 Yeah and and fighting for the remote would not be fun anymore , ami_da_9
+C 542.65 and I think that is one of the things we want to keep . ami_da_4
+B 545.97 If the TV is working , ami_da_4
+B 545.97 yeah . ami_da_9
+B 547.97 That is just ami_da_3
+B 547.97 I mean it will if somebody says up in the middle of a television show , it is going to change the channel . ami_da_4
+B 556.94 So ami_da_3
+B 556.94 Well then why do not you just press the up button ? ami_da_6
+B 556.94 Even still there is going to be interf th ami_da_4
+B 556.94 there is there still will be interference from the TV . ami_da_4
+A 560.16 But what if you actually had to press a button to make it recognize ? ami_da_6
+A 560.16 So if you pressed it and went , up ? ami_da_6
+A 560.16 Man ami_da_9
+A 560.16 yeah . ami_da_9
+C 565.64 That kind of would r d ami_da_3
+C 565.64 yeah . ami_da_9
+C 568.72 That would kind of lose it . ami_da_9
+A 570.02 But if it is just one thing with a button that you can just go ami_da_6
+A 570.02 Up . ami_da_1
+D 572.72 That is right . ami_da_9
+B 577.6 It might not be it might not be completely confusing , ami_da_4
+B 577.6 but I think you will still y ami_da_3
+B 577.6 it is still ami_da_3
+B 577.6 I do not think it is practical at all . ami_da_9
+A 577.65 Yeah , okay . ami_da_1
+B 586.33 I think it is a bad idea frankly . ami_da_9
+C 588.87 Yeah so taking that away , our the the the rubber but rubber buttons are the more reliable it is the the ones that would al would allow us to to market our product as being you know less prone to damage and more resistant to things like spillage of liquids over it ami_da_4
+C 588.87 or you know mistreat misuses as it happens to remote controls . ami_da_4
+A 589.0 Okay . ami_da_1
+A 592.21 You guys know your stuff . ami_da_9
+C 614.83 as for the point that we making about losing it . ami_da_4
+C 619.87 Well , we want to small r remote control one side because we want it to be cool and designed , but apparently market shows that bigger s bigger remotes get less lost , ami_da_4
+C 619.87 about ami_da_3
+C 619.87 But yeah I think we we need to compromise between those two and somehow we will do that . ami_da_6
+B 639.54 That I would believe . ami_da_9
+C 646.62 Somehow . ami_da_6
+C 647.92 so the the what I would propose is something more or less in the direction of what is to yo the right of that slide but without with a l a less complicated design , so the numbers , the volume control , and channel control , and teletext access . ami_da_6
+C 668.28 the volume and channel control can just become those the the four button array as in if it was a round dial . ami_da_6
+C 677.33 And if you just think about it as the one to the right but with the numbers and the four buttons plus maybe a centre one with teletext . ami_da_6
+A 685.64 So we are suggesting doing a sorta scroll wheel thing for the volume ? ami_da_5
+A 685.64 Nah . ami_da_1
+C 688.23 no it is not i ami_da_4
+C 688.23 i ami_da_4
+C 688.23 it is just four buttons that are on a cross , so ami_da_4
+C 688.23 that you ba basically can control all of the important tasks from that alone . ami_da_4
+B 689.27 That is not a scroll wheel . ami_da_4
+A 692.36 Oh okay okay . ami_da_12
+A 693.04 I see . ami_da_12
+B 694.94 Right . ami_da_1
+B 696.45 Instead of play , stop , rewind , and fast forward there , that is up , down , louder , and quieter . ami_da_4
+A 696.86 , okay . ami_da_1
+A 701.75 Okay . ami_da_12
+C 701.78 Yeah ami_da_9
+C 701.78 yeah ami_da_6
+C 701.78 so I think we w ami_da_6
+C 701.78 we go for something mid sized , so something looks good and is not too prone to get lost . ami_da_6
+C 714.37 That be it . ami_da_4
+A 715.41 Okay . ami_da_9
+A 717.05 So on to Y functional requirements or trend watching ? ami_da_5
+A 717.05 forty six nineteen fifty seven . ami_da_16
+D 729.03 I dunno . ami_da_4
+B 729.76 Trend watching has a later date there . ami_da_4
+D 730.18 Trend watching I guess . ami_da_4
+D 731.64 Trend watching I believe . ami_da_4
+D 734.72 See what it looks like . ami_da_6
+A 734.73 Yep . ami_da_16
+D 736.75 It is been so long . ami_da_4
+D 742.01 Well I do not know what to say . ami_da_9
+D 743.59 When I s when I see the when I see the product ami_da_4
+D 743.59 I ami_da_4
+D 743.59 I ami_da_4
+D 743.59 I ami_da_4
+D 743.59 I do not want to buy it . ami_da_4
+D 749.04 I see so many of them out there . ami_da_4
+D 750.93 There is nothing about that product that makes me want to choose that product over other products that are out there . ami_da_4
+B 756.05 Are you talking about the picture ? ami_da_5
+B 756.05 That is not our that is not our b design , that is just a that is just something he a a graphic he used to show you the layout of what the layout of the buttons might be like . ami_da_4
+D 757.24 Yeah yeah . ami_da_4
+D 759.68 Okay . ami_da_1
+D 764.68 Okay . ami_da_1
+D 767.92 Okay because because right now I do not have too much to say about how to market this product because we do not have a product to market yet . ami_da_4
+D 774.69 And from from talking to Mike is that we have we have we can market a more expensive product now . ami_da_4
+D 783.26 That is what I understand so , ami_da_4
+D 783.26 hello . ami_da_16
+A 784.16 Upper management said yes . ami_da_4
+A 786.23 e excuse that , that is a bit of spam . ami_da_16
+D 788.58 And and so yeah ami_da_2
+D 788.58 I am a I am a little bit stuck right now in that ami_da_4
+D 788.58 what w what is it that I am going to market ? ami_da_4
+D 788.58 without special or increased marketable features I do not believe the product has a consumer demand . ami_da_4
+D 802.51 I like the idea of of the scroll ami_da_9
+D 802.51 makin ami_da_3
+D 802.51 there are so many people making these products at this price right now . ami_da_4
+D 810.94 What are we going to do to make this one special and unique ? ami_da_8
+D 810.94 well I do not ami_da_3
+D 810.94 yeah it is I ami_da_4
+D 810.94 I just see it as different . ami_da_4
+B 813.62 What is special and unique about a scroll ? ami_da_5
+B 813.62 Well right I think the two big th points that we have so far are the having the cradle and also having the the actual design of the case itself having like this like rubber shell maybe with a plastic interior , having it look really nice and also be really durable . ami_da_4
+A 817.58 It is cool . ami_da_4
+D 820.23 I do not say it is specially ami_da_4
+D 820.23 I do not say it is special . ami_da_4
+D 825.64 I say that it is different ami_da_4
+D 825.64 I what I am looking for as marketing is ami_da_4
+D 825.64 m give me something different . ami_da_4
+D 830.84 I give me a lower price , give me a higher price , give me some new technology , ami_da_6
+D 830.84 do not give me the same thing that everybody else is putting out there on the shelf it is f at the same price . ami_da_4
+D 840.54 I need something to market about this thing . ami_da_8
+D 842.72 We are we are a new firm . ami_da_4
+A 843.46 I would I would say though that we if we did make the decision to go with the cradle though , the then we have that as well , ami_da_4
+A 843.46 but wi with a similar ami_da_3
+D 847.16 What i if when when we have ami_da_3
+D 847.16 yeah ami_da_9
+D 847.16 when we when we have something like the cradle or or something give that is ami_da_3
+D 847.16 as as a marketing standard I need something to market , to make this product unique . ami_da_4
+D 873.41 Yep . ami_da_1
+D 879.28 okay . ami_da_1
+D 879.71 Just remember when I made up this report I did not have the information that we are discussing here . ami_da_4
+B 883.43 Right ami_da_9
+B 883.43 yeah . ami_da_9
+D 884.18 And and so so yeah when we have a cradle , when we have some kind of design , so what I am saying is , from my perspective , I do not have a product to market right now . ami_da_4
+A 884.2 Course . ami_da_9
+B 884.6 Yeah . ami_da_9
+D 895.0 my personal preference is that we make some adjustment in the cost , either lower or develop an integrated new technol technology . ami_da_4
+D 903.72 That is that is the next step , there is technology and then there is technology , which we are moving into the next phase . ami_da_4
+A 907.48 Yeah because that is . ami_da_3
+D 910.14 And so we are going to have some new technology to enhance the marketability . ami_da_4
+D 914.81 Yeah again I am not sold on the product ami_da_9
+D 914.81 because we do not have a product in my opinion yet . ami_da_4
+D 922.44 So I need a product . ami_da_4
+A 922.99 okay . ami_da_1
+B 923.48 Well let is get a product then . ami_da_6
+D 924.57 I need a product to market . ami_da_4
+D 926.56 And I just whatever product you guys put together , we will find a way to market it . ami_da_4
+D 930.0 Tha that I am not concerned with . ami_da_9
+A 933.4 So now ami_da_3
+A 933.4 So our big questions here really are cradle or not cradle ? ami_da_5
+A 933.4 Do we go basic or do we go for features ? ami_da_5
+A 933.4 d does anyone really want to do anything with the scroll wheel or should we ditch that off hand first ? ami_da_5
+A 933.4 Oh but that was in your presentation ami_da_4
+A 933.4 so wh what would you imagine it doing ? ami_da_5
+D 934.87 If you if you give me if you give me a cut out of what everybody else has then I need to I need to find a lower cost . ami_da_4
+B 960.32 Well my question is what would the scroll wheel do ? ami_da_8
+B 960.32 Function wise , what does that do that ami_da_8
+B 960.32 Yeah . ami_da_4
+D 969.08 Yeah wh wh what is the wh ami_da_3
+D 969.08 Okay ami_da_1
+D 969.08 now what I see with the scroll wheel is everybody has buttons . ami_da_4
+B 972.16 Well it is it is just another way to do the exact same thing that the buttons do . ami_da_4
+C 977.71 But would we ami_da_3
+C 977.71 I dunno . ami_da_1
+D 980.76 So from a marketing standpoint I have I have another door to walk through when we have something that is unique . ami_da_4
+A 986.47 okay ami_da_1
+A 986.47 Yeah . ami_da_1
+D 986.65 If it creates something more complex or more expensive , then I do not know if that makes it a marketing necessity . ami_da_4
+D 993.86 But again , from a marketing perspective I want as much new and different about this thing as possible because we are we are co it is a very competitive market . ami_da_4
+A 1002.57 What I understand about scroll wheels is they are they are quite expensive to to make . ami_da_4
+B 1005.6 Yeah . ami_da_9
+B 1007.0 Th they are going to be more expensive , but on the other hand , I mean , it I mean it is an alternative if if you think that is going to sell some some you know ami_da_4
+B 1007.0 if if we are going to make up the extra cost by extra sales I think maybe it is worth it to do it , ami_da_9
+B 1007.0 but I mean I would just use if I was going to do this I would just use the scroll wheel for s channels up and channels down . ami_da_6
+A 1007.06 So I d ami_da_3
+A 1007.06 Well ami_da_3
+A 1007.06 I ami_da_3
+A 1007.06 d I like the idea of basically focusing the ami_da_3
+A 1007.06 my personal preference is focusing the p the product on the idea of the the case the the dock to put it in to to charge it . ami_da_4
+B 1034.02 I do not think volume ami_da_9
+B 1034.02 or do you think volume would be ami_da_11
+B 1034.02 No we can we can do multiple scroll wheels but ami_da_4
+C 1038.55 I will bet first in volume maybe . ami_da_9
+C 1040.08 I dunno . ami_da_9
+A 1061.03 We can target like environmentally friendly ideas , that sorta things . ami_da_6
+A 1064.66 It s i m makes it easy to market , it is easy to differentiate the product , ami_da_9
+A 1064.66 yeah so . ami_da_9
+D 1065.71 Yeah yeah . ami_da_9
+D 1066.56 I think it is ami_da_3
+D 1066.56 that is right . ami_da_9
+D 1068.37 I think so . ami_da_9
+A 1069.67 And if we we keep the rest in a format that is durable ami_da_6
+A 1069.67 because th th the whole product is going to need to be more durable th thus because you are not going to be ditching it as often . ami_da_4
+A 1081.2 It is going to need to be more expensive because of the cradle . ami_da_4
+A 1084.88 So if we can market it in terms of that ami_da_6
+A 1084.88 and yeah well So our big decision then is like how do we do like ami_da_3
+A 1084.88 we have to decide on the details and we have to decide on well n not exactly the details , ami_da_4
+A 1084.88 but d do we have ami_da_3
+A 1084.88 What type of casing ? ami_da_5
+A 1084.88 I personally like what you were saying about the plastic with the rubber . ami_da_9
+D 1086.91 Yep . ami_da_1
+D 1087.65 I think we got some exclusivity in that , you know , we got something that nobody else has right now , and and that means we can we can make some adjustments in the retail or wholesale price if we need to and it also can create it is own demand from it is uniqueness . ami_da_4
+B 1090.95 Yeah . ami_da_1
+B 1119.15 I am thinking yeah something like kind of almost like these pens , you know , where there is you have plastic bits ami_da_6
+B 1119.15 and then it is not really rubber ami_da_4
+B 1119.15 but just kind of like a fused the plastic with rubber on the outside . ami_da_6
+A 1131.14 Okay . ami_da_1
+A 1131.69 Just a very thin sorta sheet for a a grip , sorta thing or for ami_da_6
+A 1131.69 Okay . ami_da_12
+B 1134.17 Well no ma ami_da_9
+B 1134.17 yeah ami_da_9
+B 1134.17 maybe a bit more then th is on here ami_da_6
+B 1134.17 but ju just as a kind of an inspiration , these pens I think are are kind of Or from from my perspective ami_da_4
+B 1134.17 I think LCD is a mistake because this is a universal remote and all you are doing ami_da_4
+B 1134.17 I mean it is you are not going to get any information back from the television , so the only information you can display on this remote is what channel you just sent it at last and there is just not a lot of information , you know , there . ami_da_4
+A 1144.4 So then if we ami_da_3
+A 1144.4 d d do we want to do anything more basic with the more advanced with the user interface in terms of do we want to go for buttons , or do we want if we are ditching the scroll wheels do we want to go LCD ? ami_da_5
+A 1144.4 Do we want to give do we want to have anything else on it ? ami_da_8
+A 1144.4 Okay . ami_da_1
+C 1168.58 It is only a TV . ami_da_4
+B 1190.78 It receives no information . ami_da_4
+B 1194.68 So I I do not see any reason for having an LCD because it is an increased cost . ami_da_4
+B 1200.21 Unless you can think of something interesting to do with it . ami_da_8
+D 1200.29 Yeah . ami_da_1
+D 1203.28 Yeah right now there is right now there is nothing coming out of the TV to receive , so you know unless technology changes and information starts coming out of the a cable box or something there is no s ami_da_4
+D 1203.28 I do not see the ami_da_4
+D 1203.28 , I do not see the necessity of an LCD either . ami_da_4
+B 1207.39 Right . ami_da_1
+D 1220.74 Do not see it . ami_da_4
+A 1223.04 Okay so ami_da_2
+A 1223.04 the question is now I guess we need t to decide on ami_da_3
+A 1223.04 well y you guys basically have to now go and figure out the details of this thing . ami_da_4
+A 1235.94 So , what we need to know in terms of marketing and project management are are there any other questions that we need to answer now before you guys can go and build this ? ami_da_5
+A 1235.94 What what overall things have we not decided on ? ami_da_5
+A 1235.94 I think maybe in terms of marketing , is that going to make enough of a difference to justify the cost ? ami_da_5
+A 1235.94 Yeah ami_da_9
+A 1235.94 and I guess th th the question th th that you are being asked right now is whether is the dock enough of a unique feature to be able to go out and sell that a a as a a very different product , or do we really need the scroll wheel as well ? ami_da_5
+A 1235.94 Because the scroll wheel comes at quite a cost . ami_da_4
+B 1250.58 Well we have to I think for me it is still not exactly clear exactly what the inter user interface is going to be . ami_da_4
+B 1256.44 There is the scroll wheel , in or out ? ami_da_5
+B 1256.44 What do you guys like in the user interface ? ami_da_11
+B 1256.44 Well I dunno about like the flip phone idea , because I think , as far as durability th it is not ami_da_9
+B 1256.44 a big ami_da_9
+B 1256.44 well maybe when it is closed . ami_da_6
+D 1264.58 Again . ami_da_4
+D 1265.91 Well I think it is it is the more uniqueness you can bring to the product ami_da_4
+D 1265.91 , the easier it is , I believe , for me to market . ami_da_4
+D 1272.3 again the push buttons I I see are are everywhere . ami_da_4
+D 1277.71 And so we can go with the same thing , ami_da_6
+D 1277.71 but we are going to be com competing in a in a broader market than if we go with something unique . ami_da_4
+D 1284.92 You know the other thing I thought about was ami_da_6
+D 1284.92 you know , do we go to something like this ? ami_da_6
+D 1284.92 Make a remote that does not look like a remote . ami_da_6
+D 1295.28 It is just another it is just a an idea , ami_da_4
+D 1295.28 and I do not know ami_da_3
+D 1295.28 I mean what I see one of the things one of the things you brought up in an earlier presentation is , when you got children , their their stuff gets inside the circuitry , they get dirty , they get messy with drinks and stuff . ami_da_4
+D 1319.05 This ami_da_3
+D 1319.05 And what I keep throwing out there I just keep throwing out ideas to try to make this thing look or act or in some way identify itself as unique or different . ami_da_4
+D 1332.9 But you guys are the ones that have to c ultimately create the product within cost . ami_da_4
+D 1353.35 Oh okay ami_da_12
+D 1353.35 phew . ami_da_16
+B 1356.23 Yeah . ami_da_1
+D 1356.67 I think you gotta g get into cost effectiveness . ami_da_4
+D 1359.25 I think if you can have the base station with a with a locator , I think those are two very strong features , ami_da_9
+D 1359.25 if that is something that can be integrated without a bunch of extra cost . ami_da_4
+B 1365.49 Well The ami_da_3
+B 1365.49 The locator is going to require a radio transmitter , ami_da_4
+B 1365.49 which will ami_da_3
+B 1365.49 we are probably going to have to go with a like a medium chip , s I would imagine . ami_da_4
+A 1372.74 That is going to n is that going to need a better chip as well ? ami_da_5
+A 1372.74 And it is presumably going to need a little speaker in it or something like that as well to beep . ami_da_6
+C 1376.68 No it is just different . ami_da_4
+B 1383.62 But we I we will need a receiver , an antenna . ami_da_4
+D 1387.38 Integrated , yeah . ami_da_16
+B 1388.32 Yeah . ami_da_1
+D 1388.68 So it is just I ami_da_3
+D 1388.68 I think that is ami_da_3
+D 1388.68 I know personally that would be a very attractive feature , is to have a have a button I can push to find my remote control . ami_da_9
+B 1392.02 It should be a really simple signal though so ami_da_4
+B 1392.02 That is true yeah . ami_da_9
+A 1409.99 But I guess a little tiny speaker is going to be quite cheap , ami_da_6
+A 1409.99 it is not going to need q quality , is it ? ami_da_4
+A 1409.99 It is ami_da_4
+A 1409.99 Makes your living room more fresh as you watch . ami_da_6
+B 1413.72 Oh yeah ami_da_9
+B 1413.72 yeah . ami_da_9
+B 1414.91 It will be really cheap . ami_da_9
+D 1416.93 Or maybe you can like have ami_da_6
+D 1416.93 a a smell o rama ami_da_6
+D 1416.93 , you know you push a button ami_da_6
+D 1416.93 and it s puts out a stink . ami_da_6
+D 1422.26 You can ami_da_3
+D 1422.26 Yeah ami_da_9
+D 1422.26 yeah ami_da_9
+D 1422.26 yeah ami_da_9
+D 1422.26 yeah . ami_da_9
+C 1424.59 Maybe not ami_da_9
+A 1430.1 Okay we are doing well for time here . ami_da_9
+C 1430.83 S ami_da_3
+C 1430.83 Yeah . ami_da_1
+A 1431.88 we have got about another ten minutes . ami_da_4
+A 1434.43 I think that ami_da_3
+A 1434.43 pr my personal preference is out . ami_da_4
+B 1436.9 So the scroll wheel , in or out ? ami_da_5
+B 1436.9 For me I think the scroll wheel actually might not be so bad . ami_da_9
+A 1443.76 I do not think the cost is justified for a little bit more uniqueness when we already have that , and I do not s think it is obvious and natural how it would be used . ami_da_4
+C 1451.14 Yeah I think we have like ami_da_9
+C 1451.14 and it is not very usable ami_da_9
+C 1451.14 and it will bring down the robustness of the whole thing , because it is it it breaks down easier . ami_da_4
+D 1457.28 Yeah . ami_da_1
+B 1461.66 I do not know exactly what the increased cost is going to be , ami_da_4
+B 1461.66 but I think he does have a point , ami_da_9
+B 1461.66 i it might push somebody over the edge when they are looking at our at our remote versus something else , when they see this one has a scroll wheel to go up and down on the channels . ami_da_6
+B 1474.89 I think it might be kind of neat to be able to do it like that . ami_da_9
+A 1479.59 But then that that surely d depends a little on the TV because some TVs are quite slow at changing channels from like so ami_da_4
+A 1479.59 if you have got a scroll wheel and you s ami_da_6
+A 1479.59 you have to scroll scroll it really really slowly ami_da_6
+A 1479.59 just so that you are actually keeping in pace with the TV is ability to to change channels . ami_da_6
+D 1479.7 W ami_da_3
+D 1479.7 Yeah . ami_da_1
+B 1485.52 Sure . ami_da_9
+A 1495.15 Or do you have to go through and you wait for it ? ami_da_6
+A 1495.15 You scroll it a bunch of times and you wait for it to ami_da_6
+B 1499.57 Well I think wh what it would be is like like the m like this , where it is maybe you know a digital wheel , right , where it is where it is quantized into you know certain ami_da_6
+B 1499.57 That was that was my my intuition of what the scroll wheel would be . ami_da_4
+D 1509.99 Oh yeah . ami_da_12
+A 1510.63 I see I see . ami_da_12
+A 1511.3 That is where you ami_da_3
+A 1511.3 I see I see what you are talking about now . ami_da_12
+D 1511.94 Yeah . ami_da_1
+A 1516.16 Okay . ami_da_12
+B 1520.69 It is just it is basically it it is just a f look and feel thing . ami_da_4
+B 1523.84 It has the same exact functionality as two buttons . ami_da_4
+D 1526.16 I I think there is you know that there are so many people today ami_da_4
+D 1526.16 that are that are surfing are television surfers , and I see the scroll as a as a great mechanism for surfing . ami_da_4
+D 1537.11 Instead of going button to bu you just j you would j j j j j j . ami_da_6
+A 1537.28 Yeah if you are just sitting there going ami_da_6
+A 1537.28 That is kind of cool actually . ami_da_9
+B 1540.87 Yeah . ami_da_1
+D 1541.28 I really I really think that is a really cool thing for surfing . ami_da_9
+A 1542.97 I like that . ami_da_9
+B 1545.17 Now just just so you know though you did bring up a point which is very valid , is a lot of TVs wo not re the TVs wo not respond exactly the same . ami_da_4
+B 1552.47 Some of them are going to be kind of slow switching , so you may like queue up like fifteen channel changes , and it will be like flip , flip , flip . ami_da_4
+D 1561.01 Well there is ano ami_da_3
+D 1561.01 That is right . ami_da_9
+B 1561.6 But ami_da_3
+B 1561.6 Right . ami_da_9
+A 1561.72 Well not n necessarily . ami_da_9
+A 1562.99 You could basically make it so that it will I mean it is just going to be sending a signal to the TV ami_da_6
+A 1562.99 yeah ami_da_6
+A 1562.99 the TV is ge so if you send about five flip channels , if you did that it is going to flip once . ami_da_6
+A 1572.46 If you do that . ami_da_3
+B 1572.47 Yeah it just might be frustrating where you ca not make it go as fast as you want , ami_da_9
+B 1572.47 but I think once people get used to it ami_da_4
+B 1572.47 I I do like the idea of the scroll wheel though . ami_da_9
+A 1574.26 Other than click click click . ami_da_3
+A 1576.2 Yeah . ami_da_1
+A 1580.05 And if we are marketing it as a high niche product , then we are going to be selling it to people who are buying good TVs as well , yeah , presumably . ami_da_6
+D 1586.75 Yeah I think so . ami_da_9
+A 1587.33 Primarily . ami_da_4
+D 1588.04 I I think so . ami_da_9
+C 1588.29 Yep . ami_da_1
+D 1589.15 Now the the only thing I I on the interface side of it , is that I ami_da_4
+D 1589.15 I ami_da_4
+D 1589.15 I see the dilemma . ami_da_4
+D 1596.97 But if we have the option of of scrolling at any particular speed , or the option of jumping direct , okay . ami_da_6
+D 1606.37 So I can go presuming I have , on my television , something that tells me what channel I am on , I can scroll direct from channel five to channel thirty two . ami_da_6
+D 1619.62 I know what because it is on the television . ami_da_4
+D 1621.38 The television tells me what channel it is on when I change it . ami_da_4
+D 1624.1 So I do not know that really that is that is going to be a a d problem , ami_da_9
+D 1624.1 because the television can go automatically from channel five to channel thirty two with the push of a button . ami_da_4
+D 1634.36 Okay ? ami_da_4
+D 1634.36 So ca can we can we create that kind of interface within a scroll system ? ami_da_6
+D 1634.36 You understand what I am saying ? ami_da_13
+D 1634.36 Oh no ami_da_9
+D 1634.36 we could read it from the television . ami_da_6
+B 1640.29 I think I know what you might be getting at , or or ami_da_12
+B 1640.29 Well , what about this what about if you can programme in your favourite channels into this scroll wheel and you can just like roll through your favourite channels , ami_da_6
+B 1640.29 and it c it ami_da_3
+B 1640.29 Why ? ami_da_12
+B 1640.29 It will tell you when you flip the channel on the TV . ami_da_4
+A 1642.29 Oh I see ami_da_12
+A 1642.29 so if maybe if we had an LCD up the top that just did a number on it , right ? ami_da_6
+A 1642.29 And then it that basically ami_da_3
+A 1657.51 Well that is quite cool . ami_da_9
+A 1658.31 You would need a display on the th the thing . ami_da_6
+D 1661.75 Yeah the the television can tell you . ami_da_4
+B 1663.43 Yeah . ami_da_1
+D 1664.1 Can . ami_da_3
+A 1665.11 Oh yeah ami_da_12
+A 1665.11 yeah ami_da_12
+A 1665.11 no ami_da_12
+A 1665.11 I see what you are talking about . ami_da_12
+A 1666.64 Yeah that is kind of cool . ami_da_9
+A 1667.76 How would you program it though ? ami_da_5
+A 1667.76 Okay okay . ami_da_9
+B 1668.96 Well you just it is one extra button . ami_da_4
+B 1670.27 You say programme start , and then type in because you still have the typing you know you will still have the keypad where you can type them in manually . ami_da_4
+D 1670.38 Put And then . ami_da_3
+B 1677.51 So programme start , zero , one , enter , zero , five , enter , thirty eight , enter , programme end . ami_da_6
+A 1685.08 Okay ami_da_9
+A 1685.08 and yeah ami_da_9
+A 1685.08 and that just basically flips between it ami_da_4
+A 1685.08 and it will go it sends out zero , five , and then thirty six , and then zero , one again . ami_da_4
+A 1692.32 Yeah that is kind of cool . ami_da_9
+A 1693.28 I like that . ami_da_9
+D 1695.06 And again we have another another great marketing tool . ami_da_4
+D 1697.81 We have about three we have three or four things here . ami_da_4
+A 1699.51 That is not going to be too expensive ami_da_4
+A 1699.51 because that is going to be you are going to be able to nab that off of computer mouse manufacturers really . ami_da_6
+A 1706.68 You could basically come up with a partnership to be able to produce that quite cheaply . ami_da_6
+D 1710.94 I dunno ami_da_9
+D 1710.94 and an maybe we maybe even have this as in house technology . ami_da_6
+C 1711.37 Yeah . ami_da_1
+D 1714.31 This may be something that is available through our own through our own services . ami_da_6
+A 1717.99 Might be , ami_da_11
+A 1717.99 but tha that is not going to be such a costly feature . ami_da_4
+A 1721.49 The problem we are going to have is making it robust . ami_da_4
+B 1724.42 Oh well we also have to determine in some manner how to switch between modes , between going through your favourites list and just hitting up one , up two . ami_da_8
+A 1724.83 Making it last . ami_da_4
+D 1732.58 Or we go directional up ami_da_6
+D 1732.58 we go ami_da_6
+D 1732.58 we go this ami_da_6
+D 1732.58 we go this ami_da_6
+D 1732.58 we go this way for one ami_da_6
+D 1732.58 , we go this way for the other . ami_da_6
+A 1734.75 So if there is a button for each type . ami_da_6
+B 1739.32 No ami_da_9
+B 1739.32 because you want to be able to go up and down through the channels . ami_da_4
+A 1741.56 Yeah people are going to have their favourite sorta , whether they do that or whether they ami_da_4
+A 1741.56 Yeah yeah the mode switch . ami_da_9
+D 1742.26 Ah ha okay . ami_da_12
+D 1743.36 Okay , okay , ami_da_2
+D 1743.36 well then you just have , you have a diff you have a mode switch . ami_da_6
+B 1744.99 Right . ami_da_1
+B 1746.32 I think we will need a we will need a mode switch , ami_da_6
+B 1746.32 but then if we have a mode switch we are going to need some kind of indicator ami_da_4
+B 1746.32 to which , an LE an LED ami_da_6
+B 1746.32 okay . ami_da_9
+A 1752.47 Just the lights behind the buttons . ami_da_6
+A 1753.88 You could have back lit buttons maybe . ami_da_6
+A 1756.98 Would that work ? ami_da_11
+A 1756.98 Is that ami_da_3
+A 1756.98 okay we have five minutes . ami_da_4
+C 1757.07 Yeah . ami_da_3
+B 1758.55 Okay . ami_da_1
+A 1760.72 So right details th that we have talked about here are that we want a scroll wheel . ami_da_4
+A 1768.41 We want a mode indicator . ami_da_4
+A 1774.85 We want back lit buttons . ami_da_4
+A 1780.24 And if we are making back lit buttons period , do we want that just for the mode indicator or maybe to indicate what button you are pressing at the time , so that you know if it is actually pressed or not . ami_da_6
+A 1787.88 I have seen some remotes do that . ami_da_4
+B 1789.8 Okay . ami_da_2
+B 1790.45 Just so you know I think I mean it was my understanding that before we were going to stay in the mid market range . ami_da_4
+B 1795.79 It seems we are kind of approaching a higher end range . ami_da_4
+D 1799.12 Yeah yeah . ami_da_9
+A 1799.48 I think we are yeah . ami_da_9
+B 1799.55 I want to make sure everybody is okay with that . ami_da_11
+D 1800.61 Well you had acknowledged that we have more money for this . ami_da_4
+A 1803.14 Yeah well we do not have it is not that we have more money , we can push up the the price . ami_da_4
+D 1803.17 Did not you say so ? ami_da_5
+D 1803.17 That is what I mean . ami_da_9
+D 1808.39 We can increase the cost . ami_da_4
+A 1808.57 Yeah . ami_da_9
+B 1809.62 Okay . ami_da_1
+D 1810.76 So I do not know I do not know ami_da_3
+D 1810.76 whether having ami_da_3
+D 1810.76 Well I think th ami_da_4
+D 1810.76 I think the design and technology has to come back and say , okay to create this product we see it is going to cost us this much for this volume , because we do have a volume target of of fifty million profit . ami_da_4
+A 1810.8 Okay . ami_da_1
+B 1812.09 I just want to make sure everybody is on board with it . ami_da_11
+B 1814.35 So ami_da_11
+B 1814.35 Right . ami_da_1
+A 1814.37 Yeah . ami_da_12
+A 1816.88 So we really need to be sure as to what we can push the cost up to , ami_da_6
+A 1816.88 though we have not got to a stage where we are ready to pin down the price of components . ami_da_4
+A 1823.24 But I would say what sorta price are we looking to be able to sell something like that , ami_da_8
+A 1823.24 and what sorta price can we make it for ? ami_da_5
+A 1823.24 Yeah no ami_da_9
+A 1823.24 I ami_da_6
+A 1823.24 I think that is where we really should be more flexible than anything else ami_da_6
+A 1823.24 because as we said in the last meeting , our management is really looking for us to push our brand . ami_da_4
+A 1848.02 We are entering a new market here , ami_da_4
+A 1848.02 so I think the the profit expectation for this one product is maybe not as important as being able to ami_da_9
+A 1848.02 But th what is our ballpark as to what we would be able to sell something like this for ? ami_da_8
+A 1848.02 But you have gotta think who our target market is ami_da_6
+A 1848.02 because I I am not our target market . ami_da_4
+D 1855.51 Okay I am I am okay with that . ami_da_9
+D 1856.74 I guess what I just want to me the next step is for these guys to come come in with the design proposal w with the cost estimate attached , and then we have to take this to the next level . ami_da_6
+B 1869.22 Well y ami_da_9
+B 1869.22 yeah . ami_da_9
+B 1869.63 Let is let is try and think now , how much would you pay for with all these features how much would you pay if you went to the store , and you were in the market f to replace your TV remote , how much would you pay for that ? ami_da_8
+B 1869.63 I am just asking you . ami_da_4
+D 1870.36 We have to find cost . ami_da_4
+A 1884.48 I am a student , but on the other hand I would think , with my Project Manager salary , I would think ami_da_4
+A 1884.48 yeah ami_da_4
+A 1884.48 I could probably afford this ami_da_4
+A 1884.48 would I buy it ? ami_da_11
+A 1884.48 Maybe . ami_da_9
+B 1886.71 If ami_da_3
+B 1886.71 Then you could probably afford this . ami_da_4
+A 1899.01 If I had a cool new TV and this was r looking really slick and it had the dock and it had the scroll wheel , which I think is a really cool idea , that would sell me on it a little . ami_da_9
+A 1906.59 Then maybe you know . ami_da_9
+A 1909.07 I do I do not think I would go over a hundred Euro certainly , that would be way too much , ami_da_9
+A 1909.07 but the I would be happy paying over forty for it , I guess , but not much ami_da_6
+A 1909.07 Okay . ami_da_9
+B 1911.51 Oh no no . ami_da_9
+B 1918.23 I would say thirty five to forty . ami_da_6
+D 1920.08 Yeah , I was going to say thirty five to fifty . ami_da_6
+A 1923.26 Thirty five to fifty Euros is our sales bracket ami_da_4
+A 1923.26 okay . ami_da_4
+B 1925.94 Okay . ami_da_1
+A 1926.11 So the question is what we ca we make it for . ami_da_5
+D 1926.15 Because one of th one of the things we are marketing about this product is that this is the last one you will ever need to buy for your television . ami_da_4
+B 1931.57 Right . ami_da_9
+D 1932.32 It is one of the marketing features in this . ami_da_4
+A 1934.3 That is why the scroll needs to be really robust . ami_da_4
+C 1936.69 Okay so we will come up with something between thirty five and fifty that is rug rubber , robust , with scroll wheel , with the new facilities of the scroll wheel like favourite stuff , favourite channels , and and with a cradle , and ami_da_7
+C 1936.69 yeah and the locator . ami_da_7
+B 1950.0 With a cradle , radio transmitters , and back lit buttons . ami_da_4
+B 1954.78 And it is going to look sexy . ami_da_9
+C 1957.26 Or not . ami_da_9
+B 1957.99 Or not . ami_da_9
+B 1958.91 It might look like clay . ami_da_4
+C 1960.07 Okay so you can market pe depending on that ? ami_da_5
+C 1960.07 Cool . ami_da_1
+D 1962.16 Yeah yeah . ami_da_4
+D 1963.1 Bas th that is that is easy . ami_da_9
+D 1965.08 That is that is not a , it is a . ami_da_3
+D 1968.6 Because we have about six , six , seven features in that alone . ami_da_4
+A 1973.94 Yep . ami_da_1
+D 1974.36 Under the title of uniquenesses . ami_da_4
+A 1977.35 Okay . ami_da_2
+A 1977.8 The next meeting starts in thirty minutes , ami_da_4
+A 1977.8 although does it ? ami_da_12
+A 1977.8 It starts at three twenty one , the next meeting . ami_da_4
+A 1984.45 So we have got more than a thirty minutes . ami_da_4
+A 1986.5 we have got more like fifty . ami_da_4
+D 1988.28 Well I have Is my ami_da_3
+D 1988.28 three twenty one is the next meeting ? ami_da_5
+D 1988.28 That is that is almost fifty minutes . ami_da_4
+A 1992.21 The the ne next meeting is three twenty one ami_da_4
+A 1992.21 yeah . ami_da_4
+A 1997.33 Yeah that is . ami_da_9
+A 1998.62 they have they have changed the times from the presentations . ami_da_4
+D 1999.51 You guys can You guys you guys can create a All kinds of things . ami_da_4
+B 2005.14 Probably . ami_da_9
+B 2005.67 We will let you know when we are done , if we can go earlier . ami_da_7
+D 2008.85 Thanks , yeah . ami_da_14
+A 2009.4 Okay so you guys will be getting your modelling done now and ami_da_4
+A 2009.4 Okay are there any other questions with regards to what this thing is going to do , look like , how it is going to work that need to be addressed before we really look at this in a lot of detail ? ami_da_5
+A 2009.4 Okay . ami_da_1
+B 2013.36 Yeah . ami_da_1
+B 2028.18 I do not think so . ami_da_4
+C 2034.01 Yeah I think it pretty much everything is covered . ami_da_9
+A 2036.5 Okay . ami_da_9
+A 2037.8 This one was quite easy . ami_da_9
+C 2040.04 Coulda been worse . ami_da_9
+D 2041.88 Still . ami_da_16
+A 2041.92 Always the optimist . ami_da_14
+D 2045.11 Thank you . ami_da_14
+D 2047.29 I do not have any emails . ami_da_16
+D 2048.49 This means I can go home . ami_da_16

@@ -1,0 +1,370 @@
+A 26.78 welcome back after lunch , I hope you had a good lunch together . ami_da_14
+A 35.7 For this meeting the main agenda okay to discuss about the conceptual design meeting . ami_da_4
+A 46.9 Okay and the agenda will be the opening and that is the product manager or secretary that is me and the presentations from the Christine and Agnes and from Mister Ed . ami_da_4
+A 68.92 And finally in this meeting we have to decide ami_da_3
+A 68.92 and we are to take a decision on the remote control concept and the functional design ami_da_4
+A 68.92 So we have forty minutes , ami_da_4
+A 68.92 I think it is little bit low , ami_da_9
+A 68.92 but I ami_da_4
+A 68.92 I hope we can finish it up ami_da_4
+A 68.92 so I will handle to the the functional team , to the Christine , okay , to discuss about the components concept . ami_da_4
+C 104.21 Okay . ami_da_9
+C 105.61 So , if you could open the PowerPoint presentation . ami_da_6
+C 110.46 I am number two . ami_da_4
+A 111.69 You are number two . ami_da_12
+A 117.46 Okay ami_da_16
+A 117.46 The next one . ami_da_1
+C 121.52 Components design , there we go . ami_da_9
+C 126.45 So can we put it in slide show mode ? ami_da_6
+C 126.45 Yeah . ami_da_1
+C 131.65 Right here , ami_da_4
+C 131.65 is that little ami_da_3
+C 131.65 that one , ami_da_4
+C 131.65 yes please . ami_da_14
+C 135.3 Thank you . ami_da_14
+C 136.49 I will take the mouse . ami_da_7
+C 140.05 So ami_da_2
+C 140.05 we were looking he specifically at the components the following components , the case , the power supply , the means of communications with the television set . ami_da_4
+C 158.1 In instance we had talked about using some sort of speech recognition , you have to have microphone ami_da_4
+C 158.1 well ami_da_4
+C 158.1 no you do not actually ami_da_4
+C 158.1 I have not have to have microphone in the device , ami_da_4
+C 158.1 but ami_da_2
+C 158.1 maybe you do have it a a way ami_da_3
+C 158.1 it has to it has to hear the speaker ami_da_4
+C 158.1 and , ami_da_2
+C 158.1 so it could be in the television set , could be in the device , but somewhere you have to put the microphone , and a w a way of making beeps or sounds so you can find it when it is gets lost . ami_da_4
+C 187.13 so the other w thing that we So . ami_da_3
+C 190.53 Our method for going about this is we have looked at the histo hi historical record , what is worked , what has not ami_da_4
+C 190.53 and then we also we wanted to evaluate some new materials ami_da_4
+C 190.53 and we contacted manufacturing for their input ami_da_4
+C 190.53 because , course , we m might come up and choose the material that then manufacturing did not have the technologies or capabilities to offer us , ami_da_5
+C 190.53 so ami_da_2
+C 190.53 this is the approach that we took during our our research . ami_da_4
+C 219.89 So for the case , we told we were making a specifica specific assumption that it would be curved in design . ami_da_4
+C 229.35 Course , you know , I wanted it to be expandable and shrinkable , but that does not seem to b be one of the choic non option we can we can really seriously explore , so then we were thinking about rubber , but unfortunately that is been eliminated because of the heat factor and th there might be some problems with the m how it is goes with the board . ami_da_4
+C 260.16 and then th plastic also has this problem of melting and it is brittle it gets brittle after a while ami_da_4
+C 260.16 , so we still had titanium and and wood available , but unfortunately titanium is also been eliminated , the m people in manufacturing said that you could not make d curved cases out of titanium , although how Apple did it with th PowerBook ami_da_4
+C 260.16 I am not su quite sure ami_da_4
+C 260.16 but ami_da_2
+C 260.16 nevertheless they have eliminated all of our options except wood . ami_da_4
+C 292.47 So , this is our finding . ami_da_4
+B 292.57 At least it is environmentally friendly . ami_da_9
+C 295.09 And a as she said , it is an environmentally friendly material , ami_da_4
+C 295.09 so we are we are currently proposing , ami_da_3
+C 295.09 we will get to all my personal preferences in just a second . ami_da_4
+C 305.98 So then there is this other matter of the chips and well we could use a simple design on the board , these simple chips , but that is only works for the bu you do not get very much intelligence with this simple one . ami_da_4
+C 318.31 And then there was the regular which I regret that I have forgotten exactly why I am eliminating that one . ami_da_4
+C 328.48 the other option was this advanced chip on print , ami_da_4
+C 328.48 and we liked th we ami_da_3
+C 328.48 we found that it it includes this infrared sender , which w amember the beam was that was an important component of finding the right chip . ami_da_4
+C 343.08 And manufacturing has told us that they have recently developed a a sensor and a speaker that would be integrated into this advanced chip on print , ami_da_4
+C 343.08 so we we ami_da_3
+C 343.08 now jumping right to our personal preferences I ami_da_4
+C 343.08 I would really think we should , you know , use some of some really exotic woods , like , ami_da_4
+C 343.08 you know , well you guys come from tropical countries so you can kind of think of some trees and some nice woods . ami_da_6
+C 374.49 I think that people will might really want to design their own cases , you see , they could do sort of a this three dimensional design on the internet , and then they could submit their orders , kind of like you submit a custom car order , you know , and you can choose the colour and the size of the wheels and the colours of the leather and things like that , and then I think we should go with the solar cells as well as the microphone and speaker on the advanced chip . ami_da_4
+C 402.6 So this is the findings of our research and my recommendations for the new remote control w would be to have have it be made out of wood . ami_da_4
+C 414.13 Do you have any problems with that ? ami_da_11
+C 414.13 I am not sure , how do I ami_da_9
+C 414.13 Oh , I know , let is see . ami_da_12
+A 416.33 Can you go back one slide ? ami_da_6
+A 416.33 Yes , ami_da_2
+A 416.33 question , , what is mean exactly , advanced chip on print ? ami_da_5
+A 416.33 What is the meaning of that ? ami_da_5
+B 421.29 Thank you . ami_da_16
+C 421.36 Let is go back up here . ami_da_16
+B 422.54 Yeah . ami_da_16
+C 431.0 I think it is a multiple chip design and it is maybe printed on to the circuit board . ami_da_4
+C 442.13 I could find out more about that before the next fi next meeting . ami_da_7
+A 444.49 Yeah , ami_da_9
+A 444.49 is it means it is on the yeah ami_da_3
+A 444.49 is it on a micro proc micro processor based or ami_da_5
+A 444.49 Okay , tha that would be great , ami_da_9
+A 444.49 so if you find out from the technology background , okay , ami_da_6
+A 444.49 so that would be good . ami_da_9
+C 452.72 I do not know , ami_da_4
+C 452.72 but I will find out more at our next meeting . ami_da_7
+C 459.89 Sounds good . ami_da_9
+B 461.26 Why was the plastic eliminated as a possible material ? ami_da_5
+C 463.94 Because it gets brittle , cracks ami_da_4
+C 463.94 We want ami_da_3
+C 463.94 we expect these these remote controls to be around for several hundred years . ami_da_4
+C 481.0 So . ami_da_2
+C 481.68 Good ex Good expression . ami_da_14
+B 482.65 Whic Which ami_da_3
+B 482.65 Although I think ami_da_3
+B 482.65 I think with wood though you would run into the same types of problems , ami_da_4
+B 482.65 would not you , ami_da_11
+B 482.65 I mean it chips , it if you drop it , ami_da_4
+B 482.65 it is I am not su ami_da_3
+B 482.65 I think if you re if you use really good quality wood , then it might work , ami_da_9
+B 482.65 but you ca not just use ami_da_3
+B 482.65 Yeah , exactly ami_da_9
+B 482.65 , yeah . ami_da_9
+D 482.87 Wow , ami_da_9
+D 482.87 good expression . ami_da_14
+D 488.33 Well after us . ami_da_9
+C 492.16 I do not know , speak for yourself , I am planning to be around for a while . ami_da_14
+A 506.64 So so you are not convinced about the the wood , yes . ami_da_9
+D 508.2 Actually , I am ready to sell it . ami_da_4
+C 510.88 you are what ? ami_da_14
+C 510.88 You think ? ami_da_14
+C 510.88 And you could you could sell oils with it , to take care of it . ami_da_6
+D 511.73 I am ready to sell it . ami_da_4
+D 515.75 No y no ami_da_9
+D 515.75 no no , ami_da_9
+D 515.75 the o the only w the only wood you can use are the ones that are hard , extremely hard wood , but there are some very pretty woods out there . ami_da_4
+C 525.97 Well I am glad you ami_da_3
+C 525.97 Okay , good . ami_da_9
+D 526.36 That is actually very innovative idea . ami_da_9
+C 529.86 Sorr having a hard time keeping wi control over my face . ami_da_14
+D 535.69 Well , it is actually a very innovative n different idea that you know you can choose your colour of wood , your type of wood . ami_da_9
+B 542.94 The stain . ami_da_4
+D 543.41 I mean it is each person is going to have their own personalised , individualised speech recognition remote control in wood , that is not on the market . ami_da_4
+A 552.42 Yeah , so it it is looks good the the design the functional design , ami_da_9
+A 552.42 what about yo you ? ami_da_5
+A 552.42 Yes , in t yes , in term in terms of comments first ami_da_4
+A 552.42 Okay then , , let is move to Agnes . ami_da_4
+B 559.42 in terms of comments on this or in terms of my own ami_da_12
+B 559.42 Y ami_da_9
+B 559.42 yeah . ami_da_9
+D 563.55 In turns of wow . ami_da_14
+C 567.62 She works in the cubicle next to me so she is she was already a little bit prepared for this . ami_da_4
+C 572.97 Luckily Ed was not . ami_da_4
+D 574.9 Wood ? ami_da_14
+D 574.9 They do that anyway with the rubber and plastic , ami_da_4
+D 574.9 so , and chew them up . ami_da_16
+B 578.08 I think we can get the quality materials then it should not influence the design principles too much , which you will see with my presentation . ami_da_4
+B 586.98 One thing we would have to check though is what the users whether how quickly the novelty wears off of having ami_da_6
+B 586.98 Yeah , for example . ami_da_9
+C 593.37 Yeah , ami_da_9
+C 593.37 you would not want to have to have splinters in your hand while you are using your ami_da_4
+C 593.37 It is really good if your dog gets ahold of it , they can use it for teething . ami_da_9
+B 597.5 So , ami_da_2
+B 597.5 have to see how kid friendly it is and and all that , ami_da_6
+B 597.5 but ami_da_3
+B 597.5 Sure . ami_da_9
+C 612.51 Yeah , they do it with other materials as well , ami_da_9
+C 612.51 yeah . ami_da_9
+D 615.35 And chew them up . ami_da_16
+C 622.86 Oh , I am sorry . ami_da_14
+A 630.08 S you are ami_da_3
+A 630.08 You are in participant three . ami_da_4
+B 639.43 One point three , yeah ami_da_4
+B 642.37 , yeah . ami_da_9
+A 643.62 This one ? ami_da_5
+A 643.62 So what is your , , the comments or s ami_da_11
+A 643.62 Okay ami_da_9
+B 644.22 I think so , yeah . ami_da_4
+B 646.96 Yeah , that is the one . ami_da_9
+B 648.26 So , it is a very short presentation , because I am actually going to draw you the layout on the board ami_da_4
+B 648.26 so if you want to just go straight to the second slide , ami_da_6
+B 648.26 , which basically shows , sort of ami_da_3
+B 648.26 I took the ideas that we were talking about last time and tried to put that into the remote control so the things that y you can actually see on it are the on off switch , volume and channel control , the menu access button , ergonomic shape , ami_da_4
+B 648.26 which I completely agree with Christine is idea to have it sort of molded , so it is slightly more ergonomic and comfortable to hold than the r standard very straight remote controls . ami_da_9
+B 681.15 And actually the other thing with the wood if we take your customising idea , is that people can actually do sort of quasi measurements on their hand size , so if someone has larger hands , you have a wider remote control . ami_da_4
+C 689.12 Right , ami_da_9
+C 689.12 my hand is different size than yours for example . ami_da_4
+B 693.59 So , that is actually a really good idea for customi customisability . ami_da_9
+B 697.28 , one thing I thought might be kind of interesting is to put a flip screen on it , just like you have on flip phones , ami_da_6
+B 697.28 so that you do not have this case where someone sits on the remote control or accidentally puts their hand on it , especially if you have little kids around , they are not pressing the buttons while you are trying to watch a TV show and accidentally change the channel or turn it off . ami_da_4
+B 716.75 And also you had issues with the batteries running out , ami_da_4
+B 716.75 so I thought maybe we could put a little battery life light on it that kind of goes dimmer and dimmer and dimmer as your battery is starts to die . ami_da_6
+B 727.69 And in terms of invisible features , audio and tactile feedback on button presses and , like you said , speech recognition . ami_da_6
+B 737.44 So , in terms of what this thing would actually look like ami_da_7
+B 737.44 Despite working in interface design , I am not the greatest artist in the world , so you will have to forgive me . ami_da_9
+B 750.93 You would have something like this with an on off switch fairly big , sort of in the corner and by itself , so you do not accidentally turn your TV off while you are trying to manoeuvre other buttons . ami_da_4
+B 761.18 And then you have sort of one of those toggle displays for , oops , channels and volume , sort of for surfing channels and then volume , so the volume would be the up and down , because volume goes up and down and then channels left to right . ami_da_4
+B 777.8 And then here you would have your sort of standard , telephonish number pad . ami_da_4
+B 786.82 And then on one side you would have an access to the menu on your TV and on the other side a way to turn off the voice control . ami_da_4
+B 797.08 So that if the user does not want to use their voice , they can just turn it off and you do not have the remote control accidentally changing things on you . ami_da_4
+B 805.68 , so again you can have a little LCD light somewhere , the flip thing and ami_da_4
+B 805.68 Have I forgotten anything ? ami_da_11
+B 805.68 I do not think so . ami_da_9
+B 817.41 So , as you can see , it is a very very simple design , which is one of the things I really wanted to keep , is keep it simple , not have too many buttons , not have too many functionalities thrown into it . ami_da_4
+D 817.52 No . ami_da_1
+B 827.75 Think the design can pretty much carry over to everything , ami_da_9
+B 827.75 although with the wood the flip screen might have to do something slightly different . ami_da_8
+C 836.6 A hinge . ami_da_6
+C 838.26 Be like a copper hinge or you know . ami_da_6
+B 839.77 Yeah . ami_da_9
+B 840.48 But you also have to d start watching out for the weight , because depending on how much the the flip screen will add to the weight of the remote control , you do not want it to start getting too heavy . ami_da_4
+B 849.33 But that is the general layout with the general functionalities , if we come up with something else . ami_da_4
+B 854.25 As you can see , there is still lots of space on the actual remote control and if you do it customisably , you can make this thing fairly small or fairly o large , depending on personal preferences . ami_da_4
+B 867.38 So , that is pretty much all I had to say , ami_da_4
+B 867.38 I mean , everything else in terms of design issues . ami_da_3
+B 874.11 the centering of the key pad and the channel is just depending on where your thumb is and you tend to use the the volume control and the browsing more than the actual number pad , so that would be sort of in direct line of where your thumb goes when you are holding the remote control , the number pad a little bit lower because it is used less frequently . ami_da_4
+B 895.14 So once we decide exactly what we want , then we can figure out the exact positioning , but more or less I think it should go along those lines . ami_da_4
+D 909.67 Simple design . ami_da_9
+D 911.95 It is what consumers want . ami_da_9
+D 914.68 It is almost like , Houston , we have a product here . ami_da_9
+D 919.29 Problem is obviously going to be cost . ami_da_4
+D 923.15 Okay , ami_da_2
+D 923.15 I also have a f very simple presentation , because for the marketing point you have to see what the consumers want . ami_da_4
+A 930.62 Yeah . ami_da_1
+B 932.4 Yeah . ami_da_1
+D 933.35 I also have copied a different type of remote . ami_da_4
+D 941.01 If you can find me , where I am at . ami_da_6
+D 944.3 There should only be one in here . ami_da_4
+D 946.81 trend watch . ami_da_4
+C 953.23 Sure . ami_da_6
+D 954.84 It is being modified . ami_da_4
+D 957.22 They are stealing our product . ami_da_14
+D 960.63 We have been giving simple questionnaires in different areas because th obviously we have to see what the com consumers are looking for today , because trends change very very quickly . ami_da_4
+D 970.96 In six months maybe this idea is already gone out the window , so it is going to be a question how fast we can act . ami_da_4
+D 977.84 they already erased the rest of mine , huh . ami_da_16
+C 980.77 No , ami_da_9
+C 980.77 f go to findings . ami_da_6
+B 981.38 No , no . ami_da_1
+D 982.15 No no , no no . ami_da_9
+D 985.35 Because I had another comment there . ami_da_4
+D 987.02 the market trend . ami_da_4
+D 989.23 This is what we know from the last from the questionnaires from the the all the p surveys we have done , fancy and feel good , that is what we have been looking for , something that feels good in the hand , that is easy to use . ami_da_4
+D 1000.58 Looking for next generation of innovation , because all the remotes out there now , they are all very similar , they all do the same thing , we have to have something completely different . ami_da_4
+D 1009.28 Okay ? ami_da_2
+D 1009.28 Easy to use , has always has become has become another major interest that , ami_da_4
+D 1009.28 with the whiteboard we can see that it is a remote that is easy to use . ami_da_9
+D 1019.42 And I think this is another thing that is interesting is the consumers actually willing to pay the price for exciting tel technology . ami_da_4
+D 1025.31 So even if we have a product that may be more expensive , if it comes out right , if they look it looks and feels good and has technology . ami_da_4
+D 1035.33 The second two , you can see the last one is a very easy simple design . ami_da_4
+D 1040.63 The second one , there is about forty five thousand different buttons on it , which makes it fairly hard to read , very hard to use . ami_da_4
+D 1047.09 The first one , I see that they put in a display . ami_da_4
+D 1051.42 Now there is something else with the little flip up , now we are adding all kinds of things in , ami_da_4
+D 1051.42 but with the little flip up , if you have a little display on the flip up that when you close it everything is locked . ami_da_6
+B 1059.59 Yeah . ami_da_1
+D 1060.01 Maybe the display also makes it easier to use , because sometimes when you are looking for buttons , maybe if you see a display ami_da_4
+D 1060.01 Okay ami_da_9
+D 1060.01 Because I have seen mostly the standard ones , ami_da_4
+D 1060.01 yeah . ami_da_9
+C 1066.84 Context sensitive instructions , depending on what the tel what mode the TV or the DVD or something else is in . ami_da_6
+B 1069.25 Right . ami_da_1
+B 1073.66 Especially you might need something like that for training the speech recognition and ami_da_4
+D 1076.29 Now you have it now ami_da_4
+D 1076.29 you have one with the very simple also . ami_da_4
+D 1079.54 The idea is simple , but with a display , so you can see what you are doing . ami_da_4
+D 1083.82 So maybe if we can incorporate the easiness of use , trendy , fancy , feels good , with a display , wood , designer wood , designer colours ami_da_6
+D 1083.82 , we might have ami_da_3
+C 1100.37 You know , maybe what you could do is when somebody orders the device id you could send them like a b some sort of a foam rubber ball , and then they would squeeze it , and it would take the shape of their hand . ami_da_6
+B 1115.54 Oh yeah . ami_da_12
+B 1119.48 Yeah , so it is really molded to to your specific ami_da_9
+B 1119.48 But th for that you would also have to do sort of an average across families and things like that if unless everyone has their own personal remote . ami_da_9
+C 1121.09 To t an ami_da_3
+C 1121.09 and then you would know like what the geometry of their hands would be and ami_da_4
+C 1121.09 Yes you would know what kind of wood to get . ami_da_9
+D 1129.34 How hard they squeeze ? ami_da_14
+D 1129.34 Resistance resistance , right . ami_da_14
+C 1139.8 That is right , that is right , you would not want to go too far down that . ami_da_9
+C 1143.75 Oh that that actually would increase the the revenues we could expect , yeah . ami_da_9
+B 1146.63 The sales , yeah . ami_da_9
+A 1147.58 The ami_da_3
+A 1147.58 Yeah . ami_da_1
+A 1150.61 I hope so . ami_da_9
+D 1151.28 No , but incorporating the three obviously it would be something totally new on the market , totally different ami_da_9
+D 1151.28 and from Although , what it was it ami_da_3
+D 1151.28 it was Nokia that came out with this changeable colours . ami_da_4
+B 1155.94 Yeah . ami_da_1
+B 1158.72 Well , already the customisability is a really good sort of new gimmick . ami_da_9
+D 1169.24 Right , you take it apart , and put on another face , take it off and put on another face ami_da_4
+D 1169.24 and then they sold millions , millions . ami_da_4
+B 1169.38 Yeah . ami_da_1
+B 1170.82 Yeah . ami_da_1
+C 1172.11 Right , . ami_da_1
+B 1173.49 And that took off , yeah , ami_da_9
+B 1173.49 yeah . ami_da_9
+D 1177.95 So . ami_da_2
+D 1179.25 So say with the f with the findings , with the research , easy to use something totally new . ami_da_4
+D 1183.95 We have to come up with something totally new that is not on the market . ami_da_4
+C 1186.72 We would also have to wor consider that who we were going to get to make these custom cases in terms of manufacturing processes , we might want to learn about labour laws . ami_da_6
+C 1200.0 You know in different countries and stuff wher ami_da_4
+C 1200.0 so we can do it cheap , but you do not want to exploit labour in third world countries . ami_da_4
+A 1208.966 Yeah . ami_da_1
+C 1209.45 So actually you could turn it y turn around and say that you are par the reason the cost is high for the device is because you are paying a a working wage to the person who made the device . ami_da_6
+A 1223.46 Yeah , but we can get a production in , , countries like , , India ami_da_4
+A 1223.46 yes , yes , ami_da_9
+A 1223.46 countries like India or China or Malaysia , so you can go a better features and better price and you can sell more . ami_da_4
+C 1228.12 Cost of living is low . ami_da_4
+A 1237.71 So ami_da_2
+A 1237.71 Yeah , ami_da_1
+A 1237.71 yeah , ami_da_1
+A 1237.71 so ami_da_1
+A 1237.71 Yes . ami_da_1
+C 1241.92 Good , ami_da_9
+C 1241.92 well th that would be something that manufacturing would have to explore more ami_da_4
+C 1241.92 and to where ami_da_3
+B 1246.74 yeah . ami_da_1
+D 1246.98 Where w Where it would be manufactured is is another step . ami_da_4
+A 1250.44 So Yeah , so ami_da_3
+A 1250.44 Yes , ami_da_2
+A 1250.44 but that that we can that we can talk about the production later , okay , depends on the the quantity , okay . ami_da_4
+D 1251.82 We are here to design , come up with a nice product . ami_da_4
+C 1259.67 Yeah . ami_da_1
+A 1260.12 So we do not need to have our own fabric factory or something , so we can have a tie up with who the do the fabric , okay , for the different electronics items , then we can have a business tie up and to get to cut the cost , okay , to sell more . ami_da_4
+A 1276.72 So , ami_da_2
+A 1276.72 but le let is decide first about the components concept and interface concept , okay , ami_da_6
+A 1276.72 if is acceptable for both of you , what Ed was talking . ami_da_11
+A 1290.68 And your design whether you want with the display or without display or just a simple , so ami_da_5
+A 1290.68 Yeah . ami_da_1
+B 1298.51 I think it depends , ami_da_4
+B 1298.51 I mean I think it is a good idea , ami_da_9
+B 1298.51 but we need to really think about how useful it is going to be because theoretically with the TV you already have a big display right in front of you . ami_da_4
+B 1310.24 So , if we are trying to keep costs down , then maybe sacrificing the display is a way to go . ami_da_6
+B 1319.34 I mean it depends on how much putting a display costs and what it would be used for very specifically what it would be used for , because if it is only used for one little thing , then putting in a big display case or a big display that is probably expensive just to do the training on the chip for the speech recognition or whatever , may not be the most cost efficient way to go , ami_da_4
+B 1319.34 but that is just sort of speculation , I mean . ami_da_9
+C 1345.26 What do you think Ed ? ami_da_11
+C 1345.26 Do you ami_da_3
+C 1345.26 he liked the display in one of the concepts that you showed , ami_da_4
+C 1345.26 do you know how much it costs , , to to add a little display like this ? ami_da_5
+C 1345.26 Do you want to take an action item to go find out ? ami_da_6
+C 1345.26 Okay . ami_da_9
+D 1357.27 No . ami_da_5
+D 1358.18 No ami_da_5
+D 1358.18 no p spec ami_da_3
+D 1358.18 It is because we have to find out cost on it . ami_da_4
+C 1366.36 Sorry about that . ami_da_14
+D 1366.66 , no that is no problem . ami_da_14
+D 1368.35 I am here for the pushing it after it is made . ami_da_4
+A 1371.08 Yes . ami_da_1
+D 1371.56 I will market it . ami_da_4
+D 1374.14 Once we get a price on it then we can market it . ami_da_4
+C 1379.32 So the the advanced chip on print is what what we have we have deci we have determined and the engineering industrial design is the recommendation , and I think we have kind of come to some agreement regarding this concept of a wooden case . ami_da_4
+C 1401.19 A customisable and ami_da_3
+C 1401.19 I do not think so , no , I think they could be rubber like they are now , so you have that tactile experience of ami_da_4
+C 1401.19 So ami_da_2
+C 1401.19 are we done with this meeting ? ami_da_5
+D 1402.83 Nice beautiful mahogany red wooden case . ami_da_9
+B 1404.26 What about the buttons , would Would the buttons be wood too , or ami_da_5
+A 1410.13 I do not think so . ami_da_4
+A 1412.29 Yes . ami_da_9
+A 1413.29 Yes . ami_da_9
+A 1414.19 Do not looks nice . ami_da_4
+A 1417.59 Yeah , so ami_da_2
+A 1417.59 what we will do is , , we will stick with the the simple design for time being until th Ed find outs about the how much ami_da_4
+A 1417.59 it is cost to the extra , in case we go for the display . ami_da_4
+A 1429.76 Okay . ami_da_2
+A 1430.57 So ami_da_2
+A 1430.57 maybe what you can do is , both of you , you can come up with the the prototype , okay , the model . ami_da_6
+B 1438.03 Okay . ami_da_9
+A 1438.88 Okay ? ami_da_13
+A 1438.88 Yeah , I hope , ami_da_4
+A 1438.88 if ami_da_3
+A 1438.88 is it okay if they will come up with the prototype design , okay . ami_da_11
+B 1442.61 Sure . ami_da_12
+A 1460.5 Then they can show you how it looks like , ami_da_6
+A 1460.5 and then we can submit to the ami_da_3
+A 1460.5 I will submit to the management . ami_da_4
+A 1466.85 Okay ? ami_da_2
+A 1466.85 Then meantime you can come up with the price , how much it is cost as extra for the display . ami_da_4
+A 1473.76 An and the marketing strategy , that is very important , okay . ami_da_4
+D 1474.73 And marketing strategy , thank you . ami_da_9
+A 1478.0 Yes . ami_da_1
+A 1480.12 How much you can ami_da_3
+A 1480.12 how mu how much how much you can sell extra . ami_da_4
+A 1484.32 Of course you will make money too , so it it is not only pay out , you make money too , your commission . ami_da_4
+A 1492.64 Okay , so , any questions ? ami_da_8
+A 1492.64 So , by next meeting , so , please come up with the the prototype , okay , then , then we can proceed from there . ami_da_4
+B 1496.03 No . ami_da_4
+B 1505.98 Okay . ami_da_9
+A 1506.74 It is okay ? ami_da_11
+A 1506.74 So thanks for all your efforts and coming for the meeting again , and see you soon then . ami_da_14
+A 1514.82 Okay ? ami_da_11

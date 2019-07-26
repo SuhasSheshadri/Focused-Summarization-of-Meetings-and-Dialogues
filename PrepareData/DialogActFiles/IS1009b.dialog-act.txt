@@ -1,0 +1,627 @@
+A 37.32 Okay , is everybody ready ? ami_da_5
+C 39.06 Yeah ? ami_da_4
+C 39.06 Open . ami_da_4
+D 39.73 Yeah I would to just put on my microphone here and I will be right with you . ami_da_4
+D 45.13 Okay ? ami_da_4
+D 45.13 Okay ami_da_9
+D 45.13 you want me to start right now ? ami_da_5
+D 45.13 Okay . ami_da_9
+A 47.17 I take it you all have received instructions as to what you were supposed to do ami_da_4
+A 47.17 and ami_da_2
+A 47.17 I think the Marketing Manager probably should go first , addressing the needs and desires . ami_da_6
+B 55.71 Yes . ami_da_9
+A 78.43 Yeah , . ami_da_4
+D 79.98 Well , could you put my slides up ami_da_6
+D 79.98 because I think it might be helpful if we looked at the slides at the same time . ami_da_4
+A 86.28 Okay . ami_da_7
+A 95.59 You are participant four . ami_da_5
+D 96.82 I am participant four I believe . ami_da_4
+D 98.3 Yes uh huh . ami_da_4
+D 100.69 Okay . ami_da_9
+A 100.96 Okay , and now I can full screen . ami_da_16
+A 106.29 , okay ami_da_9
+A 106.29 , okay . ami_da_9
+D 108.47 There we go . ami_da_16
+D 109.63 Okay well I think we have introduced ourselves , so the functional requirements are is is part of my goal ami_da_4
+D 109.63 but why do not we pass right to the second slide . ami_da_6
+C 110.39 And then full screen . ami_da_4
+D 120.69 Cause that is where m my discussion starts . ami_da_4
+D 123.34 Right well since I am in charge of trying to figure out what we should put on this thing since I have to try to sell it . ami_da_4
+D 130.3 I thought that the method I should follow would be gather suggestions from everybody , and th the reason I just put that there like that is that in the init in the initial stage I think I should just be open to lots of suggestions . ami_da_4
+D 146.73 You know you can say anything you want no matter how silly it sounds ami_da_6
+D 146.73 you know it should run your car , it should heat up your motor if should turn on your CD whatever you want it to do and then as we go on what we will have to do is accept and eliminate these suggestions according to design and budget feasibility . ami_da_6
+C 155.16 Okay . ami_da_1
+D 165.62 So I will be coming to you frequently as the Industrial Expert to tell me how hard it is going to be to add a feature or how expensive it is going to be or if your time , if it takes five years to develop this it is just something we ca not do . ami_da_7
+C 171.69 Yeah . ami_da_1
+C 173.86 Yeah . ami_da_1
+C 174.57 Yeah . ami_da_1
+D 180.11 So in the beginning just have a big puddle of things that we anybody can th throw anything in and then just weed things out that ca not be done for one reason or another , and then the things that seem the most attractive that to to a customer we will try to then prioritise those . ami_da_6
+C 182.06 Yeah . ami_da_1
+C 197.33 Yeah . ami_da_1
+D 197.78 So that was what I meant there , and as I said on the slide there consulting the Industrial Engineer about that ami_da_4
+D 197.78 and the other thing is timing is really going to be as important as money , because if we are going to sell this thing , I think the best time to sell it is as a Christmas present . ami_da_9
+D 213.64 Twenty five Euros makes a nice little present , and we want it to be an impulse purchase , we want somebody to see it and think it is , gee ami_da_4
+D 213.64 I just gotta have that . ami_da_4
+D 222.22 And take out their wallet and buy it . ami_da_4
+D 224.06 So it is gotta be really attractive ami_da_6
+D 224.06 and it ami_da_2
+D 224.06 but it is gotta go to market by September , ami_da_6
+D 224.06 because anything that you do not already have out there in September showing it around , is not going to sell for Christmas . ami_da_4
+C 232.67 Yeah . ami_da_1
+D 234.85 and then I will be coming to you as the User Interface person to try to tell me from your point of view what are the most friendly features that we could put on it ami_da_7
+D 234.85 and try to prior help me with that prioritising of of the features and of the the look and the colour ami_da_6
+D 234.85 and I will be coming back to you to help weed out those suggestions from that point of view . ami_da_7
+B 250.63 Okay . ami_da_1
+B 260.98 Okay . ami_da_1
+D 261.31 So I will be coming to you for how much is it going to cost us and how long is it going to take you , and I will be coming to you to tell me what is going to make somebody take out their wallet you know , ami_da_7
+D 261.31 what what is what is going to really be what they call a sizzle , because we gotta sell this sizzle . ami_da_4
+B 269.25 What features . ami_da_9
+B 275.7 S sellable . ami_da_9
+B 276.85 Yes . ami_da_9
+D 278.51 A lot of times the thing that works the best from an engineering point of view is not the thing that somebody is really just going to take out their wallet and buy for Christmas for for their child or for their husband or whatever . ami_da_4
+B 289.01 Yes . ami_da_1
+D 290.54 Okay can we go to the next slide please ? ami_da_6
+D 290.54 Alright ami_da_4
+D 290.54 I ami_da_4
+D 290.54 I already did a little bit of research after our first meeting where we threw out some ideas and it looks to me that within the budget that we are looking at the the whole house idea really is not going to be possible . ami_da_4
+D 306.25 So I would like your suggestions to come back to the other slide where I was saying we we could suggest anything . ami_da_6
+D 311.75 I would like the suggestions to be really specific , so that we will have a list of things we can cross off , not something like you know whole house control ami_da_6
+D 311.75 what will be ami_da_3
+D 311.75 And then I found on the internet from from my research that some extended electronic entertainment control should be possible . ami_da_4
+D 329.24 At the budget that we are looking at and at the price point we are looking at , we should be able to make it work the TV , the VCR , ami_da_4
+D 329.24 the stereo set maybe something else cute like a coffee pot or one other appliance or maybe a lamp . ami_da_4
+A 341.99 okay , can can I at this point interject something ? ami_da_7
+A 341.99 we have received instruction from higher up that certain things should not be considered . ami_da_4
+D 343.81 I have to wind up ? ami_da_5
+D 343.81 Yeah , sure . ami_da_9
+D 353.2 Okay . ami_da_1
+A 353.55 the one thing for example something to eliminate maybe that is the teletext , because that is sort of outdated with the internet , and according to to higher management the it should only control the TV , mostly because they feel that it is too comp complex a task to to to include other things , and they are concerned with the time to market . ami_da_4
+D 361.11 Okay . ami_da_1
+C 374.39 Complicated , yeah , of course . ami_da_9
+C 381.27 Yeah . ami_da_1
+D 381.32 Of course , yeah . ami_da_9
+B 381.85 Okay . ami_da_1
+A 381.97 Okay . ami_da_2
+A 382.85 and the ami_da_2
+A 382.85 and the third thing that they want to make sure that their that the corporate image is being maintained , and that the corporate colour and design are being used on the product , so that it is easy that that that they can be easily identified as a product of of of the company , and that there is no mistake that it could be somebody else who is bringing this out . ami_da_4
+D 383.08 Okay , so that is something ami_da_3
+D 383.08 Okay ami_da_9
+D 383.08 so ami_da_3
+D 383.08 Okay . ami_da_9
+A 407.04 So I just wanted to interject this here ami_da_4
+A 407.04 so we are not getting too much off track here with with the things we want to look at . ami_da_4
+A 413.53 These were instructions from higher up so we have to eliminate these things , so it is only going to be TV , but the one thing maybe that could be eliminated is the teletext idea . ami_da_4
+A 426.38 okay . ami_da_11
+B 426.99 Okay . ami_da_9
+D 427.0 Alright , ami_da_9
+D 427.0 thanks for that . ami_da_14
+D 428.38 alright now other things that I found out on in my research is that the complaints that people have about the remote controls that are out there now . ami_da_4
+D 437.38 Because a lot of them take too much time to learn how to use , and that was thirty four percent but even more important the thing that we did address in our last meeting that frequently it is lost somewhere in the room . ami_da_4
+D 449.0 so those are two things that we definitely do want to address , we want to s make it as simple as possible , we want to make it obvious and intuitive to use , ami_da_6
+D 449.0 and then the things about finding it we talked about the a light emitting thing as well as maybe a beep , ami_da_4
+D 449.0 and I think that those are things after my research that we definitely want to try to incorporate . ami_da_6
+D 477.34 Okay can we go to the next slide please ? ami_da_6
+D 477.34 Okay , so , my personal preferences in this project are really have to concentrate on the sizzle . ami_da_6
+D 487.37 That is the selling point , the thing that is going to make it an impulse purchase . ami_da_4
+D 491.69 because once there is no be back , well in sales they always say you know , be backs do not come back . ami_da_4
+D 498.02 If somebody says , oh I will come back and get it next week you are dead . ami_da_4
+D 501.07 They are never going to come back and buy it . ami_da_4
+D 502.5 You have gotta make it attractive enough so they buy it now now now ami_da_4
+D 502.5 w now is a big word in in my book for selling this thing . ami_da_4
+D 510.54 And , in order to make it really sellable we have gotta shorten the learning curve , make sure it is really intuitive and easy to use . ami_da_6
+D 518.32 We have to have as few buttons as possible , ami_da_6
+D 518.32 because more buttons is more confusion , ami_da_4
+D 518.32 so that is why I am saying , simplicity is good . ami_da_9
+D 526.03 Finding it is important , obviously you ca not use it if you ca not find it . ami_da_4
+D 528.95 So we have gotta concentrate on the features that help you find it , ami_da_6
+D 528.95 and I have already said this several times ami_da_4
+D 528.95 but I put it down in writing here ami_da_4
+D 528.95 , it should be an attractive impulse purchase at twenty five Euros . ami_da_4
+D 539.11 So it has to have enough value that when somebody looks at it they say , twenty five Euros I am not going to take that . ami_da_4
+D 544.76 Has to be so great that they are going to say , twenty five Euros is not much . ami_da_4
+D 549.21 and then maybe a motto , like we put fashion in electronics might be something we can use in our marketing campaign . ami_da_6
+C 556.58 Yeah . ami_da_1
+D 556.96 Okay that is about it for me right now . ami_da_4
+A 559.68 Okay . ami_da_9
+A 563.03 And ami_da_2
+A 563.03 who would be next , , ami_da_16
+A 563.03 I guess that would be you . ami_da_4
+C 571.19 Yeah okay . ami_da_7
+A 572.29 You want me to get your slide show up ? ami_da_7
+C 573.35 Yeah ami_da_9
+C 573.35 yeah sure . ami_da_9
+C 574.55 Thank you . ami_da_14
+A 580.82 And you are number three ? ami_da_5
+A 580.82 Number two . ami_da_12
+C 582.47 Number two , ami_da_4
+C 582.47 yeah . ami_da_9
+C 590.93 Yeah exactly . ami_da_9
+A 591.62 Okay . ami_da_9
+C 593.76 can you make it full screen please ? ami_da_6
+C 593.76 No , ami_da_4
+C 593.76 it is like a ami_da_2
+C 593.76 well you you have to press here . ami_da_4
+A 594.24 Okay . ami_da_7
+A 598.28 Yep . ami_da_1
+C 602.45 The cup cup shape here ? ami_da_13
+C 602.45 The thir third . ami_da_4
+A 604.55 Yeah yeah , uh huh . ami_da_12
+C 607.71 Yeah exactly . ami_da_9
+A 607.98 There , . ami_da_9
+C 609.94 so today I am going to talk about the working design of the remote controller . ami_da_4
+D 613.3 Okay . ami_da_9
+C 613.73 can you go to the next sli slide please ? ami_da_6
+C 613.73 The metal is like ami_da_3
+C 613.73 in a remote controller you have a chip integrated circuit which is like a brain of the remote controller . ami_da_4
+C 625.93 It takes the power from a battery say a battery it it can be a elec an electric supply like you have to like switch connec connect connect your remote controller to power supply from the you know electricity or something like that . ami_da_4
+C 639.41 It should be a battery because remote controller should be like you you ami_da_4
+C 639.41 you should take it t to wherever you want ami_da_4
+C 639.41 and then th ami_da_2
+C 639.41 this integrated circuitry takes energy from the power source and whatever like if you press a button it is like a input for the remote controller and it takes the input and ami_da_4
+C 639.41 it it transforms into a infro infrared bits and it sends it into the device , like a TV or a air conditioner , something like that so . ami_da_4
+C 666.43 a remote controller is specifically designed to a single device . ami_da_4
+C 670.27 If you want to design it for multiple devices then you should make all the devices compatible with the frequency like th the remote controller it sends some bits ami_da_4
+C 670.27 some waves like with a particular frequency the device should know what the frequency is . ami_da_4
+C 686.29 It should re re recognise the waves which are coming from the remote controller and it should take the action like if you press a button channel or something like that then the remote remote controller will send a send a se send a signal , and the TV it should translate that into like change the channel or something like that , change the volume control ami_da_4
+C 686.29 and so I think it is hard to design a remote controller for multiple devices . ami_da_4
+D 700.22 Signal . ami_da_4
+B 703.62 Receive . ami_da_4
+B 715.86 Multi purpose . ami_da_1
+D 716.5 Yeah well that is already been eliminated by management , so we are off the hook . ami_da_9
+A 716.92 Yo and it is ami_da_3
+A 716.92 yeah ami_da_9
+A 716.92 but it is so . ami_da_3
+C 718.51 yeah . ami_da_9
+A 723.57 Yep . ami_da_1
+C 726.28 So user interface controls the chip and accordingly the messages like there should be a user user in interface like you know switch pad or something like that buttons should be there . ami_da_4
+C 736.53 So you can control whatever you want , you want to change the channel you want to control the volume you you want to mute mute the TV ami_da_4
+C 736.53 or you want to have a child lock ami_da_4
+C 736.53 or you want to do some operations ami_da_4
+C 736.53 there is a there should be some device to tell what to do to the in integrated circuit so that the integrated circuit can s send the signals and TV can perform the actions . ami_da_4
+D 753.99 okay . ami_da_1
+C 761.11 So can you go to the next slide please ? ami_da_6
+C 761.11 So I I just would like to add some extra features to the remote controller ami_da_7
+C 761.11 I think these are the very simple features and they do not take much much of the investment also , ami_da_9
+C 761.11 it is like el the text or buttons which which are there on the remote controller ami_da_6
+C 761.11 they those we can make like fluorescent ami_da_6
+C 761.11 they will be like light emitting if it is dark so that you can find your remote controller if it is dark . ami_da_4
+D 762.34 Okay . ami_da_1
+C 795.06 And ther there should be a beep if many buttons are pressed ami_da_6
+C 795.06 if suppose a child is playing with the remote controller and a ami_da_4
+C 795.06 and she she or he is pressing the buttons all at the time ami_da_4
+C 795.06 then there should be a beep saying that it is this this is not a a you know a a action , there can be no action taking to that so . ami_da_4
+C 815.15 And there should be a child lock , ami_da_6
+C 815.15 like you should be able to lock your remote controller so that whatever buttons are pressed by a child they ca not be like y ami_da_4
+C 815.15 you ami_da_4
+C 815.15 i ami_da_4
+C 815.15 you if you have ki kids and all then they will be pl playing with the remote controllers so can lock the remote controller . ami_da_4
+C 831.82 If make it useable for more than one device it is a it is hard ami_da_9
+C 831.82 but I think it is possible ami_da_9
+C 831.82 but it ami_da_2
+C 831.82 yeah ami_da_9
+C 831.82 yeah ami_da_9
+C 831.82 yeah ami_da_9
+C 831.82 so it is it is ami_da_9
+C 831.82 okay , ami_da_9
+C 831.82 yeah , ami_da_9
+C 831.82 yeah . ami_da_9
+A 835.85 Yeah well ami_da_2
+A 835.85 yeah ami_da_4
+A 835.85 well that has been e that has been eliminated , ami_da_4
+A 835.85 so that is that is unfortunately a moot point now . ami_da_4
+D 837.1 Well we already eliminated that . ami_da_4
+B 838.76 Eliminated . ami_da_1
+C 842.45 And different shapes that we can do like we can have you know a all animals shapes ami_da_6
+C 842.45 or you know comfortable whi which can fit into your hands ami_da_6
+C 842.45 and so that ami_da_3
+C 842.45 Yeah , ami_da_9
+C 842.45 yeah , ami_da_9
+C 842.45 yeah ami_da_9
+C 842.45 and colours also , different colours , and ami_da_6
+C 842.45 No no ami_da_4
+C 842.45 no , it wo not I do not think it will be like , ami_da_4
+C 842.45 you can have you know for if you want ther there to be more ami_da_3
+C 842.45 Yeah yeah . ami_da_9
+D 853.0 Now that is good from a marketing point of view , the fun the fun shape . ami_da_9
+A 857.0 Yeah I ami_da_3
+A 857.0 It just build a mould basically and you know . ami_da_4
+D 857.0 And that ami_da_2
+D 857.0 you you say that wo not add too much to the budget ? ami_da_5
+D 857.0 To d the shape is ami_da_3
+D 857.0 Do you think there is any chance of having ser in having basically the same machine with the same buttons but maybe several different shapes ? ami_da_11
+D 857.0 Is that going to be a possible ? ami_da_11
+D 857.0 Because that might help with the marketing . ami_da_4
+B 857.27 colours . ami_da_1
+C 866.83 It is it is just a s shape so it does not matter . ami_da_4
+B 867.14 Yes exactly . ami_da_9
+A 869.28 As the budget we are looking at if you build one mould ami_da_4
+A 869.28 I do not think that is going to make a big difference whether it is going to be square or ami_da_4
+A 869.28 Oh yes . ami_da_9
+C 871.8 Yeah . ami_da_1
+C 883.0 Yeah that is also possible ami_da_9
+C 883.0 I ami_da_9
+C 883.0 yeah ami_da_9
+C 883.0 I ami_da_9
+C 883.0 I ami_da_9
+C 883.0 yeah . ami_da_9
+B 884.66 Yes . ami_da_1
+A 885.31 I think ami_da_2
+A 885.31 I think we will have to look at the budget on that ami_da_6
+A 885.31 but I think in principle that that would be that would be kind of fun , you know . ami_da_9
+C 887.13 Yeah that will be ami_da_3
+C 887.13 Yeah yeah . ami_da_9
+D 891.44 Because we had something sort of sexy for adults and we could have something sort of ami_da_6
+D 891.44 silly for children ami_da_9
+D 891.44 or a little animal shape or in a or a little elephant so they can remember where it is . ami_da_6
+A 894.05 Yeah . ami_da_1
+A 895.49 Silly for children . ami_da_6
+C 896.35 Yeah , for children , yeah exactly . ami_da_9
+A 897.33 Like an animal or ami_da_6
+A 897.33 Yeah . ami_da_1
+B 898.13 Like a doll , or ami_da_6
+B 898.13 Yes . ami_da_1
+C 898.84 Yeah , that is what , yeah . ami_da_9
+C 902.1 Yeah , exactly . ami_da_9
+C 903.71 Yeah . ami_da_9
+C 904.4 And and the butto buttons also I think if you want to have more features in your remote controller then there should be more buttons . ami_da_6
+C 911.06 If there are more buttons then it will be more complicated . ami_da_4
+C 913.92 If you have less features then your remote controller wo not be attractive , ami_da_4
+C 913.92 so I think we need to make some buttons which are which are like f in in intended for two or three operations , ami_da_6
+C 913.92 like if you press one button in one mode then it will change the channel , if you press the other button in another mode it will change the colour . ami_da_4
+C 932.99 So if you want to have less buttons we can have that option ami_da_9
+C 932.99 but I think it will complicate the matter more ami_da_9
+C 932.99 I think so . ami_da_9
+D 938.61 Well , I think I think that that is something that we will have to discuss with the User Interface person ami_da_6
+D 938.61 because I think there is a lot of argument to be made for one button for one feature . ami_da_9
+C 941.96 Yep ami_da_1
+C 941.96 , yeah . ami_da_1
+B 942.0 Yes . ami_da_1
+D 949.3 Because I think one of the things were complaining about in my what I found out in my research is when they complained about how hard it is to learn a new one . ami_da_4
+D 957.05 The changing modes was something I mean you and I , ami_da_4
+D 957.05 all f all four of us we work with computers all the time , ami_da_4
+D 957.05 changing modes is nothing for us , ami_da_9
+D 957.05 but people who ami_da_4
+D 957.05 N and ami_da_3
+D 957.05 And that is and that is the kind of thing people learn by feel , ami_da_4
+D 957.05 and you do not feel the mode change . ami_da_9
+C 958.79 Yeah , it is like you know ami_da_9
+C 958.79 yeah . ami_da_9
+C 961.79 Yeah . ami_da_1
+C 962.56 Yeah , ami_da_1
+C 962.56 yeah . ami_da_1
+B 963.2 Okay . ami_da_1
+A 966.71 Yeah , a little elderly , a little arthritic hand you know , and ami_da_4
+A 966.71 and it is a small button and ami_da_4
+A 966.71 and it they do not press it ami_da_4
+A 966.71 exactly you know something else happens n not their favourite channel comes up but ami_da_4
+A 966.71 something else and they are very frustrated you know . ami_da_4
+C 971.7 Yeah . ami_da_1
+C 976.47 Yeah , yes . ami_da_1
+B 976.99 Something else . ami_da_1
+C 981.76 Yeah , ami_da_9
+C 981.76 yeah ami_da_9
+C 981.76 you do not us ami_da_9
+C 981.76 yeah ami_da_9
+C 981.76 yeah , usually . ami_da_9
+C 984.5 Yeah . ami_da_9
+D 985.2 So maybe having buttons be various shapes might be a help too . ami_da_6
+C 990.02 Yeah shapes also , different shapes . ami_da_9
+D 991.18 You know , like the a triangle is for the volume and a square is for changing channels , so that people can develop a tactile sense of it . ami_da_6
+C 992.08 Yeah ami_da_3
+C 992.08 that will ami_da_3
+B 996.23 Channels . ami_da_1
+C 996.41 Yeah . ami_da_1
+C 998.44 Yeah . ami_da_1
+D 1000.76 But we will get to that with you . ami_da_6
+C 1000.79 Yeah , yeah , ami_da_1
+C 1000.79 and also text should be very clear so that there there wo not be any ambiguities and ami_da_6
+C 1000.79 So yeah . ami_da_2
+B 1002.09 Yes . ami_da_1
+D 1005.87 That is right , yeah . ami_da_9
+D 1006.76 Now that is a good point . ami_da_9
+B 1007.39 Yes . ami_da_1
+D 1007.66 Yeah . ami_da_9
+C 1008.93 And display clock i if you want more features then we can display a clock ami_da_6
+C 1008.93 it I ami_da_4
+C 1008.93 I do not think it will take any money extra money because anyway we have an integrated circuit I think we can just definitely fit that feature into the circuit so it is ami_da_4
+C 1008.93 Yeah , ami_da_4
+C 1008.93 and we display a clock . ami_da_4
+D 1021.43 Yeah , that is that is a good that is a good one , because the clock would be really friendly , ami_da_9
+D 1021.43 and and when is your favourite show coming on ami_da_4
+D 1021.43 and ami_da_3
+D 1021.43 Yeah , and a lot of time there is not a clock on the screen , and you have to go somewhere ami_da_4
+D 1021.43 but you just want to look at the news for a minute . ami_da_4
+B 1023.34 yeah . ami_da_1
+A 1024.87 Yes . ami_da_1
+C 1025.62 Yeah . ami_da_1
+A 1026.92 Yes . ami_da_1
+C 1027.53 Yeah , and then you can just see your remote controller ami_da_9
+C 1027.53 yeah ami_da_9
+C 1027.53 yeah ami_da_9
+C 1027.53 yeah ami_da_9
+C 1027.53 so ami_da_9
+C 1027.53 Yeah . ami_da_1
+B 1028.08 Yes . ami_da_1
+A 1028.09 Yeah you are sitting there already or maybe you have no other ami_da_4
+D 1035.6 Yeah that is that is good , the clock is good . ami_da_9
+C 1037.11 Yeah . ami_da_1
+D 1037.74 Okay . ami_da_2
+C 1038.12 can you go to the next slide please ? ami_da_6
+C 1038.12 components the main components we need for it ha like buttons and underneath that there should be switch . ami_da_4
+C 1048.8 And bulbs . ami_da_4
+C 1050.3 Like we can have a bulb like whenever we are operating a remote controller or whenever the TV is on suppose , then the remote controller should automatically have a b s light . ami_da_4
+C 1063.85 Then it will be like if you switch on your TV through anoth another source , not from through a remote remote controller ami_da_4
+C 1063.85 and you you lost your remote controller ami_da_4
+C 1063.85 maybe you can find with the light . ami_da_4
+C 1074.56 Maybe we can have that . ami_da_6
+C 1075.78 Whenever the TV is on , remote controller will have a light . ami_da_6
+C 1080.2 And then infrared bulbs . ami_da_4
+C 1082.77 this is like when it is dark . ami_da_4
+A 1085.56 Yeah , . ami_da_1
+C 1086.68 And battery , there should be a battery for power supply , and a chip , chip which is like a brain to the remote controller which does all the operations , and wires connecting all chips , which is lights , everything , so there should be wires . ami_da_4
+A 1099.19 Yeah . ami_da_1
+B 1099.88 Okay . ami_da_1
+C 1101.67 And of course there should be a case where we can keep all the things and , you know different shapes or whatever it is there should be a case to put to give a shape . ami_da_4
+B 1110.68 To keep the remote ? ami_da_5
+B 1110.68 Yeah . ami_da_12
+C 1111.83 Yeah . ami_da_4
+D 1113.09 Case . ami_da_16
+B 1114.11 A case holder . ami_da_4
+C 1115.1 Yeah , holder . ami_da_1
+B 1115.19 A holder remote holder . ami_da_4
+A 1116.13 Holder , yeah , . ami_da_1
+C 1120.17 can you move onto the next slide . ami_da_6
+C 1122.87 next sli slide please . ami_da_6
+C 1126.12 I have referred the site the homepage of the our website , from where I have I got s few points . ami_da_4
+C 1140.21 That is it , that is it from me now . ami_da_4
+A 1141.76 Okay . ami_da_9
+D 1147.15 So it we should visit this site and have a look at what is up there ? ami_da_8
+D 1147.15 Or ami_da_8
+D 1147.15 Okay . ami_da_1
+A 1151.62 Well , you do not have to . ami_da_6
+C 1152.75 it is not like that , I have referred the page to get new ideas or like what can be the working design to how it works and all and so and so . ami_da_4
+D 1161.28 Okay . ami_da_9
+D 1162.05 So it might be helpful if we had a look at that . ami_da_9
+C 1164.5 Yeah if you want . ami_da_9
+D 1165.4 Okay , ami_da_9
+D 1165.4 thank you . ami_da_14
+C 1165.68 Yeah , it is okay . ami_da_9
+D 1172.85 Could you go back to that slide where she had that s slide up Betsy ? ami_da_6
+D 1172.85 Yeah , okay , ami_da_4
+D 1172.85 thank you . ami_da_14
+C 1176.37 , it is actually there now , there on the screen . ami_da_4
+A 1179.44 This one ? ami_da_5
+A 1179.44 And Francine ? ami_da_5
+A 1179.44 You are number two ? ami_da_12
+A 1179.44 You are three . ami_da_12
+B 1199.03 Participant two . ami_da_4
+B 1201.07 Yes . ami_da_4
+B 1202.09 No no , I am three . ami_da_4
+B 1210.37 I can make it full ? ami_da_6
+B 1210.37 Yes yes yes . ami_da_4
+A 1210.71 Would you want it full full screen ? ami_da_5
+A 1210.71 Okay . ami_da_9
+B 1213.71 Okay . ami_da_2
+B 1214.42 As User Interface Designer I did a little research to find out what are the features which a user would like to have on their remote . ami_da_4
+B 1224.22 Yeah can you please go onto the next slide ? ami_da_6
+B 1224.22 So I found out that but the main purpose of a remote is to f control the function of a television at a far off distance at remote distance . ami_da_4
+B 1239.88 Now for that , a remote controller should have a switch on off button by which a user can sit anywhere in the room in front of the TV and he can control the functionalities different functionalities of the TV . ami_da_4
+B 1253.32 There should be a signal something like a radio wave or a infrared light or a LED which can be used to change the different functionalities in the television if the user wants to change the channels or increase the volume he can change it . ami_da_4
+B 1269.78 Now there should be some timer to set for viewing a particular a particular programme or switching on and off a a particular programme according to the user choice . ami_da_4
+A 1279.01 On the on on the remote . ami_da_5
+B 1280.74 Yes . ami_da_4
+A 1281.12 Yeah , . ami_da_9
+B 1281.51 Yes . ami_da_4
+B 1283.88 So if if he want to view a particular programme at say nine o'clock he can set the time , and the TV will automatically it will switch on at that particular time . ami_da_4
+A 1289.44 Right . ami_da_1
+B 1293.89 So he can use that kind of properties of features and then there should be a child lock system if a particular channel is not to be viewed by a particular for a certain age , then the parents can lock that particular channel so that the ch children cannot view that channel . ami_da_4
+A 1302.87 Yes . ami_da_1
+A 1304.86 By your child , . ami_da_4
+B 1313.16 And the the and the ami_da_2
+B 1313.16 one of the feature a user would like to have is the compactness of the co remote . ami_da_4
+B 1323.83 t the remote should be compact and it should ha it should have as many buttons as possible for controlling different functionalities of the TV television . ami_da_4
+B 1333.47 And as this is my personal preference that it should be in the shape of a T in alphabet for more compactability . ami_da_6
+B 1343.53 And and ami_da_2
+B 1343.53 and it is one more point which I noted it down , like the material which which which is used for remotes should be human friendly it should not cause any skin disease or something some al allergy to either children or to ad adult person . ami_da_4
+D 1358.33 , okay . ami_da_1
+B 1359.89 And it should have an it can have an alarm clock ami_da_6
+B 1359.89 a a person if some if somebody wants to get up at around eight eight PM then he can set the time and it can be used as an alarm clock , and I do not think it will cost much to set an alarm clock inside a remote . ami_da_4
+C 1374.91 Yeah , sure . ami_da_9
+C 1376.42 If there is a clock then there can be a alarm clock . ami_da_4
+D 1378.02 And an alarm clock , yeah ami_da_9
+D 1378.02 that should that should be okay . ami_da_9
+B 1378.3 Yes , ami_da_9
+B 1378.3 and as John Reece said the buttons can be , can me we can use the fluorescence to light up the buttons so different buttons will glow differently . ami_da_6
+B 1391.84 So in even in the dark the user can know what buttons to use to switch on a particular channel . ami_da_4
+B 1399.14 And the design of the remote should be in such a way that there should not be any sharp projections ami_da_6
+B 1399.14 so that if a child plays with a remote , he he should not be harmed in any way . ami_da_4
+B 1415.28 And findings , I found out y on different sites that there are different remotes which can be used , there are remotes which use the infrared for controlling the different functionalities , there are remotes which use the radio waves to control the functions ami_da_4
+B 1415.28 and there are ami_da_3
+B 1415.28 So there you have different types of remotes for different light source which are used which can be used for controlling the different functionalities of a television . ami_da_4
+B 1453.25 Next slide . ami_da_6
+B 1456.32 And these are my few personal preferences ami_da_4
+B 1456.32 like it can be used for a multipurpose use . ami_da_6
+B 1461.51 Not , no ami_da_9
+B 1461.51 like it can it can be used as a TV control as plus an alarm clock to set an alarm a timing and it should have a child lock , and then to save electricity ami_da_6
+B 1461.51 there should not be much s move lots of circuits and all that . ami_da_6
+B 1479.88 And if a person if if if parents wants the television to be switched off by ten o'clock then it should be switched off ten o at ten o'clock automatically , so that nobody else comes later and use it . ami_da_6
+C 1491.24 It is like a t ami_da_9
+C 1491.24 okay , it is like a timer it is like a lock to the television . ami_da_9
+A 1493.75 Timer , yeah , , . ami_da_9
+B 1494.32 Timer . ami_da_9
+B 1495.47 Yeah and then you can use a timer as well . ami_da_9
+B 1499.36 Yes . ami_da_9
+B 1501.48 Yeah that is it . ami_da_4
+A 1502.88 okay , ami_da_9
+A 1502.88 now I have ami_da_16
+A 1502.88 On my slide show basically we already we have already done the agenda , and on the closing basically there will be lunch break and all that . ami_da_4
+A 1542.75 However the decision we have to take in this meeting is who is our target group . ami_da_4
+B 1550.59 Okay . ami_da_1
+A 1550.7 And what function , working design , how how does it work . ami_da_4
+A 1557.34 So these are the two things we should come up wit with . ami_da_4
+A 1560.64 So the first thing is pro maybe a little easier on who is our target group . ami_da_4
+A 1570.93 I guess in many ways everybody . ami_da_4
+A 1574.48 Everybody who has a TV . ami_da_4
+C 1574.82 , TV , ami_da_1
+C 1574.82 yeah . ami_da_1
+B 1576.57 TV television we was . ami_da_9
+A 1577.98 Yeah , ami_da_9
+A 1577.98 and I think today there are probably not many people who do not have a TV . ami_da_4
+C 1581.7 Do not TV , yeah . ami_da_1
+A 1583.14 There are a few but in general not . ami_da_4
+A 1587.09 Now , talking about the target group which is in a sense everybody , but I think within the target group we have subgroups . ami_da_4
+A 1595.2 We have ami_da_2
+A 1595.2 we have earlier it was mentioned about for example elderly people who have limited function with their fingers and hands , ami_da_4
+A 1595.2 so I think that is one group that is certainly important . ami_da_9
+A 1609.75 then we have just the nervous people who can never press a little button on anything unless it is really very clear . ami_da_4
+C 1617.66 Yeah . ami_da_1
+A 1618.45 And I do not know how much we want to cater to children is use . ami_da_9
+A 1624.55 I mean that is a question whether that is important that children can really use it or not . ami_da_9
+A 1634.47 So this these are just some thoughts I have on it , ami_da_4
+A 1634.47 and I dunno what you feel about whether we can just say we have one target group and for this one target group ami_da_11
+A 1634.47 we are going to design this one thing or whether we are looking at what we like we we talking about different shapes , whether that different shape also includes maybe different buttons for different groups . ami_da_11
+C 1647.59 Yeah . ami_da_1
+D 1662.76 Well you know there is the old motto , children under six never shop alone . ami_da_4
+D 1667.37 So if you have designed something that is very attractive to children the mummy ami_da_4
+D 1667.37 please mummy ami_da_4
+D 1667.37 please you know we want it now ami_da_4
+D 1667.37 we want to go to the store and see it that has a lot of marketing pull . ami_da_4
+A 1679.64 That has a lot of that has a lot of appeal ami_da_9
+A 1679.64 but I think I am I am talking about the functionality now on it whether we are looking at different groups . ami_da_4
+A 1688.47 I think the children issue can be addressed with the shape and with colours . ami_da_9
+D 1692.74 That is right . ami_da_9
+C 1692.92 Yeah . ami_da_1
+B 1692.95 Different colours . ami_da_1
+A 1693.22 You know , like you make it nice and pink , fluorescent , banana colour or whatever you know ami_da_6
+A 1693.22 yeah , for example you know . ami_da_9
+B 1696.48 Yes . ami_da_1
+D 1697.62 You can make a banana shaped one . ami_da_6
+C 1699.07 Yeah . ami_da_1
+A 1701.78 But the question is really , who is our target group . ami_da_4
+A 1706.49 Do we look at one target group ? ami_da_11
+A 1706.49 And with the twenty five Euros you know can we can we afford to have ami_da_11
+A 1706.49 I am asking the technical people here whether to look at sort of subgroups with maybe different buttons for each group ami_da_6
+A 1706.49 how much would that throw us out of the cost we are supposed to respect ? ami_da_5
+A 1706.49 Right . ami_da_1
+D 1733.47 Respect . ami_da_5
+B 1735.87 Okay . ami_da_2
+B 1736.96 No generally we can we can design a remote which is mainly for people with f age from ten to forty and ami_da_6
+B 1736.96 and then we can add on specific functional buttons for children as well as the elderly people or the people wit with who have nervous problems , yes . ami_da_6
+A 1755.38 With with ami_da_3
+C 1757.67 We can design different remotes for different people , like for aged people there will be big buttons and you know . ami_da_6
+A 1762.98 Well that is that is ami_da_3
+A 1762.98 Yeah . ami_da_1
+B 1763.0 But in a family ami_da_2
+B 1763.0 in a family there will be a aged person , children and a middle aged but they cannot buy three different remotes . ami_da_9
+C 1764.17 yeah . ami_da_1
+C 1766.66 Children and everybody , ami_da_9
+C 1766.66 yeah . ami_da_9
+B 1770.29 They would like to buy just one and just one which can be used all the three ami_da_9
+B 1770.29 Cost effective . ami_da_4
+C 1775.78 Yeah of course that we can do , ami_da_9
+C 1775.78 but specifically if y if like elderly people want big buttons then you ca not really make a bi big remote controller ami_da_6
+C 1775.78 so maybe specifically you can design a big con remote controller for elderly and for children , like in a different you know . ami_da_6
+D 1790.07 What about the electronics ? ami_da_5
+D 1790.07 That is not really going to change much , is it ? ami_da_5
+D 1790.07 That that w that wo not change much , will it ? ami_da_9
+D 1790.07 I d ami_da_9
+D 1790.07 I would not think so . ami_da_9
+C 1792.95 No , it it does not cost , yeah . ami_da_4
+A 1794.14 No ami_da_1
+A 1794.14 The the quest the question to be addressed here is only who is the target group and how will it function , and I think the how will it function is probably the question of the buttons you know , within the target group or subgroups . ami_da_4
+C 1796.42 Yeah . ami_da_9
+C 1797.28 Does not does not does not matter . ami_da_9
+D 1809.47 Yeah . ami_da_1
+A 1812.72 The question is only whether our budget will allow to have more than one design in a sense . ami_da_4
+D 1821.76 Yeah . ami_da_1
+A 1822.18 I mean the basic design I understand will be the same , but the question is how much will that set us back if let is say forty percent we make large buttons and the rest we make regular buttons for example . ami_da_4
+B 1832.06 Okay . ami_da_1
+C 1832.99 Yeah . ami_da_1
+D 1834.47 Yeah . ami_da_1
+A 1835.33 So that remains to s to be seen ami_da_9
+A 1835.33 but the target group as a whole is is basically everybody with a TV . ami_da_4
+D 1843.62 That is right , ami_da_9
+D 1843.62 and can we ami_da_2
+D 1843.62 can we is it even feasible to make one one remote control with something for everyone , or would we have to use the same electronics and make three different shapes ? ami_da_11
+D 1843.62 the same electronics and basically all that is going to be different is the plastic case . ami_da_4
+B 1844.23 Yes . ami_da_1
+A 1855.53 Yeah , well that is that is the question . ami_da_9
+D 1861.2 And in that case we could probabl ami_da_3
+D 1861.2 moulded plastic is not all that expensive is it ? ami_da_5
+D 1861.2 you as an industrial person ? ami_da_5
+C 1866.14 no . ami_da_4
+C 1866.61 , I I ami_da_4
+C 1866.61 I do not think no . ami_da_4
+A 1868.47 Well maybe there is ami_da_2
+A 1868.47 there is an idea ami_da_4
+A 1868.47 you know t the new for example new portable phones ? ami_da_4
+A 1868.47 They have like removable plastic cases , so you can have a striped one or you can have a fluorescent blue one , or whatever , ami_da_4
+A 1868.47 and maybe something like that , that in each package you know you have you ami_da_6
+A 1868.47 you have you have for example ami_da_6
+A 1868.47 you have let is say a fluorescent blue on it ami_da_6
+A 1868.47 but then you have another colour or stripe whatever that already comes in a package . ami_da_6
+C 1869.47 It is not . ami_da_4
+D 1877.89 Yeah . ami_da_1
+B 1882.63 Okay . ami_da_1
+D 1887.25 Well there is a real idea ami_da_9
+D 1887.25 yeah . ami_da_9
+A 1900.4 And then if people really want more colours they can buy it separately . ami_da_4
+D 1900.42 Yeah . ami_da_1
+D 1904.39 Right . ami_da_1
+C 1904.62 Yeah , like for mobile phones we have different you know covers , like designs and all so that w we can have that . ami_da_9
+A 1905.07 You know , ami_da_11
+A 1905.07 yes . ami_da_9
+B 1905.21 Yes . ami_da_1
+A 1909.27 That is right , ami_da_9
+A 1909.27 and ami_da_2
+A 1909.27 but like if if then everybody is is is tired of the fluorescent blue and of the striped or whatever they have as another one in the package , then they can go to the store and for a few Francs or Euros whatever they can buy an alternate package with another two colours in it you know for example you know . ami_da_4
+D 1910.56 yeah . ami_da_1
+C 1919.19 Yeah . ami_da_1
+D 1922.28 An alternate package . ami_da_4
+D 1926.34 Yeah . ami_da_9
+D 1926.71 Okay . ami_da_9
+B 1927.75 But yeah I I have a doubt ami_da_9
+B 1927.75 like will it be cost wise effective if we if we design a remote having all the different features for different people or designing three different remotes for three different categories of people . ami_da_11
+A 1945.49 Well I think I think the idea here is to to to d design one remote ami_da_9
+A 1945.49 and what the only change is going to be ami_da_4
+A 1945.49 the funct d t yeah ami_da_2
+A 1945.49 the functional functional cosmetics if you want to put it that way , ami_da_4
+A 1945.49 having maybe larger buttons or buttons that light up or buttons that are slightly differently shaped for people either for children ami_da_6
+A 1945.49 Five minutes that was ami_da_4
+A 1945.49 I guess tha that is the old message . ami_da_4
+C 1945.88 Yeah , but ami_da_3
+C 1945.88 Yeah . ami_da_1
+D 1946.15 Well I think we can only aff , ami_da_3
+D 1946.15 yeah . ami_da_1
+B 1949.7 Okay . ami_da_1
+D 1954.03 Cosmetic . ami_da_4
+B 1955.75 Of th okay . ami_da_9
+B 1959.47 Okay . ami_da_1
+D 1977.56 Warning , finish meeting now . ami_da_4
+A 1978.28 Finish meeting now . ami_da_4
+D 1985.06 Well we may have to come back to one or two of these points at our next meeting but ami_da_6
+C 1986.68 Yeah , maybe , yeah , ami_da_9
+C 1986.68 yeah . ami_da_9
+A 1988.92 But I think ami_da_2
+A 1988.92 I I think to sum it up the target group is basically everybody . ami_da_9
+C 1989.31 If we do some more research , maybe we . ami_da_6
+A 1994.52 If money permits we can address some features for some subgroups within that . ami_da_6
+B 1999.39 Okay , . ami_da_1
+C 2000.29 yeah , ami_da_9
+C 2000.29 I think maybe seventy percent is a unique remote controller and thirty percent ami_da_9
+C 2000.29 is ami_da_9
+C 2000.29 yeah ami_da_9
+C 2000.29 it is sort of like ami_da_9
+C 2000.29 yeah . ami_da_9
+D 2001.14 Okay but we have to l ami_da_3
+D 2001.14 Okay , fair enough . ami_da_9
+A 2001.45 Do we agree , do we ? ami_da_11
+A 2001.45 Do we agree on on that in principle , like money will tell whether we will be able to do that or not . ami_da_11
+C 2008.25 Yeah , yeah , of course ami_da_9
+C 2008.25 , yeah . ami_da_9
+B 2010.48 Yes . ami_da_9
+A 2011.4 Okay ? ami_da_11
+A 2011.4 So now I understand it is lunch break . ami_da_4
+A 2015.48 And . ami_da_2
+A 2017.78 So that is what we will do . ami_da_6
+A 2022.2 So hank you very much . ami_da_14

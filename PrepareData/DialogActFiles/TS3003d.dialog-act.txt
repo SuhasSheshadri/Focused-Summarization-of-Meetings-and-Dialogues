@@ -1,0 +1,1097 @@
+A 11.79 So ami_da_2
+A 11.79 Hello . ami_da_14
+D 22.96 Good afternoon . ami_da_14
+D 24.71 Sorry I am a little late . ami_da_14
+A 26.98 No problem . ami_da_14
+D 27.65 Got stuck in the traffic . ami_da_4
+A 29.17 Okay . ami_da_12
+A 31.89 That is possible on this time of day . ami_da_4
+A 35.51 Starts at three o'clock . ami_da_4
+A 36.66 , let me see . ami_da_2
+D 37.42 Yeah . ami_da_1
+A 42.11 Our fourth and last meeting . ami_da_4
+A 47.74 There he is . ami_da_16
+A 51.99 Yes . ami_da_16
+A 55.7 Okay ami_da_2
+A 55.7 this our last meeting . ami_da_4
+A 58.01 In this meeting we will discuss our final design . ami_da_4
+A 62.36 And we will do some evaluation about the , not only the product , but also the project . ami_da_4
+A 70.74 And then we are going to close the project today as well . ami_da_4
+A 74.73 So ami_da_2
+A 74.73 after this you will be free to go and spend all your money . ami_da_4
+A 80.95 And this design , detailed design meeting we will discuss the look and feel of the design , the usability interface design , and we will do the product evaluation . ami_da_4
+A 96.16 , in order to do that we have this agenda . ami_da_4
+A 101.36 We will have the prototype presentation first . ami_da_4
+A 104.31 Then we will set up some evaluation cri criteria . ami_da_4
+A 108.47 Then we will look at the finance . ami_da_4
+A 111.28 we will have to see if everything we want to do is also possible within our budget . ami_da_4
+A 118.51 Because everything costs money , and the more functions you want to have the more money it will cost . ami_da_4
+A 122.64 So we have to see if it fits within the twelve and a half Euro per remote . ami_da_4
+A 129.42 But we will see that later . ami_da_4
+A 131.06 Then we will do the project evaluation , and the closing after that . ami_da_4
+A 136.08 We have got forty minutes . ami_da_4
+A 137.98 So we will be finished at half past three . ami_da_4
+A 143.14 But first we will do the this is prototype presentation . ami_da_6
+A 150.59 So , ami_da_2
+A 150.59 if some ami_da_6
+A 150.59 yeah ami_da_6
+A 150.59 if somebody wants step forward . ami_da_6
+C 153.33 Okay . ami_da_9
+C 157.91 Well ami_da_2
+C 157.91 this is what me and Richard came up with . ami_da_4
+C 163.18 The default spot for the on off button . ami_da_4
+C 166.3 The mute button just below that . ami_da_4
+C 169.14 Then there is the volume and channel selectors . ami_da_4
+C 172.79 Simple plus minus button . ami_da_4
+C 176.51 we thought of a help button . ami_da_4
+C 178.32 If you hold it and you press another button , the help goes to the LCD screen . ami_da_4
+C 185.33 Then there is the zero to one to zero buttons . ami_da_4
+C 190.06 A button for teletext . ami_da_4
+C 192.1 A button for the subtitles . ami_da_4
+C 194.12 And the company logo . ami_da_4
+C 196.65 So it is rather simple prototype . ami_da_4
+C 201.08 And we will have to see from testing how the users take it . ami_da_6
+A 206.27 Okay . ami_da_9
+D 207.34 , is this the moment where we ask or can ask questions about the functionality ? ami_da_5
+D 207.34 , when you are in teletext there usually are buttons where you just you just press it and ami_da_4
+D 207.34 you g go to the next teletext page . ami_da_4
+B 210.86 So ami_da_2
+B 210.86 Yeah . ami_da_4
+C 213.75 Sure ami_da_4
+C 213.75 just pop in at any time . ami_da_6
+B 214.36 Yeah . ami_da_4
+B 226.94 , that is just the normal as th as the normal remote controls ami_da_4
+B 226.94 So ami_da_2
+B 226.94 You put it ami_da_3
+B 226.94 you came in page one hundred . ami_da_4
+B 240.92 Now you can use the normal one to zero buttons . ami_da_4
+B 244.92 And you ami_da_3
+B 244.92 But you can also use the button th for changing the the channel . ami_da_4
+B 252.6 S so the shifting button . ami_da_4
+D 255.36 Okay . ami_da_1
+B 255.97 for ami_da_4
+B 255.97 yeah ami_da_4
+B 255.97 shif shifting up in on t on t teletext , and shifting down . ami_da_4
+B 261.45 So ami_da_4
+B 261.45 Oh yeah ? ami_da_1
+B 261.45 Yeah . ami_da_9
+D 262.33 Okay . ami_da_12
+D 264.56 Yeah . ami_da_12
+A 269.19 Okay . ami_da_2
+A 270.4 but ami_da_2
+A 270.4 I thought in a few meetings earlier we tried to keep it simple . ami_da_4
+A 280.33 just a few buttons and large buttons . ami_da_4
+A 283.65 But I think these are altogether quite a quite a few buttons . ami_da_9
+A 291.07 So I am wondering if we if we neely really need all of those buttons . ami_da_5
+C 297.38 I think if you look at most controls , they have got more buttons than this . ami_da_4
+A 302.83 That is right . ami_da_9
+C 303.12 And well ami_da_2
+C 303.12 the on off button , it is it is a necessity . ami_da_4
+C 306.51 You ca not drop that one . ami_da_4
+B 306.53 Yeah . ami_da_9
+A 306.6 Yeah . ami_da_9
+C 308.28 The volume and channel buttons , you need you obviously need those those . ami_da_4
+A 313.43 Yeah . ami_da_1
+C 314.35 The mute button could be replaced by pressing the volume down button twice . ami_da_6
+C 320.14 So we could cancel that one . ami_da_6
+C 322.96 I think the help button really is necessary because there is no other way to know when someone wants to know what a button does . ami_da_4
+B 326.65 Yeah yeah . ami_da_9
+B 334.76 , or you can build in when you press one button ami_da_6
+B 334.76 Yeah . ami_da_9
+A 338.73 Long time . ami_da_6
+A 340.08 Yeah . ami_da_9
+A 340.73 If you put ami_da_3
+A 340.73 Yeah . ami_da_12
+B 340.76 But m ami_da_3
+B 340.76 Yeah . ami_da_2
+B 342.58 We disc discuss that already . ami_da_4
+B 344.3 But we think old people do not know that option . ami_da_4
+B 348.41 So they just put in put press the button and ami_da_4
+B 348.41 And ami_da_3
+B 348.41 Oh . ami_da_9
+A 355.72 Okay . ami_da_12
+C 356.6 Well , ami_da_2
+C 356.6 you ca not leave out the number buttons I guess . ami_da_4
+A 361.37 Yeah . ami_da_9
+C 362.63 And ami_da_3
+C 362.63 Yeah . ami_da_9
+A 362.78 teletext and subtitles are ami_da_4
+A 362.78 yeah necessary . ami_da_4
+D 365.09 Yeah . ami_da_9
+A 365.67 Okay . ami_da_9
+C 365.81 So it is rather basic already . ami_da_4
+D 368.18 Yeah . ami_da_9
+D 368.94 Think so . ami_da_9
+D 370.09 That is what I pointed out earlier . ami_da_4
+D 371.27 If you just make a control for just the TV there is just not much to gain here . ami_da_9
+B 375.66 Yeah . ami_da_1
+A 376.01 Yep . ami_da_1
+A 378.02 Okay . ami_da_2
+A 378.77 So ami_da_2
+A 378.77 we had somebody about th interfa ami_da_5
+A 378.77 Something about the design of the buttons there ? ami_da_5
+A 378.77 Just n normal plain buttons . ami_da_4
+C 383.38 Yeah , ami_da_4
+C 383.38 they are ami_da_3
+C 383.38 It is rather hard to draw on the white board . ami_da_9
+B 384.52 Yeah . ami_da_4
+B 385.95 Yeah , ami_da_4
+B 385.95 it ami_da_3
+B 385.95 Yeah yeah . ami_da_2
+C 387.07 But they are supposed to be equal sized , round , with a with a little logo on it for the for the volume , the the triangle and stuff . ami_da_4
+A 396.54 Yeah . ami_da_12
+B 397.12 Just to recognise it , ami_da_4
+B 397.12 so yeah ami_da_2
+B 397.12 and now we do not need LEDs ami_da_4
+B 397.12 or Y ami_da_2
+B 397.12 s some remote controls do it also , but because we use the little display we do not have to use it . ami_da_4
+A 398.01 Okay . ami_da_12
+C 398.17 Just for recognition . ami_da_9
+A 402.83 No . ami_da_1
+A 407.12 No . ami_da_1
+B 412.16 so ami_da_2
+B 412.16 Nay . ami_da_1
+A 412.94 Yeah . ami_da_1
+A 413.99 Okay . ami_da_1
+C 414.53 So ami_da_2
+C 414.53 and for the materials we have just chosen for rubber buttons . ami_da_4
+C 418.6 With a a different colour than the case . ami_da_4
+A 418.75 Yep . ami_da_1
+C 421.6 So they jump out . ami_da_4
+A 425.16 Okay . ami_da_2
+C 425.3 And that is about it . ami_da_4
+A 427.7 That is nice . ami_da_9
+A 428.59 Then because we only have thirty minutes left , ami_da_4
+A 428.59 I will move on to the finance part , ami_da_7
+A 428.59 which is pretty exciting , to see if it is all possible what we want to do . ami_da_9
+A 441.03 And I can tell you that we are going to have a pretty hard time producing this for twelve and a half Euros . ami_da_9
+A 454.2 If we see ami_da_6
+A 454.2 I do not know if I have filled in correctly , ami_da_4
+A 454.2 so just correct me if you see something wrong . ami_da_6
+A 460.93 I counted two batteries . ami_da_4
+A 462.75 But maybe we can also use one . ami_da_6
+A 464.49 I do not know if it is possible . ami_da_5
+D 465.13 Since it rechargeable . ami_da_4
+A 466.88 It is rechargeable . ami_da_9
+A 467.78 That is right . ami_da_9
+B 467.88 Yeah we can ami_da_9
+B 467.88 u just ami_da_3
+B 467.88 Okay . ami_da_1
+A 471.59 Okay . ami_da_9
+A 472.8 That is two Euros off . ami_da_4
+A 475.69 We need the advanced chip . ami_da_4
+A 477.71 So there is not much to to save there . ami_da_4
+C 478.04 Yep . ami_da_1
+A 484.45 Here we have the single curves . ami_da_4
+A 486.74 we can see that the difference between uncurved and the single curved is one Euro . ami_da_4
+A 493.3 I do not know , but I think the single curved is good for design , and also for the display to have a prominent place on the remote control . ami_da_9
+B 500.35 Yeah . ami_da_9
+C 505.85 Yes . ami_da_9
+A 506.3 I think we have to keep that . ami_da_6
+B 507.6 Yeah . ami_da_9
+A 508.94 Then we have the case material supplements . ami_da_4
+A 512.07 It is plastic . ami_da_4
+A 512.88 It is the cheapest one we need . ami_da_4
+A 515.51 So that is not much to save either . ami_da_4
+A 518.93 But then the biggest costs are the buttons . ami_da_4
+A 523.09 So maybe we really should try to discard some buttons to keep our costs low . ami_da_6
+B 527.01 Okay . ami_da_1
+B 530.79 Yeah . ami_da_1
+A 531.24 Because you have to we will have to get the twelve and a half Euros at the end . ami_da_4
+A 538.46 so if we ami_da_3
+A 538.46 Let is fir first count the buttons we have now . ami_da_6
+B 543.35 Sixteen , I believe so . ami_da_4
+A 544.98 Because I ami_da_3
+A 544.98 Sixteen . ami_da_12
+A 547.41 Nah , ami_da_9
+A 547.41 that will be even more then . ami_da_4
+A 551.71 Eighteen Euros . ami_da_4
+A 556.26 So , ami_da_2
+A 556.26 seventeen . ami_da_12
+B 556.47 seventeen . ami_da_4
+D 558.84 Damn . ami_da_15
+B 559.58 with the help button . ami_da_4
+A 562.21 Okay , including the help ? ami_da_12
+A 562.21 Yeah . ami_da_9
+C 562.31 Yep . ami_da_9
+B 563.58 Yeah . ami_da_4
+A 564.17 seventeen . ami_da_9
+A 565.77 I think we can discard the help and the mute button by pressing down volume long , or pressing down a a number long . ami_da_6
+C 577.11 Yep . ami_da_1
+A 578.37 That saves us one Euro already . ami_da_4
+A 581.57 Because then we have got fifteen I think ? ami_da_11
+A 581.57 Fifteen buttons . ami_da_4
+C 583.29 Yeah . ami_da_9
+D 584.8 Would not ami_da_3
+D 584.8 Yeah . ami_da_2
+D 586.04 No . ami_da_16
+D 586.64 That would not be an option . ami_da_16
+A 589.11 And this is ami_da_3
+A 589.11 No those are one , I think . ami_da_9
+D 589.28 , d I assume you would count the volume and channel thingies for two buttons each , ami_da_4
+D 589.28 right ? ami_da_11
+D 589.28 Well , ami_da_2
+D 589.28 think actually there are two buttons , ami_da_9
+D 589.28 are not they ? ami_da_11
+D 589.28 Well ami_da_2
+D 589.28 I was thinking , maybe you could just integrate three of those numbers to one button . ami_da_6
+B 595.75 Yeah . ami_da_1
+B 597.97 Where did ami_da_3
+B 597.97 , it is just one button . ami_da_9
+B 601.7 But , Yeah . ami_da_2
+B 605.12 There were two for one big button . ami_da_4
+B 608.09 But they are more expensive than the small ones . ami_da_4
+B 612.78 , yeah . ami_da_2
+A 614.4 Yeah ami_da_2
+A 614.4 but th it is not stated in this files . ami_da_4
+B 614.47 So ami_da_2
+B 614.47 It is just a . ami_da_3
+A 617.61 So maybe we can we can even make one button with the volume and the channel in one , by pressing ami_da_6
+A 617.61 That is possibility as well . ami_da_9
+D 632.08 That would cut the cost . ami_da_4
+A 634.97 So ami_da_2
+A 634.97 And it is good for the design as well . ami_da_9
+A 637.47 So you can make ami_da_3
+A 637.47 let is see . ami_da_2
+A 642.53 If you make this ami_da_6
+A 642.53 Looks a bit like a cross . ami_da_4
+A 670.56 Plus . ami_da_16
+A 671.64 Min . ami_da_16
+B 674.62 But I do not do not know if if it is cheaper . ami_da_4
+A 677.33 s yeah ami_da_2
+A 677.33 channel . ami_da_3
+B 678.14 So , ami_da_2
+B 678.14 we have still got four buttons , ami_da_4
+B 678.14 but just So ami_da_2
+B 678.14 You got not not a butt button itself , but on the ami_da_4
+B 678.14 Yeah . ami_da_9
+A 679.38 Yeah ami_da_2
+A 679.38 w ami_da_3
+A 679.38 Yeah ami_da_2
+A 679.38 th I think they count the materials . ami_da_4
+A 692.79 Yeah ami_da_2
+A 692.79 on the chip there . ami_da_4
+B 694.29 On the chip you have got still four four buttons . ami_da_4
+A 694.34 Yeah . ami_da_9
+C 694.59 Yeah . ami_da_1
+A 696.4 That is right . ami_da_9
+A 697.1 That is right . ami_da_9
+B 698.25 So ami_da_2
+B 698.25 Yeah , ami_da_9
+B 698.25 but . ami_da_3
+D 698.45 Yeah . ami_da_9
+A 698.93 But I think because we have the advanced chip we can just count this as one button . ami_da_4
+A 704.76 But ami_da_3
+A 704.76 No ami_da_2
+A 704.76 but I think ami_da_3
+A 704.76 Yeah . ami_da_9
+D 705.64 But , I think this really is four buttons anyhow . ami_da_9
+C 709.17 Yes . ami_da_9
+A 713.6 Maybe it is , but then it seems to me that it is impossible to get the twelve and a half Euros . ami_da_9
+A 721.1 Also the LC display , I think it is , I think it is too expensive for the display we use . ami_da_4
+D 721.44 Yes . ami_da_1
+C 723.86 that is that is a big cost . ami_da_4
+A 728.07 I think they try t ami_da_3
+A 728.07 That is right , ami_da_9
+A 728.07 but what is the big advantage of our remote then ? ami_da_5
+A 728.07 Yeah . ami_da_9
+C 731.67 If we leave out the display we can also save money on the chip . ami_da_4
+D 745.39 Only the docking station , I guess . ami_da_4
+C 749.86 Which is not the the docking station is not even in this c s schematic . ami_da_4
+A 755.41 No . ami_da_9
+C 755.42 So ami_da_2
+C 755.42 it is not even taken into the price . ami_da_4
+A 756.79 That is extra . ami_da_4
+A 758.58 That is extra . ami_da_4
+A 759.46 That is right . ami_da_9
+D 760.79 Maybe we should to a different supplier . ami_da_6
+A 764.15 That is an option . ami_da_9
+A 765.77 Poland . ami_da_6
+A 766.7 Something . ami_da_6
+D 768.28 Yeah . ami_da_9
+A 768.64 Polish supplier . ami_da_6
+A 771.08 Do not you think we can , if we can count this as v as one button , and integrate th these buttons in three , ami_da_6
+A 771.08 then we save a lot of money as well . ami_da_4
+C 782.97 We we could save money on it . ami_da_9
+C 784.39 But would it make the remote more usable for elderly people ? ami_da_5
+C 784.39 My mother ca not even send send an SMS message . ami_da_4
+D 789.98 Yeah , that is what I am wondering . ami_da_9
+C 795.54 So ami_da_2
+C 795.54 Yeah . ami_da_1
+A 795.71 Yeah . ami_da_9
+A 796.48 That is a point . ami_da_9
+D 798.12 Well , ami_da_2
+D 798.12 since the market research indicated that older people spend their money easier , more easy , ami_da_4
+D 798.12 maybe it is feasible to just put the price of the remote up a little . ami_da_6
+B 798.53 Are we going to buy a a remote control when you can use it ? ami_da_4
+B 798.53 So Yeah . ami_da_2
+B 807.95 We m we must stay below the below twelve fifty ami_da_4
+B 807.95 or Ca not go ami_da_3
+B 807.95 Nay . ami_da_1
+A 816.6 Yep . ami_da_1
+A 819.47 No . ami_da_1
+D 834.39 Especially since we have those nice features . ami_da_4
+A 838.22 Yeah ami_da_2
+A 838.22 but we have to stick to the twelve and a half Euros . ami_da_9
+A 842.16 We do not have any more budget to develop it . ami_da_4
+C 845.37 The margin will get too small . ami_da_4
+B 845.65 Is it impossible to ami_da_3
+B 845.65 But it is possible to make one for twelve fifty . ami_da_5
+C 847.16 Yeah . ami_da_4
+A 847.58 Yeah . ami_da_2
+A 849.93 So ami_da_2
+A 849.93 It is . ami_da_4
+B 854.05 I do not think so . ami_da_4
+A 855.21 If you leave out the LC display . ami_da_4
+D 855.27 It would be a be a pretty rigid one . ami_da_9
+B 856.51 S ami_da_3
+B 856.51 Yeah . ami_da_1
+A 859.13 And if you use less buttons . ami_da_4
+A 863.08 Say Or you can take the single chip . ami_da_4
+C 864.45 Ten . ami_da_16
+B 864.75 But , you ca not use ami_da_3
+B 864.75 Yeah . ami_da_1
+A 871.26 There it is . ami_da_4
+A 877.71 But then w ami_da_3
+A 877.71 Good looking . ami_da_4
+B 884.38 , wi with n Oh , with attractive o options . ami_da_4
+A 889.13 Yeah . ami_da_1
+B 890.83 So , ami_da_2
+B 890.83 you can stay below twelve fifty . ami_da_4
+B 895.71 So ami_da_2
+B 895.71 Scroll wheel is one . ami_da_4
+A 896.24 I think it is difficult as well , ami_da_9
+A 896.24 but ami_da_3
+A 896.24 Or we can leave out the ten buttons and take one scroll wheel for the programme numbers . ami_da_6
+D 896.59 Or b ami_da_3
+D 896.59 Basically becoming a choice between like either a good remote and a higher production cost , or just any other remote control . ami_da_4
+C 907.2 No remote . ami_da_4
+A 917.74 Then w ami_da_3
+A 917.74 Because then we save ten buttons . ami_da_4
+C 919.25 That is ami_da_3
+C 919.25 We are getting closer . ami_da_4
+B 919.64 No , ami_da_2
+B 919.64 it ami_da_3
+B 919.64 Yeah . ami_da_1
+A 921.55 Then we have five and one . ami_da_4
+A 926.04 And and see . ami_da_2
+A 927.97 If we have this one and we have got the advanced ami_da_16
+A 927.97 W , we are getting close . ami_da_4
+B 935.76 Yeah . ami_da_1
+D 938.2 But how does scroll wheel work here ? ami_da_8
+D 938.2 That would bring up the price of the scroll wheel also . ami_da_4
+A 943.14 Then you will Or maybe you can scroll . ami_da_3
+A 954.16 If you scroll you will see the numbers on the LCD display . ami_da_6
+A 958.56 Until you have got the right number , then you push it . ami_da_6
+C 958.91 Yeah . ami_da_1
+A 965.64 Alright . ami_da_12
+D 965.74 Integrated scroll wheel push button . ami_da_4
+A 965.99 It is gotta scroll and push . ami_da_4
+A 968.0 Okay ami_da_9
+A 968.0 but then you you can push some other button as well . ami_da_6
+D 968.36 But Yeah . ami_da_3
+C 973.81 You could just not scroll for a half a second . ami_da_6
+A 976.69 Yeah . ami_da_9
+C 977.48 So you wo not need a button . ami_da_4
+A 977.73 That is right . ami_da_9
+A 978.11 So if you scroll to a number ami_da_9
+A 978.11 and then you wait a half second , ami_da_9
+A 978.11 then it g turns to that channel . ami_da_9
+D 982.58 I think that would be like the end of our usability . ami_da_9
+B 985.7 D ami_da_3
+B 985.7 yeah . ami_da_9
+A 987.62 But it would definitely crop cost , a lot . ami_da_9
+D 991.89 Yeah , ami_da_9
+D 991.89 but ami_da_3
+D 991.89 Well , ami_da_2
+D 991.89 think it is pretty much the teletext subtitles are ami_da_3
+D 991.89 right now you just push the teletext button , go to page eight eight eight , and teletext disappears . ami_da_4
+A 994.12 And we need the battery . ami_da_4
+A 1001.14 And the regular chip is not possible ? ami_da_5
+A 1001.14 It has to be advanced ? ami_da_5
+A 1001.14 It has to be advanced . ami_da_12
+C 1006.79 If you want to use an LCD screen you you need an advanced chip , yes . ami_da_4
+A 1010.28 Yeah . ami_da_12
+A 1010.88 Okay . ami_da_12
+A 1012.91 And we can save a Euro by a flat design . ami_da_6
+A 1019.94 That is an option we can ami_da_3
+A 1019.94 Then we are almost there . ami_da_4
+C 1021.27 Yep . ami_da_9
+B 1021.71 Ja ja . ami_da_9
+C 1026.12 Yeah if you v could just leave out one more button . ami_da_9
+A 1030.78 Yeah . ami_da_9
+A 1032.21 So ami_da_2
+A 1032.21 if we ami_da_3
+A 1032.21 Yeah ami_da_2
+A 1032.21 but I think that is That is a big advantage , ami_da_9
+A 1032.21 if we are ami_da_3
+A 1032.21 But Can we use ami_da_3
+A 1032.21 ca not we integrate the teletext and the subtitles in one button ? ami_da_11
+A 1032.21 If you push it three times ? ami_da_11
+A 1032.21 Yeah . ami_da_9
+B 1033.24 Yeah , ami_da_2
+B 1033.24 or we have to skip the subtitle button . ami_da_6
+C 1036.6 Yeah . ami_da_1
+B 1037.51 So Yeah ami_da_2
+B 1037.51 Yeah it is a big advantage . ami_da_9
+B 1042.03 But , it is ami_da_3
+B 1042.03 , yeah . ami_da_9
+C 1048.45 I think so . ami_da_9
+C 1049.34 Yeah . ami_da_9
+B 1051.4 Yeah . ami_da_1
+B 1057.72 Yeah . ami_da_9
+D 1058.92 But the subtitles stay there . ami_da_4
+B 1061.63 But if you push the teletext button twice It is One m one b , a few buttons . ami_da_3
+D 1062.39 I think that is the case on most ami_da_4
+D 1062.39 Well , ami_da_2
+D 1062.39 that could be just like the scroll to eight , click , scroll to eight , click , scroll to eight , click . ami_da_9
+C 1064.9 What if you have to scroll to page eighty eight ? ami_da_11
+C 1064.9 Eight hundred eighty eight . ami_da_11
+A 1068.99 that is not really that ami_da_9
+A 1068.99 No . ami_da_1
+C 1075.12 Yeah . ami_da_9
+C 1075.4 Okay . ami_da_9
+D 1076.92 But then again that would be d j just pretty much not an option for older people , ami_da_9
+D 1076.92 who do not even know what a scroll wheel is . ami_da_4
+C 1082.29 No . ami_da_9
+B 1084.15 Yeah . ami_da_1
+D 1085.36 Holding a remote with which they expect to have like ten buttons for the numbers one to zero . ami_da_4
+D 1096.36 With only five buttons on it . ami_da_4
+D 1099.76 And a scroll wheel . ami_da_4
+A 1101.86 I think if you make a good advertisement on television and in the in the guide , you can explain to the people how to use the scroll wheel . ami_da_6
+A 1115.85 If you just make it real simple . ami_da_6
+A 1120.92 Because it saves it saves a lot of money . ami_da_4
+A 1122.75 And we can keep our LCD screen , which can provide extra information . ami_da_4
+A 1126.22 How to use the scroll wheel . ami_da_4
+A 1127.98 How to use the other bu buttons as subtitles . ami_da_4
+D 1128.74 True . ami_da_9
+D 1129.3 True . ami_da_9
+A 1133.17 And it is good for the innovative design as well . ami_da_9
+A 1138.7 If you would erase these . ami_da_9
+A 1142.66 eraser ? ami_da_16
+A 1142.66 And we put ami_da_3
+A 1142.66 Looks a bit odd maybe . ami_da_9
+D 1170.02 That is a pretty big scroll wheel . ami_da_4
+A 1182.02 That is ami_da_3
+A 1182.02 Something like that . ami_da_6
+A 1193.89 Then , yeah . ami_da_6
+A 1196.27 We have got the scroll wheel . ami_da_6
+A 1197.25 One , two , three , four , five buttons , if we erase this one . ami_da_6
+A 1215.15 And these are two buttons then . ami_da_4
+C 1227.25 We could make two buttons out of that . ami_da_6
+C 1231.25 And just If you press the volume button you can control the volume with the scroll wheel . ami_da_6
+A 1236.15 Yeah . ami_da_1
+C 1239.89 So that would save two buttons . ami_da_6
+C 1241.61 If you do the same for the channel . ami_da_6
+A 1241.9 Yeah . ami_da_9
+A 1243.85 That is really a good good idea , I think . ami_da_9
+A 1252.0 And it will make the use of the scroll wheel more obvious indeed . ami_da_4
+C 1255.41 More obvious . ami_da_4
+A 1259.8 So we make one for the volume , one for the channel . ami_da_4
+A 1271.82 Plus scroll . ami_da_4
+C 1274.99 So ami_da_2
+C 1274.99 if we ami_da_3
+C 1274.99 Yeah . ami_da_9
+A 1275.4 That is right . ami_da_9
+A 1276.16 So we have got one , two , three . ami_da_4
+A 1278.73 Yeah , ami_da_9
+A 1278.73 we can leave the teletext in if we want . ami_da_4
+B 1283.14 Yeah . ami_da_9
+A 1283.6 That is m that is better . ami_da_9
+C 1283.85 So ami_da_2
+C 1283.85 If we leave out all those buttons , perhaps you can go with the flat flat case . ami_da_6
+D 1284.98 So this is five buttons . ami_da_4
+C 1291.9 And make it smaller overall . ami_da_6
+C 1295.2 So if you put the the volume and channel buttons on the same height as the on off button , the screen right behi under that , than the scroll button ami_da_6
+C 1295.2 you get a a much smaller remote . ami_da_4
+A 1295.28 Y ami_da_1
+A 1295.28 yeah . ami_da_1
+A 1301.83 yeah . ami_da_1
+A 1305.25 yeah , ami_da_2
+A 1305.25 and then you can ami_da_3
+A 1305.25 That is right . ami_da_9
+B 1308.12 yeah . ami_da_9
+C 1310.28 And it sh ami_da_3
+C 1310.28 Yeah ? ami_da_12
+C 1310.28 Yeah . ami_da_9
+A 1311.41 So we can decrease this one to four buttons . ami_da_4
+D 1317.65 Right now we have five . ami_da_4
+B 1318.4 But , you can make a f quite a big remote remote control for just the same price as a small one . ami_da_4
+A 1327.12 Yeah . ami_da_9
+B 1327.37 Just you only have to pay for the double curved or single curved . ami_da_4
+A 1327.77 That is no problem . ami_da_9
+B 1331.54 It it is a bit . ami_da_3
+A 1332.22 Yeah . ami_da_1
+A 1334.1 Yeah . ami_da_2
+A 1334.3 It is it is more the moulds in which they are being made , I think . ami_da_4
+A 1338.91 Single curved is really easy to just fill in . ami_da_4
+A 1341.49 And cases come right out of the machine . ami_da_4
+A 1344.4 And single curved you have to have a different different machine , than a flat one . ami_da_4
+A 1350.87 I think this is a really easy one . ami_da_9
+A 1353.49 what does everybody think about a flat or a single curved design ? ami_da_11
+A 1353.49 Freek , what do you think ? ami_da_11
+A 1353.49 Yeah . ami_da_9
+D 1364.74 Well , ami_da_2
+D 1364.74 I still think we should go for the single curve design . ami_da_9
+D 1368.03 But then again , all these changes are not really okay with me . ami_da_9
+C 1370.0 Richard is argument was very good . ami_da_9
+B 1370.99 Yeah . ami_da_9
+C 1371.71 Yeah . ami_da_9
+A 1373.9 Yep . ami_da_1
+D 1374.51 But since we just have to . ami_da_4
+A 1377.07 We have to cut costs . ami_da_4
+B 1378.52 Yeah . ami_da_1
+A 1379.76 Yeah . ami_da_2
+A 1380.75 Yeah ami_da_2
+A 1380.75 I am ag ami_da_3
+A 1380.75 Ask for more money . ami_da_4
+D 1380.97 I would rather just go to the board and get us to spend eighteen dollars a a remote . ami_da_9
+A 1386.93 Yeah . ami_da_1
+A 1388.52 Yeah . ami_da_9
+A 1388.86 I am agreeing with the usability . ami_da_9
+D 1389.28 Or do some market research and see what the options are . ami_da_6
+A 1390.61 Yeah . ami_da_9
+A 1393.81 Yeah . ami_da_12
+A 1395.63 But th I think we can then keep the single curved one . ami_da_9
+A 1398.67 Just to express our LCD screen a bit more . ami_da_9
+C 1403.4 Yep . ami_da_9
+D 1403.4 Yeah . ami_da_9
+A 1404.23 So people will use it more , and especially for the help functions , ami_da_4
+A 1404.23 it will be good if we have scroll bar , scroll button . ami_da_9
+B 1404.32 Yeah . ami_da_1
+A 1412.34 It will be necessary to have good help function , as well . ami_da_6
+A 1423.86 So ami_da_2
+A 1423.86 this is scroll . ami_da_4
+A 1436.29 I think it was better to have this price list a bit earlier . ami_da_9
+A 1440.3 Before we went on to the to the whole design . ami_da_9
+D 1440.44 Yes . ami_da_9
+D 1441.19 Definitely . ami_da_9
+B 1441.66 The th ami_da_3
+B 1441.66 No . ami_da_9
+A 1445.56 But I am glad we could make a bit . ami_da_14
+D 1450.53 Yeah . ami_da_1
+A 1451.38 It is pretty different , if you saw the last one than this one . ami_da_4
+D 1452.8 It is pretty different . ami_da_9
+D 1453.62 But this is not really like for the group we were making our remote . ami_da_9
+D 1459.59 This will really require a lot of marketing to get this to sell . ami_da_4
+A 1462.52 Yeah . ami_da_9
+A 1463.01 It will . ami_da_9
+A 1465.64 Yeah . ami_da_9
+D 1467.99 Because if older people like familiar forms and familiar stuff . ami_da_4
+B 1468.06 But ami_da_3
+B 1468.06 But they know the scroll buttons from old radios . ami_da_4
+D 1472.97 This is not familiar for them . ami_da_4
+A 1475.66 No , ami_da_9
+A 1475.66 but I think I think the most ami_da_3
+A 1475.66 That is right . ami_da_9
+D 1476.16 So we are going to have to do a lotta convincing them . ami_da_4
+B 1482.45 they cal also buttons like that for changing channels . ami_da_4
+D 1485.53 Yeah . ami_da_9
+B 1486.9 So maybe it is ami_da_3
+B 1486.9 Yeah . ami_da_9
+A 1487.13 We can let l ami_da_3
+A 1487.13 We can stick it out , a bit . ami_da_6
+A 1490.57 Like a old old buttons . ami_da_6
+B 1492.24 Yeah . ami_da_9
+A 1494.8 Maybe that is recognisable for them as well . ami_da_4
+B 1496.68 Yeah . ami_da_1
+A 1497.09 Yeah . ami_da_9
+A 1497.61 That is a good one . ami_da_9
+A 1499.52 So , ami_da_2
+A 1499.52 I am afraid we have to move on . ami_da_6
+A 1503.8 And it is it is b less frightening , I think . ami_da_9
+A 1507.89 If they see this design they think ami_da_4
+A 1507.89 oh , there are only five buttons , and ami_da_4
+A 1507.89 But we will see . ami_da_9
+B 1513.69 Yeah . ami_da_1
+D 1513.89 That is true . ami_da_9
+D 1514.36 Might might be confusing too . ami_da_4
+A 1516.15 Yeah . ami_da_9
+A 1517.1 That is definitely right . ami_da_9
+D 1517.2 They would be like , what ? ami_da_4
+D 1517.2 Only five buttons ? ami_da_4
+D 1517.2 Yeah . ami_da_12
+A 1520.23 Yeah . ami_da_1
+B 1521.56 But very special , ami_da_9
+B 1521.56 so ami_da_2
+B 1521.56 No . ami_da_9
+A 1524.95 I would buy it . ami_da_9
+D 1527.3 But you are not sixty . ami_da_4
+A 1528.29 That is right . ami_da_9
+A 1529.52 I would buy it if I was six . ami_da_4
+A 1531.82 No I do not know . ami_da_9
+A 1533.85 What it costs under twelve and a half Euros ? ami_da_5
+A 1533.85 No ? ami_da_5
+A 1533.85 , yes they are . ami_da_4
+A 1540.66 No . ami_da_12
+A 1541.28 But we can go on with the project evaluation . ami_da_6
+A 1549.64 Let is see . ami_da_2
+A 1550.7 I can sit down I think . ami_da_7
+A 1551.85 We still have fifteen minutes left , ami_da_4
+A 1551.85 so we are nice on schedule . ami_da_9
+C 1555.76 Yeah . ami_da_1
+A 1557.34 , the project process . ami_da_6
+D 1560.26 So , ami_da_2
+D 1560.26 I like set up all these criteria . ami_da_4
+D 1564.62 And evaluation of the thingy . ami_da_4
+A 1564.73 Evaluation criteria . ami_da_12
+A 1566.54 That is right . ami_da_12
+A 1567.03 That was the the point I forgot . ami_da_4
+A 1570.73 I should ami_da_3
+A 1570.73 There we are . ami_da_4
+A 1574.16 Evaluation criteria . ami_da_4
+D 1575.64 Thank you . ami_da_14
+A 1576.98 Go ahead . ami_da_6
+A 1579.38 We have got five minutes I think for those criteria . ami_da_4
+D 1582.26 Five more minutes ? ami_da_12
+D 1582.26 Okay . ami_da_12
+A 1584.06 No we have got fifteen minutes ami_da_4
+A 1584.06 but ami_da_3
+A 1584.06 yes . ami_da_16
+A 1597.33 What ? ami_da_16
+A 1597.33 yeah . ami_da_1
+D 1603.1 Okay so ami_da_2
+D 1603.1 I did some literature study study , and analysis of the requirements we set up earlier . ami_da_4
+D 1609.7 Translated it into criteria , which would be these . ami_da_4
+D 1613.47 , is the remote fancy ? ami_da_4
+D 1613.47 The shape , look and feel . ami_da_4
+D 1617.56 Innovative ? ami_da_4
+D 1617.56 What new functions are there ? , easy to use ? ami_da_4
+D 1617.56 , learnability is a very important factor here . ami_da_4
+D 1627.41 , is it functional ? ami_da_4
+D 1627.41 Are there not too many functions among the functions ? ami_da_4
+D 1627.41 And are the those functions that are there , are they useful ? ami_da_4
+D 1627.41 And the cost . ami_da_4
+D 1640.8 The target group . ami_da_4
+D 1641.62 Is the remote really for the group we are making it for ? ami_da_4
+D 1641.62 And recognability . ami_da_4
+D 1649.98 If our company is If it is easily recognisable that our company made it ? ami_da_4
+D 1649.98 And ami_da_3
+D 1649.98 So we are supposed to evaluate it right now . ami_da_6
+A 1661.82 Okay . ami_da_9
+D 1664.23 Let is see . ami_da_6
+D 1667.41 Oh ami_da_2
+D 1667.41 I have to say this was a little hard , ami_da_9
+D 1667.41 because the minutes of our last meeting were not here . ami_da_4
+A 1674.19 Yeah , ami_da_9
+A 1674.19 that is because my pen failed to upload his data . ami_da_4
+D 1677.99 Okay . ami_da_12
+B 1678.14 Yeah ? . ami_da_1
+A 1679.47 I tried to but it is it is giving errors by downloading the software . ami_da_4
+D 1679.47 Interesting . ami_da_9
+D 1683.31 So ami_da_2
+D 1683.31 Is the design fancy , on a scale of one to seven ? ami_da_11
+D 1683.31 We all go for six ? ami_da_5
+D 1683.31 Good . ami_da_9
+B 1686.23 Okay . ami_da_1
+A 1690.37 I think it is fancy . ami_da_9
+C 1692.56 Six . ami_da_9
+A 1693.45 Yeah . ami_da_9
+B 1694.28 six . ami_da_9
+B 1695.15 Yeah . ami_da_9
+A 1695.27 Six . ami_da_9
+D 1701.05 , is the design innovative ? ami_da_11
+D 1701.05 I think so , ami_da_9
+D 1701.05 with our LCD screen , docking station , scroll buttons . ami_da_4
+A 1704.37 Very . ami_da_9
+B 1705.61 Sh ami_da_3
+B 1705.61 Yeah . ami_da_4
+A 1706.85 Subtitles , buttons . ami_da_4
+A 1709.12 Yeah . ami_da_9
+C 1709.82 Yeah . ami_da_9
+A 1710.25 Seven . ami_da_9
+D 1711.02 Seven ? ami_da_12
+D 1711.02 Should be do able . ami_da_4
+A 1711.89 Yeah . ami_da_4
+A 1712.95 So we have got twenty cents for our docking station , ami_da_4
+A 1712.95 huh ? ami_da_11
+A 1712.95 Yeah . ami_da_9
+A 1720.07 That is right . ami_da_9
+D 1720.3 Is the design easy to use ? ami_da_11
+D 1720.3 Well ami_da_2
+D 1720.3 Would be for us . ami_da_9
+B 1722.93 Not really . ami_da_9
+A 1723.08 That is a bit dodgy . ami_da_9
+D 1728.79 But ami_da_3
+D 1728.79 I would go for four , too . ami_da_9
+B 1729.71 For old people I I W ami_da_3
+B 1729.71 Yeah . ami_da_9
+A 1730.37 I would say four . ami_da_9
+C 1732.11 Four or five . ami_da_9
+A 1732.79 Four or five between . ami_da_9
+C 1732.89 Yes . ami_da_9
+B 1733.79 Four . ami_da_9
+A 1734.31 Between four or five . ami_da_9
+B 1736.65 Yeah . ami_da_1
+A 1736.91 Yeah . ami_da_1
+A 1741.39 Is it functional ? ami_da_11
+A 1741.39 Yes . ami_da_4
+D 1742.71 Is the design functional ? ami_da_11
+D 1742.71 , do we have all functions that we want to include ? ami_da_5
+D 1742.71 I think we do . ami_da_4
+B 1748.13 N ami_da_3
+B 1748.13 Yeah . ami_da_4
+D 1749.43 Do we have too many functions ? ami_da_5
+D 1749.43 I do not think so . ami_da_4
+C 1750.88 No . ami_da_4
+A 1751.27 No . ami_da_4
+B 1751.36 No . ami_da_4
+D 1752.35 It is pretty slim . ami_da_4
+A 1752.87 Think it is seven . ami_da_9
+D 1755.64 Seven . ami_da_12
+D 1758.44 Oh , ami_da_2
+D 1758.44 and do we take care of the biggest frustrations of the remote control ? ami_da_5
+D 1758.44 Like it getting lost and RSI influences ? ami_da_5
+D 1758.44 Think we do . ami_da_4
+B 1769.28 m ami_da_2
+B 1769.28 Yeah . ami_da_4
+C 1769.88 , we have not thought of that one . ami_da_4
+A 1772.35 It was . ami_da_3
+A 1773.73 I had them worked out . ami_da_4
+A 1779.05 They are ugly , not very functional , and getting lost . ami_da_4
+D 1785.13 Are the production costs within the preset limits ? ami_da_5
+D 1785.13 Well ami_da_2
+D 1785.13 they are now . ami_da_4
+A 1789.64 Yeah . ami_da_1
+D 1794.99 Does the design fit the group of focus ? ami_da_11
+D 1794.99 Yeah . ami_da_9
+C 1798.51 I think that is a three . ami_da_9
+B 1798.81 , th ami_da_9
+B 1798.81 yeah . ami_da_9
+A 1800.97 No I think with our new radio button ami_da_9
+A 1800.97 , I think it is ami_da_9
+A 1800.97 I think it is better . ami_da_9
+D 1801.38 I think it does not . ami_da_9
+B 1802.71 Yeah . ami_da_1
+B 1805.61 We have to test it ami_da_6
+B 1805.61 s ami_da_3
+B 1805.61 But ami_da_3
+B 1805.61 , yeah , true . ami_da_9
+D 1808.15 I do not know . ami_da_9
+C 1809.72 I still I think it is too m too fancy . ami_da_9
+D 1810.91 I think ami_da_3
+D 1810.91 I think a radio button is not exactly what older people expect to have a remote control . ami_da_4
+A 1811.67 I think it ami_da_3
+A 1811.67 Yeah . ami_da_9
+C 1814.12 Too too flashy . ami_da_9
+A 1823.91 I would give it a four . ami_da_9
+D 1829.89 I am not sure . ami_da_9
+D 1830.36 I think I would go for two . ami_da_9
+B 1832.16 I go for three . ami_da_9
+B 1833.13 So ami_da_2
+B 1833.13 Yeah yeah . ami_da_4
+A 1833.65 Then we have to do the three . ami_da_4
+A 1835.43 It is the ami_da_3
+A 1835.43 Yes it is . ami_da_4
+D 1835.63 Okay . ami_da_1
+D 1843.52 Is the company company recognisable ? ami_da_5
+D 1843.52 Well , ami_da_2
+D 1843.52 we have the logo there . ami_da_4
+A 1847.37 Yeah . ami_da_9
+D 1848.82 So ami_da_2
+D 1848.82 Yeah . ami_da_1
+A 1852.46 And they want to put fashion in their products . ami_da_4
+A 1856.57 in the slogan of the company . ami_da_4
+A 1858.2 And we have the removable front cases . ami_da_4
+B 1862.16 Yeah . ami_da_1
+A 1862.5 So , I think it is very recognisable . ami_da_4
+A 1865.26 Yep . ami_da_9
+D 1870.38 So that will be this . ami_da_4
+D 1875.47 I was also supposed to calculate the score , ami_da_4
+D 1875.47 but thought we would have another private thingy after this . ami_da_6
+A 1881.92 We have got a calculate it . ami_da_4
+A 1884.46 N ami_da_3
+A 1884.46 We have going to We are going to evaluate it . ami_da_4
+C 1885.3 Twendag sieven an twendag . ami_da_16
+D 1886.1 Is this ami_da_3
+D 1886.1 Like ami_da_2
+D 1886.1 after this , are we done ? ami_da_5
+D 1886.1 Or ami_da_5
+D 1886.1 We are going to go to our other room again . ami_da_4
+D 1892.54 Well , anyhow . ami_da_2
+D 1893.35 These are seven factors times seven is forty something . ami_da_5
+D 1897.81 Two ? ami_da_5
+D 1897.81 No . ami_da_4
+D 1899.7 Nine ? ami_da_5
+D 1899.7 , minus one . ami_da_16
+A 1900.9 Forty nine . ami_da_4
+D 1906.99 Minus three , minus four . ami_da_16
+D 1910.89 Minus four . ami_da_16
+D 1913.32 So that would be minus eight . ami_da_4
+D 1916.35 Forty one out of forty nine . ami_da_4
+A 1916.94 Forty one . ami_da_4
+A 1919.69 That is Around eighty percent . ami_da_4
+D 1926.12 Okay . ami_da_1
+A 1927.23 What is it ? ami_da_11
+A 1927.23 That is eighty four percent . ami_da_4
+D 1928.57 Guess I will just type that in on the bottom here . ami_da_7
+A 1942.99 I think that is a pretty nice score . ami_da_9
+C 1945.66 Yeah . ami_da_9
+B 1945.96 Yeah . ami_da_9
+D 1959.15 Okay . ami_da_2
+D 1960.2 So ami_da_2
+D 1960.2 that will be the evaluation . ami_da_4
+A 1961.99 Okay . ami_da_12
+A 1962.64 Thank you . ami_da_14
+A 1966.32 So , ami_da_2
+A 1966.32 that brings us to the project evaluation . ami_da_4
+A 1975.04 Yep . ami_da_9
+A 1976.29 Thank you . ami_da_14
+A 1978.03 Project process . ami_da_4
+A 1979.69 Did we move through the right phases , you think ? ami_da_11
+A 1979.69 Along the process ? ami_da_11
+A 1979.69 That is right . ami_da_9
+C 1984.74 Yes . ami_da_9
+B 1985.74 Yeah . ami_da_9
+B 1986.55 But it ami_da_3
+B 1986.55 Yeah . ami_da_9
+D 1986.76 Think we should have a should have had the finance thingy a lot earlier . ami_da_9
+D 1993.41 In the design phase . ami_da_9
+A 1995.22 So lack of information about prices . ami_da_5
+D 1998.36 Yeah . ami_da_4
+C 1998.53 Yeah . ami_da_4
+B 1998.6 Yeah . ami_da_4
+C 1999.91 That is true . ami_da_4
+D 2000.08 Definitely . ami_da_4
+A 2000.83 Okay . ami_da_12
+A 2003.81 Okay . ami_da_2
+A 2011.39 Satisfaction . ami_da_4
+A 2013.27 Was there room for creativity ? ami_da_5
+A 2013.27 No ? ami_da_12
+A 2013.27 It is because of the finance sheet . ami_da_4
+D 2014.88 No . ami_da_4
+D 2017.63 Not too much . ami_da_4
+D 2018.4 No . ami_da_4
+B 2021.43 Yeah . ami_da_9
+A 2021.71 Yeah . ami_da_4
+C 2021.82 Yeah , there w there was enough room , but the finance ami_da_9
+C 2021.82 Yes . ami_da_4
+D 2022.78 Yeah , true . ami_da_9
+D 2023.35 But ami_da_3
+D 2023.35 And I would have liked to go for the younger users also . ami_da_9
+A 2023.94 The room was ami_da_3
+A 2023.94 Yeah . ami_da_3
+B 2024.39 Yeah . ami_da_1
+D 2036.38 And just to be able to access internet and get something of your own . ami_da_6
+A 2044.16 Restrictions . ami_da_16
+A 2049.85 Internet access . ami_da_16
+A 2053.33 Okay . ami_da_2
+A 2055.1 Leadership . ami_da_4
+A 2056.64 Was it clear what everybody had to do according to their roles and functions ? ami_da_5
+A 2056.64 Yeah ? ami_da_5
+A 2056.64 Teamwork ? ami_da_11
+A 2056.64 Did it work out ? ami_da_11
+A 2056.64 Working together ? ami_da_11
+A 2056.64 Also , you two of you with the last phase ? ami_da_11
+A 2056.64 Nice . ami_da_14
+D 2064.37 Yeah . ami_da_4
+B 2064.77 Yeah . ami_da_4
+B 2067.03 So ami_da_2
+B 2067.03 Yeah . ami_da_9
+C 2071.49 Yes , was okay . ami_da_9
+C 2081.14 The tasks are very structured , so you can just do step by step ami_da_4
+C 2081.14 and it is very easy . ami_da_9
+A 2089.83 tasks . ami_da_16
+A 2091.81 Okay . ami_da_2
+A 2093.63 Were the means sufficient for the tasks we had to do ? ami_da_5
+A 2093.63 Or were they too much ? ami_da_5
+A 2093.63 Smart board . ami_da_16
+C 2099.5 Well , ami_da_2
+C 2099.5 the smart board , the d d drawing is just a pain in the ass , but The digital the digital pen is very nice . ami_da_9
+B 2107.64 Yeah . ami_da_1
+A 2108.72 If it wants to download its data . ami_da_9
+D 2109.12 Yeah . ami_da_1
+B 2109.31 But ami_da_3
+B 2109.31 Yeah . ami_da_4
+C 2110.55 Yes . ami_da_1
+D 2110.61 Yeah . ami_da_1
+C 2111.0 Yeah . ami_da_1
+A 2117.93 Failed download . ami_da_16
+A 2123.84 Smart board was irritating . ami_da_16
+A 2132.86 So you rather wanted to have a flip over ? ami_da_5
+A 2132.86 Or something else ? ami_da_5
+A 2132.86 Faster as well , I think . ami_da_4
+C 2138.11 A flip over or a more precise digit ami_da_4
+C 2138.11 Yes . ami_da_9
+B 2138.65 A flipper is easier , ami_da_4
+B 2138.65 so ami_da_3
+B 2138.65 Yeah . ami_da_1
+D 2142.04 Yeah . ami_da_1
+A 2144.03 Yeah . ami_da_9
+A 2149.52 Flip over . ami_da_16
+B 2150.07 But if you want to share of when you make a picture like this on the presentation , it is easier to share it with other people . ami_da_4
+B 2163.02 so ami_da_2
+B 2163.02 you can sh save it and put it on the internet , or in shared f folder or sh shared directory . ami_da_4
+A 2164.01 Yeah . ami_da_1
+D 2172.64 Yeah , ami_da_2
+D 2172.64 I tried to open the file on my laptop , but not possible . ami_da_4
+B 2173.21 So So ami_da_2
+B 2173.21 Yeah ? ami_da_1
+B 2173.21 No ? ami_da_12
+B 2173.21 T can can you export it like a Yeah . ami_da_5
+C 2175.74 No . ami_da_4
+C 2176.26 Did not work . ami_da_4
+A 2177.29 you need a smart board application I think . ami_da_4
+D 2179.8 Yeah . ami_da_1
+A 2182.59 But I think you can ami_da_3
+A 2182.59 Yeah . ami_da_4
+A 2184.63 Should be possible . ami_da_4
+D 2185.24 no . ami_da_3
+A 2186.06 Yeah you can export it as image . ami_da_4
+A 2188.65 Must ami_da_3
+A 2188.65 Yeah ami_da_2
+A 2188.65 must be ami_da_3
+A 2188.65 So ami_da_2
+A 2188.65 the sharing of the information was was okay ? ami_da_11
+A 2188.65 , network . ami_da_3
+D 2190.0 Should have done that then . ami_da_16
+D 2198.12 Pen is here . ami_da_4
+C 2198.64 Yes . ami_da_9
+A 2199.74 Yeah , pen is here on the table . ami_da_9
+B 2206.88 , yeah . ami_da_2
+B 2211.44 So ami_da_2
+B 2211.44 you can ami_da_3
+B 2211.44 It is possible . ami_da_4
+A 2212.56 Yeah . ami_da_9
+A 2215.53 It is possible . ami_da_9
+D 2216.27 Yeah . ami_da_9
+A 2217.62 Okay . ami_da_2
+B 2218.91 Okay . ami_da_9
+A 2220.26 That is nice . ami_da_14
+A 2221.6 Have we found new ideas for having this kind of meetings ? ami_da_5
+A 2221.6 Or ami_da_3
+A 2221.6 Yeah . ami_da_1
+B 2228.3 , yeah ami_da_2
+B 2228.3 maybe when we n just give the numbers of of o one of out of s sev ami_da_3
+B 2228.3 it is easier to to do the th things that are like that on a computer . ami_da_9
+A 2250.87 Yeah . ami_da_1
+B 2250.99 , so just l like at u university ami_da_9
+B 2250.99 So ami_da_2
+B 2250.99 Yeah . ami_da_1
+A 2253.0 So Yeah . ami_da_2
+A 2256.82 So ami_da_2
+A 2256.82 everybody puts his own score . ami_da_4
+A 2258.53 And then it mediates the score , and you can get one ami_da_4
+A 2258.53 Yeah . ami_da_2
+D 2259.27 Yeah . ami_da_1
+B 2261.71 Yeah . ami_da_1
+C 2263.41 Yeah . ami_da_1
+A 2264.38 That is better . ami_da_9
+A 2266.29 So that is ami_da_3
+A 2266.29 How do we call ? ami_da_16
+A 2266.29 Evaluation criteria . ami_da_16
+A 2294.79 Okay . ami_da_2
+A 2296.67 any more ideas ? ami_da_5
+A 2296.67 Or questions about the project ? ami_da_5
+A 2296.67 Or about the product ? ami_da_5
+A 2296.67 Because I think then that we get to our last sheet . ami_da_4
+A 2320.98 Are the costs within the budget ? ami_da_5
+A 2320.98 Yeah . ami_da_4
+B 2323.41 yeah . ami_da_4
+D 2324.9 They are . ami_da_4
+C 2326.34 Considering we are not going to make a docking station . ami_da_9
+A 2326.48 Do we ami_da_3
+A 2326.48 Docking station . ami_da_12
+A 2331.84 That is a good point . ami_da_9
+A 2333.23 But maybe because of the docking station the price of the remote can also be a little bit higher ? ami_da_11
+A 2333.23 and I think you can compensate that as well . ami_da_9
+D 2340.69 Yeah . ami_da_9
+C 2341.57 Perhaps . ami_da_9
+A 2345.86 So I think that should not be the biggest problem , ami_da_9
+A 2345.86 because it is very cheap to make as well . ami_da_4
+B 2351.62 Yeah . ami_da_1
+A 2352.06 Do we think we going to get the twelve and a half million ? ami_da_5
+A 2352.06 Or what was it ? ami_da_5
+A 2352.06 Fifteen fifteen million . ami_da_4
+D 2356.57 Fifty grand . ami_da_4
+A 2360.02 I think we will . ami_da_4
+A 2362.26 If we going to export this product . ami_da_4
+A 2364.22 It is innovative . ami_da_4
+D 2364.31 Yeah . ami_da_1
+A 2366.31 Especially in America . ami_da_4
+A 2367.96 People are pretty decadent . ami_da_4
+B 2369.57 Yeah . ami_da_1
+A 2371.18 Sometimes . ami_da_4
+D 2372.64 Yeah , ami_da_2
+D 2372.64 still I think ami_da_3
+D 2372.64 I mean ami_da_2
+D 2372.64 if we are n going to make a scroll button anyway ami_da_4
+D 2372.64 it would be more for the younger people than for the older people . ami_da_4
+B 2373.13 Yeah . ami_da_1
+A 2378.12 You can do more . ami_da_4
+A 2381.84 Yeah . ami_da_1
+D 2382.45 So maybe we should just re focus . ami_da_6
+A 2385.17 Just put it on the market for everybody . ami_da_5
+A 2387.89 You can you can change markets where by changing the front covers . ami_da_6
+D 2387.97 Or specifically for younger people . ami_da_4
+A 2394.22 That is one thing you can change it with . ami_da_6
+D 2395.02 That is true . ami_da_9
+A 2396.49 So you can also try to reach the younger people by putting fancy covers on on the market . ami_da_6
+A 2404.92 Just as a test . ami_da_6
+A 2405.97 See how it works . ami_da_6
+A 2407.8 That is I think a good advantage . ami_da_9
+D 2409.19 Yeah , ami_da_2
+D 2409.19 I think then it would be way more popular with younger people than it is , than would be with older people . ami_da_4
+A 2420.39 Yeah . ami_da_1
+D 2421.63 Even if it were their covers . ami_da_4
+A 2423.84 , then I think we can have our little celebration , right now . ami_da_6
+D 2425.58 But ami_da_3
+D 2425.58 Party party . ami_da_14
+A 2430.08 That is it . ami_da_4
+A 2431.04 Yeah . ami_da_2
+A 2432.0 I think we still have to fit in one more questionnaire . ami_da_4
+B 2434.1 Where is the champagne ? ami_da_5
+B 2434.1 , I believe y ami_da_3
+B 2434.1 Okay . ami_da_1
+D 2435.3 Okay . ami_da_12
+A 2436.41 I think . ami_da_4
+A 2437.27 I do not know . ami_da_9
+A 2437.78 I did not get a message ami_da_4
+A 2437.78 from the from ending of the ami_da_3
+A 2437.78 Oh ami_da_2
+A 2437.78 I think I have one now . ami_da_4
+D 2444.79 Oh ami_da_2
+D 2444.79 you did . ami_da_4
+A 2446.45 Five more minutes ? ami_da_4
+A 2446.45 Oh that is nice . ami_da_9
+A 2451.41 Then we still have some questions . ami_da_4
+A 2454.41 If somebody has some questions they can ask them now . ami_da_6
+A 2457.77 Or we can put these in the project folder as well . ami_da_6
+A 2461.88 Maybe that is ami_da_3
+A 2461.88 Export as picture , I think . ami_da_4
+B 2462.55 Yeah . ami_da_9
+D 2482.15 Yeah . ami_da_9
+B 2482.47 Yeah . ami_da_9
+A 2497.84 This is another network , I guess . ami_da_4
+A 2509.42 Does somebody see the project folder ? ami_da_5
+A 2509.42 I do not . ami_da_4
+A 2520.84 My Documents . ami_da_16
+B 2527.21 maybe they will save it . ami_da_6
+B 2528.75 So ami_da_2
+B 2528.75 Okay . ami_da_12
+A 2529.39 Yeah , ami_da_9
+A 2529.39 I will just put it in My Documents ami_da_7
+A 2529.39 and ami_da_3
+A 2529.39 That is okay . ami_da_16
+D 2530.18 Yeah , it probably will . ami_da_9
+A 2542.04 Okay . ami_da_9
+A 2546.81 I think I am going to make our final presentation now . ami_da_7
+D 2551.48 Oh yeah , ami_da_9
+D 2551.48 you are supposed to make a final ami_da_4
+D 2551.48 Are we supposed to go into our own rooms again ? ami_da_5
+D 2551.48 Yeah . ami_da_1
+A 2553.9 And then I will be back in about ten minutes to show you the final presentation . ami_da_7
+C 2560.67 Okay . ami_da_12
+A 2561.45 Summary of the project . ami_da_7
+B 2567.01 maybe we have to fill another questionnaire . ami_da_4
+A 2568.98 Yeah . ami_da_9
+A 2569.79 Questionnaire . ami_da_9
+B 2569.86 So ami_da_2
+B 2569.86 Yeah . ami_da_1
+A 2570.26 I think you all get a questionnaire in in your room . ami_da_4
+B 2573.21 Yeah . ami_da_1
+A 2574.55 And then I will meet you in ami_da_7
+A 2574.55 I think about ten minutes , or something . ami_da_7
+A 2583.63 Hopefully my pen will download its software . ami_da_16
+D 2587.1 Yeah . ami_da_1
+A 2587.24 Oh . ami_da_16

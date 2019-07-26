@@ -1,0 +1,1303 @@
+B 23.18 Hello . ami_da_14
+B 30.12 Okay . ami_da_2
+A 31.5 You all saw the newsflash ? ami_da_5
+A 31.5 Or you got the same message ? ami_da_5
+A 31.5 Yeah sorry . ami_da_14
+C 31.51 It is ami_da_3
+C 31.51 I do not know . ami_da_4
+D 34.14 Yeah I ami_da_4
+D 34.14 I just saw it one minute ago . ami_da_4
+D 37.01 When I ami_da_3
+D 37.01 Yeah . ami_da_1
+C 37.88 I did not see it yet I think . ami_da_4
+B 39.51 Newsflash ? ami_da_5
+B 39.51 D did I miss something ? ami_da_5
+B 39.51 Okay . ami_da_1
+A 40.75 Yeah . ami_da_1
+A 42.29 Yeah I received an email ami_da_4
+A 42.29 so I thought I I ca not mail you ami_da_4
+A 42.29 so I thought I would just drop it in the folder , but ami_da_4
+A 42.29 Is it unlocked ? ami_da_5
+A 42.29 Woah . ami_da_16
+D 43.08 Yeah pretty much . ami_da_4
+C 49.0 Hey what is wrong with my computer ? ami_da_5
+B 54.94 No . ami_da_1
+D 62.77 Yeah that is my presentation . ami_da_9
+A 65.08 I kind of opened it . ami_da_4
+C 65.77 Huh ? ami_da_16
+C 65.77 What the ami_da_3
+C 65.77 Not really . ami_da_9
+D 67.96 Oh right . ami_da_9
+A 69.06 Okay . ami_da_1
+B 70.05 I think you have to change your desktop size . ami_da_4
+D 74.03 Ooh . ami_da_16
+A 74.8 Okay . ami_da_11
+A 75.12 Everybody ready ? ami_da_11
+A 75.12 No no no . ami_da_16
+D 76.7 Well ami_da_3
+D 76.7 Alright . ami_da_9
+C 78.46 Sorry . ami_da_14
+B 79.23 computer is not functioning ? display . ami_da_4
+A 80.63 Yes yes yes . ami_da_16
+C 84.61 Okay . ami_da_5
+C 85.11 Where do I find this ? ami_da_5
+C 85.11 I am not so g ami_da_3
+C 85.11 display huh ? ami_da_5
+C 85.11 Appearance ? ami_da_5
+C 85.11 No ami_da_4
+C 85.11 what was it about ? ami_da_5
+C 85.11 Yeah my computer is not functioning properly . ami_da_4
+A 85.16 Okay . ami_da_2
+B 91.7 And then settings ? ami_da_4
+B 91.7 I am not sure I . ami_da_4
+D 93.66 Huh . ami_da_3
+D 101.02 You read the newsflash ? ami_da_5
+B 103.24 No . ami_da_4
+A 103.62 Okay . ami_da_6
+A 104.42 Can we get started ami_da_6
+A 104.42 or is there some pressing issue ? ami_da_5
+A 104.42 Oh no pressing . ami_da_9
+A 112.8 Did you plug in the power cable when you come back ? ami_da_5
+A 112.8 Yeah . ami_da_9
+C 114.81 Yeah yeah . ami_da_4
+C 115.28 No but my screen is reduced in size . ami_da_4
+D 119.21 What ? ami_da_12
+A 120.28 That is difficult . ami_da_9
+A 121.48 Yeah . ami_da_9
+C 123.05 Yeah . ami_da_9
+C 126.61 Feedback . ami_da_1
+B 129.49 Okay . ami_da_1
+C 131.43 Okay . ami_da_9
+D 135.16 alt delete . ami_da_4
+A 136.56 Yeah . ami_da_1
+B 138.4 Format . ami_da_4
+A 139.59 Format save . ami_da_9
+D 146.08 So it does not draw the attention away . ami_da_9
+C 147.73 This is dreadful . ami_da_9
+A 147.95 Yeah . ami_da_1
+B 150.39 I made my own map . ami_da_4
+C 153.11 No not this , but the task . ami_da_9
+A 153.43 Oh yeah sure . ami_da_9
+B 154.06 It is a ami_da_3
+B 154.06 Yeah . ami_da_1
+A 154.88 You have Playstation also ? ami_da_5
+A 154.88 Huh . ami_da_3
+C 156.37 Yeah . ami_da_9
+C 158.41 No that is okay . ami_da_9
+C 161.05 No I just flapped it , closed it , took it here ami_da_4
+C 161.05 and then this happened . ami_da_4
+C 176.61 where was it ? ami_da_5
+C 176.61 In settings ? ami_da_5
+C 176.61 Okay . ami_da_9
+C 183.31 Alright . ami_da_9
+C 184.74 Thank you . ami_da_14
+C 189.8 Do you guys like your tasks ? ami_da_11
+C 189.8 I spent a lot of time thinking about what I was going to do and then a couple of minutes before this ami_da_4
+C 189.8 I get my function you know the information that I need . ami_da_4
+B 192.03 Yeah . ami_da_9
+D 192.56 Yeah . ami_da_9
+B 196.66 Yeah wa wa you actually ami_da_3
+B 196.66 Yeah . ami_da_1
+D 203.06 Yeah . ami_da_1
+C 203.3 So frustrating . ami_da_9
+B 203.59 But it it is not clear what you have to to to type type in your presentation . ami_da_9
+C 205.3 So ami_da_3
+C 205.3 Yeah ami_da_1
+C 205.3 Yeah exactly . ami_da_9
+D 205.96 Yeah . ami_da_9
+D 206.55 I I had a whole idea and then just was typing it ami_da_4
+D 206.55 and then ami_da_4
+D 206.55 oh . ami_da_4
+D 210.36 I have to do that so switch . ami_da_4
+C 212.57 This presentation is mainly based on my own ideas because I had not time to intergrate tha the information yet so ami_da_4
+C 212.57 Really annoying . ami_da_9
+B 219.05 Yeah . ami_da_1
+A 222.03 Okay . ami_da_4
+A 222.67 So there we are again . ami_da_4
+D 223.84 By your humble PM . ami_da_14
+A 225.67 Yeah . ami_da_9
+A 227.04 Okay this is the agenda . ami_da_4
+A 228.98 we have three presentations , I heard . ami_da_4
+B 234.25 Really . ami_da_14
+A 234.81 Yeah really . ami_da_14
+A 235.84 So who wants to start ? ami_da_8
+A 235.84 Yeah . ami_da_4
+D 239.01 Yeah that is fine . ami_da_7
+C 240.98 Yeah . ami_da_1
+D 241.54 We have to start it right away ? ami_da_5
+D 241.54 Functional ? ami_da_4
+D 241.54 Yeah functional requirements . ami_da_4
+A 244.63 this is you ? ami_da_5
+A 244.63 Okay . ami_da_9
+D 248.79 Alright . ami_da_2
+D 250.53 I am going to talk about functional requirements . ami_da_7
+D 253.48 Well some research has be done has been done . ami_da_4
+D 259.53 observing of one hundred subjects in the usability lab using a remote control . ami_da_4
+D 265.21 and they also filled in a questionnaire . ami_da_4
+D 268.93 The findings were , well you can see them for yourself . ami_da_4
+D 272.45 They disliked the look and feel of current remotes controls . ami_da_4
+D 275.44 Users think they are ugly . ami_da_4
+D 277.31 they do not match the the operating behaviour of the users . ami_da_4
+D 282.15 So they they d they do not match what they want to have on it . ami_da_4
+D 286.26 they are often lost somewhere in the room . ami_da_4
+D 289.98 it takes too much time to learn how to use a new remote control . ami_da_4
+D 294.43 And they are bad for RSI . ami_da_4
+D 298.18 I do not know how a user can reach that ami_da_9
+D 298.18 but okay . ami_da_9
+D 301.78 there is also was also some research on the most relevant and and and irrelevant f functions . ami_da_4
+C 302.98 Ts ami_da_3
+C 302.98 So they do need to be in the ami_da_9
+C 302.98 Alright . ami_da_1
+D 311.87 most irrelevant and less used were audio settings , mono , stereo , pitch , bass . ami_da_4
+D 317.84 screen settings for brightness and colour and stuff like that . ami_da_4
+D 321.77 but they are used . ami_da_4
+D 323.68 I mean the ami_da_3
+D 323.68 Yeah they do need to be on the on the remote control . ami_da_9
+A 327.13 Yeah . ami_da_1
+D 329.68 I mean if you ca not control the the sound settings ami_da_4
+D 329.68 I mean if you dislike a very loud bass or something , you you need to change that . ami_da_4
+D 337.34 So yeah we have to . ami_da_9
+A 338.45 often . ami_da_9
+C 339.24 By the way my TV does not have an equ equaliser but ami_da_4
+C 339.24 okay . ami_da_2
+D 340.06 We c ami_da_3
+D 340.06 we c ami_da_3
+D 340.06 Yeah ami_da_3
+D 340.06 I mean w we ca not ami_da_3
+D 340.06 my my TV has , ami_da_4
+D 340.06 but we we can leave them away . ami_da_6
+A 343.84 Next generation does . ami_da_4
+C 345.16 No . ami_da_9
+C 345.87 Alright . ami_da_9
+D 349.1 most relevant , most used functions , ami_da_4
+D 349.1 they speak for themselves I guess . ami_da_9
+D 353.45 power button , channel , volume selection . ami_da_4
+D 357.39 teletext ami_da_4
+D 357.39 but we can skip that because I saw the newsflash , and teletext is so outdated that it it is i should not be used any more in the future . ami_da_4
+A 364.84 N not used anymore . ami_da_4
+D 367.24 So forget this one . ami_da_9
+B 369.07 Okay . ami_da_1
+D 369.4 channel settings , so for programming your channels in in the right order . ami_da_4
+C 373.21 By the way where did you guys get that newsflash from ? ami_da_5
+C 373.21 I did not get anything . ami_da_4
+A 373.26 Yeah . ami_da_1
+B 375.35 Yeah . ami_da_9
+D 376.53 Yeah , on on the project ami_da_4
+D 376.53 No ami_da_4
+D 376.53 so it is a text file n in the project folder . ami_da_4
+B 376.99 I was wondering ami_da_9
+B 376.99 But you you have got more information than . ami_da_9
+A 377.63 Yeah . ami_da_1
+A 379.63 Not by mail . ami_da_4
+A 380.57 I receiv the mail but you do not . ami_da_4
+A 382.21 So That is in the presentation , so below I believe . ami_da_4
+D 385.21 So teletext can be skipped . ami_da_4
+C 389.14 Alright . ami_da_9
+D 389.34 there was some research on new features in a remote control . ami_da_4
+D 393.36 about an LCD screen and speech recognition . ami_da_4
+D 397.83 Well we got an update for the for the audience . ami_da_4
+D 402.12 Or the the the targeted group . ami_da_4
+D 404.16 So it is above forty I guess . ami_da_4
+D 407.17 The new product ? ami_da_5
+D 407.17 Or below ami_da_5
+D 407.17 because that is pretty relevant . ami_da_9
+A 409.47 Yeah below forty . ami_da_4
+D 413.3 I thought I read a ami_da_3
+D 413.3 Yeah ? ami_da_9
+D 413.3 Below ? ami_da_5
+D 413.3 Okay well that is that is in the newsfla ami_da_9
+D 413.3 okay ami_da_9
+D 413.3 that is a good to know . ami_da_9
+A 414.27 Our current customers are in the age group forty plus . ami_da_4
+A 418.47 And the new product should reach new markets , which is the customers below forty . ami_da_4
+B 423.97 But where did you get that information ? ami_da_5
+B 423.97 Okay . ami_da_1
+A 425.1 That is in a newsflash . ami_da_4
+D 428.28 because you see see a clear distinction between the age groups , concerning the features . ami_da_4
+B 430.24 Yeah . ami_da_1
+D 433.69 I mean above forty people are not so interested not so interested in a screen or speech recognition . ami_da_4
+D 442.04 but below that age they they pretty much are . ami_da_4
+D 445.69 So I think we can build that in . ami_da_6
+D 448.3 Yeah well we can skip this part as well , because I thought I read above forty ami_da_4
+D 448.3 so we could skip the features , ami_da_4
+D 448.3 but we just have to build them in because they find it very interesting . ami_da_6
+D 462.44 well we have to keep all the classic functions but make the buttons as user friendly as possible . ami_da_6
+D 469.13 and and also there is ami_da_2
+D 469.13 so not only the design of the bus buttons but o how you can push them , and stuff like that . ami_da_4
+D 477.28 So the physical aspect of it . ami_da_4
+D 479.98 And I think and certainly for for the for the lower age groups , nice design , which does not make the remote control in your room . ami_da_4
+D 489.85 It is it is actually a part of your interior , of of your design in your room . ami_da_4
+B 490.24 Yeah . ami_da_1
+D 494.12 So it is the people can say , well what is that , well that is my remote control , so it is d it has to look nice and feel nice , and and have all the functions that ami_da_4
+D 494.12 Yeah ami_da_9
+D 494.12 so the the logo has to be ami_da_4
+D 494.12 present ami_da_9
+D 494.12 yeah , and the colours as well . ami_da_9
+A 498.93 Yeah . ami_da_1
+A 502.35 But it also needs to have corporate identity . ami_da_4
+A 507.72 Present and the colours . ami_da_4
+A 510.15 So we ca not change much of that . ami_da_9
+C 511.96 Do we have ami_da_3
+C 511.96 yeah . ami_da_9
+D 512.35 Yeah ami_da_9
+D 512.35 so ami_da_9
+D 512.35 but I ami_da_9
+D 512.35 I do not think that is that is a problem because the thing has to have a colour anyway , and most of the times there is a brand present on it . ami_da_9
+A 518.46 Yeah . ami_da_1
+D 520.71 So I think that is not going to going to affect it very very much . ami_da_9
+A 521.02 Yeah . ami_da_1
+A 522.72 Okay . ami_da_1
+D 525.51 Well that are the the consequences on a marketing part . ami_da_4
+C 530.64 Alright . ami_da_9
+D 530.78 Yes . ami_da_9
+B 531.36 Okay . ami_da_9
+A 531.63 Okay . ami_da_9
+A 533.25 It is open already so you can use to find yours . ami_da_4
+B 541.79 It is ami_da_3
+B 541.79 F five . ami_da_12
+A 544.07 F five . ami_da_4
+B 546.96 Okay . ami_da_9
+B 549.6 Oh . ami_da_16
+A 551.51 Go Jurgen . ami_da_14
+B 552.82 What is this ? ami_da_5
+B 552.82 Oh no . ami_da_9
+B 556.72 How do I ami_da_3
+B 556.72 No no no . ami_da_4
+A 557.35 You pressed alt F four ? ami_da_5
+A 557.35 Oh great . ami_da_14
+B 559.5 I pressed the mouse button . ami_da_4
+C 562.56 It is th ami_da_2
+C 562.56 that is the self destruct button . ami_da_14
+B 564.62 Yeah . ami_da_14
+A 564.85 Yeah . ami_da_14
+A 565.28 maybe you can do it from your computer so talk us through it . ami_da_6
+B 565.46 Okay . ami_da_14
+B 567.16 Okay . ami_da_7
+D 567.3 Yeah . ami_da_9
+B 567.69 if you all go stand around Computer ami_da_6
+B 567.69 No . ami_da_4
+D 568.42 Just ami_da_3
+D 568.42 yeah . ami_da_9
+A 570.48 Yeah . ami_da_9
+D 571.8 Sure . ami_da_7
+C 572.08 Alright . ami_da_7
+A 574.58 That is nice . ami_da_9
+A 578.93 F five . ami_da_4
+D 579.29 Yeah . ami_da_9
+A 579.63 Yeah . ami_da_9
+B 579.96 Okay . ami_da_9
+D 580.05 Alright . ami_da_9
+B 581.25 I had two examples . ami_da_4
+B 584.14 this one is the the ami_da_4
+B 584.14 yeah ami_da_4
+B 584.14 the advanced one with a lot of options and functions and buttons . ami_da_4
+B 590.3 This the easy one ami_da_4
+B 590.3 I think we have to to combine them . ami_da_6
+D 590.42 Yeah . ami_da_1
+D 593.52 Yeah . ami_da_1
+B 594.1 And yeah merge the best functions of all examples . ami_da_6
+A 596.92 Yeah . ami_da_9
+B 598.28 but yeah the the age is under forty ? ami_da_5
+B 598.28 So we ami_da_3
+B 598.28 Okay so so we have the option for more functions . ami_da_9
+A 602.32 The yeah . ami_da_4
+D 602.87 Yeah and and and marketing research stated that that that kind of users are not afraid of of a lot of functions . ami_da_4
+D 610.34 So not not too much ami_da_9
+D 610.34 but ami_da_9
+D 610.34 yeah . ami_da_9
+B 612.63 yeah . ami_da_2
+C 615.04 And we do have to integrate the screen and the the speech ami_da_5
+C 615.04 alright . ami_da_9
+D 617.95 And the speech recognition ami_da_4
+D 617.95 yeah . ami_da_4
+B 619.54 Yeah . ami_da_1
+A 619.56 Yeah . ami_da_1
+B 621.03 yeah this this one we can remove for kids . ami_da_3
+B 624.4 It is just only for adults so we can use some advanced options . ami_da_4
+D 628.2 Yeah from age of sixteen ami_da_9
+D 628.2 so ami_da_9
+D 628.2 yeah . ami_da_9
+B 628.59 But ami_da_3
+B 628.59 Yeah ami_da_6
+B 628.59 but I prefer we we use the the basic options ami_da_6
+B 628.59 yeah . ami_da_6
+B 633.84 We have to to make them very easy so for just zapping around the channels you can just push one button . ami_da_6
+B 639.75 But if you want to to use your your video recorder or something else , you should use use an an advanced option . ami_da_6
+D 646.29 Yeah but the the newsflash also stated that it should control only one device , only your television . ami_da_4
+B 650.92 Okay one device . ami_da_9
+A 652.24 Yeah . ami_da_9
+B 652.46 Okay . ami_da_9
+A 652.78 So n it is very easy . ami_da_9
+D 652.95 So w ami_da_3
+D 652.95 So there are not extra options in this case , but ami_da_9
+D 652.95 Yeah . ami_da_1
+B 653.17 I did not see . ami_da_9
+A 654.11 Now yeah it is okay . ami_da_9
+B 654.11 Okay ami_da_2
+B 654.11 and I also ami_da_2
+B 654.11 yeah . ami_da_2
+A 656.94 Okay . ami_da_1
+B 658.44 W ami_da_2
+B 658.44 yeah . ami_da_2
+B 659.01 We have to make it fashionable . ami_da_6
+B 660.48 Like you said before . ami_da_6
+A 660.5 Yeah . ami_da_1
+B 663.2 yeah the basic functions . ami_da_4
+B 664.92 yeah only use a extra function if they are really needed . ami_da_4
+A 668.7 Yeah ami_da_9
+A 668.7 so maybe you can hide them or something . ami_da_6
+D 668.76 Yeah . ami_da_1
+B 670.77 Yeah . ami_da_1
+D 670.95 Yeah well what what we can do with the screen is is all the the configuration options , you can put that in the screen . ami_da_6
+A 676.85 Yeah you make a screen menu or something . ami_da_9
+D 676.87 And the and the ami_da_2
+D 676.87 yeah screen menu to to to to do that , ami_da_9
+D 676.87 and then the basic function just on the device itself . ami_da_6
+C 678.86 Yeah . ami_da_1
+B 680.52 Yeah . ami_da_1
+D 684.52 So it looks very simple and all the advanced features are hidden in the screen , with a clear menu . ami_da_4
+A 687.99 Yeah ami_da_9
+A 687.99 and the other oth other functionality is the screen . ami_da_4
+B 688.02 Yeah . ami_da_1
+A 692.91 What does the screen do ? ami_da_5
+A 692.91 Yeah . ami_da_11
+C 695.81 Alright . ami_da_9
+B 696.07 Did I ami_da_2
+B 696.07 did I break it ? ami_da_5
+B 696.07 For for the advanced functions I think . ami_da_4
+D 696.39 What are wh ami_da_3
+D 696.39 What . ami_da_3
+A 697.22 It is low power . ami_da_11
+A 701.31 So what does the screen do ? ami_da_5
+A 701.31 They said they needed it but what does it do ? ami_da_5
+A 701.31 What do they want with the screen ? ami_da_5
+A 701.31 Yeah that is what we make it up . ami_da_9
+D 708.67 Yeah well it ami_da_2
+D 708.67 yeah ami_da_2
+D 708.67 it did not ami_da_2
+D 708.67 it did not say what they want to do with the screen . ami_da_4
+A 710.08 So but what did the marketing ami_da_3
+A 710.08 No . ami_da_1
+D 714.07 Well I , my guess is it is it is pretty handy for advanced advanced functions . ami_da_9
+A 717.05 Yeah okay it is handy . ami_da_9
+A 718.56 With no predefined ami_da_3
+A 718.56 We are back online . ami_da_4
+B 718.58 Like searching for channels and ami_da_9
+B 718.58 Yeah . ami_da_1
+D 720.37 Yeah searching for channels , programming them . ami_da_9
+C 720.79 look . ami_da_16
+C 721.96 We have your ami_da_3
+C 721.96 oh never mind . ami_da_9
+B 724.05 Okay . ami_da_9
+B 724.92 That is ami_da_2
+B 724.92 I am al I am almost finished so ami_da_4
+B 724.92 the ami_da_2
+B 724.92 we have to to to watch out for the i if we make it f very fashionable , it it the functional functionality will go down . ami_da_9
+A 728.63 Okay . ami_da_9
+B 738.08 So we have to make a compromise between functionality and fashional fashionable ami_da_6
+B 738.08 yeah content and form . ami_da_9
+A 742.82 Content and form . ami_da_9
+D 744.27 Yeah . ami_da_1
+A 745.8 Yeah . ami_da_1
+B 746.49 Now that that was was the end . ami_da_4
+A 747.18 That was the end . ami_da_9
+D 748.1 Yeah . ami_da_1
+C 748.47 Okay . ami_da_2
+B 748.65 Yes . ami_da_9
+A 748.75 Okay . ami_da_9
+C 749.93 Well my presentation is a bit sucky . ami_da_9
+D 755.18 Well you can improvise right ? ami_da_6
+D 755.18 So we we can go for ami_da_3
+D 755.18 So we can go for the look and feel of the the left example , and then a screen on top of it . ami_da_6
+A 755.73 which one is it ? ami_da_5
+A 755.73 Technical functions ? ami_da_5
+A 755.73 This one ? ami_da_5
+A 755.73 Functional requirements ? ami_da_5
+A 755.73 No . ami_da_4
+C 757.2 Yeah a little bit . ami_da_9
+C 758.95 no . ami_da_4
+C 761.51 No no . ami_da_4
+C 766.88 Yeah I think that would be it then . ami_da_4
+C 770.32 I have no idea . ami_da_4
+A 770.55 You did not put it in ? ami_da_5
+A 770.55 Or ami_da_5
+A 770.55 it is not really English . ami_da_9
+C 772.1 That w . ami_da_4
+C 774.27 Let me check . ami_da_7
+C 776.56 I know . ami_da_9
+A 779.71 kick off . ami_da_16
+A 781.4 Oh working design I got it . ami_da_4
+C 783.24 Yeah . ami_da_9
+A 792.36 Here you go . ami_da_4
+C 793.6 Alright how do I skip pages ? ami_da_5
+C 793.6 The keys ami_da_5
+C 793.6 yeah ? ami_da_5
+C 793.6 Alright . ami_da_2
+A 795.68 Just press ami_da_4
+A 795.68 yeah . ami_da_4
+A 798.29 Yeah . ami_da_4
+D 798.31 Yeah . ami_da_4
+C 800.47 yeah ami_da_4
+C 800.47 well I was working on this before I got my information . ami_da_4
+C 805.41 So I was just working off the top of my head and using my colin common knowledge about remote controls . ami_da_4
+C 813.29 And well the info on the website which came too late . ami_da_4
+C 817.01 so I did not really know what kind of functions we had to put into it yet . ami_da_4
+C 823.51 So this is basically an overview of what we discussed in our last meeting . ami_da_4
+C 831.42 Those were my starting points . ami_da_4
+C 834.19 I was working on a s ami_da_4
+C 834.19 yeah ami_da_4
+C 834.19 on a schedule , ami_da_4
+C 834.19 and I was supposed to do it like this . ami_da_4
+C 842.61 But yeah then the information came and it was kind of exact with all the steps in the remote control that I had to follow , so I was trying to organise them for myself . ami_da_4
+C 855.05 And then make the ami_da_4
+C 855.05 the design , a the actual design , ami_da_9
+C 855.05 but I never came around to do that . ami_da_4
+D 857.02 Design ? ami_da_4
+D 857.02 Yeah . ami_da_9
+A 857.59 Design yeah . ami_da_9
+C 862.19 So I am not really sure what I am supposed to say about it . ami_da_4
+D 862.44 Okay . ami_da_9
+C 866.27 I mean everything speaks for itself I guess . ami_da_9
+C 868.72 Mean you press a button the it tru goes , it sends a signal to a chip , which translates it into infrared signal of certin spatial frequencies . ami_da_4
+D 880.91 Yeah frequency . ami_da_9
+D 881.99 Yeah . ami_da_9
+C 882.36 And or temporal fr frequencies actually . ami_da_4
+C 885.15 And then through a transformer , it the signal gets boosted and then sent to the to the receiver on the TV and the TV will translate it into a function . ami_da_4
+A 889.57 Yeah decoder . ami_da_9
+C 901.35 Yeah well this was actually all I got around to do . ami_da_4
+A 907.38 Blank . ami_da_9
+A 908.09 Yeah okay . ami_da_9
+C 908.31 I mean I dunno if I am too slow for this stuff , ami_da_9
+C 908.31 but Yeah . ami_da_9
+B 908.6 Yeah . ami_da_1
+D 908.67 Yeah . ami_da_1
+A 911.69 Work harder . ami_da_14
+B 912.4 Okay shou should we make a list of the of all the functions we want ami_da_6
+B 912.4 Yeah . ami_da_1
+C 913.86 Whatever . ami_da_9
+A 915.85 Yeah . ami_da_9
+A 917.18 Okay . ami_da_2
+D 917.18 Yeah we want to incorporate in into it . ami_da_9
+A 922.02 for those that did not see yet the basic new requirements of the management were no teletext , only for TV . ami_da_4
+A 933.2 it should be designed for a use g group below forty , but I do not think it is w wrong if we can target the current customer group as well . ami_da_4
+A 944.48 And the corporate identity should be clear in the design of the remote control . ami_da_4
+A 951.86 And we have to decide on the functions , and on the , let is see what was it , the target group . ami_da_4
+A 961.13 We have to make be clear what that is . ami_da_4
+D 964.66 group of users , or ami_da_5
+D 964.66 because it says below forty I mean . ami_da_4
+A 965.62 Yeah users . ami_da_4
+A 969.01 Yeah so I think it is easy but ami_da_9
+A 969.01 Yeah it is below forty ami_da_4
+A 969.01 so we can decide ami_da_4
+A 969.01 where to ami_da_4
+A 969.01 Okay . ami_da_1
+D 969.92 I guess that is that is the tar yeah or male and female ami_da_4
+D 969.92 six ami_da_2
+D 969.92 the marketing research started on s on the age of sixteen . ami_da_4
+B 971.81 But it is it is also for children or just ami_da_5
+B 971.81 Okay . ami_da_1
+D 979.9 Sixteen to twenty five , twenty five to thirty five , thirty five to forty five , something like that . ami_da_4
+B 980.24 Okay . ami_da_1
+D 985.63 So ami_da_2
+D 985.63 How do you mean ? ami_da_5
+D 985.63 sixteen to forty . ami_da_9
+A 985.85 So below forty is okay . ami_da_9
+A 988.43 But we need an lower level which to s focus . ami_da_6
+A 994.16 So is it from sixteen to forty ? ami_da_9
+A 994.16 Is it from twenty to forty ? ami_da_9
+A 994.16 Is it from thirty ? ami_da_9
+A 994.16 Yeah ? ami_da_9
+A 994.16 Okay . ami_da_9
+B 999.84 Yeah . ami_da_9
+D 1000.62 Well I I guess people of sixteen are are quite used to technology . ami_da_9
+B 1000.88 We we have to ami_da_3
+B 1000.88 And if we have a larger public we have yeah more options to to sell our product . ami_da_9
+A 1005.51 Yeah . ami_da_1
+D 1006.12 So they they adapt to it pretty soon I guess . ami_da_9
+D 1011.5 Yeah . ami_da_9
+C 1013.68 Yeah so what we might want to do is ami_da_6
+C 1013.68 yeah ami_da_6
+C 1013.68 cust ami_da_6
+C 1013.68 I have customised the screen functions , if you know what I mean . ami_da_6
+C 1021.02 The younger users are more acquainted with these kind of machines so they can use more advanced functions . ami_da_4
+C 1030.08 But maybe elderly people do not understand it so well , so they need a simpler remote . ami_da_4
+A 1035.25 Design . ami_da_1
+C 1035.79 And yeah that you can choose what the design displays , or wha whatever . ami_da_6
+B 1039.73 Yeah that is that is why I wanted to to make ami_da_9
+B 1039.73 yeah ami_da_9
+B 1039.73 two different ami_da_9
+B 1039.73 yeah ami_da_9
+B 1039.73 groups of functions . ami_da_9
+B 1046.27 The the simple functions for for the the whole public , and the the advanced options for the younger people ami_da_6
+B 1046.27 yeah who are ami_da_6
+B 1046.27 more yeah ami_da_6
+B 1046.27 experienced with ami_da_6
+B 1046.27 Na ami_da_3
+B 1046.27 I w I should put the the ami_da_6
+B 1046.27 yeah ami_da_6
+B 1046.27 the extra advanced options on the onto the onscreen display . ami_da_6
+C 1049.51 Yeah . ami_da_1
+C 1054.47 Experienced yeah . ami_da_9
+A 1054.95 And maybe y ami_da_3
+A 1054.95 Yeah . ami_da_1
+D 1055.07 But all incorporated in the screen or or just on the remote itself ? ami_da_8
+D 1055.07 Yeah ami_da_9
+D 1055.07 like like you have a visual of the of the brightness with with a kind of sliding bar and a bus and and stuff like that for sound and and vis and and visuals ? ami_da_6
+D 1055.07 you can make a if you make a drawing . ami_da_6
+B 1069.64 Yeah . ami_da_1
+A 1070.04 Yeah . ami_da_1
+A 1071.03 Yeah . ami_da_1
+A 1074.67 So is you should have a menu for all the the functions you do not use regular and which are ami_da_6
+A 1074.67 Yeah . ami_da_7
+B 1079.83 Yeah . ami_da_1
+A 1083.03 Aye ami_da_7
+A 1083.03 yeah . ami_da_7
+A 1086.87 Shall I ami_da_3
+A 1086.87 Yeah . ami_da_9
+D 1089.57 black is okay . ami_da_9
+D 1095.58 And draw it very big . ami_da_4
+D 1097.67 Oh . ami_da_16
+A 1098.39 It is okay . ami_da_9
+D 1099.18 Yeah . ami_da_9
+A 1100.4 no , it does not have line control , so ami_da_4
+A 1100.4 Yeah we get the The remote , yeah ? ami_da_9
+A 1100.4 Basic . ami_da_1
+D 1103.05 Yeah . ami_da_1
+D 1107.36 Yeah well , this is basically it is ami_da_4
+D 1107.36 alright the remote ? ami_da_9
+D 1107.36 well usually the power button is on top I guess . ami_da_4
+C 1110.26 The remote ? ami_da_4
+C 1110.26 Right top . ami_da_6
+A 1116.87 Is on top . ami_da_4
+A 1118.6 Which should be easy , easily reached with the thumb . ami_da_4
+D 1121.62 Yeah ami_da_9
+D 1121.62 so it should fit right in into your hand . ami_da_4
+B 1122.76 Yeah . ami_da_9
+B 1123.79 L left top or right top ? ami_da_8
+B 1123.79 Yeah , right . ami_da_9
+D 1126.37 Right . ami_da_6
+A 1126.38 T ami_da_6
+A 1126.38 I s ami_da_6
+A 1126.38 should said right . ami_da_6
+D 1127.74 Right . ami_da_6
+D 1128.06 I most people are right handed so ami_da_4
+D 1128.06 maybe left handed special addition , but okay . ami_da_6
+B 1129.98 Okay . ami_da_1
+C 1130.11 Yeah definitely . ami_da_9
+D 1134.26 If you put it like like here . ami_da_6
+D 1136.64 Or something . ami_da_6
+D 1137.52 I dunno . ami_da_9
+D 1139.4 then you could put a screen , like on a mobile phone , also on top I guess . ami_da_6
+B 1145.64 Yeah but if you are using the the normal functions , the the basic functions , you normally press them on the u ami_da_9
+B 1145.64 yeah . ami_da_9
+A 1150.95 Do the also with the thumb . ami_da_9
+A 1153.27 So it should be a little bit longer so that you can put your thumb , also reach the middle . ami_da_6
+A 1160.3 Or you should screen at the bottom ami_da_6
+A 1160.3 and then you can see it very clearly . ami_da_6
+D 1163.8 Okay ami_da_9
+D 1163.8 so y ami_da_9
+D 1163.8 yeah ami_da_9
+D 1163.8 you have you have it in your hand , and the screen is below , and the buttons are in the middle . ami_da_9
+A 1165.76 You you need to be able to hold it so ami_da_4
+A 1165.76 Yeah . ami_da_1
+B 1168.33 Yeah . ami_da_1
+D 1170.04 Okay for example if you put the screen here , ami_da_6
+D 1170.04 it is more about the functions now than the than the layout . ami_da_9
+A 1174.64 Yeah okay that is true . ami_da_9
+A 1175.83 Layout . ami_da_9
+A 1176.6 That is for the ami_da_3
+A 1176.6 I ca not help it . ami_da_9
+D 1176.78 Does not work too well . ami_da_9
+D 1177.84 It is it is bent . ami_da_4
+B 1182.16 You broke it . ami_da_5
+A 1183.26 Yeah . ami_da_4
+D 1186.16 Yeah . ami_da_2
+A 1188.78 Man . ami_da_16
+D 1189.94 Right . ami_da_2
+A 1191.37 Yeah okay . ami_da_9
+D 1192.13 Okay you get it . ami_da_9
+D 1193.57 for example if y if you put all the ami_da_3
+D 1193.57 Right . ami_da_2
+A 1204.46 You want the normal piece of paper ? ami_da_5
+A 1204.46 And you have a pen ? ami_da_5
+A 1204.46 Yeah ? ami_da_11
+D 1207.64 Yeah . ami_da_4
+C 1208.87 And might be easier huh ? ami_da_9
+C 1208.87 Yeah I ami_da_3
+C 1208.87 Yeah exactly . ami_da_9
+D 1209.22 Maybe this . ami_da_9
+D 1212.11 kind of works . ami_da_9
+D 1214.63 Like if you have like ten buttons for for all the for all the channels , ami_da_5
+D 1214.63 and here one for for ami_da_6
+D 1214.63 Yeah ami_da_9
+D 1214.63 that that usually like here , here , here , here . ami_da_4
+A 1223.26 And the for flipping up and down . ami_da_6
+B 1224.56 Yeah yeah . ami_da_9
+B 1226.02 And volume control . ami_da_6
+B 1233.54 Yeah . ami_da_1
+D 1233.88 So you have up and down for the for the channels , and left and right for the volume ami_da_4
+D 1233.88 Yeah . ami_da_1
+A 1234.03 Yeah . ami_da_1
+A 1237.66 And left to right . ami_da_1
+A 1239.53 And those can also be used for the menu . ami_da_6
+C 1242.95 I thought but this is really your department , that we need just the functional display and four cursors . ami_da_6
+A 1245.31 Yeah . ami_da_1
+D 1247.66 Yeah . ami_da_1
+A 1248.48 Yeah okay ami_da_9
+A 1248.48 but this is function ami_da_9
+A 1248.48 so if you can use them for multiple things For the menu . ami_da_9
+D 1249.74 And you you have ami_da_2
+D 1249.74 most of the time you have one button in the middle . ami_da_4
+C 1250.55 And ami_da_3
+C 1250.55 Yeah okay . ami_da_1
+D 1254.1 It says menu , and then if you press it you the screen gets activated and then you can use these buttons to scroll up and down and left and right to go into functon ami_da_4
+D 1254.1 and then just ami_da_2
+D 1254.1 mo most of the time this menu button is also like okay , to to confirm a a kind of action . ami_da_4
+A 1255.17 Yeah . ami_da_9
+C 1261.06 Yeah . ami_da_1
+A 1265.18 Yeah . ami_da_1
+A 1270.9 Yeah . ami_da_1
+D 1271.58 So you scroll into it , okay . ami_da_4
+D 1274.84 You select a function like v like bass . ami_da_4
+D 1277.94 You just adjust it with these two buttons . ami_da_4
+A 1279.92 Yeah . ami_da_1
+D 1280.82 Then okay to confirm , and then on on each on each screen there is there should be an option to go back to a to a upper level . ami_da_4
+D 1290.35 And then finally say okay , exit . ami_da_4
+D 1292.12 Or or one button to exit it . ami_da_4
+B 1294.14 Yeah . ami_da_1
+D 1294.52 in one time I dunno , that is not really my department . ami_da_4
+D 1298.6 That is more your your department to to to ami_da_4
+D 1298.6 Yeah . ami_da_4
+B 1300.96 And do we need a a logo on our remote control , or ami_da_5
+B 1300.96 On the left top yeah . ami_da_6
+A 1304.31 Yeah . ami_da_4
+D 1304.95 But it should be if the screen is here then the logo should be like on on top , ami_da_6
+D 1304.95 yeah . ami_da_9
+D 1310.89 I mean it is ami_da_3
+D 1310.89 Yeah . ami_da_9
+B 1311.65 Okay . ami_da_1
+A 1312.08 Yeah but that depends on where you put the screen . ami_da_9
+A 1314.08 But it is essential that there is a screen . ami_da_9
+D 1316.46 Yeah I mean the position of the screen is also more essential than ami_da_9
+D 1316.46 I mean we we look where we have space left and then put the logo over there . ami_da_6
+A 1323.77 Yeah . ami_da_1
+A 1324.96 And for the speech recognition part , if we want to incorporate that , we need a microphone . ami_da_4
+D 1325.03 But ami_da_2
+D 1325.03 Yeah ami_da_9
+D 1325.03 so it should be ami_da_2
+D 1325.03 I mean if you have it in your hand here , should be on top somewhere , maybe . ami_da_6
+A 1335.89 Yeah . ami_da_9
+A 1336.53 This would be ami_da_3
+A 1336.53 No that is not s sure so we need a display . ami_da_9
+C 1337.22 Why did we want to put the display in the bottom ? ami_da_11
+C 1337.22 Okay . ami_da_1
+D 1337.38 I mean i ami_da_3
+D 1337.38 That is not sure ami_da_9
+D 1337.38 but it is ami_da_3
+D 1337.38 Yeah I mean a screen on top looks more lo logical to me . ami_da_9
+B 1342.77 Yeah may maybe because you are ami_da_3
+B 1342.77 Yeah okay but only for the basic functi ami_da_9
+B 1342.77 if you are going to use the advanced option , you are going to press the the menu button ami_da_9
+B 1342.77 and then yeah . ami_da_9
+C 1343.78 Because yeah if you use the functions your hand will block the display . ami_da_4
+C 1359.6 Normal for logical t ami_da_9
+C 1359.6 Yeah . ami_da_1
+D 1361.05 Also because people use m mobile phones and they also have the screen on top . ami_da_4
+B 1361.07 Yeah . ami_da_1
+A 1361.12 Yeah . ami_da_1
+A 1363.38 Yeah they are used to it . ami_da_9
+B 1365.0 Okay the ami_da_9
+B 1365.0 yeah . ami_da_9
+D 1366.22 So you you just have to reach a little bit for the power button . ami_da_4
+B 1366.29 That is possible . ami_da_9
+D 1371.25 I mean if you grab it . ami_da_4
+C 1372.03 On once it is on it is on . ami_da_9
+D 1373.18 But most most of the times if a if if a TV is on standby people just press a channel to put it on . ami_da_4
+C 1373.48 You do not need the power button . ami_da_9
+B 1374.01 Yeah , okay . ami_da_9
+B 1377.91 Okay we put it on top . ami_da_6
+D 1379.59 So we put this on top , and then make the corporate logo like over here . ami_da_6
+B 1381.11 Yeah . ami_da_1
+D 1386.47 RR . ami_da_6
+D 1387.29 And j and the microphone , I mean it can be very small . ami_da_4
+D 1390.16 If you look at your mobile phones are some stripes , little little holes . ami_da_4
+C 1392.01 Yeah . ami_da_1
+C 1395.96 Maybe on the top or even on the side . ami_da_6
+D 1397.9 Yeah maybe on the side . ami_da_9
+D 1399.23 I mean if the if the microphone is good . ami_da_9
+A 1400.04 Yeah but then it is possible that you cover it with your hand ami_da_9
+A 1400.04 so I think that top is the best option . ami_da_9
+C 1402.96 True . ami_da_9
+D 1403.42 Yeah okay . ami_da_9
+B 1403.45 Yeah . ami_da_1
+D 1404.12 So on the on the top is better . ami_da_9
+C 1405.9 But if you if you hold the ma the remote like this , if you put it on the top on the side I dunno . ami_da_9
+A 1412.25 Yeah okay . ami_da_9
+C 1412.61 Should be able to work . ami_da_9
+D 1413.27 Yeah . ami_da_9
+A 1414.23 Depends on the sensitivity of the microphone , but I think that is okay . ami_da_9
+C 1414.29 Never mind . ami_da_9
+C 1416.08 Can we leave this up to you ? ami_da_6
+C 1416.08 Yeah so we we needed to integrate the sound and and image options right ? ami_da_5
+C 1416.08 Like bass ami_da_4
+C 1416.08 so we need kind of an equaliser . ami_da_6
+D 1417.8 Yeah it does not matter that much . ami_da_9
+D 1419.98 So ami_da_2
+D 1419.98 but the screen is on top ? ami_da_4
+D 1419.98 Which functions did we have left ? ami_da_5
+D 1419.98 I mean this is basically numbers , volume , channel up and down . ami_da_4
+A 1428.93 Volume . ami_da_1
+A 1430.47 Up . ami_da_1
+A 1431.45 Channel up and down , and the control of the advanced options . ami_da_4
+D 1432.31 Screen is over there . ami_da_4
+B 1435.71 Yeah . ami_da_9
+D 1435.96 Yeah . ami_da_9
+A 1436.15 So maybe it , we should decide what advanced options we want to put in the LCD screen . ami_da_6
+B 1436.27 If we ami_da_3
+B 1436.27 Yeah it it is just a remote control ami_da_9
+B 1436.27 so ami_da_9
+B 1436.27 Yeah . ami_da_9
+D 1440.67 Yeah . ami_da_9
+D 1441.3 That is that is a good one . ami_da_9
+D 1449.47 Yeah . ami_da_4
+A 1449.84 Yeah ami_da_4
+A 1449.84 so sounds ? ami_da_5
+A 1449.84 Yeah ami_da_9
+A 1449.84 and they are ami_da_3
+A 1449.84 They are not used often so ami_da_4
+A 1449.84 Yeah just ami_da_3
+A 1449.84 Yeah sounds . ami_da_4
+D 1452.34 Sound ? ami_da_5
+D 1452.34 Yeah . ami_da_9
+C 1454.83 If you ami_da_3
+C 1454.83 Yeah treble , middl middle , bass or something . ami_da_9
+D 1455.48 Equaliser . ami_da_9
+D 1456.96 So if you have sound ami_da_3
+D 1456.96 But not too advanced . ami_da_6
+D 1461.73 I mean most TVs use only treble and bass . ami_da_4
+D 1467.77 Yeah . ami_da_9
+D 1469.04 It is pretty hard to write . ami_da_9
+C 1471.23 as . ami_da_3
+D 1472.96 Okay but you have sound ? ami_da_5
+D 1472.96 Yeah just oh y you have digital ami_da_9
+D 1472.96 better write it down over there ami_da_6
+D 1472.96 yeah . ami_da_6
+A 1476.67 Yeah . ami_da_1
+A 1480.09 Of course . ami_da_7
+D 1480.49 So you have sound . ami_da_4
+A 1480.92 I am just a secretary . ami_da_14
+D 1482.9 Yeah . ami_da_14
+A 1484.64 Coffee ? ami_da_14
+A 1484.64 Treble bass . ami_da_12
+D 1484.7 yeah sound and then within sound I guess treble and bass ? ami_da_6
+D 1484.7 Yeah . ami_da_9
+C 1485.71 Yes please . ami_da_14
+C 1491.82 the mono stereo option ? ami_da_6
+C 1491.82 And there there was something else also . ami_da_4
+A 1495.63 Pitch I believe , ami_da_4
+A 1495.63 yeah . ami_da_4
+D 1496.11 Also . ami_da_9
+C 1498.14 And then pitch . ami_da_9
+D 1500.25 Pitch . ami_da_9
+D 1501.09 Yeah . ami_da_9
+D 1501.53 But pitch , is not that ami_da_2
+D 1501.53 yeah that is the the height of the tone . ami_da_4
+A 1504.34 Yeah . ami_da_1
+C 1504.37 The fr ami_da_9
+C 1504.37 yeah ami_da_9
+C 1504.37 the frequency of the tones , ami_da_9
+C 1504.37 yeah . ami_da_9
+D 1506.47 Yeah okay , ami_da_9
+D 1506.47 wh why would you use that ? ami_da_5
+D 1506.47 If people like talk like ami_da_3
+D 1506.47 Yeah . ami_da_9
+A 1507.07 Yeah and mono stereo . ami_da_9
+C 1509.31 Yeah is not that that depends on the on the signal of the of what program you are watching . ami_da_4
+A 1516.03 And also the tuning part ? ami_da_6
+A 1516.03 Yeah programming . ami_da_9
+D 1518.98 Programming part . ami_da_4
+D 1521.13 so we have sound , ami_da_4
+D 1521.13 yeah ? ami_da_9
+D 1521.13 Channel programming . ami_da_9
+A 1521.54 So channel programming ? ami_da_6
+C 1525.59 And yeah in the functionality of the no no of the remote ami_da_4
+C 1525.59 do do we want the buttons to make sound when you press them ? ami_da_6
+C 1525.59 As a confirmation or whatever you know ? ami_da_6
+C 1525.59 I dunno . ami_da_9
+B 1529.31 Television itself ami_da_4
+D 1539.97 I think it g it gets annoying . ami_da_9
+D 1541.61 I mean most mobile phones used that in the beginning but ami_da_4
+D 1541.61 Yeah . ami_da_1
+A 1541.93 Yeah . ami_da_1
+B 1542.45 We we could make an option for it , but you can disable s ami_da_6
+B 1542.45 Yeah . ami_da_1
+C 1545.68 Under the a yeah advanced option menu you can put those things . ami_da_9
+B 1550.02 But the the television itself has also the the options brightness and screen colour etcetera . ami_da_4
+B 1557.08 So ami_da_4
+B 1557.08 yeah . ami_da_9
+A 1557.4 Contrast ami_da_4
+A 1557.4 yeah . ami_da_4
+D 1558.64 Yeah but people do not want to sit on their knees on their knees in front of their television with only three buttons then it is very hard to ami_da_9
+D 1558.64 y yeah contrast and brightness ? ami_da_4
+D 1558.64 Yeah those are the most used I guess . ami_da_9
+A 1564.07 No . ami_da_1
+A 1565.32 , so contrast , ami_da_5
+A 1565.32 bright , ami_da_16
+A 1565.32 And the others were in your presentation right ? ami_da_5
+A 1565.32 So I can just copy those ? ami_da_7
+A 1565.32 Okay . ami_da_9
+C 1567.62 Yeah . ami_da_1
+D 1574.05 If you look at your monitor . ami_da_9
+D 1576.68 Well yeah ami_da_4
+D 1576.68 well I guess that these were the only ones , I guess . ami_da_4
+A 1581.19 It is easy . ami_da_9
+D 1582.28 Yeah . ami_da_9
+C 1582.7 But so we have we have TV options , which is all this . ami_da_4
+D 1583.1 I will look it up . ami_da_7
+A 1586.07 Yeah the button options and the LCD options . ami_da_9
+C 1586.37 The sound , sound and image . ami_da_4
+C 1589.27 And you have in that the indeed the remote control options . ami_da_4
+A 1592.15 Indeed . ami_da_4
+A 1594.86 Yeah . ami_da_9
+C 1595.33 So we need two menus kind of thing . ami_da_6
+A 1597.45 Yeah ami_da_9
+A 1597.45 you have basically a button menu , which you can use directly , according to the old principle . ami_da_4
+C 1602.16 Uh huh . ami_da_1
+A 1604.42 And the LCD options are activated by some some software options , thats communicates with the infrared decoder ami_da_4
+A 1604.42 yeah . ami_da_4
+D 1612.47 Yeah with the chip ami_da_9
+D 1612.47 and then I mean ami_da_9
+D 1612.47 yeah . ami_da_9
+A 1616.56 So you ami_da_3
+A 1616.56 You have an additional processor and and software part . ami_da_4
+D 1620.51 Well yeah we have power button , whether that is present . ami_da_4
+C 1622.49 Alright . ami_da_1
+A 1622.58 Compared to o ami_da_3
+D 1624.8 Channel volume selection present . ami_da_4
+D 1627.0 numbers present . ami_da_4
+D 1628.42 Yeah a audio settings , mono , stereo , pitch , bass , treble . ami_da_4
+A 1629.11 L s ami_da_3
+A 1629.11 Yeah . ami_da_1
+D 1632.35 Screen settings , brightness and colour . ami_da_4
+A 1635.17 Colour . ami_da_16
+A 1636.43 Yeah I I call it contrast . ami_da_4
+D 1636.82 Yeah con contrast is ami_da_3
+D 1636.82 Yeah okay , colour and brightness . ami_da_9
+A 1638.51 Yeah I make it c colour . ami_da_6
+A 1642.53 Yeah . ami_da_1
+D 1643.01 and what you say , channel settings or channel programming ? ami_da_4
+D 1643.01 So you you have an option to to start scanning all the frequencies , and when it encounters one , well it shows on your TV . ami_da_4
+A 1651.72 Yeah and automatically . ami_da_1
+D 1656.79 And then you can ami_da_4
+D 1656.79 and then you can select a number in your remote on which you want to save it . ami_da_4
+A 1663.48 Yeah so I have g channel program is autoseek ? ami_da_5
+A 1663.48 name a channel , or ami_da_5
+A 1663.48 Oh they get automatic names , okay . ami_da_9
+D 1667.17 Yeah , autoseek . ami_da_4
+D 1673.45 Well most TVs automatically display the name , which they get through the cable . ami_da_4
+D 1679.91 Yeah . ami_da_9
+D 1680.52 So you only have to choose the position on your ami_da_2
+D 1680.52 It only has to match the the channel frequency on your TV , with with the with the position on your TV and and so your remote . ami_da_4
+A 1688.18 Yeah . ami_da_1
+A 1693.0 Yeah ami_da_9
+A 1693.0 but can you also say I want f Veronica on the channel number five or ami_da_5
+A 1693.0 Yeah . ami_da_1
+C 1693.43 Help . ami_da_16
+D 1698.67 If you already programmed it . ami_da_4
+D 1700.65 If you want to move it . ami_da_4
+A 1701.74 Yeah . ami_da_1
+D 1702.05 Yeah that should be possible too . ami_da_4
+A 1703.44 How do you call that ? ami_da_5
+A 1703.44 Channels ? ami_da_5
+A 1703.44 Yeah . ami_da_9
+D 1704.93 Yeah how do you call that ? ami_da_5
+D 1704.93 Wait you you should be able to to browse through a list or something , which w displays all the all the values , all the channels which are possible . ami_da_4
+D 1718.35 I mean like one to f thirty of or ninety or whatever . ami_da_4
+A 1720.14 Ninety nine or something . ami_da_4
+A 1721.43 Yeah . ami_da_4
+D 1722.76 Just browse through it and then in some kind of way see if it if it if it is programmed . ami_da_4
+A 1728.59 S swap channels ? ami_da_4
+A 1728.59 Can I call it that ? ami_da_5
+A 1728.59 Swap is good option . ami_da_9
+D 1731.4 Yeah . ami_da_9
+D 1732.7 Swap channels . ami_da_9
+A 1735.23 Okay . ami_da_2
+A 1735.78 other functions ? ami_da_8
+D 1736.07 So you ami_da_2
+D 1736.07 most of the time if you if you swap it S let is say for example you have RTL five on on channel five . ami_da_4
+D 1747.54 And Veronica on channel eight ami_da_4
+D 1747.54 and you want to move Veronica to channel five , ami_da_4
+D 1747.54 most of the times you override the previous the previous one . ami_da_4
+A 1756.58 Okay . ami_da_1
+A 1758.12 Well that is is up to Mister User Interface Designer . ami_da_9
+D 1760.42 Yeah . ami_da_9
+D 1761.62 It is it is pretty ami_da_2
+D 1761.62 yeah ami_da_4
+D 1761.62 I mean you have to look on on the menu on the TV . ami_da_4
+B 1762.44 Okay . ami_da_1
+C 1767.39 working design . ami_da_16
+C 1768.74 Doch . ami_da_16
+A 1768.94 Also . ami_da_4
+A 1770.32 That is you are ami_da_3
+A 1770.32 Yeah but also , which buttons you have to press to get a certain result ? ami_da_9
+A 1770.32 And the working design was to specify how ph the physical interation between the components was , as I believe . ami_da_4
+C 1770.69 He only has to figure out how it has to look . ami_da_9
+C 1773.42 And how to use ami_da_4
+C 1773.42 Yeah okay . ami_da_9
+B 1774.0 Yeah . ami_da_9
+C 1780.53 But ami_da_3
+C 1780.53 You did your homework . ami_da_9
+D 1790.07 Yeah . ami_da_1
+C 1791.71 But yeah . ami_da_9
+D 1793.96 Or or is it too hard to to ju to just do it all on your remote ? ami_da_11
+D 1793.96 To programme the channels ? ami_da_11
+C 1794.44 Okay . ami_da_9
+C 1800.29 No no . ami_da_9
+A 1800.75 No I do not think so . ami_da_9
+B 1801.2 No that is ami_da_3
+B 1801.2 Okay ami_da_1
+B 1801.2 On the ami_da_2
+B 1801.2 yeah can you i make a a map with with all the ami_da_6
+B 1801.2 yeah because it is now there are lots and lots of documents ami_da_4
+B 1801.2 and ami_da_3
+B 1801.2 The the layout of the remote control ? ami_da_5
+B 1801.2 Is not that more the the u the user interface part ? ami_da_9
+B 1801.2 Yeah . ami_da_1
+C 1801.21 It should be able to do any remote . ami_da_9
+A 1802.06 But I think the communication with the television is difficult . ami_da_9
+A 1805.7 But that is not our part . ami_da_4
+D 1806.15 Yeah . ami_da_1
+D 1807.9 No . ami_da_1
+A 1808.28 We do not have to design a protocol so ami_da_4
+A 1808.28 No that is the ami_da_3
+A 1808.28 Yeah . ami_da_1
+C 1810.43 No . ami_da_1
+D 1810.99 That is true . ami_da_9
+D 1811.5 That is true . ami_da_9
+C 1812.8 Thank god . ami_da_9
+D 1813.43 Yeah . ami_da_9
+D 1814.29 So we have a figure a figure out a way to to do that easily . ami_da_6
+D 1817.29 I mean th the autoseek is is not a problem . ami_da_9
+D 1819.8 I mean you you current channel and then then it just says , on which number do you want to save this , and you just press a number on your remote , and then say confirm , okay , ami_da_4
+D 1819.8 and then it is it is saved . ami_da_4
+D 1831.32 It is easier , ami_da_3
+D 1831.32 it is it is it is harder to , if you have already programmed it , to to swap . ami_da_4
+D 1836.79 So we have to think of something for that . ami_da_6
+A 1836.83 So but ami_da_3
+A 1836.83 The User Interface Designer can design a menu for all these function ami_da_6
+A 1836.83 I put them on the ami_da_4
+D 1846.34 Yeah k kind of structure into layers . ami_da_9
+A 1854.72 Yeah . ami_da_7
+A 1855.97 Yeah I can . ami_da_7
+A 1857.15 I will just try to reorganise things . ami_da_7
+D 1860.8 So ami_da_2
+D 1860.8 And and the layout of of the thing itself . ami_da_6
+A 1861.25 So you design the basic function menu for the LCD screen ? ami_da_6
+A 1861.25 I think ami_da_2
+A 1861.25 th I think the yeah the layout of the screen ami_da_9
+A 1861.25 and I think you can concentrate more on the button placement and the placement of the screen itself on the ami_da_6
+A 1889.36 No ami_da_9
+A 1889.36 I ami_da_9
+A 1889.36 d I think that is more in ami_da_9
+C 1892.13 all the functional aspects of the remote I think are in my department . ami_da_4
+D 1895.64 Maybe more on ami_da_3
+D 1895.64 Okay . ami_da_1
+A 1897.72 Yeah . ami_da_1
+C 1898.07 I have to know what it has to do , so if you want to you know the changing the channels ami_da_4
+C 1898.07 kind of s thing is , I have to integrate that in the design . ami_da_4
+A 1905.41 Okay . ami_da_9
+A 1906.08 So he is layout and you are function . ami_da_9
+C 1908.89 Yeah . ami_da_9
+A 1909.66 Form function okay . ami_da_9
+C 1912.08 I think that is a that is a good separation . ami_da_9
+B 1913.5 But do I have to to to ami_da_5
+B 1913.5 yeah ami_da_5
+B 1913.5 to make the the menu layout also ? ami_da_5
+B 1913.5 Or Are you going to do that ? ami_da_5
+B 1913.5 Yeah ? ami_da_7
+B 1913.5 I ami_da_7
+B 1913.5 I am going to make ami_da_7
+B 1913.5 yeah ami_da_9
+B 1913.5 o okay . ami_da_9
+A 1919.56 Yeah . ami_da_4
+D 1920.01 Yeah . ami_da_4
+D 1920.89 Yeah I guess so . ami_da_4
+A 1922.0 I think i that is your department yes , ami_da_9
+A 1922.0 because w he already knows what ami_da_3
+A 1922.0 Yeah . ami_da_1
+D 1923.84 Yeah . ami_da_1
+C 1924.04 Yeah we have to kind of work together . ami_da_6
+B 1926.35 Yeah . ami_da_1
+C 1926.37 If if I make the the the yeah ami_da_7
+C 1926.37 the menu like , I have to state which function has to be in the menu , ami_da_7
+C 1926.37 and then you have to decide , it is , in a in a way that b is user friendly . ami_da_6
+A 1928.76 But we are not allowed . ami_da_4
+B 1936.12 Yeah . ami_da_1
+B 1937.67 Okay . ami_da_9
+B 1937.87 Y you ami_da_9
+B 1937.87 you are going to make a list of what functions are are going to to be on the the screen , the menu screen . ami_da_9
+A 1942.67 Yeah . ami_da_1
+C 1944.42 Yeah . ami_da_1
+B 1945.78 And I am going to make a a nice menu with with pages ami_da_9
+B 1945.78 and ami_da_9
+B 1945.78 yeah . ami_da_9
+D 1948.3 Yeah . ami_da_1
+A 1948.98 Yeah . ami_da_1
+C 1949.28 I think yeah . ami_da_9
+D 1949.86 With with some l with some layers in it . ami_da_6
+D 1951.8 So some menus . ami_da_9
+A 1952.16 Yeah and also make clear which buttons to press to get certain result , ami_da_6
+A 1952.16 because that is always the difficulty . ami_da_4
+D 1957.25 Yeah . ami_da_9
+A 1959.18 Every device has its own Menu ami_da_4
+A 1959.18 okay . ami_da_4
+D 1960.68 Yeah . ami_da_9
+B 1960.74 Yeah . ami_da_1
+D 1961.15 Well I guess this this button ami_da_9
+D 1961.15 , the the the okay , ami_da_9
+D 1961.15 menu ami_da_12
+D 1961.15 okay . ami_da_12
+D 1966.97 Or you can incorporate two difference different buttons . ami_da_6
+D 1971.34 like for your mobile phone . ami_da_4
+D 1973.98 so this is only for to get in the menu , or to exit it . ami_da_4
+D 1978.61 And then one to confirm , and one to go one step back . ami_da_4
+A 1982.14 Back . ami_da_1
+A 1982.89 Yeah . ami_da_1
+D 1983.81 So it is like the the save button on your your mobile phone , if you have a Nokia or like that . ami_da_4
+D 1988.21 Or the or the no button . ami_da_4
+D 1990.29 To go one step back you it is only two extra buttons , but ami_da_4
+D 1990.29 if it if it is very clear that they are for the screen ami_da_4
+D 1990.29 Yeah because this this is used for both . ami_da_9
+B 1993.24 Yeah . ami_da_1
+B 1993.5 W we ami_da_3
+B 1993.5 I think we have to to group , to make two groups . ami_da_6
+B 2000.7 the one group for the for the display , and one group for the basic functions , ami_da_6
+B 2000.7 and ami_da_3
+B 2000.7 Yeah okay ami_da_9
+B 2000.7 but we we have a m ami_da_3
+B 2000.7 yeah ami_da_2
+B 2000.7 but maybe that is that is not ami_da_2
+B 2000.7 yeah if you are if you are z zapping with your yeah remote control , you can press the the menu button , and then you are suddenly into the the ami_da_9
+B 2000.7 yeah ami_da_9
+B 2000.7 the display . ami_da_9
+C 2005.71 Yeah . ami_da_1
+A 2006.24 Yeah but they are incorporated ? ami_da_9
+A 2006.24 Up and down is ami_da_3
+A 2006.24 Smart ? ami_da_5
+A 2006.24 Put it on top . ami_da_6
+D 2023.17 Into your screen . ami_da_9
+D 2024.19 Okay . ami_da_9
+D 2024.55 So you ami_da_2
+D 2024.55 l should leave the menu button out of here . ami_da_7
+C 2025.59 You want to separate ami_da_3
+B 2027.44 Yeah . ami_da_1
+D 2028.34 And and just put it under the screen , the screen ami_da_7
+D 2028.34 Yeah . ami_da_1
+B 2030.02 Yeah j just just group group the ami_da_2
+B 2030.02 yeah we make these the advanced functions and these the basic functions . ami_da_6
+B 2038.11 So we make a yeah a line between them . ami_da_6
+D 2042.49 But we should place the screen on top , right ? ami_da_6
+D 2042.49 Yeah . ami_da_1
+A 2046.09 Well ami_da_3
+A 2046.09 But that is J Jurgen is department . ami_da_4
+B 2046.95 F ami_da_9
+B 2046.95 oh yeah . ami_da_9
+B 2047.71 Okay yeah we swap ami_da_9
+B 2047.71 Okay . ami_da_9
+B 2050.7 Yeah . ami_da_9
+D 2050.84 Yeah . ami_da_9
+B 2051.31 So we make it a ami_da_3
+B 2051.31 Okay . ami_da_9
+D 2051.49 You just you just find out and . ami_da_6
+A 2053.11 You just make the layout . ami_da_6
+A 2054.92 You ami_da_2
+A 2054.92 do we do the extra two buttons or not ? ami_da_11
+A 2054.92 Yeah . ami_da_9
+B 2058.65 Yeah . ami_da_9
+C 2059.91 I think you should . ami_da_9
+C 2061.56 It is easier . ami_da_9
+C 2062.33 If you put too many functions in one button it gets confusing . ami_da_9
+A 2065.33 Yeah okay . ami_da_9
+D 2065.36 Yeah . ami_da_9
+A 2065.87 That is true . ami_da_9
+B 2066.49 So we have a a menu button and a s ami_da_4
+B 2066.49 Okay . ami_da_9
+A 2068.61 And to , okay and back , also . ami_da_4
+D 2070.07 Yeah . ami_da_9
+B 2070.76 Okay and back button . ami_da_9
+D 2071.45 Yeah , or confirm and back . ami_da_9
+A 2072.35 And of course the four arrows . ami_da_4
+D 2073.09 Whatever . ami_da_9
+D 2074.96 Yeah . ami_da_9
+C 2076.14 No . ami_da_1
+A 2076.83 But those are still y doubly used . ami_da_4
+D 2078.92 Should we save this picture , or or you know what it looks like ? ami_da_8
+D 2078.92 Yeah . ami_da_9
+A 2079.02 Both the LCD ami_da_3
+A 2079.02 Yeah . ami_da_9
+B 2081.22 Yeah I am I am not s clear about the the extra two buttons . ami_da_9
+B 2085.76 We have a menu button and ami_da_4
+B 2085.76 That is the the one with the ami_da_3
+B 2085.76 yeah okay . ami_da_9
+D 2088.24 That that just to to activate the screen . ami_da_4
+D 2092.29 So And then with these buttons , woa , y you navigate . ami_da_4
+A 2092.31 Menu button access the menu in the LCD screen . ami_da_4
+A 2098.13 You can navigate . ami_da_4
+B 2100.95 Okay . ami_da_9
+A 2101.74 But you can also navigate the channels . ami_da_4
+A 2104.16 And the volume . ami_da_4
+B 2104.22 Okay ami_da_9
+B 2104.22 so that that is not ami_da_2
+B 2104.22 Yeah ami_da_2
+B 2104.22 that Those are ami_da_2
+B 2104.22 multifunctional . ami_da_4
+A 2106.38 Those are both both ami_da_4
+A 2106.38 yeah . ami_da_9
+C 2109.51 Hey is it interesting for users if we put LED lights under the buttons ? ami_da_6
+C 2109.51 So that if you press on the menu function that only the buttons that are used for the menu are ligh li light up . ami_da_6
+D 2120.63 Yeah . ami_da_9
+D 2122.33 L l litten up ami_da_9
+D 2122.33 yeah . ami_da_9
+B 2124.14 Yeah . ami_da_9
+D 2125.16 That is very good idea . ami_da_9
+A 2125.64 Oh five minutes . ami_da_4
+C 2127.8 N ami_da_3
+C 2127.8 Yeah and then it is also easier to integrate several functions in one button . ami_da_9
+D 2127.85 Alright . ami_da_9
+D 2128.94 Yeah that is a good idea because then it becomes clear which buttons are active now , which you can use . ami_da_9
+A 2129.22 Light ami_da_3
+A 2129.22 Yeah sure . ami_da_9
+B 2138.39 Yeah . ami_da_9
+A 2139.39 Okay . ami_da_11
+D 2139.9 Yeah . ami_da_9
+A 2140.76 Anything else ? ami_da_8
+A 2140.76 I have ami_da_3
+A 2140.76 Volume . ami_da_1
+D 2141.55 So ami_da_2
+D 2141.55 Those buttons are are lit up . ami_da_4
+C 2144.68 I think not . ami_da_9
+D 2145.55 But just one thing . ami_da_7
+D 2147.51 Should we use those two ? ami_da_11
+D 2147.51 Them ? ami_da_11
+D 2147.51 Or only this to to scroll ? ami_da_11
+D 2147.51 And then use the two functional buttons to confirm , to go into something ? ami_da_11
+D 2147.51 Oh no we have to use this to adjust some some bars ? ami_da_9
+D 2147.51 Yeah . ami_da_1
+B 2160.42 Yeah . ami_da_1
+C 2160.52 Yeah keep it optional because maybe you can you know go left to right and up and down in a in one menu . ami_da_9
+D 2166.79 And maybe we should use this also as an okay button , still . ami_da_6
+D 2171.1 And then just only a back button . ami_da_6
+A 2174.87 Well we have those buttons . ami_da_9
+B 2175.91 No ami_da_9
+B 2175.91 Yeah . ami_da_1
+C 2176.01 The pr the problem with the okay button in the middle is , ami_da_9
+C 2176.01 sorry ami_da_14
+C 2176.01 sorry , is if you are pressing up and down , you can easily press the okay once you , when you are not already at your choice . ami_da_9
+A 2177.09 We use all four . ami_da_9
+A 2180.17 Yeah okay go ahead . ami_da_6
+D 2180.47 Yeah ? ami_da_11
+D 2180.47 Yeah . ami_da_9
+B 2189.04 So maybe make one one okay button and and one navigation button . ami_da_6
+D 2191.89 And one back . ami_da_6
+A 2192.24 Yeah that was already decided . ami_da_9
+B 2195.81 Yeah the with with the the channel and the volume ami_da_6
+B 2195.81 yeah ami_da_6
+B 2195.81 m a multifunctional navigation button . ami_da_6
+A 2200.79 Okay that is what we decided earlier on . ami_da_9
+B 2202.56 Yeah okay . ami_da_9
+D 2202.89 Yeah . ami_da_9
+A 2203.23 Right okay . ami_da_2
+B 2203.8 Yeah . ami_da_9
+A 2204.22 So ami_da_2
+A 2204.22 yeah I want to close down . ami_da_7
+C 2205.48 You want to close down huh ? ami_da_8
+C 2205.48 That is okay . ami_da_9
+D 2207.41 Yeah . ami_da_1
+A 2207.46 I have to , sorry . ami_da_4
+D 2208.69 Yeah . ami_da_1
+A 2208.94 it is not because I do not like you but ami_da_14
+A 2208.94 yh we have lunch break , and then we can work for thirty minutes , ami_da_4
+A 2208.94 and I have to write very fast to make the minich min minutes . ami_da_7
+C 2212.43 Already . ami_da_9
+D 2220.14 Yeah . ami_da_1
+A 2220.2 And then we will see I do not know . ami_da_4
+C 2223.89 Alright . ami_da_9
+C 2224.38 How m how long is the lunchbreak ? ami_da_5
+C 2224.38 Okay . ami_da_9
+D 2227.66 We have to ask . ami_da_6
+A 2227.96 Nobody told me . ami_da_4
+B 2229.39 But do we have to write to write down the our stuff now ? ami_da_5
+B 2229.39 Or first lunchbreak ? ami_da_5
+B 2229.39 Because I ami_da_3
+B 2229.39 I have everything in my head now ami_da_9
+B 2229.39 so Okay . ami_da_9
+A 2234.48 No I th believe there is first lunch break . ami_da_4
+A 2238.28 Yeah . ami_da_9
+A 2239.32 Or you can just ami_da_3
+A 2239.32 Yeah ? ami_da_11
+A 2239.32 Okay . ami_da_2
+B 2242.24 Yeah . ami_da_9
+D 2245.01 Yes . ami_da_2
+B 2247.51 Okay . ami_da_1
+A 2247.97 I think you can put the laptop back in the room and ami_da_6
+A 2247.97 Okay . ami_da_1
+C 2248.17 This is ami_da_3
+C 2248.17 Yeah . ami_da_9
+B 2250.81 Yeah . ami_da_7
+D 2251.11 Yeah . ami_da_7
+B 2252.02 Yes sir . ami_da_7
+D 2253.12 Time pressure . ami_da_9
+A 2256.18 Yeah it is a lot of pressure . ami_da_9
+C 2260.93 Sorry for my not finished presentation . ami_da_14
+A 2262.46 That is okay . ami_da_14
+A 2264.19 Oh yeah . ami_da_14
+B 2264.27 Oh no no . ami_da_14
+D 2264.75 Yeah we will kick your ass later . ami_da_14
+D 2266.1 No . ami_da_14
+C 2266.83 Bring it on . ami_da_14
+A 2270.18 I do not know if it works but it should be saved . ami_da_4
+D 2270.22 Aye ami_da_3
+D 2270.22 Y you saved it ? ami_da_5
+D 2270.22 Does it save automatically in the project folder ? ami_da_5
+D 2270.22 Or ami_da_5
+D 2270.22 Okay . ami_da_9
+A 2275.82 Yeah . ami_da_4
+A 2276.57 It is ami_da_3
+A 2276.57 Should be here . ami_da_4
+D 2282.35 We will see . ami_da_9
+D 2283.06 Just put back my laptop . ami_da_7
+A 2284.21 Smart board . ami_da_4
+D 2285.48 Alright . ami_da_9
+A 2285.68 Do not know if you can use it but ami_da_4
+A 2285.68 Yeah . ami_da_9
+B 2286.01 Okay . ami_da_1
+D 2287.34 Yeah you can open it with the picture preview or stuff like that . ami_da_4
+B 2289.03 And we have to make some maps with with the all the the data we gathered . ami_da_4
+A 2294.62 I try to organise it by these three . ami_da_7
+A 2298.39 Yeah ami_da_9
+A 2298.39 yeah ami_da_9
+A 2298.39 yeah . ami_da_9
+B 2299.31 It is it is just my own map ami_da_4
+B 2299.31 so I put everything into the ami_da_4
+B 2299.31 But you got some extra information ami_da_4
+B 2299.31 Okay . ami_da_9
+A 2303.06 I do not really mind . ami_da_9
+A 2304.55 I just put the minutes here and we will see . ami_da_7
+A 2309.63 Yeah that is in the functional design folder . ami_da_4
+A 2313.06 Yeah . ami_da_4
+A 2313.78 Yeah that is just basically what I just showed . ami_da_4
+B 2316.18 But where do you did you get the newsflash ? ami_da_5
+B 2316.18 You are the only one okay . ami_da_9
+A 2317.73 Yeah . ami_da_4
+A 2318.1 Yeah I got it by ami_da_4
+A 2318.1 yeah . ami_da_9
+A 2321.8 I am going to get kicked if I do not do it ami_da_14
+A 2321.8 so Make me proud . ami_da_14
+D 2321.93 internet . ami_da_1
+B 2324.25 Okay . ami_da_9
+C 2324.25 Alright . ami_da_9
+C 2333.39 I will try to . ami_da_14
+C 2334.44 So first we have a lunchbreak now ? ami_da_5
+C 2334.44 Alright . ami_da_9
+A 2336.86 Yeah . ami_da_4
+A 2339.02 I believe so . ami_da_4

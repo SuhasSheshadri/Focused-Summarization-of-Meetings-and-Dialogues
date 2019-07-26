@@ -1,0 +1,1259 @@
+D 61.63 Great man . ami_da_9
+D 63.26 Who starts ? ami_da_5
+D 63.26 Alright , great . ami_da_9
+A 64.47 Well I will start just with another presentation , ami_da_7
+A 64.47 so then we can look at th at the agenda for this meeting . ami_da_4
+D 70.84 Alright . ami_da_1
+A 74.47 Okay . ami_da_2
+A 76.66 I have put some new things in the in the map . ami_da_4
+A 81.28 oh . ami_da_1
+A 83.99 This is it . ami_da_4
+A 85.84 I do not know the shortcut , so ami_da_4
+A 85.84 F five . ami_da_12
+A 90.01 Well our functional design meeting , that is the stage we are in . ami_da_4
+A 94.14 And you also ha all three of you have prepared something about it . ami_da_4
+D 98.07 Yes . ami_da_9
+A 99.75 Well in we will just have a look at the at the notes from the previous meeting , what we thought we had dec decided . ami_da_4
+A 108.74 But ami_da_3
+A 108.74 then we will look at the three presentations from you . ami_da_4
+D 117.77 Okay . ami_da_1
+A 117.84 I think you have prepared all three ? ami_da_5
+A 117.84 we will look at th the new project requirements ami_da_4
+A 117.84 we I dunno . ami_da_3
+C 119.64 Well , yeah . ami_da_4
+D 120.42 Yeah . ami_da_4
+A 125.95 Y you also have received that mail , the new project requirements from our bosses ? ami_da_5
+A 125.95 Oh I have received a mail with some additional requirements , ami_da_4
+A 125.95 and I will have a look if ami_da_3
+A 125.95 Well I think we should show them before your presentations , ami_da_6
+A 125.95 because it is not really smart to to include some things we ca not , because of the new requirements . ami_da_4
+C 131.48 No . ami_da_4
+D 131.99 No . ami_da_4
+D 133.27 You are the only one . ami_da_4
+C 136.28 Oh . ami_da_1
+D 136.32 Alright . ami_da_1
+D 149.01 Okay . ami_da_1
+A 149.44 Well then we can make some decisions about our remote control functions . ami_da_4
+A 154.34 We have to deb we have to decide it in this meeting what our function will be . ami_da_4
+A 159.54 And then we can discuss some more closely . ami_da_6
+C 163.71 We have forty minutes for this discussion ? ami_da_5
+C 163.71 Alright . ami_da_9
+A 163.9 yeah , I think so . ami_da_4
+A 169.76 Well the closing we will not look at it yet . ami_da_4
+D 174.84 Alright . ami_da_1
+A 175.7 now I will look at show this board . ami_da_7
+A 184.77 Well notes , first meeting . ami_da_16
+A 191.52 Now . ami_da_2
+A 192.8 I gave a disc a a presentation . ami_da_4
+A 195.21 we familiarised ourself with the boards and then we discussed some first ideas . ami_da_4
+A 201.21 So we said that we have to merge the strong points from our competitors , and look at their remote controls . ami_da_4
+D 208.05 Right . ami_da_1
+A 210.91 We should make it compatible with our new DVD and other releases we have , our technical releases . ami_da_4
+C 216.69 Huh ? ami_da_1
+C 216.69 Yeah . ami_da_1
+A 217.74 not too many one buttons . ami_da_4
+A 219.51 One recognisable button in the middle , where you do the most important functions with . ami_da_4
+A 224.75 And well they can have two functions , because you have a DVD and a television . ami_da_4
+A 230.89 the design has to fit the hand , be original , but also be familiar . ami_da_4
+A 237.57 It is one of our ideas . ami_da_4
+A 239.64 Yeah well that ami_da_4
+A 239.64 wa ami_da_4
+A 239.64 It is just thirty minutes ago , ami_da_4
+A 239.64 so it is not quite ami_da_14
+A 239.64 But well I have to do it . ami_da_14
+C 243.71 , now it is right . ami_da_14
+D 244.85 Yeah . ami_da_1
+A 246.58 The materials well should be hard plastic with rubber from , and well the labelling of the buttons should be indestructible . ami_da_4
+A 253.71 It should be recognisable at all times . ami_da_4
+C 254.28 It is meant to be easily wiped out , yeah . ami_da_5
+A 256.5 Yes . ami_da_4
+D 256.91 Okay . ami_da_1
+A 257.73 Well fronts were to be just like mobile telephones . ami_da_4
+A 261.81 And the technical aspects And also labelling of the buttons , the functions should be universal standards . ami_da_4
+A 268.23 Well that is just some ideas from the first meeting . ami_da_4
+A 271.25 It is quite logical al all of it . ami_da_9
+A 275.12 now the new project requirements , I will just show them . ami_da_7
+A 278.26 I got this mail from our bosses . ami_da_4
+A 283.55 Well , teletext goes out . ami_da_4
+B 286.97 Oh . ami_da_1
+A 286.99 We will not use teletext . ami_da_4
+D 288.89 Okay . ami_da_1
+A 289.84 Maybe a new sort of thing , but n but not teletext . ami_da_6
+C 289.93 I I disagree , but it is not t it is not my place to disagree ami_da_4
+C 289.93 I guess . ami_da_4
+A 293.46 Well ami_da_2
+A 293.46 the second is a bit sh pity ami_da_9
+A 293.46 because we just said we wanted to d include the DVD and they do not want it , because of our time we have for this project . ami_da_4
+B 300.59 Oh . ami_da_1
+D 303.96 Alright . ami_da_1
+C 306.28 Oh , alright . ami_da_1
+B 306.86 Oh , that is a shame . ami_da_9
+A 307.54 So that is a shame , ami_da_9
+A 307.54 because especially for the third requirement we want to reach people under the thirty years . ami_da_4
+A 316.39 Because we do not have those customers a lot at th at this point . ami_da_4
+A 320.28 well it is a bit pity ami_da_9
+A 320.28 because it is just those people want to have one remote control for all those technical devices they can reach it . ami_da_4
+D 327.23 Yeah . ami_da_1
+D 328.95 But let is forget about it . ami_da_6
+D 329.96 It is just time consuming , ami_da_4
+D 329.96 so we have to go on . ami_da_6
+A 330.87 Yeah . ami_da_1
+A 332.75 Well and our corporate image should stay rec recognisable in our products . ami_da_4
+A 336.98 So we have to use maybe a slogan , maybe a colour , and ami_da_6
+A 336.98 Yeah well on our remote controls the design has to be , well as we already said a actually , familiar . ami_da_4
+D 350.34 Yes . ami_da_1
+A 350.75 not only just the shape but also our company . ami_da_4
+C 358.35 Yeah , we are a real fashionable company . ami_da_4
+C 361.76 I read I read it on the ami_da_4
+C 361.76 I did not know what company we were , but we we design especially trendy trendy trendy stuff . ami_da_4
+A 362.82 Yeah . ami_da_1
+B 362.86 Yeah . ami_da_1
+A 363.35 Yeah . ami_da_1
+A 367.91 Yeah . ami_da_1
+C 369.38 So it has to be a modern design . ami_da_4
+A 369.8 Okay . ami_da_1
+C 371.32 That is important to know , when you design a thing of course . ami_da_4
+A 373.56 Yes . ami_da_9
+A 374.32 I ami_da_4
+A 374.32 I noted our slogan that we have , our company . ami_da_4
+A 379.03 It is we put the fashion in electronics . ami_da_4
+C 382.44 Yeah . ami_da_1
+D 383.15 Right . ami_da_1
+A 383.51 So maybe that is a slogan we can put somewhere on our remote control or something . ami_da_6
+B 387.46 Yeah . ami_da_1
+A 388.29 Alright then we are going to have three presentations . ami_da_4
+D 391.29 Yeah . ami_da_1
+A 392.36 You want to start ? ami_da_8
+A 392.36 Oh you have to start ? ami_da_12
+A 392.36 I did not see anything about who had to start . ami_da_4
+D 393.86 Yeah . ami_da_1
+D 394.56 I think I have to start . ami_da_7
+D 397.54 Oh no , no problem . ami_da_9
+C 398.25 The order ? ami_da_9
+C 398.25 No . ami_da_9
+A 399.22 Well s then start . ami_da_6
+D 399.7 I I just have to to think which file is mine , because I was bit in a hurry . ami_da_4
+A 404.97 Okay . ami_da_2
+A 405.68 Well ami_da_2
+A 405.68 You already opened PowerPoint . ami_da_4
+D 406.81 I think it is this one . ami_da_4
+D 409.32 But I am not sure . ami_da_4
+D 420.35 Yeah . ami_da_1
+D 422.12 S ami_da_1
+D 422.12 Right . ami_da_2
+D 425.43 Yes . ami_da_4
+D 425.86 This is it . ami_da_4
+A 426.12 Yeah . ami_da_1
+D 426.85 Well , I am going to tell you something about functional requirements . ami_da_7
+D 431.18 to start with these points . ami_da_4
+D 434.7 next sheet ? ami_da_16
+D 434.7 at first I tell you something about what people dislike about the current controls , ami_da_7
+D 434.7 because it is a smart thing to exclude those things . ami_da_4
+D 446.97 , furthermore it is very important what they do like and what they do use . ami_da_4
+D 451.69 then I tell something about the most important issues . ami_da_7
+D 456.9 So we have to focus on those three thing three things . ami_da_4
+D 459.97 And in the end I will show you our target audience or our target product users , customers . ami_da_7
+D 468.85 Well , the first findings are that people think most controls are very kind of ug ugly . ami_da_4
+D 478.74 That is seventy five per cent of the current users . ami_da_4
+D 482.21 They do not like it , ami_da_4
+D 482.21 so we might think about fronts in that section . ami_da_6
+D 486.33 They also say , that is about I thought it was fifty per cent , that more money will be spent on better looking controls . ami_da_4
+D 497.03 So it is very important that you design a a nice looking control . ami_da_4
+D 506.0 the current user uses his machine just about well all of the time for a few functions . ami_da_4
+D 516.33 , almost every user uses it d the the control for just ten per cent of its capacity . ami_da_4
+D 523.88 So it is really important to make the the buttons for the common tasks kind of big or kind of flashy . ami_da_6
+D 535.35 Furthermore , it is seventy five per cent of the users zaps a lot . ami_da_4
+D 540.68 Thus it might be might be smart to make a a big zapping button or something in the middle , so you can reach it with your thumb . ami_da_6
+C 548.65 You can zap away . ami_da_6
+D 548.83 Yeah , ami_da_9
+D 548.83 yeah right . ami_da_9
+A 549.45 Yeah . ami_da_1
+C 549.45 Yeah . ami_da_6
+D 553.32 Right . ami_da_2
+D 554.96 A lot of losers users lose their controls in their in their living room . ami_da_4
+D 561.66 So it might be sensible to make some kind of a button on your television , that is your your control beeps or something , that you can find this very easily . ami_da_6
+B 570.22 Yeah . ami_da_1
+D 571.27 I dunno , maybe that is an idea . ami_da_6
+A 572.62 Well ami_da_2
+A 572.62 It should actually It should actually be loose from the television , ami_da_6
+A 572.62 because it can also be used for other televisions . ami_da_4
+D 573.95 Because it is a big I think fifty per cent of the users loses his its control , within the same room . ami_da_4
+C 574.21 Oh . ami_da_1
+C 580.19 Oh ? . ami_da_1
+B 582.11 Yeah . ami_da_1
+D 582.22 Yeah ami_da_9
+D 582.22 but what if you lose your click on device ? ami_da_5
+D 582.22 Yeah ami_da_6
+D 582.22 but if someone d somebody else uses it in ano other room or something ? ami_da_6
+D 582.22 Nee but it ami_da_4
+D 582.22 it specifically says it is the the control is lost in the same room . ami_da_4
+A 586.07 So if you deliver a small click on device that you can put on your television , that bleeps to your remote control , everyone can use it . ami_da_6
+A 595.74 No ami_da_4
+A 595.74 you can click it on your television . ami_da_6
+A 602.23 Yeah in another room , ami_da_9
+A 602.23 yeah . ami_da_9
+A 604.2 Well yes . ami_da_2
+A 610.32 Yeah . ami_da_1
+D 610.78 So ami_da_2
+D 610.78 Well a beeping device would be ami_da_3
+D 610.78 furthermore the learning time is a problem . ami_da_4
+A 612.92 Well we will have a look at it , yeah . ami_da_4
+D 617.65 thirty four thirty four per cent thinks it is it is too too difficult to learn . ami_da_4
+D 625.45 So the the learning curve should be very short for the dumbest people should be able to use it . ami_da_6
+C 631.86 I think our user expert should also consider manual a manual for the remote , of course . ami_da_6
+D 637.08 Yeah but people do not read manuals . ami_da_4
+C 637.14 I did not read it ? ami_da_5
+C 637.14 Oh , alright . ami_da_12
+D 640.17 No . ami_da_4
+B 640.28 No . ami_da_4
+C 641.1 users to add one ? ami_da_5
+C 641.1 Do you think ? ami_da_5
+B 644.82 I do not think ami_da_4
+B 644.82 Yeah . ami_da_1
+D 645.09 I think you should put more time in the in the design of pick up and use , than a manual . ami_da_6
+B 650.17 Yes ami_da_9
+B 650.17 you should You should could take a look at it and and and know how it how it is supposed to work . ami_da_4
+C 651.19 Yeah alright . ami_da_9
+A 651.4 Yep . ami_da_1
+C 651.8 Because they do not use it ? ami_da_4
+C 651.8 Alright . ami_da_4
+D 655.72 Yeah . ami_da_9
+A 656.19 Well there sh should always be a menu , but it c can be very short . ami_da_4
+D 656.19 Right . ami_da_9
+D 657.89 And it should be consistent with consistent with older remotes . ami_da_4
+B 658.61 Yeah but nobody reads a manual about a remote control , I think . ami_da_4
+A 663.72 Yes okay . ami_da_12
+C 664.37 Well maybe for the If you do not recognise a button who d who d who do I call wh when I do not know it ? ami_da_5
+C 664.37 Is not it part of the of the u ami_da_3
+C 664.37 No . ami_da_14
+D 664.82 Alright . ami_da_2
+B 669.37 Yeah right . ami_da_1
+B 669.75 It sh it should be there , the manual . ami_da_4
+B 671.21 But but not to explain how the remote works . ami_da_4
+B 673.98 Only ami_da_3
+D 674.86 And we do not have much time . ami_da_4
+D 675.96 So it is better to put our attention to the the design . ami_da_6
+D 680.24 So you can pick up and use it , than I think . ami_da_6
+A 682.72 Well we are a design team , ami_da_4
+A 682.72 we can say to some writer make a manual point . ami_da_6
+D 686.51 Yeah right , right . ami_da_9
+A 687.61 So ami_da_2
+A 687.61 Well we will have a look . ami_da_4
+C 689.16 No . ami_da_14
+C 689.63 Never mind . ami_da_14
+D 690.56 Next point . ami_da_4
+A 690.6 yes ? ami_da_14
+A 690.6 Yep . ami_da_1
+D 691.6 RSI . ami_da_4
+D 693.87 Well that is about twenty per cent I thought . ami_da_4
+D 697.16 But the designer should take it should Wie zeg ik dat ? ami_da_4
+D 697.16 Yeah , consider the consequences of using your remote . ami_da_4
+C 704.53 Consider the m ami_da_4
+C 704.53 Yeah . ami_da_1
+D 707.98 It should be a good in your hand . ami_da_4
+D 715.08 Right , ami_da_2
+D 715.08 this is the most important part . ami_da_4
+D 717.76 , we are ami_da_2
+D 717.76 Like the requirements said , we are going to specify of we are going to target a younger audience . ami_da_4
+D 725.35 , that is about sixty per cent of the market , so it is quite important . ami_da_4
+D 730.66 research shows that they like to have a little LCD screen on their on their zapping device . ami_da_4
+D 738.34 I thought it was the age between sixteen and twenty , ninety nine per cent of the people like that . ami_da_4
+A 740.44 Well ami_da_3
+A 740.44 Well with twelve Euro fifty as production cost , we ca not afford an LCD ami_da_4
+A 740.44 Yeah . ami_da_9
+D 746.79 So it is very important we should definitely have that in our designs . ami_da_6
+C 756.41 It is going to be expensive . ami_da_4
+B 757.19 No . ami_da_1
+C 757.68 Yeah . ami_da_4
+D 758.4 Yeah but they think it is really important . ami_da_4
+D 761.27 So if we want to s If we have a big ami_da_3
+D 761.27 If we make lots of of the stuff , maybe we can buy it very cheap , I dunno . ami_da_6
+D 771.03 We have to ami_da_3
+D 771.03 Yeah , ami_da_9
+D 771.03 I do not know . ami_da_4
+C 772.94 Well we will consider it . ami_da_6
+A 773.39 Well ami_da_3
+A 773.39 Yeah well it is your your task to look into the costs of those ami_da_4
+A 773.39 Nigh ami_da_3
+A 773.39 I know . ami_da_9
+C 775.55 We will think abo we will think ami_da_3
+C 775.55 No , we will look we will look into that later . ami_da_7
+D 779.03 I do not have any information on that . ami_da_4
+D 780.53 So ami_da_4
+D 780.53 Right . ami_da_1
+C 782.89 Alright ? ami_da_16
+C 782.89 We have very demanding clients . ami_da_4
+D 783.55 And another thing is speech recognition . ami_da_4
+D 786.84 They also like that , but research is very costly . ami_da_4
+B 790.03 I think that is difficult to realise also . ami_da_9
+D 790.09 So ami_da_4
+D 790.09 Yeah , ami_da_6
+D 790.09 but it ami_da_6
+D 790.09 it might be important for the sale . ami_da_6
+A 798.34 It is not yet a standard development those so ami_da_4
+A 798.34 We sh ami_da_3
+A 798.34 Yeah absolutely . ami_da_9
+B 801.03 No ami_da_9
+B 801.03 and we have customers in multiple countries I think . ami_da_4
+D 802.48 Well I do think LCD is more reachable than the speech recognition . ami_da_4
+B 806.81 Yeah . ami_da_9
+D 807.52 So we might consider LCD screens . ami_da_6
+C 810.55 Yeah , yeah , alright . ami_da_9
+C 811.44 Well we will consider both and and see what what what we can find , I think . ami_da_7
+B 811.45 No . ami_da_3
+D 815.41 Alright . ami_da_1
+A 815.57 Yep . ami_da_1
+C 815.81 We do not rule them out yet . ami_da_4
+A 818.71 Okay . ami_da_2
+D 818.72 Alright . ami_da_2
+D 819.92 , I think that is it . ami_da_4
+D 821.32 I think it is sensible to u to take this take these points into the notes . ami_da_4
+A 821.64 Alright . ami_da_1
+A 831.93 Yes . ami_da_9
+D 831.93 So you can ami_da_3
+D 831.93 Right . ami_da_9
+A 834.02 Well you ami_da_3
+A 834.02 I c ami_da_4
+A 834.02 I can still see your presentation . ami_da_4
+D 837.18 Yeah . ami_da_9
+D 837.46 Right . ami_da_9
+A 838.02 It is in the ami_da_3
+A 838.02 Well next I dunno who is next . ami_da_8
+A 842.13 Yes . ami_da_9
+C 843.08 Shall I give a technical talk ? ami_da_7
+C 843.08 Alright . ami_da_9
+B 843.44 Oh you go . ami_da_6
+A 845.69 Well go ahead . ami_da_6
+C 849.97 Well it is my task to explain or to point out a working design . ami_da_4
+A 856.33 Yip . ami_da_1
+C 859.19 We have that here . ami_da_4
+C 860.31 Okay , how do you enlarge it , so that you can have the ami_da_5
+C 860.31 F F five . ami_da_12
+A 861.67 F five . ami_da_4
+A 864.25 F five . ami_da_4
+C 865.48 Yep . ami_da_1
+D 866.44 Alright . ami_da_1
+C 866.73 Well , the working design , ami_da_4
+C 866.73 that is my ami_da_3
+C 866.73 Well alright , you know who I am and what I do . ami_da_4
+D 869.24 Next button . ami_da_14
+C 873.77 So we have this . ami_da_4
+C 875.02 It is a bit unclear ami_da_9
+C 875.02 because I wanted to copy paste something . ami_da_4
+C 878.52 It was originally in black and white but it became black and purple . ami_da_4
+D 878.59 Oh right . ami_da_1
+D 881.52 Purple . ami_da_4
+C 882.04 But I think you can read it . ami_da_9
+D 883.72 Yeah , ami_da_9
+D 883.72 yeah , ami_da_9
+D 883.72 yeah . ami_da_9
+C 884.23 well I think it is important for you to realise the basic function of a remote control . ami_da_4
+D 884.7 A bit . ami_da_9
+C 890.52 well you can see ami_da_3
+C 890.52 And I then can select I can select on the dings ami_da_6
+C 890.52 It goes to the next page . ami_da_4
+D 892.7 Maybe you can select it . ami_da_6
+D 893.71 So it inverts . ami_da_6
+D 898.98 the p the whole picture . ami_da_6
+D 901.46 Nah , never mind . ami_da_14
+A 901.82 Click . ami_da_1
+C 902.34 Well , you can read it , ami_da_4
+C 902.34 it is not too difficult . ami_da_9
+B 903.57 Yeah , go ahead . ami_da_6
+C 903.99 Meanwhile , this is a schematic view of how a basic remote control works . ami_da_4
+C 911.45 You have basically the energy , the power of the of the remote control , and the sender , w which is the LED , the the the the the the the the the bulb that sends the the infrared beam to the , no , to the set . ami_da_4
+D 925.29 Yeah . ami_da_1
+D 926.75 Alright . ami_da_1
+C 927.55 And the source is of course the user . ami_da_4
+C 929.28 the user interface is the the the buttons of course . ami_da_4
+C 934.97 And the the user interface sends the the different signals of the different buttons to the chip , and the chip sends it to the LED , and the LED sends it to the receiver . ami_da_4
+C 945.45 That is the that is the basic idea . ami_da_4
+A 946.52 Yep . ami_da_1
+C 947.27 Very basic . ami_da_9
+C 949.91 well I have put it in a in in in a a couple of basic steps . ami_da_4
+C 959.16 the remote is basically just waiting for a user to press a key . ami_da_4
+C 962.7 It does nothing until of course the key is pressed . ami_da_4
+C 965.98 The key a signal to a chip , the chip senses the connection . ami_da_4
+C 969.59 and recognise the key . ami_da_4
+C 971.53 So well you understand . ami_da_13
+C 973.43 The chip produces Morse code , a specific code to indicate that specific button that is pressed , of course . ami_da_4
+C 979.82 And it uses transistors in the in the remote control to amplify and to send that signal again to the to the LED , which is the bulb , of course . ami_da_4
+C 990.45 Now the LED produces an infrared beam and signals the , well it is very simple , and signals the signals to the sensor on the TV set , and the TV set also recognises the the the signal , and performs the assigned task . ami_da_4
+A 995.0 Yeah . ami_da_1
+A 1003.78 So it is also why we have to have a button that says I am now busy with a DVD if we had done that . ami_da_4
+A 1010.58 And a button for TV . ami_da_4
+C 1010.87 bu ami_da_9
+C 1010.87 Yeah , but we do not . ami_da_9
+C 1012.06 we ami_da_3
+C 1012.06 No no , ami_da_9
+C 1012.06 but Yeah . ami_da_9
+A 1012.72 So ami_da_4
+A 1012.72 Well but but ami_da_3
+A 1012.72 if you have the most used buttons all in one place , and you keep making the same well moves . ami_da_4
+C 1015.04 Exactly . ami_da_9
+C 1015.76 well this is the basic function of a remote . ami_da_4
+C 1020.37 I have some couple of pictures here . ami_da_4
+C 1021.39 It is a very basic one . ami_da_9
+C 1022.96 And if we if we are going to add an an LCD screen to it , it wo not look anything like this , but This is very basic basically the the shape of of a remote control . ami_da_4
+C 1033.97 It has very little buttons and ami_da_4
+C 1033.97 But it it it is it is quite ami_da_3
+C 1033.97 Yeah , you can easily recognise the buttons . ami_da_9
+C 1041.57 They are far enough apart and an anything . ami_da_4
+C 1044.3 It is not very not very high tech ami_da_4
+C 1044.3 indeed , and it is not very user friendly . ami_da_9
+B 1046.69 High tech . ami_da_4
+C 1051.02 if you look at the shape , it is just a simple long box shape . ami_da_4
+C 1054.99 So we have to change a little bit to that , ami_da_6
+C 1054.99 so that it becomes more user friendly , and that problems like RSI and those kinds of thing do not do not oc do not occur . ami_da_4
+D 1063.35 Right . ami_da_1
+D 1064.95 Can I say something ? ami_da_7
+D 1064.95 I have a table here about the l the relevance of the buttons . ami_da_4
+C 1066.0 Yeah . ami_da_9
+D 1071.24 the power button is used very much , channel selection , volume and teletext . ami_da_4
+D 1077.04 Well teletext is not an option , so that ami_da_4
+D 1077.04 But I think it is very important to make the power , channel and volume buttons near to the thumb , so you ca not have RSI consequences . ami_da_6
+C 1089.19 Yeah , ami_da_9
+C 1089.19 because they are the the most important buttons ami_da_4
+C 1089.19 and you can immediately ami_da_3
+C 1089.19 You do not have to look and and search for them . ami_da_4
+D 1091.18 Right . ami_da_9
+D 1091.99 Make them big , make them easy to to press . ami_da_6
+B 1094.75 You can also like Yeah , I was thinking you can Are some of the the the ami_da_3
+B 1094.75 Maybe you can make , for for channel changing , two little buttons on the side of the remote , so you can just do like this . ami_da_6
+D 1096.95 Right . ami_da_9
+D 1103.72 Yeah , right . ami_da_12
+A 1104.43 But if y if you would put it at a different place , then you have to move your hands , and that is on of the things about RSI . ami_da_4
+D 1104.53 Right . ami_da_12
+D 1109.72 Yeah , that is right . ami_da_9
+D 1111.46 That is right . ami_da_9
+D 1111.92 That is right . ami_da_9
+C 1112.37 Well you you ca not have any every button under the thumb , of course . ami_da_4
+D 1112.64 We But ami_da_3
+D 1112.64 Yeah . ami_da_9
+A 1115.52 No ami_da_9
+A 1115.52 but the most important buttons m maybe you can just put them a bit apart ami_da_6
+A 1115.52 so you would reject R RSI RSI . ami_da_6
+D 1121.22 That is very important . ami_da_9
+D 1122.09 And ami_da_3
+D 1122.09 But is that is that useable ? ami_da_5
+D 1122.09 Do people , when they pick up a remote , know that they have to do that ? ami_da_5
+D 1122.09 It is a f it is a new feature , ami_da_4
+D 1122.09 you can make make a double feature l like a button on the top and under it . ami_da_6
+B 1131.93 Like some little Gameboy things or some ami_da_4
+B 1131.93 Well Yeah alright , but ami_da_3
+B 1131.93 Yeah , ami_da_9
+B 1131.93 but if you s say them up and down ami_da_4
+B 1131.93 , they they will understand it , I think . ami_da_4
+A 1132.59 Yes ami_da_9
+A 1132.59 I have saw that on m on mi mobile telephones they also have those buttons . ami_da_4
+A 1144.34 Well it it is ami_da_3
+A 1144.34 Well also ami_da_3
+A 1144.34 i if someone puts picks up his remote ami_da_3
+A 1144.34 Yeah . ami_da_4
+C 1145.14 Yeah . ami_da_1
+B 1154.98 Eighty per cent would . ami_da_4
+C 1155.11 Well , . ami_da_3
+A 1155.98 If someone puts up i picks up his remote , and he picks up it ami_da_4
+A 1155.98 he he touches the side ami_da_4
+A 1155.98 then he is a already on the next channel . ami_da_4
+D 1160.91 Yeah , he feels it immediately . ami_da_9
+B 1162.33 Yeah that is true . ami_da_9
+A 1162.36 That is very irritating , I think . ami_da_9
+D 1163.41 Yeah , that is right . ami_da_9
+D 1164.67 Yeah . ami_da_9
+B 1164.82 Yeah ami_da_3
+B 1164.82 but ami_da_3
+D 1165.88 Right , continue . ami_da_6
+D 1166.75 Sorry . ami_da_14
+C 1166.79 But in e in any case the the basic function should be indeed , and as you say at the thumb . ami_da_6
+C 1170.8 I think that is a good idea , ami_da_9
+C 1170.8 and and that the less important buttons , like the the the different channels , the numbers one ami_da_6
+C 1170.8 two three four five as well , should be ami_da_6
+C 1170.8 yeah ami_da_6
+C 1170.8 well not in reach , ami_da_6
+C 1170.8 because they do not use it all the time . ami_da_4
+C 1184.36 Well it is pretty pretty basically as you said . ami_da_4
+A 1186.0 Yep . ami_da_1
+C 1187.42 And I have some pictures of the inside workings , but I do not want to get too technical , because that is not very useful for you . ami_da_4
+D 1194.36 Yeah , that is right . ami_da_9
+A 1194.91 That is your part of the job . ami_da_4
+C 1196.1 So yeah exactly ami_da_9
+C 1196.1 this is how it looks from the inside . ami_da_4
+A 1199.67 Yep . ami_da_1
+C 1200.27 And well that is about it I think . ami_da_4
+C 1201.95 Oh yeah , I still have this . ami_da_4
+C 1202.87 Oh I had to delete this , but I had to make a schematic of the of the new ami_da_4
+C 1202.87 But I had too too little time , but do not do not look at it please . ami_da_4
+D 1205.4 Alright . ami_da_1
+A 1208.1 Okay . ami_da_1
+A 1210.41 Well we understand . ami_da_12
+D 1212.18 Alright . ami_da_1
+C 1212.2 I I think it is it is clear how it works . ami_da_9
+A 1213.7 We understand . ami_da_12
+D 1214.02 Yeah , it is clear . ami_da_12
+C 1214.8 Alright . ami_da_2
+A 1215.04 Oh right , no . ami_da_2
+C 1215.58 That is the most important thing . ami_da_9
+A 1217.36 Nice . ami_da_9
+C 1218.68 Alright . ami_da_2
+A 1219.01 Then Mike can give the third presentation . ami_da_4
+C 1219.03 Right . ami_da_1
+A 1224.85 How late is did we start his presentation ? ami_da_5
+A 1224.85 Wha ami_da_3
+A 1224.85 Yeah . ami_da_9
+D 1227.42 I dunno . ami_da_4
+D 1228.42 I think w About twenty minutes ago ? ami_da_4
+D 1228.42 Losing time losing time . ami_da_4
+A 1233.18 Well then we have still the time , ami_da_4
+A 1233.18 so But we do have to come to a decision , right later on . ami_da_4
+D 1238.77 Yeah right . ami_da_12
+D 1239.4 So ami_da_2
+D 1239.4 I do not think so . ami_da_9
+A 1241.24 So ami_da_2
+A 1241.24 Oh yeah ? ? ami_da_12
+A 1241.24 Okay , ami_da_9
+A 1241.24 yeah ami_da_9
+A 1241.24 well . ami_da_9
+B 1245.09 Well I thought everybody on the website would see the same thing , but obviously that is not the case . ami_da_4
+C 1254.16 Yeah , ami_da_9
+C 1254.16 there are different ami_da_4
+C 1254.16 We have all have different home pages , with different links . ami_da_4
+B 1257.94 Yeah . ami_da_9
+C 1258.59 Yeah . ami_da_4
+D 1258.83 Yeah right . ami_da_4
+B 1260.04 For instance you could not see this . ami_da_4
+B 1264.85 Yeah . ami_da_4
+B 1267.64 Well I am Mike , User Interface Designer . ami_da_4
+B 1271.31 The the method ? ami_da_4
+B 1271.31 Well I used my own experience with remotes , took a good l look at the remotes on the corporate website , which are these two . ami_da_4
+A 1281.91 Yeah . ami_da_1
+B 1282.1 Yes , these are from from another manufacturer . ami_da_4
+D 1282.83 These are already in use ? ami_da_5
+D 1282.83 Alright , okay . ami_da_12
+B 1288.42 This one is engineering centred , so this one has the most functions and things . ami_da_4
+A 1297.31 Yeah . ami_da_1
+B 1298.11 I like user centr centred also the best . ami_da_9
+D 1298.2 Well ami_da_2
+D 1298.2 Yeah , me too . ami_da_9
+A 1298.75 I like user centred . ami_da_9
+A 1301.94 Yeah . ami_da_9
+A 1304.78 We also do that . ami_da_4
+B 1305.41 Well , I thought that we reduce the the option to control the DVD also , and teletext and that kind of stuff . ami_da_4
+B 1317.67 so I thought we we we would use more or need more buttons than this one . ami_da_4
+D 1323.49 But we have to reject that , because of the requirements ? ami_da_4
+D 1323.49 Alright . ami_da_1
+B 1324.44 But ami_da_3
+B 1324.44 Yes . ami_da_9
+A 1326.12 Yeah . ami_da_9
+B 1326.6 Th that is why this is not relevant any more I feel . ami_da_4
+B 1331.95 I think this is about the maximum number of buttons we will need . ami_da_4
+D 1337.99 Yeah , right . ami_da_9
+B 1338.19 I I kind of like the shape . ami_da_9
+B 1341.04 I think this is what we talked about . ami_da_4
+B 1344.41 But ami_da_3
+B 1344.41 No ami_da_9
+B 1344.41 I have ami_da_4
+B 1344.41 Well I showed it somewhere . ami_da_4
+D 1344.49 Yeah . ami_da_1
+C 1345.08 You ca not really see the differ from different sides . ami_da_4
+C 1347.96 But I think ami_da_3
+C 1347.96 you can draw it if you ami_da_6
+C 1347.96 Yeah . ami_da_6
+B 1350.91 Oh yeah . ami_da_16
+B 1354.25 I think we should go further with the idea of a removable front . ami_da_6
+B 1358.12 So we can can yeah customise the ami_da_4
+B 1358.12 Yeah . ami_da_1
+A 1360.82 Well absolutely , ami_da_9
+A 1360.82 but i th they all have to have something about the recognition from our company . ami_da_4
+A 1367.43 So we cannot just make someone w ami_da_3
+A 1367.43 No ami_da_9
+A 1367.43 but that is th the side they look look at is the front . ami_da_4
+B 1370.79 It is a front . ami_da_4
+B 1371.37 It is not the the whole remote that changes , of course . ami_da_4
+D 1374.7 But it ami_da_3
+B 1374.74 You can ami_da_3
+A 1378.08 So if y if you make a a front with just a a tiger on it , then our recognition is totally gone . ami_da_4
+B 1385.24 Or you can you can can put the same symbol on on every remote . ami_da_6
+D 1388.25 Yeah , that is right ami_da_9
+D 1388.25 Yeah , that is a must . ami_da_9
+B 1388.77 So l like Ericsson does every S something like this . ami_da_4
+D 1390.22 We must have that . ami_da_5
+A 1390.24 Yeah , we must . ami_da_9
+C 1390.66 We can put it on the on the back side . ami_da_6
+A 1392.01 Yeah well and and ami_da_3
+A 1392.01 Yes . ami_da_9
+B 1396.13 It is recognisable . ami_da_9
+A 1397.75 Okay . ami_da_9
+D 1398.27 We can make a symbol of the company right here . ami_da_6
+B 1398.43 Yeah ? ami_da_1
+B 1398.43 Yeah yeah . ami_da_9
+D 1400.66 And if you put a front on it , there is a hole on the front . ami_da_4
+D 1403.71 So the symbol is always on ami_da_4
+D 1403.71 Yeah . ami_da_1
+C 1403.81 Yeah , so that you do not replace the symbol , yeah . ami_da_9
+A 1404.73 Yeah ami_da_9
+A 1404.73 yeah ami_da_9
+A 1404.73 yeah . ami_da_9
+B 1405.02 Something like that , ami_da_9
+B 1405.02 in the Yeah . ami_da_3
+A 1406.03 Or the th the the lowest part of the remote is not changed by the front . ami_da_6
+D 1409.36 Yeah , ami_da_9
+D 1409.36 yeah . ami_da_9
+D 1410.53 But let is not focus on the front . ami_da_6
+B 1410.64 Yeah . ami_da_1
+A 1410.8 Those kind of things . ami_da_6
+A 1411.56 Yes . ami_da_9
+A 1412.47 Okay . ami_da_9
+B 1413.96 Well so like I said I thought we would we would use more function . ami_da_4
+B 1418.45 If we we had to include more functions . ami_da_4
+B 1420.7 But we do not . ami_da_4
+B 1421.71 So Yeah . ami_da_2
+D 1424.7 Alright . ami_da_2
+B 1424.87 I think this is about the maximum number of buttons we need . ami_da_6
+B 1428.16 Maybe some less . ami_da_6
+B 1429.47 Like eject we do not need , and some other buttons we do not need . ami_da_4
+B 1433.59 I think ami_da_3
+B 1433.59 Yeah , I will . ami_da_7
+C 1433.67 Mike , can you put that picture from me on the in the Word documents file ? ami_da_8
+C 1433.67 In Map ? ami_da_8
+C 1433.67 The younger ami_da_12
+B 1438.35 I think for the remote less is more . ami_da_4
+B 1442.51 The less buttons the better the design . ami_da_4
+B 1445.24 We should go with that concept I think . ami_da_6
+A 1445.4 Yeah . ami_da_1
+D 1445.99 Yeah , I agree . ami_da_9
+B 1450.33 I know . ami_da_16
+A 1450.94 Alright . ami_da_2
+D 1450.95 I have I have got another point . ami_da_7
+A 1452.55 Yeah ? ami_da_9
+A 1452.55 Well what if we ami_da_3
+A 1452.55 I at I at home have a remote that has the most familiar buttons on the top , and the bottom side of the front has a little clip , ami_da_4
+A 1452.55 a f a little ami_da_3
+A 1452.55 You can click away and then you have f much more functions that most people do not use ami_da_4
+A 1452.55 but s some do do . ami_da_4
+D 1452.86 there are two target audi audiences , and we have chose for the younger one . ami_da_4
+D 1458.08 , research has shown that it is a high interested in features . ami_da_4
+D 1464.77 They are high high interested in feature . ami_da_4
+D 1467.06 But they are more critical . ami_da_4
+D 1468.84 Fo ami_da_3
+D 1468.84 Yeah , critical . ami_da_9
+D 1470.65 So ami_da_3
+D 1470.65 The younger audience . ami_da_4
+D 1472.78 So we must must design a control that really speaks to the people . ami_da_6
+C 1502.28 I think the most functions underneath that ami_da_4
+C 1502.28 No ami_da_9
+C 1502.28 usually But Yeah I think m most Most ami_da_3
+D 1506.65 Clip are not used much . ami_da_4
+A 1508.4 Well but because you say they their features are important , they want m a lot , ami_da_4
+A 1508.4 but not ami_da_3
+A 1508.4 Yeah . ami_da_1
+D 1511.33 Yeah right . ami_da_9
+B 1513.75 Yeah , ami_da_9
+B 1513.75 but what kind of features ? ami_da_8
+B 1513.75 Like LCD screens and voice recognition . ami_da_6
+D 1516.23 Yeah ami_da_3
+D 1516.23 but Yeah . ami_da_3
+B 1517.52 But I have ami_da_3
+B 1517.52 Yeah , that is nice . ami_da_9
+D 1518.77 Here , look at these numbers . ami_da_6
+D 1520.46 The newest features are , like I said , are LCD and speech control . ami_da_4
+D 1526.42 Our audience , these people , are very like these features . ami_da_4
+D 1532.7 You see ? ami_da_13
+D 1532.7 So we must build in something , or they will to go to the concurrent . ami_da_4
+C 1538.54 Yeah . ami_da_9
+D 1539.13 The concurrent ? ami_da_12
+D 1539.13 Competitors , right . ami_da_12
+C 1539.41 Our competitor . ami_da_9
+A 1539.45 Competitors . ami_da_4
+C 1540.19 Yeah . ami_da_9
+D 1542.42 So , I do think we have to have some features . ami_da_4
+A 1547.14 Yeah . ami_da_1
+D 1547.4 Even though they cost a little more . ami_da_4
+A 1547.88 Well maybe w we could s ami_da_3
+A 1547.88 On some calculators you have lo those little little LCD th that you can click on or something , or that you can click out of the remote . ami_da_4
+D 1555.27 Right . ami_da_12
+D 1556.1 Right . ami_da_12
+A 1560.52 And if if that is gives you a little bit of sta status information . ami_da_4
+D 1563.61 Like a ticker tape . ami_da_6
+A 1564.66 Yeah . ami_da_9
+D 1565.05 Which programme you are l watching or something . ami_da_6
+A 1567.81 Those kind of things , ami_da_6
+A 1567.81 because you also have those those program recognition for your V VCRs . ami_da_4
+A 1574.37 And well if y if your remote picks that up also , you they can display which programme you are currently watching . ami_da_6
+D 1574.79 Yeah , right . ami_da_1
+C 1575.29 Yeah . ami_da_1
+D 1575.69 Yeah right . ami_da_1
+C 1580.71 Yeah . ami_da_2
+C 1581.27 So it it just signals the the different sig the different symbols on the screen you have , because if you change to s channel two you have two on the screen and two on your on your on your LCD screen . ami_da_6
+A 1587.47 Yeah . ami_da_9
+A 1593.2 For example . ami_da_9
+A 1595.04 It it could be such a little th that you can click in and out and you and you have it . ami_da_6
+B 1600.08 Yeah , ami_da_9
+B 1600.08 we should keep that simple too . ami_da_6
+C 1602.26 But should it really be clickable , ami_da_11
+C 1602.26 or or just integrate inside to try to make it d more trendy . ami_da_6
+B 1602.5 It will ami_da_3
+B 1602.5 No , ami_da_9
+B 1602.5 it should be integrated . ami_da_6
+A 1602.72 Yeah . ami_da_1
+D 1605.1 No not clickable . ami_da_9
+A 1605.26 Well maybe . ami_da_9
+D 1606.36 Nah , no no no . ami_da_9
+B 1607.59 I think ami_da_3
+B 1607.59 Yeah , ami_da_1
+B 1607.59 something like on some radios in car . ami_da_6
+D 1607.82 Yeah , ami_da_9
+D 1607.82 just at at the top . ami_da_6
+D 1610.01 So when you s you sit like this you can can watch . ami_da_4
+D 1612.65 I think it should be at the top . ami_da_6
+A 1612.8 Yeah . ami_da_1
+A 1614.07 Yeah . ami_da_1
+B 1616.39 You ami_da_3
+B 1616.39 Where it is , yeah , walking to ami_da_4
+B 1616.39 Yeah . ami_da_4
+D 1619.4 Yeah right . ami_da_9
+D 1619.85 It is a ticker tape idea . ami_da_9
+A 1619.95 RDSs or something . ami_da_6
+C 1622.38 But that is of course a bit more expensive than the basic calculator design , with the scrolling text and that kind of thing . ami_da_4
+B 1630.34 Wa Yeah . ami_da_3
+D 1630.69 Well it is just one script . ami_da_4
+A 1631.01 Well I think it is you got ami_da_4
+A 1631.01 It just means it is a script that is keeps it rolling , and it is not That is five minutes off implementing time I think ami_da_4
+A 1631.01 Yeah . ami_da_9
+D 1638.87 Yeah , five minutes of ja ja for programming . ami_da_9
+D 1641.83 So I do not think that is the issue . ami_da_4
+A 1643.32 No . ami_da_9
+C 1644.12 Alright . ami_da_9
+D 1644.71 Alright , we go with the LCD screen ? ami_da_11
+D 1644.71 Okay . ami_da_1
+A 1646.66 well I think so , yes . ami_da_9
+B 1648.15 Yeah well we we we still need to know how much that will cost . ami_da_4
+A 1648.34 We are g ami_da_3
+A 1648.34 No ami_da_7
+A 1648.34 but we are we will have to look into that . ami_da_7
+D 1652.05 Right , ami_da_9
+D 1652.05 I do not know if I can find that , but ami_da_4
+D 1652.05 Next time . ami_da_6
+B 1654.92 Or maybe you will get that information ami_da_6
+B 1654.92 Yeah . ami_da_9
+A 1657.35 we can use this board again , I think . ami_da_6
+D 1657.91 Yeah right . ami_da_9
+A 1660.58 we can put some decisions about the controls we want , th the issue . ami_da_6
+A 1669.17 Where is my presentation ? ami_da_5
+A 1669.17 Well ami_da_2
+A 1669.17 I mean we are all here now , I think . ami_da_4
+D 1671.93 Yeah , I understand what you are saying . ami_da_12
+D 1678.2 We should have a general idea of how it is going to look . ami_da_6
+A 1686.71 These I have already given you . ami_da_4
+A 1688.44 So we have to decide on the different remote control functions . ami_da_4
+D 1694.7 Right . ami_da_1
+A 1694.74 So we want to have a small LCD screen that is special . ami_da_6
+D 1697.9 At the top . ami_da_6
+C 1700.55 Should not we start with the most important parts ? ami_da_6
+C 1700.55 The LCD screen alright ami_da_9
+C 1700.55 but we should start with the power button ? ami_da_6
+C 1700.55 Huh ? ami_da_12
+C 1700.55 And then ami_da_3
+C 1700.55 Maybe we should centralise the discussion here . ami_da_6
+B 1701.76 At the top or at the bottom ? ami_da_5
+B 1701.76 Yeah ami_da_3
+B 1701.76 but ami_da_3
+B 1701.76 Yeah but with with the LCD screen on the top it gets a bit unnatural . ami_da_9
+A 1702.05 Yes . ami_da_1
+D 1704.37 I think the top is more ami_da_4
+D 1704.37 When you s How do you zap ? ami_da_5
+D 1704.37 You just sit in your chair ? ami_da_6
+D 1704.37 With the remote ? ami_da_6
+D 1704.37 Yeah but that is where your hand ball might be . ami_da_4
+A 1706.89 Yeah . ami_da_1
+A 1714.8 That thing is terrible . ami_da_9
+B 1716.95 Because most remotes have some space left at the bottom . ami_da_4
+A 1722.99 Well ami_da_3
+A 1722.99 Well I th ami_da_9
+A 1722.99 I think Mike Mike has a point , ami_da_9
+A 1722.99 because when when when I use a remote ami_da_4
+A 1722.99 I ami_da_4
+A 1722.99 l ami_da_4
+A 1722.99 I hate the buttons but buttons at the at the bottom . ami_da_4
+D 1723.55 Yeah , I dunno . ami_da_9
+B 1723.9 Yeah , no . ami_da_9
+D 1726.67 We will draw two , and then we will see ami_da_6
+D 1726.67 No he thinks ami_da_3
+D 1726.67 Yeah , right . ami_da_9
+C 1730.78 I dunno what you were talking about but we are busy with something . ami_da_4
+D 1736.66 He thinks it is better to put the LCD at the bottom , and I think it is better at the top . ami_da_4
+C 1741.49 Uh huh . ami_da_1
+C 1741.85 Why do you think it is better at the bottom ? ami_da_5
+C 1741.85 But you just can put the the the the the whole interface a bit down , ami_da_6
+C 1741.85 so that there is room for the for the interface . ami_da_4
+B 1744.2 well because most remotes have some space left at the bottom , and that way you can keep the shape recognisable for everybody . ami_da_4
+D 1752.04 But your ami_da_3
+D 1752.04 Yeah . ami_da_9
+B 1753.81 I c ami_da_3
+B 1753.81 Well I d I think that is that is ugly but ami_da_9
+B 1753.81 I th ami_da_3
+B 1753.81 Yeah . ami_da_1
+D 1757.95 The the ticker The LCD is like like small . ami_da_4
+D 1761.61 It is it is wide . ami_da_4
+D 1762.98 It is not not high . ami_da_4
+C 1763.06 Uh huh . ami_da_1
+D 1764.16 But ami_da_4
+D 1764.16 Yeah right . ami_da_1
+C 1765.16 And and we can ami_da_3
+C 1765.16 Bottom . ami_da_4
+B 1768.18 Power button always ami_da_3
+B 1768.18 Yeah . ami_da_1
+B 1774.1 Yeah . ami_da_1
+A 1775.14 So and ami_da_4
+A 1775.14 and I ami_da_4
+A 1775.14 I like to use the ones on the top . ami_da_4
+B 1775.59 Yeah , y you gotta zap like this ami_da_6
+B 1775.59 or you want to ami_da_3
+B 1775.59 Yeah . ami_da_3
+A 1778.96 So when I u when I have to have an LCD s scr window ami_da_3
+A 1778.96 Yes ami_da_9
+A 1778.96 but we we we ami_da_4
+A 1778.96 we do not want that . ami_da_4
+D 1779.48 But We are making a remote with with a few functions you know . ami_da_4
+C 1780.74 Well that is a bit exaggerated . ami_da_9
+C 1784.01 Well , I agree with you . ami_da_9
+C 1786.47 It is it is also more recognisable . ami_da_4
+D 1786.64 We High tech . ami_da_3
+C 1788.71 It looks more like a calculator to people , if you have the l the the the thing on top . ami_da_4
+B 1796.21 Yeah you do not want ami_da_9
+B 1796.21 You want ami_da_4
+B 1796.21 Yeah ami_da_4
+B 1796.21 it it ami_da_4
+B 1796.21 it must be a remote . ami_da_4
+A 1796.73 We do not want them to look like a calculator . ami_da_4
+A 1798.52 We want to look it like our original but familiar ami_da_4
+A 1798.52 Yea ami_da_3
+A 1798.52 Maybe a bic better white We White ? ami_da_6
+A 1798.52 Width . ami_da_12
+C 1801.52 Yeah w well , ami_da_9
+C 1801.52 but you do not have to throw important aspe important aspect like familiarity completely away , ami_da_4
+C 1801.52 because I think it is ami_da_3
+C 1801.52 I think it is still important to have it at the top , because it is it is more familiar that way . ami_da_4
+B 1802.68 Yeah . ami_da_1
+D 1814.19 Width . ami_da_4
+A 1815.55 format ami_da_6
+A 1815.55 yeah format ? ami_da_6
+A 1815.55 Line width ? ami_da_6
+A 1815.55 Width ? ami_da_6
+A 1815.55 Yeah ? ami_da_16
+A 1815.55 It is a bit off . ami_da_9
+D 1818.41 Th that is not a problem . ami_da_9
+D 1820.36 When I draw here it ami_da_3
+D 1820.36 Oh . ami_da_16
+D 1822.47 Huh ? ami_da_16
+D 1822.47 Yeah , it is off . ami_da_9
+A 1825.12 Well . ami_da_2
+C 1825.26 A little a little bit . ami_da_9
+D 1826.48 It it needs to be calibrated again . ami_da_4
+A 1828.05 Well let is talk about that later ami_da_6
+A 1828.05 It is special pen . ami_da_4
+D 1828.67 Well ami_da_4
+D 1828.67 Where ? ami_da_5
+D 1828.67 Alright , we have to make a decision now , because we do not have much time . ami_da_4
+C 1830.41 Maybe you should another pen . ami_da_6
+C 1831.35 Maybe that is better . ami_da_6
+C 1833.49 You e you only have one pen for that screen . ami_da_4
+C 1836.07 Yeah . ami_da_4
+A 1837.81 Yeah . ami_da_9
+A 1838.82 No . ami_da_9
+D 1839.09 I think we have a few functions , and we can put the LCD above it , and still have lots of room at the bottom , where you can put your hand . ami_da_4
+C 1848.4 Yeah . ami_da_9
+C 1848.72 I I agree . ami_da_9
+A 1850.04 I think it should be at the button , bottom . ami_da_6
+C 1852.36 Well I am the I ami_da_4
+C 1852.36 I am the designer , so ami_da_4
+C 1852.36 Yeah . ami_da_9
+B 1852.39 At the bottom ? ami_da_12
+B 1852.39 In a few minutes ami_da_3
+B 1852.39 Oh yeah , ami_da_9
+B 1852.39 oh yeah , I totally agree . ami_da_9
+A 1852.78 Bottom . ami_da_4
+A 1853.74 The LCD . ami_da_4
+D 1854.82 At the bot ami_da_3
+D 1854.82 So ami_da_2
+D 1854.82 We are two VS two . ami_da_4
+A 1856.04 Yeah . ami_da_9
+B 1857.17 Yeah . ami_da_9
+A 1859.82 Well but what what if we we first decide the different functions , and then look at the design . ami_da_6
+B 1861.9 He is the boss . ami_da_4
+D 1864.48 Right . ami_da_9
+D 1865.13 Great . ami_da_9
+C 1865.39 we we were busy with that . ami_da_4
+A 1865.95 Because we have to decide this . ami_da_4
+C 1866.98 yeah we should summon the the different aspects of the thing . ami_da_6
+A 1869.32 Yeah . ami_da_1
+C 1871.35 So , we have the power button . ami_da_4
+D 1872.58 And moreover I think that you two should be come to consensus about the LCD s . ami_da_6
+A 1877.23 Yes . ami_da_9
+D 1877.63 It is your it is your job . ami_da_4
+C 1879.31 Yeah of course . ami_da_9
+C 1879.89 it is . ami_da_3
+B 1880.54 No it is our job . ami_da_4
+C 1880.56 Yeah . ami_da_3
+A 1880.81 Well we have a power button . ami_da_4
+C 1880.81 W wh ami_da_3
+C 1880.81 While you have to agree , I can say it is like this ami_da_4
+C 1880.81 and you must agree . ami_da_4
+A 1882.49 Guys ? ami_da_16
+A 1882.49 Guys ? ami_da_16
+A 1882.49 We have a power button , setting buttons , LCD window , the number buttons ami_da_4
+A 1882.49 Yes . ami_da_9
+B 1882.86 For all of us I think . ami_da_4
+D 1883.69 Yeah , right . ami_da_1
+D 1885.89 Alright , let is keep it central . ami_da_6
+C 1886.46 Yeah . ami_da_4
+B 1889.51 The ten numbers ? ami_da_9
+B 1889.51 Yeah ? ami_da_9
+B 1889.51 Volume ? ami_da_4
+B 1889.51 I think we we should use something like this to The the channel up and channel down button ? ami_da_6
+B 1889.51 Yeah , in circle , you know ? ami_da_6
+B 1889.51 And and a volume control also in it . ami_da_6
+C 1891.47 Channel , ami_da_9
+C 1891.47 yeah . ami_da_9
+C 1894.99 Volume control . ami_da_9
+C 1898.99 Well let is look at your design . ami_da_6
+A 1902.28 the mute button . ami_da_4
+C 1903.94 Uh huh . ami_da_1
+A 1905.22 I h love that one . ami_da_9
+A 1917.56 Yes . ami_da_12
+A 1919.52 Yeah . ami_da_9
+A 1920.18 Yeah ami_da_9
+A 1920.18 yeah ami_da_9
+A 1920.18 yeah . ami_da_9
+A 1920.76 Well that is that is also design . ami_da_4
+A 1923.41 Yes . ami_da_9
+D 1925.88 Right . ami_da_2
+A 1926.16 Well h ho ami_da_3
+A 1926.16 Yes . ami_da_9
+C 1927.82 Yeah . ami_da_3
+C 1929.0 But th th on this remote th these controls are for something else , a DVD player or something . ami_da_4
+A 1932.72 Yes . ami_da_9
+B 1932.94 Yes , ami_da_9
+B 1932.94 as I already said , we could drop some of these buttons . ami_da_6
+A 1933.06 They are for some video ami_da_4
+A 1933.06 Apart . ami_da_6
+C 1933.15 So ami_da_4
+C 1933.15 Yeah , ami_da_9
+C 1933.15 it is it is also not good to completely stay in one position constantly with one hand . ami_da_4
+D 1936.07 You should put that power button , channel and volume should have the most importance . ami_da_6
+B 1942.23 Yeah . ami_da_9
+B 1944.11 I think these should be in one big circle in the middle . ami_da_6
+D 1947.2 Yeah , but what he said about RSI was t kind of true . ami_da_4
+D 1952.69 When when you put them all in the same place , the most used buttons , you are doing the same thing all the time , and that is just what RSI is all about . ami_da_4
+D 1965.38 So it might be smarter to put them a little more away from each other . ami_da_6
+A 1972.55 So people have to move their hand . ami_da_4
+A 1974.54 And they get less complaints of RSI . ami_da_4
+C 1982.35 Y ami_da_3
+C 1982.35 Yeah . ami_da_9
+A 1982.45 That is what I always do , because all my i important buttons are the same place . ami_da_4
+C 1984.8 It is good to move from time to time . ami_da_9
+C 1986.43 Yeah . ami_da_9
+B 1986.77 Yeah but people do not like it when their buttons are all over the place . ami_da_4
+D 1986.94 Frequency of button use . ami_da_4
+A 1987.08 Yes ? ami_da_1
+A 1987.08 Well not ami_da_3
+A 1987.08 Yes . ami_da_9
+B 1990.88 They they need to be centred . ami_da_4
+C 1990.96 No but now y ami_da_3
+C 1990.96 W would we have to choose a way in middle ? ami_da_6
+D 1997.0 channels are most is most used within the hour . ami_da_4
+A 2002.88 Uh huh . ami_da_1
+B 2003.21 Volume hardly . ami_da_4
+D 2003.51 You can see . ami_da_4
+D 2004.31 So the the channel channel buttons should be far far apart , I think , up and down . ami_da_6
+B 2012.42 No I do not think . ami_da_9
+C 2013.14 Oh . ami_da_1
+A 2013.95 Up and down far apart from each other ? ami_da_9
+A 2013.95 Well not too much . ami_da_6
+C 2014.07 Far apart ? ami_da_9
+C 2014.07 I think you can have the two buttons of up and down close together , but you do not have have to have volume control and and zapping button close together . ami_da_6
+D 2016.67 You ami_da_3
+D 2016.67 thinking about RSI ? ami_da_4
+D 2016.67 Y look at look at the frequency . ami_da_6
+B 2018.06 Yeah ami_da_3
+B 2018.06 but Yeah ami_da_3
+B 2018.06 but ami_da_3
+B 2018.06 No . ami_da_9
+D 2022.29 Nei not too much , but Nei nei ami_da_9
+D 2022.29 nei ami_da_9
+D 2022.29 n I I totally agree . ami_da_9
+B 2025.08 The other the other two frustrations are far more important . ami_da_4
+B 2028.11 So Well they are used four times an hour , so Power bu button should be left at the top . ami_da_4
+A 2034.6 Well for example the power button , ami_da_4
+A 2034.6 you can ami_da_3
+A 2034.6 If someone is constantly z zapping , it is not going to miss , that it that the power button is not right beside it . ami_da_4
+A 2044.57 Because I have someone ami_da_16
+A 2044.57 But the buttons is way . ami_da_16
+A 2047.04 So that one can be put away . ami_da_6
+D 2047.2 But just ami_da_3
+D 2047.2 Yeah . ami_da_9
+D 2049.54 Right . ami_da_9
+D 2051.11 Yeah . ami_da_9
+D 2051.81 I agree . ami_da_9
+A 2051.83 The power button can be ami_da_6
+A 2051.83 Yes . ami_da_9
+D 2056.9 And should and should be red . ami_da_4
+C 2057.98 Yeah . ami_da_1
+A 2058.19 Oh man , ami_da_14
+A 2058.19 five minutes . ami_da_4
+A 2062.39 Yeah , ami_da_1
+A 2062.39 well five minutes left . ami_da_4
+D 2063.08 Right , just make some decisions . ami_da_6
+A 2065.54 Yep . ami_da_9
+D 2066.34 The most important things we have to ami_da_3
+D 2066.34 I do think you have to keep you have to keep it central now . ami_da_6
+A 2068.2 how are we going to do it with those numbers ? ami_da_8
+A 2068.2 Well I have it here . ami_da_4
+C 2069.5 C c can you make you make ami_da_3
+C 2069.5 We can use the drawing board now , I think . ami_da_6
+C 2072.35 it it does not work well ami_da_9
+C 2072.35 but But it it would be pretty pretty nice if we could just draw a simple thing . ami_da_9
+A 2079.1 Yeah well that is going to take too too much time . ami_da_9
+D 2081.61 Just you decide that , you decide that , ami_da_6
+D 2081.61 and ready . ami_da_3
+A 2081.75 Yes . ami_da_1
+B 2082.26 Yeah . ami_da_1
+A 2084.22 Yes . ami_da_9
+C 2084.7 Alright . ami_da_9
+A 2086.34 Well the LCD . ami_da_4
+A 2087.83 you are Industrial , you are User Interface . ami_da_4
+A 2092.51 So I think it is going to go to Mike . ami_da_4
+D 2094.98 Yeah . ami_da_1
+A 2095.28 But you will have to make consensus with . ami_da_6
+A 2098.99 Well ami_da_3
+A 2098.99 Well it is a bit hard , ami_da_9
+A 2098.99 because we are going to be individually . ami_da_4
+B 2100.84 Well consensus , We we can put it in the middle , so ami_da_6
+B 2100.84 Alright . ami_da_9
+D 2102.24 Nei . ami_da_3
+D 2102.92 We are No ami_da_3
+D 2102.92 We are deciding now , so ami_da_4
+D 2102.92 Top or bottom ? ami_da_5
+D 2102.92 Okay . ami_da_9
+A 2104.53 That is a bit ami_da_3
+A 2104.53 Yes . ami_da_9
+C 2109.77 Well yeah I ami_da_4
+C 2109.77 I still think it is it is quite important though to to have it at the top , so ami_da_4
+C 2109.77 Yeah . ami_da_2
+A 2113.32 Yes it is . ami_da_9
+C 2115.89 You say familiarity is not important but ami_da_9
+C 2115.89 Yeah d ami_da_3
+C 2115.89 Yeah . ami_da_9
+A 2118.28 Well what if we are going to now decide about the functions , and the design comes into the next round ? ami_da_6
+A 2118.28 Plus the d th the design round is still to come huh ? ami_da_4
+A 2118.28 Alright these functions . ami_da_4
+D 2128.11 Yeah , right . ami_da_9
+D 2128.78 Okay . ami_da_9
+C 2130.3 As we we we we agreed , we do have a LCD . ami_da_4
+A 2130.94 The number f ami_da_3
+A 2130.94 Well yes , that is alright . ami_da_9
+C 2133.15 So that is that is enough . ami_da_9
+D 2134.0 Yeah , okay . ami_da_1
+A 2134.69 W the number function . ami_da_4
+C 2135.94 Yeah . ami_da_9
+A 2135.97 Are we going to do it like on Mike is screen with one button that says I am going to do a t two number digital ? ami_da_6
+A 2135.97 How do you want it to do then ? ami_da_8
+A 2135.97 It it has to r recognise one as there could still come more . ami_da_6
+B 2144.08 No . ami_da_9
+C 2147.21 There is one two three four five six six seven eight nine zero . ami_da_4
+B 2147.33 Well just when you push a one one and ami_da_3
+B 2147.33 No , ami_da_9
+B 2147.33 if you ami_da_3
+B 2147.33 On most TVs if you press two numbers shortly after each other , d it ami_da_4
+B 2147.33 Yeah . ami_da_9
+C 2154.24 Oh , like that . ami_da_12
+C 2154.79 They would recognise it . ami_da_4
+A 2158.77 Yes . ami_da_1
+C 2160.08 Th that is the most ami_da_3
+C 2160.08 That that is very easy . ami_da_9
+A 2160.26 Alright so no button for that . ami_da_4
+B 2161.25 Yeah . ami_da_9
+B 2162.19 Yeah . ami_da_9
+D 2162.53 No . ami_da_9
+C 2163.24 Yeah . ami_da_9
+A 2164.75 Okay anyone any oth other functionalities of our remote ? ami_da_5
+A 2164.75 So ami_da_2
+A 2164.75 No , ami_da_9
+A 2164.75 we would just said we did not ami_da_4
+A 2164.75 Well ami_da_3
+A 2164.75 well because we ca not integrate it with any other remotes , all those buttons on those pictures are irrelevant . ami_da_4
+C 2170.15 I think these are the the most important functions . ami_da_4
+D 2172.17 Do you still have the pictures over there ? ami_da_5
+D 2172.17 Yeah , that is about it . ami_da_4
+B 2174.03 Yeah . ami_da_4
+D 2185.02 You do need the multi Or did ami_da_3
+D 2185.02 No , like this one . ami_da_4
+D 2190.78 You do need them ? ami_da_6
+D 2190.78 Yeah , I know . ami_da_9
+D 2193.09 But are we ami_da_3
+D 2193.09 Alright , alright ami_da_9
+D 2193.09 Now okay . ami_da_9
+D 2206.39 Right . ami_da_12
+A 2206.76 So just for a television is ami_da_5
+A 2206.76 that all we need ? ami_da_5
+A 2206.76 Teletext is gone . ami_da_4
+D 2210.17 Yeah , it is most useable this way . ami_da_4
+B 2214.09 Yeah . ami_da_1
+C 2214.3 basic function . ami_da_3
+A 2216.54 So all those buttons that ar are to do with teletext ami_da_4
+A 2216.54 Oh screen placing . ami_da_4
+A 2222.71 We will have those buttons about ami_da_4
+A 2222.71 And the two important ones we are l f forgetting . ami_da_4
+A 2228.91 there is screen . ami_da_4
+A 2230.55 You can make it wider and less wide . ami_da_4
+D 2232.04 Yeah . ami_da_1
+A 2232.95 And the button that you can go to AV for your video . ami_da_4
+D 2236.49 Right . ami_da_1
+D 2237.2 I do think we have to put that underneath a clip . ami_da_6
+C 2237.53 Oh yeah . ami_da_1
+A 2240.64 Those two ? ami_da_12
+A 2240.64 But it is just two , and we make a clip ? ami_da_9
+A 2240.64 Th that is a bit waste . ami_da_9
+C 2241.88 just two just two under under I ami_da_3
+C 2241.88 I think ami_da_3
+C 2241.88 But you you can put two or three buttons under another section . ami_da_4
+B 2244.71 We we can make make a little row of like four buttons down here . ami_da_6
+A 2248.63 Yes . ami_da_9
+D 2249.27 Yeah . ami_da_9
+D 2249.52 Okay , right . ami_da_9
+A 2250.18 Or at the top . ami_da_14
+A 2252.1 Your LCD screen is going to go . ami_da_14
+B 2252.83 Or at ami_da_3
+B 2252.83 Yeah alright then . ami_da_1
+C 2257.19 that is that is too complicated . ami_da_9
+A 2258.66 Yes . ami_da_1
+C 2258.66 You can just put it somewhere ami_da_4
+C 2258.66 They they are not used much , not as much as those other , so you can put it somewhere ami_da_4
+C 2258.66 Yeah s bit smaller and s ami_da_9
+C 2258.66 Well and and I think more at the bottom . ami_da_6
+A 2260.41 Yeah ami_da_1
+A 2260.41 Well I think they should in an in an isolated part of the remote . ami_da_4
+B 2263.46 Oh , they can be small or round like buttons . ami_da_6
+C 2270.48 Yeah . ami_da_6
+C 2273.45 Yeah or at the top ami_da_6
+C 2273.45 , yeah . ami_da_6
+C 2274.66 What do you think those those buttons ? ami_da_11
+C 2274.66 Above or down ? ami_da_11
+C 2274.66 And w where ? ami_da_5
+C 2274.66 Well we design it later . ami_da_4
+C 2283.29 We have it , and we design later where everything goes . ami_da_4
+A 2284.53 Yes ? ami_da_1
+A 2284.53 Yes . ami_da_1
+C 2286.45 Yeah . ami_da_4
+A 2286.51 Yes . ami_da_1
+A 2287.08 Well any other ami_da_5
+A 2287.08 Go to video , that is always on your remote control . ami_da_4
+D 2289.73 Well if you you take those th ami_da_3
+D 2289.73 If you ami_da_3
+D 2289.73 Yeah , but you can z you can zap t ami_da_4
+D 2289.73 you can you can zap to the video channel from zero to ami_da_4
+D 2289.73 Yeah , ami_da_4
+D 2289.73 but when you zap down zero you get to AV . ami_da_4
+B 2290.71 Why go to video ? ami_da_5
+B 2290.71 That is just zero . ami_da_4
+A 2295.53 To AV to AV ami_da_4
+A 2295.53 AV AV . ami_da_4
+C 2297.17 The the video channel ? ami_da_9
+C 2297.17 No no not always . ami_da_9
+B 2300.45 Yeah . ami_da_9
+A 2301.65 Well l n no not at not at my remote . ami_da_4
+C 2302.78 Ze yeah zero is a different channel than the the video channel . ami_da_4
+A 2304.96 Yeah . ami_da_9
+B 2305.31 Yeah , but you can can zap down ami_da_4
+B 2305.31 Yes , I think th ami_da_3
+B 2305.31 No , then you press ninety nine . ami_da_4
+A 2308.38 Yes . ami_da_1
+A 2309.97 I do not . ami_da_4
+A 2310.79 I go to ninety nine . ami_da_4
+D 2312.3 well whatever , . ami_da_14
+B 2313.71 I think go to video is an irrelevant button , but ami_da_9
+B 2313.71 Yeah well y you must have . ami_da_4
+A 2316.1 Th that is the button ami_da_3
+A 2316.1 No . ami_da_3
+C 2317.8 But it is easy to go ami_da_9
+C 2317.8 If you are at at channel fifty five and you want to go immediately to the video channel , you do you have to push a to to get below zero . ami_da_4
+A 2327.43 No you can ch push zero . ami_da_4
+C 2328.68 It is more easy to get to where the specific video channel button . ami_da_4
+A 2329.1 Yeah . ami_da_9
+A 2330.03 Yeah , ami_da_9
+A 2330.03 I I think that one button is I use it ami_da_4
+A 2330.03 Yeah ? ami_da_1
+A 2330.03 These buttons , I do not have buttons for channel setting especially on my remote . ami_da_4
+D 2333.92 Yeah , but if we are choosing to incorporate these buttons , you have to have channel setting , if you wa if you have a new TV . ami_da_4
+D 2341.67 You have to set the channels . ami_da_4
+D 2343.19 Right all th these different buttons you have to , I do . ami_da_4
+C 2349.17 Yeah well d different screen settings a Yeah , sk ami_da_3
+C 2349.17 Yeah y you ami_da_4
+C 2349.17 you ami_da_4
+C 2349.17 you ami_da_4
+C 2349.17 you have screen width . ami_da_4
+A 2349.8 It is it is incorporated with p m plus and down , those ami_da_4
+A 2349.8 So we still have one four ? ami_da_5
+A 2349.8 Ch ch ami_da_3
+A 2349.8 Okay . ami_da_2
+B 2354.22 Yeah you ami_da_4
+B 2354.22 yeah ami_da_4
+B 2354.22 you have one one button from s set frequency o or something , and then with plus and min ami_da_4
+B 2354.22 minus you can adjust the ami_da_4
+B 2354.22 Yeah , alright . ami_da_1
+D 2361.43 Right . ami_da_1
+D 2362.56 That is the only one we put in there . ami_da_4
+D 2368.99 For a screen fu channel setting . ami_da_4
+C 2372.94 Yeah to oh yeah of course ami_da_12
+C 2372.94 to configure the programme ami_da_4
+C 2372.94 the Yeah . ami_da_4
+D 2374.84 Programme , right . ami_da_9
+A 2376.16 Oh the Okay button ? ami_da_4
+A 2376.16 Oh you always have in the centre an Okay button , for your menu . ami_da_4
+C 2382.04 Yeah . ami_da_1
+A 2383.46 Menu button . ami_da_4
+C 2385.24 You should ami_da_3
+C 2385.24 Yeah . ami_da_9
+C 2386.39 I think that is important . ami_da_9
+C 2387.44 And and the settings to change the brightness the settings to change the brightness and the contrast . ami_da_4
+A 2387.85 Channel , setting , menu . ami_da_4
+A 2389.2 We have to go . ami_da_4
+A 2394.5 Okay . ami_da_2
+C 2394.87 Channel , ami_da_9
+C 2394.87 yeah . ami_da_9
+A 2396.91 So Save . ami_da_16
+C 2398.0 Chief ? ami_da_7
+C 2398.0 Chief ? ami_da_7
+C 2398.0 Th the menu menu button is also important . ami_da_4
+A 2401.14 Yes see . ami_da_9
+C 2403.99 Then you can ami_da_3
+C 2403.99 Where ? ami_da_5
+C 2403.99 I do not see it . ami_da_4
+A 2404.16 Yes ami_da_9
+A 2404.16 I have put it in . ami_da_4
+A 2408.48 Here . ami_da_4
+C 2409.18 Oh Menu , alright . ami_da_12
+B 2410.0 I think things like contrast and brightness should be in the menu , ami_da_6
+B 2410.0 yeah . ami_da_6
+C 2413.82 In the menu . ami_da_6
+C 2414.67 And you can then adjust it with the zapping buttons or something . ami_da_6
+B 2419.22 Yeah , the ami_da_1
+B 2419.22 Or the volume or something like that . ami_da_6
+C 2419.51 Because the zapping buttons are not used then if you are in the menu . ami_da_4
+A 2419.94 Alright . ami_da_2
+A 2422.16 Guys ? ami_da_2
+A 2422.16 We are going to go to our rooms , and we will have to decide s things on our own I think . ami_da_4
+C 2422.35 Yeah . ami_da_9
+C 2422.8 Or the volume , yeah . ami_da_9
+B 2426.36 Your pen . ami_da_14
+D 2428.73 Great . ami_da_14
+A 2429.37 So ami_da_4
+A 2429.37 Well see you ami_da_14
+A 2429.37 W w we have lunchtime , by the way , now so ami_da_4
+A 2429.37 Lunch . ami_da_14
+C 2429.45 Yes chief . ami_da_14
+D 2432.2 Alright . ami_da_9
+B 2433.35 I thought we would lunch right now , or not ? ami_da_4
+C 2434.28 Yeah this is this is your thing . ami_da_4
+D 2437.13 Okay . ami_da_12
+C 2437.88 I am hungry . ami_da_14

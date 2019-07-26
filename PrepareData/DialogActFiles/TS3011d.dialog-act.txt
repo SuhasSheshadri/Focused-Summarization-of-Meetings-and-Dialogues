@@ -1,0 +1,929 @@
+B 235.684 That is the same as on the top of it with the the round button . ami_da_4
+C 240.644 Like this one . ami_da_4
+B 242.054 But we do not we do not ami_da_3
+B 242.054 we do think it is well ami_da_4
+B 242.054 what if with ease of use , w which prefers the which the the customer of the user prefers . ami_da_4
+C 246.644 It is important . ami_da_4
+C 251.704 I think th this is device which which has a learning curve . ami_da_4
+C 255.594 novice users u use this device as normal users use a c a remote control . ami_da_4
+C 262.594 And after a while they start to develop some skills in the the voice recognition functions , and then they will not use this dial as often . ami_da_4
+C 273.114 But other users who are new to this device need something like that . ami_da_4
+A 273.934 Okay . ami_da_1
+C 276.794 They n they need to understand what how to change channels and change the volume , so it is easier for them ami_da_4
+C 276.794 Yeah , maybe so . ami_da_4
+A 285.484 Could could I see the scroll bar as as as a sort of shortcut ? ami_da_5
+A 285.484 A a and the voice recognition as well , ami_da_5
+A 285.484 th maybe you could could ami_da_3
+A 285.484 Yeah . ami_da_1
+C 290.904 Yes , ami_da_4
+C 290.904 it is ami_da_3
+C 290.904 Well , ami_da_2
+C 290.904 it is it is it is another approach , ami_da_4
+C 290.904 it is more that our . ami_da_3
+C 298.064 There are there are many ways of doing things on such a device . ami_da_4
+C 304.854 It is it is quite easy . ami_da_4
+A 305.644 Okay . ami_da_2
+A 306.864 Okay , ami_da_2
+A 306.864 good . ami_da_14
+A 307.624 And and the case is is rubber ? ami_da_5
+A 307.624 And the buttons ? ami_da_5
+A 307.624 Okay , ami_da_2
+A 307.624 and the colouring ? ami_da_5
+A 307.624 with with grey or black . ami_da_5
+C 309.434 Yes , rubber ? ami_da_4
+C 309.434 There are plastic or rubber . ami_da_4
+B 311.984 Plastic or rubber . ami_da_4
+B 313.414 Well , ami_da_2
+B 313.414 yeah . ami_da_16
+C 316.434 yellow with ami_da_4
+C 316.434 grey or black or something like that . ami_da_9
+C 322.054 Whatever cost cost the least . ami_da_9
+A 326.774 Okay , ami_da_9
+A 326.774 we will we will come to that later . ami_da_6
+A 329.124 okay . ami_da_2
+A 332.954 Anything else to add ami_da_5
+A 332.954 or ami_da_3
+A 332.954 Yeah . ami_da_9
+C 334.754 No . ami_da_4
+C 335.814 maybe we should think about these buttons . ami_da_6
+D 339.824 Well , ami_da_2
+D 339.824 you could use two of them to programme the channels on the two channel button , ami_da_6
+D 339.824 because you have to assign two channel new channels . ami_da_4
+C 339.974 But ami_da_3
+C 339.974 Yes , ami_da_2
+C 339.974 but it ami_da_3
+C 339.974 but these are tasks that are only executed once , I think . ami_da_4
+A 350.834 M ami_da_2
+A 350.834 yeah . ami_da_5
+C 351.384 Or not ? ami_da_11
+C 351.384 Well ami_da_2
+C 351.384 okay . ami_da_9
+A 352.094 M m ami_da_6
+A 352.094 but maybe you do want a programme button to for example activate the voice recognition , or train the voice voice recognition . ami_da_6
+D 353.084 You ami_da_3
+D 353.084 Yes . ami_da_4
+C 359.054 Okay , ami_da_9
+C 359.054 yeah , that is right . ami_da_9
+C 360.794 Or something li like that . ami_da_9
+B 361.184 And a button for disabling the voice recognition . ami_da_6
+A 364.474 Yeah ami_da_9
+A 364.474 al although by pressing the button for I n do not know two , three seconds , you could also say it you would disable it with a little beep and and ami_da_6
+A 364.474 but o okay , ami_da_2
+A 364.474 that that is not really really important . ami_da_4
+C 372.374 Yes . ami_da_9
+B 373.734 Yeah . ami_da_9
+B 377.034 That is the basic idea , yeah . ami_da_4
+A 378.244 The basic ami_da_3
+A 378.244 okay . ami_da_9
+B 379.524 Of our prototype . ami_da_4
+A 380.724 Okay . ami_da_2
+A 381.554 you thought of some evaluation crit criteria ? ami_da_5
+A 381.554 Okay . ami_da_6
+D 403.254 my name is not name ami_da_14
+D 403.254 but ami_da_3
+D 403.254 well , ami_da_2
+D 403.254 I used the the documents . ami_da_4
+A 406.704 You are nameless . ami_da_14
+D 414.834 And these were the most important criteria . ami_da_4
+D 420.314 It should be . ami_da_3
+D 420.754 yeah , ami_da_2
+D 420.754 that is how the fashion guys state it . ami_da_4
+C 420.994 Is it spongy ? ami_da_16
+C 420.994 I believe it is fancy too . ami_da_9
+D 428.354 Fancy look and feel . ami_da_11
+D 429.724 So ami_da_3
+D 429.724 well ami_da_2
+D 429.724 appar ami_da_3
+D 429.724 Yeah , ami_da_2
+D 429.724 but apparently we should not evaluate yet . ami_da_6
+B 430.954 So ami_da_2
+B 430.954 just walk through it step by step . ami_da_11
+B 434.224 I mean , is it fancy , ami_da_11
+B 434.224 everything I believe ami_da_3
+B 434.224 I believe it is fancy . ami_da_9
+A 444.594 No . ami_da_9
+B 444.954 Oh , ami_da_12
+B 444.954 sorry . ami_da_14
+D 445.294 So ami_da_3
+D 445.294 Yeah , I think these are the most important criteria . ami_da_4
+C 446.844 Okay . ami_da_9
+A 446.994 Okay , so ami_da_2
+A 446.994 this ami_da_3
+A 446.994 these are the cr the criteria . ami_da_5
+A 451.784 Okay , well ami_da_2
+A 451.784 the then we will switch to my presentation . ami_da_7
+D 453.554 So ami_da_2
+D 453.554 that is about it . ami_da_4
+A 457.084 The production costs . ami_da_4
+A 471.694 The costs are not under Can I this is the ami_da_3
+A 471.694 Yeah , ami_da_9
+A 471.694 it is it is w way above above the the the twelve Euro fifty . ami_da_4
+B 489.944 Twenty two . ami_da_4
+B 492.294 Yikes . ami_da_9
+A 497.564 And what makes it very expensive is for example the solar cell . ami_da_4
+C 501.314 Well ami_da_2
+C 501.314 it is very expensive . ami_da_4
+A 501.504 So I guess we should skip that , ami_da_6
+A 501.504 because it is not that important . ami_da_4
+C 506.724 Okay . ami_da_9
+B 507.274 Why does the price and and the s ami_da_3
+B 507.274 oh , ami_da_12
+B 507.274 one exa ami_da_3
+B 507.274 yeah . ami_da_12
+A 510.844 Yeah , ami_da_2
+A 510.844 the the price , the the number of items and the the sum . ami_da_4
+B 512.874 The number of ami_da_3
+B 512.874 yeah . ami_da_12
+C 515.034 Okay . ami_da_1
+A 515.534 well , ami_da_2
+A 515.534 this is what I would call our luxury model . ami_da_4
+A 520.024 if you would ami_da_3
+A 520.024 if you look at the w w w what we could do to make it more to make it just between the twelve Euro fifty , then I did the following changes . ami_da_4
+B 522.144 And and does it ami_da_3
+B 522.144 But that is that is only for the buttons . ami_da_4
+A 538.144 Twelve Euro forty cents I came up with by leaving out the solar cells , by not using the voice recognition feature , ami_da_6
+A 538.144 because it is it is a four Euro addition to the price . ami_da_4
+A 555.444 Yeah , ami_da_2
+A 555.444 I believe , push button , ami_da_3
+A 555.444 well ami_da_2
+A 555.444 It makes it the thirteen ami_da_3
+A 555.444 yeah . ami_da_2
+A 569.074 Push buttons are buttons are are not the most expensive , but do add extra cost . ami_da_4
+A 575.454 So yeah , ami_da_2
+A 575.454 th this design is not within our price model . ami_da_4
+C 582.784 Okay . ami_da_1
+A 584.024 Yeah . ami_da_9
+C 585.264 But I am afraid it is not complete . ami_da_4
+C 588.474 Because we use spec specic special materials , the last item . ami_da_4
+C 593.294 And you have not added one item there . ami_da_4
+C 599.874 So it is c way too expensive . ami_da_4
+A 601.974 It is still too expensive , yeah . ami_da_9
+A 604.654 I I guess if we leave the if we leave this one out , ami_da_6
+A 604.654 oh . ami_da_16
+B 606.494 So the button we can use plastic . ami_da_6
+A 613.884 And maybe not use the special form . ami_da_6
+B 615.274 And the pla ami_da_3
+B 615.274 And a plastic b just plastic buttons , a plas instead of rubber . ami_da_11
+C 619.004 But it ami_da_3
+C 619.004 Yes . ami_da_9
+A 621.654 It becomes a very dull remote control , I know . ami_da_9
+A 625.144 But it is the board decision . ami_da_4
+A 627.524 And ami_da_2
+A 627.524 yeah . ami_da_9
+C 634.804 Well , b basically ami_da_2
+C 634.804 it ami_da_3
+C 634.804 when when this is our only option , we should even consider changing the casing , ami_da_6
+C 634.804 because I think there is very little added value in an enhanced case with these dull functions . ami_da_4
+A 646.024 Yeah . ami_da_1
+A 649.414 Yeah , I know . ami_da_9
+C 650.124 So ami_da_3
+C 650.124 Type of m maybe another market segment . ami_da_6
+A 650.284 Maybe we should look at an focus on another ami_da_6
+A 650.284 Yeah , ami_da_9
+A 650.284 m ami_da_3
+A 650.284 maybe not not all that fancy , but just way way more easy basic and m maximise the profits ami_da_6
+A 650.284 and ami_da_2
+A 650.284 Yeah . ami_da_9
+C 661.234 Yeah . ami_da_1
+C 662.624 Yes . ami_da_9
+C 667.244 That is maybe that is better . ami_da_9
+C 669.684 Maybe we could we should go for straight and simple , ami_da_6
+C 669.684 but that is not what has been asked . ami_da_4
+A 672.944 Yeah . ami_da_9
+A 676.444 I know , I know . ami_da_9
+C 677.504 So ami_da_2
+C 677.504 we should kick the board is ami_da_3
+C 677.504 Well ami_da_2
+A 682.244 Yeah . ami_da_2
+A 683.054 Although I think we yeah , but we could still make a remote control that ap applies more to young people ami_da_4
+A 683.054 by giving it another colour already . ami_da_6
+A 697.144 so ami_da_2
+A 697.144 it is possible to make a device that attracts a little bit more to young people . ami_da_4
+C 703.734 Yes . ami_da_1
+A 704.464 but I agree it is it is not a fancy high tech device . ami_da_9
+A 709.694 Definitely not , no . ami_da_9
+A 713.594 It is not that innovative . ami_da_9
+A 717.314 Or however you s pronounce that . ami_da_5
+A 719.874 so , okay . ami_da_2
+B 719.874 Yeah , too bad . ami_da_9
+A 723.454 Oh , ami_da_2
+A 723.454 this is the wrong one . ami_da_4
+A 735.374 So ami_da_2
+A 735.374 that means redesign . ami_da_4
+A 739.534 We do not have the time o now to to redesign the product . ami_da_4
+A 743.684 but we can evaluate the process and the satisfaction on how things went . ami_da_6
+A 756.064 I am not sure if we need to evaluate the device first . ami_da_11
+A 762.404 I guess ami_da_3
+A 762.404 Yeah . ami_da_9
+D 763.444 well , ami_da_2
+D 763.444 since we are not going to manufacture it anyway ami_da_4
+D 763.444 Yay . ami_da_9
+A 768.584 Yeah , that is true . ami_da_9
+C 769.684 Well , ami_da_2
+C 769.684 maybe it is good to do it anyway , ami_da_9
+C 769.684 because if we evaluate it , we we can also determine if our objectives are good . ami_da_4
+A 773.794 We l we can learn . ami_da_4
+A 777.034 Yeah . ami_da_9
+A 778.864 Yeah . ami_da_9
+C 779.384 So ami_da_3
+C 779.384 Is it fancy ? ami_da_11
+C 779.384 I think so . ami_da_9
+A 780.464 I agree . ami_da_9
+A 782.334 Well ami_da_2
+A 782.334 I d ami_da_3
+A 782.334 it is it is ami_da_9
+A 782.334 Yeah , I think so . ami_da_9
+D 798.644 Is it ? ami_da_11
+D 798.644 Is it fancy ? ami_da_11
+D 798.644 So ami_da_2
+D 798.644 one ? ami_da_11
+D 798.644 Is it And w ami_da_3
+D 798.644 yeah , ami_da_2
+D 798.644 w what they want wanted was colours and soft materials . ami_da_4
+B 802.654 the yellow rubber , I think so . ami_da_9
+A 805.484 You like the rubber , Roo . ami_da_14
+B 807.864 I am into it . ami_da_14
+C 812.964 But it is not that fancy . ami_da_9
+A 812.984 Yeah . ami_da_9
+A 814.784 No , I will I will I will give it a two . ami_da_9
+C 814.974 I mean ami_da_3
+C 814.974 I think I think it would have been more fancy if we used the titanium housing the casing . ami_da_9
+C 823.134 It would be even more ami_da_3
+C 823.134 oh , you really like titanium . ami_da_14
+A 824.084 You like tita ami_da_14
+A 824.084 That is a flavour as well . ami_da_16
+C 826.984 I am I am into it . ami_da_14
+C 832.154 It has flavour . ami_da_14
+C 833.014 Yes , that is right . ami_da_14
+C 834.674 You should taste it . ami_da_14
+A 835.464 Right . ami_da_2
+A 836.134 Yeah , I know , ami_da_2
+A 836.134 but but it but that is fancy in the way ami_da_3
+A 836.134 I mean fancy has has a lot of ami_da_3
+A 836.134 Yeah . ami_da_9
+C 849.084 It has to do with fashion , I guess . ami_da_4
+C 851.544 So ami_da_2
+C 851.544 do ami_da_3
+C 851.544 Okay . ami_da_1
+B 852.004 It is trendy trendy , fun ami_da_4
+B 852.004 yeah . ami_da_9
+D 858.224 So in that way It it is fancy . ami_da_9
+A 858.244 Yeah . ami_da_1
+A 860.274 It applies . ami_da_4
+A 861.124 It ami_da_3
+A 861.124 yeah . ami_da_9
+B 862.144 Well , ami_da_2
+B 862.144 just give it a two . ami_da_11
+A 864.494 Yeah . ami_da_9
+C 865.364 Yes . ami_da_2
+C 866.054 I think I th ami_da_3
+C 866.054 I think it would have been ami_da_3
+C 866.054 I would have think ami_da_3
+C 866.054 it could have been more fancy by using the double curved case . ami_da_9
+B 866.194 It is not the ultimate fancy two , but ami_da_9
+B 866.194 Yeah , ami_da_2
+B 866.194 but that is sti that is ami_da_3
+B 866.194 Looking at the user needs , we only do not we do not have the double curved case . ami_da_9
+C 873.014 It would have been even more fancy , ami_da_9
+C 873.014 but we decided not to , because if we use a double curved case , we could not use solar . ami_da_4
+C 880.984 So ami_da_3
+C 880.984 Yes . ami_da_1
+B 890.874 We w we do have the rubber , we do have the colours . ami_da_4
+B 894.974 That is two out of three . ami_da_4
+B 897.144 So I believe we are close to two . ami_da_9
+A 899.014 Yeah , I I agree . ami_da_9
+C 900.674 Yes , I agree too . ami_da_9
+C 901.824 It is okay . ami_da_9
+C 902.694 We did ami_da_3
+C 902.694 yes , ami_da_2
+C 902.694 we did good . ami_da_9
+D 904.614 Okay , and ami_da_2
+D 904.614 was it innovative ? ami_da_11
+D 904.614 Yep . ami_da_1
+A 909.844 Well , ami_da_2
+A 909.844 with the voice recognition feature ami_da_4
+A 909.844 and ami_da_3
+A 909.844 No , ami_da_9
+A 909.844 we are evaluating this this design now . ami_da_4
+B 912.644 But that is not in it . ami_da_9
+B 914.504 Ov or can we ami_da_3
+B 914.504 Okay . ami_da_12
+C 916.194 Well , ami_da_2
+C 916.194 let is let is this product . ami_da_3
+C 920.534 So I I ami_da_9
+C 920.534 I think it is . ami_da_9
+A 920.674 This prototype . ami_da_4
+C 922.154 I think it is innovative . ami_da_9
+A 923.594 Yeah . ami_da_9
+B 923.904 And the scroll wheel . ami_da_4
+B 925.414 The solar not many remotes have the solar , I think . ami_da_4
+C 930.134 No . ami_da_2
+C 930.584 It could have been a little bit more innovative u by using the kinetic energy source , ami_da_9
+C 930.584 but it is it is way too ami_da_3
+C 930.584 yes , ami_da_9
+C 930.584 but ami_da_3
+C 930.584 I think it is a two . ami_da_9
+D 936.204 Yeah , and So ami_da_2
+D 936.204 also a two ? ami_da_11
+D 936.204 Is it easy to use ? ami_da_11
+D 936.204 Well ami_da_2
+D 936.204 the p ami_da_3
+D 936.204 the most important function is easy to use . ami_da_9
+A 937.284 That would have been a thrill . ami_da_9
+A 943.094 Yep . ami_da_9
+A 951.114 I am not sure . ami_da_9
+B 951.174 Yeah . ami_da_9
+A 954.854 I am not sure . ami_da_9
+B 956.654 Well yeah , ami_da_2
+B 956.654 the voice recognition of course is hard to learn , I think . ami_da_4
+B 963.544 Well , ami_da_2
+B 963.544 hard ami_da_3
+B 963.544 it is not for the for the e for the elderly . ami_da_4
+C 968.004 Well , ami_da_2
+C 968.004 but there are two parts in this remote control . ami_da_4
+B 968.084 They wo not use it . ami_da_4
+C 971.464 What you see here is is the basic part . ami_da_4
+C 973.924 Everybody can use it , ami_da_4
+C 973.924 so that is easy to use . ami_da_9
+A 976.474 Yeah . ami_da_1
+C 977.044 That is for a novice user . ami_da_4
+C 978.964 When you have a more advanced , elaborate user , well , such a user really would like to explore all these additional functions . ami_da_4
+C 988.724 So in that in that way it is advanced , ami_da_4
+C 988.724 and I think it is easy to use for for both types of users . ami_da_9
+A 992.044 Yeah . ami_da_1
+C 1000.874 So ami_da_2
+C 1000.874 It is maybe it is not very easy for ami_da_3
+C 1000.874 Okay . ami_da_1
+B 1000.884 I think I think a three . ami_da_9
+B 1006.374 Would not give it more . ami_da_7
+A 1009.154 I am doubting doubting as well . ami_da_9
+D 1017.544 The the zapping , channel switching , volume . ami_da_9
+D 1021.584 But the more advanced functions are probably a bit harder . ami_da_9
+A 1028.394 Okay . ami_da_2
+A 1029.074 two or three ? ami_da_11
+A 1029.074 Three ? ami_da_11
+A 1029.074 Wha wh what would be your guess ? ami_da_11
+A 1029.074 I mean ease of use does not only apply to the most basic functions . ami_da_4
+A 1038.794 It is the it is it is overall . ami_da_4
+A 1040.414 Is the device easy to use ? ami_da_11
+A 1040.414 Yeah . ami_da_1
+C 1041.924 Yeah , that is right . ami_da_9
+C 1043.134 You are right in that , ami_da_9
+C 1043.134 but I I guess an advanced user will will find the voice recognition function easy to use , because he is already he or she is already an advanced user . ami_da_4
+A 1054.254 Yeah . ami_da_1
+C 1055.114 So ami_da_2
+C 1055.114 After all , I think personally I would give a two . ami_da_9
+A 1056.694 Okay . ami_da_12
+C 1060.034 But ami_da_3
+C 1060.034 So , it is two , two and three . ami_da_4
+A 1061.144 Roo , a three ? ami_da_11
+A 1061.144 Ruud ? ami_da_11
+A 1061.144 Okay . ami_da_12
+B 1062.284 Yep . ami_da_9
+D 1067.284 Good question . ami_da_9
+D 1069.764 I will go for the two . ami_da_9
+C 1077.384 Two threes . ami_da_4
+C 1077.974 So that is ten . ami_da_4
+A 1078.734 So ami_da_2
+A 1078.734 I could make it e easy ? ami_da_11
+A 1078.734 Roo . ami_da_16
+B 1079.884 If you make it a four it will be three in general . ami_da_4
+C 1081.224 So that is w ami_da_3
+C 1081.224 No , ami_da_9
+C 1081.224 two and a half . ami_da_4
+B 1085.714 If he makes it a four . ami_da_9
+C 1088.934 Six and four . ami_da_4
+B 1088.984 Not a three . ami_da_9
+C 1089.854 Six and four is ten . ami_da_4
+C 1091.744 Divided by four is two and a half . ami_da_4
+C 1094.434 So ami_da_3
+C 1094.434 Yes . ami_da_9
+B 1095.954 Darn . ami_da_15
+B 1096.694 Nee . ami_da_9
+D 1097.174 Huh ? ami_da_12
+D 1097.174 Yeah . ami_da_9
+B 1098.434 A seven , a three ami_da_3
+B 1098.434 No . ami_da_9
+B 1101.584 A four and a three together . ami_da_4
+D 1101.714 I yeah . ami_da_9
+C 1103.654 Four ? ami_da_12
+C 1103.654 Two ? ami_da_4
+C 1103.654 Divided by four . ami_da_4
+B 1104.354 Yeah , you have a two , he has a two . ami_da_4
+D 1104.664 Yeah , two , two , three ami_da_4
+D 1104.664 No . ami_da_9
+B 1107.024 Three ? ami_da_4
+B 1107.024 And a three ? ami_da_11
+B 1107.024 Nee . ami_da_9
+A 1107.764 No , ami_da_9
+A 1107.764 I have not said anything yet . ami_da_4
+B 1110.544 I know . ami_da_9
+A 1110.704 Okay , ami_da_2
+A 1110.704 but if I would say a three , then it is six , and four is ten . ami_da_4
+A 1116.294 Divided by four is two point five . ami_da_4
+B 1118.224 Yes . ami_da_9
+B 1118.934 So if you want to have the conclusion as a three three . ami_da_4
+B 1123.234 Then you would make a four . ami_da_4
+B 1125.544 If you fill out a four ami_da_3
+B 1125.544 Yeah , ami_da_2
+B 1125.544 we have not re re really worked it out , ami_da_4
+B 1125.544 but you c you can you can just say find and he repeats find . ami_da_6
+C 1127.604 That is not even ami_da_3
+C 1127.604 But that is not possible to fill in , ami_da_4
+C 1127.604 so we have to round it . ami_da_6
+A 1127.644 But I am filling in a three . ami_da_4
+A 1128.774 Does it will ami_da_3
+A 1128.774 so it will be a two point five . ami_da_4
+A 1132.494 Yes , it is . ami_da_9
+A 1134.524 I have a veto . ami_da_14
+A 1137.894 Exactly . ami_da_9
+A 1140.234 It is not about the content , ami_da_4
+A 1140.234 it is about ami_da_3
+A 1140.234 okay , ami_da_2
+A 1140.234 is it easy to f ami_da_3
+A 1140.234 Yeah , definitely . ami_da_9
+D 1144.594 Is it easy to find ? ami_da_11
+D 1144.594 Yeah , I agree . ami_da_9
+C 1148.054 Yes . ami_da_9
+C 1152.344 It it most definitely is it is very easy . ami_da_9
+A 1156.504 Yeah , ami_da_9
+A 1156.504 or beeps ami_da_6
+A 1156.504 or ami_da_3
+A 1156.504 yeah . ami_da_9
+B 1158.284 Yeah , ami_da_2
+B 1158.284 but that is the that is the the basic idea of the the speaker ami_da_4
+B 1158.284 But even without it ami_da_3
+B 1158.284 Yeah . ami_da_1
+C 1158.484 Yes . ami_da_9
+C 1159.994 Maybe I ami_da_3
+C 1159.994 I think I think ami_da_3
+C 1159.994 something like that . ami_da_9
+A 1162.194 I am here , I am here . ami_da_6
+C 1163.964 Maybe you have to programme it once , so to that l respond to a certain word or a certain sentence , something like where are you , ami_da_6
+C 1163.964 and then it will sing I am here . ami_da_6
+A 1166.544 Yeah . ami_da_1
+A 1169.844 Yeah . ami_da_1
+A 1175.064 Yeah . ami_da_1
+C 1175.214 So something like that . ami_da_6
+C 1176.604 So , ami_da_2
+C 1176.604 I th ami_da_3
+C 1176.604 Yeah , me too . ami_da_9
+A 1176.614 Well , I ami_da_2
+A 1176.614 we should not stay too long on this subject because of the time , ami_da_6
+A 1176.614 but I personally give it a one . ami_da_9
+A 1183.764 Sebastian ? ami_da_11
+A 1183.764 Right , well . ami_da_2
+B 1186.174 Me too . ami_da_9
+A 1189.904 The feel of the remote control is spongy . ami_da_11
+A 1192.674 Well , ami_da_2
+A 1192.674 it ca not be more spongy . ami_da_9
+A 1194.444 So ami_da_3
+A 1194.444 No okay , ami_da_2
+A 1194.444 but but ami_da_3
+A 1194.444 for the options given , it is the most spongy one . ami_da_9
+C 1195.884 Well , ami_da_2
+C 1195.884 it can be . ami_da_9
+C 1197.244 There are cases in which the outside casing is can be how d how do you prono is is moldable . ami_da_4
+B 1205.784 Was it one of our options ? ami_da_5
+B 1205.784 So , in the in ami_da_3
+B 1205.784 Yeah . ami_da_9
+C 1207.234 No , it is not one of our option , ami_da_4
+C 1207.234 but when you look in the market , when you look ami_da_3
+C 1207.234 yes , ami_da_9
+C 1207.234 but that is not that is not what they are talking about , I think . ami_da_4
+D 1207.614 No . ami_da_2
+D 1208.614 this this was a most spongy option . ami_da_4
+C 1216.674 Because we compare all these characteristics characteristics with market with with the real market . ami_da_4
+A 1222.704 Yeah . ami_da_1
+C 1223.684 So ami_da_2
+C 1223.684 there are remote controls out there which are a lot more spongy . ami_da_4
+A 1223.934 Yeah . ami_da_1
+C 1229.054 They are out there . ami_da_4
+A 1229.244 They are out there . ami_da_15
+B 1229.684 But I think in this case in this case we have done the best we could . ami_da_9
+C 1233.274 Yes , but it is not good enough , so it is a two . ami_da_9
+A 1233.294 Yeah . ami_da_9
+A 1236.134 I will give it a one . ami_da_9
+B 1237.004 I wan ami_da_3
+B 1237.004 I will take one . ami_da_9
+C 1239.364 You take one ? ami_da_12
+C 1239.364 What do you give it ? ami_da_11
+C 1239.364 No no no . ami_da_9
+D 1243.724 Well yeah , ami_da_2
+D 1243.724 it depends , ami_da_9
+D 1243.724 because it is the most spongy we could ami_da_4
+D 1243.724 but ami_da_3
+D 1243.724 yeah . ami_da_9
+A 1246.464 Yeah , I know , ami_da_9
+A 1246.464 but you have to name a fig a number . ami_da_6
+A 1250.484 Because we need to go on in for the time . ami_da_4
+D 1255.344 Well , ami_da_2
+D 1255.344 if I give it a one there will be one hell of a calculation . ami_da_4
+B 1258.534 It will be a one . ami_da_4
+D 1260.494 So I will just give it a two ami_da_9
+D 1260.494 and make this a one point five . ami_da_4
+C 1264.274 I will I will change it , ami_da_7
+C 1264.274 I will make it m ami_da_3
+C 1264.274 my my mark will be a four . ami_da_14
+A 1269.144 You are ami_da_3
+A 1269.144 okay . ami_da_2
+A 1272.444 The remote control offers enough features . ami_da_11
+A 1277.854 Well , ami_da_2
+A 1277.854 Ruud , what what do you think about it ? ami_da_11
+A 1277.854 Yeah . ami_da_1
+D 1281.724 Well , ami_da_2
+D 1281.724 the basic layout does not offem offer much , but the voice recognition could add a lot . ami_da_4
+D 1286.984 So ami_da_3
+D 1286.984 Yeah , ami_da_2
+D 1286.984 depends . ami_da_9
+C 1289.344 Basically it is it is completely programmable . ami_da_4
+C 1292.064 You can add very m much functionality by using the voice recognition mode . ami_da_4
+A 1297.874 Yeah , I know . ami_da_9
+C 1298.714 So it is quite advanced . ami_da_4
+A 1300.154 What what we did not talk about is ami_da_3
+A 1300.154 I think it has . ami_da_9
+B 1301.074 Yeah , ami_da_2
+B 1301.074 but it ha does not has the digits . ami_da_4
+B 1304.314 I believe it is ami_da_3
+B 1304.314 If you ask yourself it offers enough features , I do not I do not think it is it has all the features a normal remote has . ami_da_9
+D 1318.664 depends on what you implement in the speech feat ami_da_9
+D 1318.664 Signal . ami_da_4
+A 1319.864 Yeah . ami_da_9
+A 1320.854 Bec because you can ami_da_3
+A 1320.854 we did not talk about it , but you do have remote controls that are able to adapt another signal . ami_da_4
+C 1328.564 Yes . ami_da_1
+A 1328.904 So , ami_da_2
+A 1328.904 you place a a regular remote control in front of the other one , hit the one or the two or the three , whatever , and it r records the the the the signals . ami_da_4
+C 1342.264 Has the signals sent to it . ami_da_4
+B 1343.874 Yeah . ami_da_1
+A 1344.624 So you could enter any comment you like , as long it is able to as long as our device is able to reproduce the infrared signal . ami_da_4
+A 1357.374 So I think th this this is a a remote control with a very high level of features . ami_da_9
+C 1362.784 Absolutely . ami_da_9
+A 1363.394 Although there are i a few buttons , but the inside is is quite advanced . ami_da_4
+C 1365.624 Yes . ami_da_1
+C 1367.534 But that that is its power , I guess , because a regular programmable remote control contains , well , really a lot of buttons . ami_da_4
+A 1374.594 Yeah . ami_da_1
+C 1374.694 At at least forty buttons . ami_da_4
+A 1376.784 Yeah . ami_da_1
+C 1377.234 So it is it is quite s complicated to get to get used to . ami_da_4
+C 1382.094 And this is quite s simple . ami_da_4
+C 1384.004 You can use your voice to to programme it . ami_da_4
+A 1384.444 Yep . ami_da_1
+C 1387.304 It is ami_da_3
+C 1387.304 Yeah , I will give it a one . ami_da_9
+A 1388.194 Yeah . ami_da_1
+A 1388.864 Okay , ami_da_2
+A 1388.864 let is give it a number . ami_da_11
+A 1390.974 I will give it a one . ami_da_9
+A 1393.324 For for the for this t type of market , I think it is a one . ami_da_9
+B 1397.664 I will give a two . ami_da_9
+D 1402.334 I think think a one , ami_da_9
+D 1402.334 because v with a voice recognition you could add anything you want , ami_da_4
+D 1402.334 so that is like ami_da_3
+D 1402.334 Maybe even because it does not look advanced . ami_da_4
+C 1411.564 Yes . ami_da_2
+C 1411.944 I I have I think we have succe succeed in in developing a product that is actually quite good , but not for this kind of market , and not for this kind of price . ami_da_9
+C 1422.524 So ami_da_3
+A 1422.754 Yeah . ami_da_9
+A 1423.144 So high quality , low acceptance . ami_da_9
+A 1428.054 The product is is is b high qua has a high quality and and is advanced . ami_da_9
+C 1435.124 Yes . ami_da_1
+A 1435.474 But whether or not our clients are are willing to pay twenty five Euros for this kind of device is doub is well , is not sure . ami_da_4
+A 1449.784 D do you agree ? ami_da_11
+A 1449.784 Yeah . ami_da_9
+C 1450.784 Yes , I agree . ami_da_9
+C 1451.974 I ami_da_9
+C 1451.974 Yeah , okay . ami_da_2
+A 1458.094 Maybe we should have a radar function . ami_da_14
+C 1458.454 But ami_da_3
+C 1458.454 Yes . ami_da_1
+B 1462.074 But we could could not what ami_da_3
+B 1462.074 what is the selling price ? ami_da_5
+B 1462.074 Fifty ? ami_da_5
+B 1462.074 twenty five . ami_da_12
+A 1465.404 Twenty five Euros . ami_da_4
+B 1467.924 And costs were twelve fifty . ami_da_4
+A 1469.764 Yeah . ami_da_1
+B 1469.904 But even now , if only our production costs w were exceeded the double , ami_da_4
+B 1469.904 Think . ami_da_5
+B 1478.474 Production cost was were t was twenty two ? ami_da_5
+B 1478.474 So ami_da_2
+B 1478.474 selling price would be ami_da_4
+B 1478.474 yeah . ami_da_9
+C 1484.134 M about fifty Euros . ami_da_4
+C 1486.914 That is quite ex ami_da_3
+C 1486.914 well , ami_da_2
+C 1486.914 it is not it is not very expensive for a remote control that that has this functionality . ami_da_4
+B 1487.414 That is price , but w w ami_da_3
+B 1487.414 No . ami_da_9
+B 1492.004 An original remote control of any TV kind , a Phillips remote control , y you pay ami_da_4
+B 1492.004 Yeah , ami_da_2
+B 1492.004 I kn I know from a few years ago , it it it costed hundred Gilders . ami_da_4
+C 1495.634 Yes , ami_da_2
+C 1495.634 it is more than fifty Euros . ami_da_4
+C 1498.514 It is quite expensive , yes . ami_da_4
+A 1501.804 Bu but well ami_da_2
+A 1501.804 yeah , I know , ami_da_9
+A 1501.804 but you are paying for th for the brand , because there are remote controls which control your stereo , television , DVD , CD player , for under twenty five Euros . ami_da_4
+C 1511.804 Yes . ami_da_9
+C 1512.714 Yes , ami_da_9
+C 1512.714 but you can you c ami_da_3
+C 1512.714 Yes , ami_da_9
+C 1512.714 but you can learn this thing , all these functions . ami_da_4
+C 1518.484 And it is easier to use because those remote controls do not offer voice recognition and this one does . ami_da_4
+A 1518.804 Yeah . ami_da_1
+A 1524.804 Yeah . ami_da_1
+C 1524.914 So I think it is worth its price . ami_da_9
+A 1527.234 Okay . ami_da_12
+A 1528.384 you had an overall rating . ami_da_5
+A 1531.514 That is counting . ami_da_4
+D 1532.794 Yeah , ami_da_4
+D 1532.794 but with these ratings ami_da_3
+D 1532.794 should be about one point s seven , ami_da_4
+D 1532.794 yeah . ami_da_9
+C 1536.764 Well , ami_da_2
+C 1536.764 it is it is about one point five . ami_da_4
+B 1538.544 Four six seven eight . ami_da_16
+C 1540.624 Something like that . ami_da_4
+A 1541.844 Okay . ami_da_1
+B 1542.184 Nine divided by six . ami_da_16
+A 1543.944 Okay . ami_da_2
+A 1545.264 we will go further on with the the rest of the evaluation . ami_da_6
+A 1556.454 About the project itself , not about the product . ami_da_6
+A 1561.344 What did you think about the process , the project process ? ami_da_11
+A 1561.344 Ruud ? ami_da_11
+A 1561.344 Try to translate that . ami_da_6
+C 1585.914 Well Well , ami_da_2
+C 1585.914 I think ami_da_3
+A 1592.664 Any any other ami_da_3
+A 1592.664 , Roo ? ami_da_11
+A 1592.664 Roo . ami_da_6
+B 1593.924 Yeah , ami_da_2
+B 1593.924 I think ami_da_3
+B 1593.924 The process was good . ami_da_9
+D 1594.744 The prices . ami_da_4
+B 1599.464 But w we were not aware of the prices of the costs . ami_da_4
+A 1602.894 Yeah . ami_da_1
+B 1603.224 And and that was the the big deal . ami_da_4
+B 1605.664 I if we knew that before , we c we could have made ami_da_4
+B 1605.664 the the choice between what ami_da_3
+B 1605.664 yeah . ami_da_9
+C 1607.674 Actually , ami_da_2
+C 1607.674 we had ami_da_3
+C 1607.674 Yes . ami_da_9
+A 1609.444 Better decision . ami_da_4
+C 1610.564 We had we had too little information actually . ami_da_4
+A 1612.354 Yeah . ami_da_1
+C 1612.564 So And ami_da_2
+C 1612.564 the the the ami_da_3
+C 1612.564 well , ami_da_2
+C 1612.564 looking at room for creativity , there was w way too the the choice of components was way too narrow . ami_da_4
+A 1622.504 Less . ami_da_4
+C 1624.804 So there was not really a process of ami_da_3
+C 1624.804 Well ami_da_2
+C 1624.804 Yes . ami_da_9
+A 1625.014 Yeah . ami_da_1
+A 1628.354 So we could we we could be we could have been creative . ami_da_9
+A 1631.324 But it was tempered by the choice of components and the the price . ami_da_9
+C 1638.564 Well , ami_da_2
+C 1638.564 in the first meeting we we already were very creative . ami_da_9
+C 1641.554 We we thought of possibilities who are not possible with the the current offer of manufacturing components . ami_da_4
+A 1641.894 Yeah . ami_da_1
+C 1651.164 So ami_da_3
+C 1651.164 We are tempered by that , yes . ami_da_9
+A 1652.454 Yeah . ami_da_1
+A 1655.304 Okay , ami_da_2
+A 1655.304 Roo ? ami_da_11
+A 1655.304 Any other thoughts on that ? ami_da_11
+A 1655.304 Ruud ? ami_da_11
+A 1655.304 You agree , okay . ami_da_12
+B 1658.884 No , no . ami_da_4
+D 1661.734 I agree . ami_da_9
+A 1664.044 leadership . ami_da_11
+B 1665.884 Fantastic . ami_da_14
+A 1668.114 Okay , Roo is on for his promotion . ami_da_14
+C 1675.634 Yeah , okay . ami_da_9
+A 1677.494 Okay . ami_da_1
+C 1679.834 I think we are a good team . ami_da_9
+A 1682.194 I think so too , ami_da_9
+A 1682.194 it is it is it is of course a laboratory environment . ami_da_4
+A 1687.284 I missed it to be able to contact you in between and say , hey Roo . ami_da_4
+C 1691.304 Yes . ami_da_9
+B 1691.554 Yeah . ami_da_9
+A 1697.134 Yeah . ami_da_2
+C 1697.814 Well , ami_da_2
+C 1697.814 I tried once , but that was not allowed . ami_da_4
+A 1701.284 So Yeah , ami_da_2
+A 1701.284 but but si w w w ami_da_3
+A 1701.284 when taken in account the the situation , I think we performed pretty well . ami_da_9
+C 1710.644 I think so too . ami_da_9
+B 1711.464 Yeah . ami_da_9
+A 1711.494 Yeah . ami_da_2
+A 1712.744 the means , the SMARTboard , the digital pen . ami_da_11
+A 1715.674 Did you like them ? ami_da_11
+A 1715.674 Because of the response ami_da_5
+A 1715.674 or ami_da_3
+A 1715.674 Okay . ami_da_1
+C 1716.944 The digital pen was okay , but SMARTboard was really bad . ami_da_9
+B 1719.804 Yeah . ami_da_9
+C 1720.384 It it is ami_da_3
+C 1720.384 The response is very slow and the possibilities are very limited . ami_da_4
+B 1721.954 Response ami_da_4
+B 1721.954 and it it has ami_da_3
+B 1721.954 yeah . ami_da_9
+C 1726.054 It is not accurate . ami_da_4
+A 1728.714 Okay , so ami_da_2
+A 1728.714 it it had to be better aligned , or what is the word ? ami_da_6
+A 1728.714 yeah . ami_da_9
+B 1730.064 Yeah , it is not accurate . ami_da_9
+B 1731.234 The p the pointing of the pen is not the place where it it writes ami_da_4
+B 1731.234 its where it ami_da_3
+B 1731.234 Yeah , where it draws . ami_da_9
+D 1740.734 Draws . ami_da_4
+B 1742.844 It is ami_da_3
+B 1742.844 the drawing on on the b on the board is r right from the pen . ami_da_4
+B 1748.494 So ami_da_2
+B 1748.494 You to take in account that your you m ami_da_3
+B 1748.494 yeah ami_da_9
+B 1748.494 It is too slow ami_da_4
+C 1754.294 Maybe it is it needs to be calibrateds . ami_da_4
+A 1756.024 It it was calibrated just before this meeting . ami_da_4
+A 1758.474 the one before , the third meeting . ami_da_4
+C 1758.594 It is ? ami_da_5
+C 1758.594 Okay . ami_da_12
+A 1760.394 So it is not the calibration , it is the thing itself , I think . ami_da_4
+C 1763.484 Okay . ami_da_12
+A 1764.934 Ruud , w did you use the pen a lot ? ami_da_5
+A 1764.934 Or not at all ? ami_da_5
+A 1764.934 Not at all . ami_da_5
+D 1768.234 No . ami_da_4
+D 1769.074 Not really . ami_da_4
+A 1770.614 Okay . ami_da_12
+A 1771.734 I thought it was quite a handy thing , ami_da_9
+A 1771.734 although I would like to see OCR . ami_da_6
+C 1773.394 I I think so too . ami_da_9
+C 1778.724 Yes . ami_da_9
+B 1778.904 Yep . ami_da_9
+C 1780.404 Yes . ami_da_9
+B 1780.724 If it has OCR , I think I would use , but I I just took notes for myself and ami_da_4
+B 1780.724 and and that is it . ami_da_4
+A 1786.824 Yeah . ami_da_1
+B 1789.234 It w it w ami_da_3
+B 1789.234 yeah . ami_da_2
+B 1790.844 It was necessary for me to ami_da_4
+B 1790.844 Yeah , ami_da_9
+B 1790.844 because if I want something on the computer , I just type it . ami_da_4
+A 1793.144 To digitise them . ami_da_4
+A 1797.814 Yeah . ami_da_1
+B 1798.324 I type faster than I write . ami_da_4
+B 1799.834 So ami_da_3
+B 1799.834 Economic . ami_da_4
+A 1800.074 Yeah . ami_da_1
+C 1800.694 But I think it is a great solution for for a known problem , writing down some notes , some some inf information , and then forgetting your notebook somewhere and losing all that information . ami_da_9
+A 1812.144 Yeah . ami_da_1
+C 1814.734 Because you have everything in one place ami_da_4
+C 1814.734 and it is quite easy quite easy ami_da_3
+C 1814.734 it is it is possible to make this information digital and share it with others in a quite easy way . ami_da_4
+A 1824.544 Yeah . ami_da_1
+C 1825.884 I think it is a good product . ami_da_9
+C 1827.674 I only think it is th the the shape of the pen is too big . ami_da_4
+A 1832.184 Yeah . ami_da_9
+C 1832.694 It is not quite ergonomic . ami_da_4
+C 1836.254 Eco ergonomic . ami_da_4
+A 1837.094 I know . ami_da_12
+A 1839.254 Yeah . ami_da_2
+A 1839.954 Okay . ami_da_2
+A 1841.204 What w ami_da_3
+A 1841.204 Ruud , what did you think about the SMARTboards ? ami_da_11
+A 1841.204 Yeah . ami_da_12
+D 1848.744 Oh , ami_da_2
+D 1848.744 I only use it to draw a rabbit , ami_da_4
+D 1848.744 so ca not say much about it . ami_da_9
+A 1851.854 Okay , you ca not really decide . ami_da_12
+A 1854.664 No . ami_da_12
+A 1855.134 I missed a feature to easily select a slide and distribute it to the laptops . ami_da_4
+A 1863.104 I think that would be very easy if you could say okay ami_da_6
+A 1863.104 , I want to use this for my own work or my own presentation further on ami_da_6
+A 1863.104 or ami_da_3
+A 1863.104 Or the other way around , ami_da_9
+A 1863.104 that you could show but m ami_da_3
+A 1863.104 I know . ami_da_9
+C 1870.194 Yes . ami_da_9
+D 1870.214 No , ami_da_2
+D 1870.214 or the other way around . ami_da_6
+B 1870.644 Yeah . ami_da_9
+C 1872.924 Yes , yes . ami_da_1
+C 1875.104 That is quite what PowerPoint does . ami_da_4
+B 1875.164 But y you can ami_da_3
+B 1875.164 if you save this image , you can open it in your shared work folder . ami_da_4
+D 1875.834 Yeah . ami_da_1
+A 1881.514 I know , ami_da_9
+A 1881.514 but ami_da_3
+A 1881.514 I know , ami_da_9
+A 1881.514 but we could not use that feature , so I missed it . ami_da_4
+B 1882.104 So it is almost ami_da_4
+B 1882.104 yeah . ami_da_9
+B 1886.674 Yep . ami_da_1
+A 1887.574 We were not able to do that . ami_da_4
+A 1890.164 At least the I was not explained how to do such a th ami_da_4
+A 1890.164 Okay . ami_da_1
+B 1894.834 A and the function of of filling an an an oval or an an object . ami_da_4
+C 1897.954 An object , yes . ami_da_9
+C 1900.254 Yes . ami_da_9
+C 1901.174 The drawing cap capabilities are very limited . ami_da_4
+B 1901.524 I it is not possible ami_da_3
+B 1901.524 yeah . ami_da_9
+C 1904.734 And and w you were when you are using Windows , you are used to a certain interface and certain buttons , which you can use for drawing . ami_da_4
+A 1915.334 Yeah . ami_da_1
+C 1915.684 And a lot of these buttons do not appear here . ami_da_4
+C 1917.864 So it is ami_da_3
+C 1917.864 Not not n not way . ami_da_9
+B 1918.694 Oh it looks like paint actually . ami_da_4
+A 1919.304 Okay , so ami_da_2
+A 1919.304 y it ami_da_3
+A 1919.304 it is not even as advanced as paint . ami_da_4
+A 1924.564 Yeah . ami_da_1
+C 1925.634 It is quite limited . ami_da_4
+A 1927.984 Okay . ami_da_1
+A 1934.124 no . ami_da_16
+A 1936.594 Yeah , the project is evaluated . ami_da_4
+A 1939.044 but , well , ami_da_2
+A 1939.044 we need to redesign the product . ami_da_4
+C 1942.174 Okay . ami_da_2
+C 1943.484 Oh , ami_da_2
+C 1943.484 very good , ami_da_14
+C 1943.484 celebration . ami_da_6
+A 1945.334 Celebrate ami_da_14
+C 1945.624 Pop pop up the champagne . ami_da_6
+B 1945.734 Great . ami_da_14
+B 1947.814 It was a privilege working with you . ami_da_14
+A 1947.854 Okay . ami_da_2
+A 1951.644 you are dismissed . ami_da_6
+A 1955.214 No , I think we are ready . ami_da_4
+C 1958.464 Okay . ami_da_12
+B 1960.884 To private rooms ? ami_da_5
+B 1960.884 But you see the problem , ami_da_5
+B 1960.884 y you ca not continue your your line . ami_da_4
+C 1963.264 I see some action over there . ami_da_4
+A 1965.124 Private room , Roo . ami_da_4
+A 1967.464 That sounds quite scary . ami_da_9
+C 1972.394 Okay . ami_da_1
+A 1973.284 No , let is find the way to . ami_da_3
+C 1981.564 we are done , we are finished , I believe . ami_da_4
+C 1985.164 So , ami_da_2
+C 1985.164 are there any more cycles in this process ? ami_da_5
+C 1985.164 I think not . ami_da_4
+A 1990.134 I do not believe so . ami_da_4
+A 1991.424 Well , ami_da_2
+A 1991.424 maybe we would get an email . ami_da_4
+A 1995.864 Thank you for your Forty minutes . ami_da_4
+C 1997.694 But how much time did we get for this meeting ? ami_da_5
+C 1997.694 And how much time is left ? ami_da_5
+C 1997.694 Ten minutes . ami_da_12
+A 2004.384 A minute or or ten maybe . ami_da_4
+A 2006.594 M ami_da_3
+A 2006.594 Yeah , ten or five . ami_da_4
+C 2009.244 Okay . ami_da_12
+C 2012.274 Okay . ami_da_12
+A 2012.884 So , ami_da_2
+A 2012.884 we can redesign our I would like to ami_da_3
+A 2012.884 Oh . ami_da_1
+C 2021.764 Well , ami_da_2
+C 2021.764 I think we we we all know what the redesign should be . ami_da_4
+C 2028.124 A simple , dull , one coloured box . ami_da_9
+D 2034.244 And no added value . ami_da_4
+C 2036.254 No , ami_da_9
+C 2036.254 it is it is just the same product that is already on the market . ami_da_4
+D 2036.584 At all . ami_da_4
+D 2037.354 So ami_da_3
+D 2037.354 In interesting design . ami_da_14
+A 2048.264 Yeah . ami_da_4
+B 2058.854 Well , ami_da_2
+B 2058.854 it is fluffy alright . ami_da_4
+B 2061.584 Spongy . ami_da_4
+C 2063.794 What is that ? ami_da_5
+C 2063.794 It is a giraffe eating a eating leaves from a tree . ami_da_4
+B 2064.104 A giraffe ? ami_da_4
+B 2064.104 Right . ami_da_16
+A 2065.254 Yeah . ami_da_9
+A 2071.764 It is blue tongue . ami_da_4
+A 2073.824 Yeah . ami_da_9
+A 2074.974 This is a new model . ami_da_14
+A 2076.234 But ami_da_3
+A 2076.234 Blue tongue . ami_da_12
+C 2077.334 So you are actually promoting Bluetooth . ami_da_14
+C 2080.204 Or blue tongue . ami_da_14
+D 2082.704 Oh it it does have a natural feeling . ami_da_14
+D 2087.944 So ami_da_3
+D 2087.944 Yeah . ami_da_9
+A 2089.134 It is spongy . ami_da_14
+A 2105.114 That is it is a new feature next to Bluetooth to disable all Bluetooth devices . ami_da_3
+C 2105.284 Blue tongue . ami_da_16
+C 2112.764 Okay . ami_da_1
+A 2114.794 Yeah , ami_da_9
+A 2114.794 we are done here . ami_da_4
+C 2118.924 Let is wrap it up . ami_da_6
+A 2130.304 Gentlemen , thank you for your cooperation . ami_da_14
+C 2133.114 Thank you Mister manager . ami_da_14
+C 2138.124 Now , let is have a bottle of champagne . ami_da_14
+B 2145.414 Leave it here . ami_da_6

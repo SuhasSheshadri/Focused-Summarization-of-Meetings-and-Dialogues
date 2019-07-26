@@ -1,0 +1,354 @@
+A 75.11 So ami_da_2
+A 75.11 we can start ? ami_da_11
+A 75.11 Suppose I have to do my presentation . ami_da_4
+D 76.31 Yeah . ami_da_9
+C 80.26 okay . ami_da_12
+A 81.14 Eh ami_da_4
+A 81.14 So , ami_da_2
+A 81.14 I will present myself , ami_da_7
+A 81.14 I am Ada Longmund , and as you may know it , I am the pr project manager . ami_da_4
+C 83.96 It is Ada Longmund ? ami_da_5
+C 83.96 Maybe someone ha we have to this whiteboard , ami_da_6
+C 83.96 yeah ? ami_da_11
+C 83.96 Yeah , ami_da_2
+C 83.96 I do not know . ami_da_9
+A 94.12 So ami_da_2
+A 94.12 we will have to speak about m the project . ami_da_6
+A 104.46 Our project project is to create a new remote control and as you may know there is lot of industrials interesting in creating a remote control , so the remote control has to be original , trendy and user friendly . ami_da_4
+A 127.86 Record . ami_da_16
+A 131.55 So ami_da_2
+A 131.55 the project method is the following . ami_da_4
+A 135.44 So ami_da_2
+A 135.44 if we are the functional design , you have to do any individual work and also work with meetings talking with each other . ami_da_4
+A 150.29 it will be the same for the conceptual design and also the same for the detailed design . ami_da_4
+A 164.55 The tool training is to try out the white board , ami_da_4
+A 164.55 so ami_da_3
+A 164.55 Maybe you can draw your favourite animal and make a list of its favourite characteristics . ami_da_4
+D 176.8 So ami_da_2
+D 176.8 right now ? ami_da_5
+A 181.73 I do not know if we have to do it now , maybe later later . ami_da_4
+B 182.61 So ami_da_2
+B 182.61 yeah ami_da_4
+B 182.61 I think you can do it . ami_da_4
+A 188.09 So ami_da_2
+A 188.09 the selling price of the product will be twenty five Euros . ami_da_4
+B 192.63 Twenty five Euros ? ami_da_12
+B 192.63 Yep . ami_da_9
+A 193.69 Yeah . ami_da_4
+A 194.65 Yeah . ami_da_4
+A 195.66 I think it is quite good price , ami_da_9
+A 195.66 yeah . ami_da_9
+C 196.39 I it is it is reasonable , ami_da_9
+C 196.39 s quite ami_da_3
+C 196.39 yeah . ami_da_16
+D 198.12 It is reasonable , I think , yeah . ami_da_9
+C 199.09 Twenty five . ami_da_16
+A 199.67 And ami_da_3
+A 199.67 it will be a an international remote control , as we want to sell it in the entire world , and the product costs will be not more than twelve Euros and fifty centimes . ami_da_4
+C 204.45 Is ami_da_3
+C 204.45 Yeah . ami_da_9
+A 223.51 So , ami_da_2
+A 223.51 as you will discuss about the remote control you will have to experience your with the remote control . ami_da_6
+A 232.74 just maybe be imaginative with remote const con controls , try to create something new ami_da_6
+A 232.74 and people would like to to buy . ami_da_4
+A 246.85 And and the next meeting will start in thirty minutes , ami_da_4
+A 246.85 so ami_da_2
+A 246.85 you will ha all have your spethisfispis specif specific role ami_da_4
+A 246.85 and you know I suppose you know what you have to do . ami_da_4
+A 263.49 And ami_da_2
+A 263.49 you will have to work on the design and also to work on the design of th technical fun functions of the remote control and think of the user requirement specifications . ami_da_4
+C 263.78 I I hope so ami_da_9
+C 263.78 ID is for the Industrial Design , ami_da_4
+C 263.78 yeah ? ami_da_11
+C 263.78 And UID , it is for the User Interface Designer , ami_da_4
+C 263.78 yeah ? ami_da_11
+C 263.78 AMI ami_da_16
+C 263.78 yeah ami_da_16
+C 263.78 project . ami_da_16
+D 279.28 Those things just refer to each of each of us , I think . ami_da_4
+A 283.17 Yeah . ami_da_9
+D 283.53 AMI ami_da_4
+D 283.53 and ami_da_3
+D 283.53 okay . ami_da_12
+A 284.85 ID , ami_da_4
+A 284.85 yeah . ami_da_9
+B 286.1 Yeah . ami_da_1
+A 287.23 So So ami_da_2
+A 287.23 I will manage all all the group . ami_da_4
+D 289.27 Okay . ami_da_12
+B 292.77 That is me . ami_da_4
+D 293.32 Okay , ami_da_2
+D 293.32 and Marketing Expert , it is me . ami_da_4
+C 297.97 you will be the manager yeah ami_da_9
+D 298.9 You can manage all this , yeah . ami_da_4
+B 301.01 Okay . ami_da_1
+D 301.24 Good . ami_da_1
+A 302.4 So ami_da_2
+A 302.4 you have questions ? ami_da_5
+A 302.4 So ami_da_2
+A 302.4 you all know what the parts of the work you have to do . ami_da_5
+D 308.82 Not really . ami_da_4
+B 315.14 Yeah . ami_da_4
+D 315.81 So ami_da_2
+D 315.81 which ami_da_3
+D 315.81 you , the Industrial Designer . ami_da_5
+B 317.93 No I am user interf I am user interface design . ami_da_4
+C 318.87 I am the Industrial Design , ami_da_4
+C 318.87 yeah ami_da_4
+C 318.87 I am the Industrial Designer so . ami_da_4
+D 321.62 Okay . ami_da_12
+A 322.71 And you ? ami_da_5
+A 322.71 okay . ami_da_12
+B 326.21 Okay . ami_da_2
+D 327.05 Yeah . ami_da_1
+B 327.06 So ami_da_2
+B 327.06 what is the difference between user interface design d industrial design ? ami_da_5
+B 327.06 Yeah , I think so . ami_da_9
+D 332.44 I mean , you have to know . ami_da_4
+D 333.81 , you have to know it . ami_da_4
+C 335.24 It is difficult . ami_da_9
+D 335.99 It is your job , ami_da_4
+D 335.99 so I hope you you know what it is . ami_da_16
+C 339.16 You know very soon . ami_da_4
+C 343.05 So ami_da_2
+C 343.05 I I think the user the user interface design is he will design how the user will you know the relation between the user ami_da_4
+C 343.05 and you know the remote control ami_da_4
+C 343.05 so And the industrial design , it is how the object will look like . ami_da_4
+A 343.91 I suppose you have to design it ami_da_4
+A 343.91 and you have to take care of the industrial way to transform it . ami_da_4
+B 348.87 Okay , ami_da_12
+B 348.87 so I make u user interface . ami_da_4
+D 349.8 Yeah . ami_da_1
+B 351.74 You you de you implement the core functions in the Use it . ami_da_4
+A 353.09 And i maybe you will transform it . ami_da_4
+B 362.74 Make make ami_da_3
+B 362.74 yeah . ami_da_9
+B 369.44 Maybe I think i industrial design is , it is the function design . ami_da_4
+C 370.02 Yeah . ami_da_2
+C 370.75 So ami_da_2
+C 370.75 the materi ami_da_3
+C 370.75 Okay right . ami_da_2
+B 374.55 I design the user f user interface , you design the function . ami_da_4
+A 378.09 Maybe , it is the outside and the inside . ami_da_4
+B 380.02 Yeah . ami_da_9
+D 384.04 Okay . ami_da_9
+B 385.79 Okay . ami_da_9
+C 386.44 But I was thinking that he is a user ami_da_3
+C 386.44 because the user interface to design for example where the but button will be , you know . ami_da_4
+B 392.24 Yeah yeah . ami_da_9
+C 393.06 But I do not know . ami_da_9
+C 393.95 Okay . ami_da_12
+D 394.87 Well . ami_da_2
+D 395.16 You know . ami_da_9
+C 396.5 I am the industrial designer . ami_da_4
+D 397.78 Oh , okay , okay . ami_da_12
+D 398.39 Not the other one . ami_da_4
+C 399.34 So . ami_da_16
+B 400.56 Okay . ami_da_1
+C 401.07 Okay . ami_da_2
+C 402.56 So ami_da_2
+C 402.56 and the marketing expert will ami_da_3
+C 402.56 Ok Okay . ami_da_12
+D 405.29 Yeah , ami_da_2
+D 405.29 I am just go ami_da_3
+D 405.29 I am trying to give you some trends about what should be done and what the users would like to have ami_da_4
+D 405.29 and then thi this would I guess converged to the User Interface Designer wi and then Industrial Designer . ami_da_6
+A 412.07 And ami_da_3
+A 412.07 yeah . ami_da_1
+A 419.75 And when designing y the remote control just remember that it has to be a kind of international product . ami_da_4
+B 426.05 Okay . ami_da_1
+A 426.1 So you do not have to do something really specific , ami_da_6
+A 426.1 as everybody everybody will have to use it , it is sor the same as keyboards . ami_da_4
+B 433.65 Yeah . ami_da_1
+A 433.9 You know , you have Qwerty , Azerty , French and UK keyboard , so really the remote control to be international . ami_da_4
+B 437.65 Yeah . ami_da_1
+B 441.78 Okay . ami_da_12
+A 442.46 And not too expensive . ami_da_4
+B 443.97 Yeah . ami_da_9
+B 444.42 And simple . ami_da_6
+A 445.36 As we want to maximise the benefit . ami_da_4
+B 446.28 And easy to use . ami_da_4
+D 447.69 And you have to keep it under twelve Euros and f fifty , so . ami_da_4
+A 450.41 Yeah , ami_da_9
+A 450.41 you have to keep in mind that the product cost wo not be maxim more than twelve dot fifty Euros . ami_da_4
+B 450.71 , yeah . ami_da_12
+D 452.2 That is the problem . ami_da_9
+C 452.6 It should be ami_da_3
+C 452.6 There was a step about drawing something in the in the board , ami_da_4
+C 452.6 I do not know . ami_da_11
+B 455.16 Okay . ami_da_1
+B 458.5 Okay . ami_da_12
+A 460.32 And to be sure that really people will be interested in buying a new remote control with maybe new functionalities that do not exist in the existing remote controls now . ami_da_6
+B 471.24 Okay . ami_da_1
+A 473.67 So , ami_da_2
+A 473.67 is it okay ? ami_da_13
+A 473.67 So ami_da_2
+A 473.67 you think we have to do it now ? ami_da_5
+A 473.67 You want me to draw something ? ami_da_11
+A 473.67 Product manager ami_da_4
+A 473.67 okay , ami_da_9
+A 473.67 let is go , ami_da_6
+A 473.67 I will try . ami_da_7
+B 476.25 Yeah . ami_da_12
+D 476.84 It is clear . ami_da_12
+D 484.61 Yeah , ami_da_9
+D 484.61 maybe should go and draw an animal . ami_da_6
+C 486.68 Is it ? ami_da_5
+C 486.68 Are we supposed to do right now ? ami_da_5
+C 486.68 Oh right ami_da_12
+C 486.68 it is it is from the left to the ri It is ami_da_3
+C 486.68 I d I was thinking but I n I am not sure now . ami_da_4
+B 488.79 Yeah yeah , ami_da_4
+B 488.79 you try . ami_da_6
+B 490.16 Try first . ami_da_6
+B 501.0 You can draw something which is very simple . ami_da_6
+C 504.77 Oh ami_da_2
+C 504.77 Everybody ami_da_3
+C 504.77 I think everybody should do it , ami_da_6
+C 504.77 so . ami_da_3
+B 507.99 Oh , ami_da_2
+B 507.99 maybe we should bring Kemy here . ami_da_6
+B 509.83 Kemy is really good at drawing . ami_da_9
+D 509.91 Many ami_da_3
+D 509.91 Yeah . ami_da_9
+C 514.26 It is not matter So . ami_da_3
+B 522.9 You are going to draw ? ami_da_5
+B 522.9 Okay . ami_da_12
+D 532.92 it is the same as mine . ami_da_4
+C 534.58 yeah . ami_da_12
+C 535.3 It is a It is a cat . ami_da_4
+B 536.69 What is this ? ami_da_5
+B 536.69 It is a fat cat . ami_da_9
+C 542.51 It is not a fat cat . ami_da_9
+D 549.02 It is the fat cat , okay . ami_da_9
+C 550.58 Yeah , it is a ami_da_9
+C 550.58 Yes ami_da_2
+C 550.58 you have to draw a rat if you want a rat . ami_da_6
+B 551.25 Can you draw rabbit ? ami_da_6
+B 551.25 Oh , ami_da_2
+B 551.25 hat ha ami_da_3
+B 551.25 rat . ami_da_6
+D 557.49 A rat ? ami_da_12
+D 557.49 That is difficult . ami_da_9
+B 558.13 Yeah . ami_da_4
+A 560.93 No . ami_da_9
+A 561.4 A mouse is not too difficult . ami_da_9
+C 562.21 It is your rat . ami_da_4
+A 563.46 Mouse is okay . ami_da_9
+B 564.6 Yeah , it is okay . ami_da_9
+D 565.09 Yeah . ami_da_1
+D 567.36 Just go , ami_da_6
+D 567.36 you you the closest to the whiteboard . ami_da_4
+C 568.05 Okay , ami_da_2
+C 568.05 go ami_da_6
+C 568.05 right , but in grow , it is ami_da_3
+C 568.05 everybody has to grow ami_da_4
+C 568.05 What are you I don ami_da_3
+C 568.05 no idea , so ami_da_4
+C 568.05 It is a rabbit . ami_da_9
+D 570.18 Jus ami_da_3
+D 570.18 Yeah . ami_da_1
+B 571.79 Okay . ami_da_9
+B 575.94 Oh . ami_da_2
+B 578.24 Okay , ami_da_2
+B 578.24 I draw . ami_da_7
+B 581.58 The only thing I can draw is like this . ami_da_4
+B 584.53 Oh . ami_da_16
+B 586.67 Oh . ami_da_16
+B 586.72 Oh . ami_da_16
+D 590.24 A duck . ami_da_4
+B 591.61 No . ami_da_9
+B 592.47 What is this ? ami_da_5
+B 592.47 Okay . ami_da_9
+A 594.19 You love the eyes . ami_da_16
+A 598.39 Yeah , that was the eyes . ami_da_9
+A 601.34 A clown . ami_da_4
+A 602.71 Rabbit . ami_da_5
+D 605.92 Pikachu . ami_da_4
+A 612.64 It is a rabbit . ami_da_4
+D 615.2 Oh yeah . ami_da_12
+D 617.04 Bugs Bunny one . ami_da_4
+A 618.04 Yeah . ami_da_1
+B 622.27 Okay . ami_da_4
+C 622.68 It is not so bad ami_da_9
+C 622.68 so . ami_da_3
+B 625.35 The only thing I can draw , because it is very simple . ami_da_4
+D 628.04 Okay . ami_da_2
+D 629.4 I go . ami_da_7
+D 639.46 What ? ami_da_12
+D 639.46 Oh . ami_da_12
+D 643.51 So what else ? ami_da_8
+D 643.51 This was my favourite one , ami_da_4
+D 643.51 but ami_da_3
+D 643.51 Right . ami_da_9
+C 646.03 So you do not have a ami_da_3
+C 646.03 A fish . ami_da_4
+A 647.54 Thank you . ami_da_14
+D 656.32 A fish . ami_da_9
+C 656.93 That is a that is a fish ? ami_da_5
+C 656.93 Okay , ami_da_2
+C 656.93 let is try to draw something . ami_da_7
+A 660.52 You forgot the chips . ami_da_4
+D 662.79 Oh yeah , does not look so fine . ami_da_9
+C 667.77 Have to be really careful . ami_da_16
+A 669.81 Fish and chips . ami_da_16
+D 671.53 Okay , ami_da_2
+D 671.53 it is your turn . ami_da_6
+C 673.8 it is my turn . ami_da_16
+B 675.05 Oh . ami_da_16
+B 677.34 Okay , ami_da_2
+B 677.34 be careful . ami_da_6
+C 677.9 Okay . ami_da_2
+C 679.23 So . ami_da_2
+A 687.69 Of ami_da_3
+A 687.69 Oh . ami_da_16
+B 688.76 No problem , no problem . ami_da_14
+C 689.39 It is ok ami_da_9
+C 689.39 So , ami_da_2
+C 689.39 what can I draw some more ? ami_da_8
+C 689.39 No . ami_da_4
+A 705.17 Oh yeah . ami_da_12
+C 714.42 Yeah , ami_da_9
+C 714.42 it is it is a se ami_da_4
+C 714.42 it is my priority this one . ami_da_4
+C 737.12 Yeah . ami_da_16
+B 746.52 A person ? ami_da_5
+B 746.52 Dog . ami_da_4
+C 748.07 No . ami_da_4
+C 751.04 It is a really crazy dog ami_da_4
+C 751.04 Okay . ami_da_2
+D 756.53 Good . ami_da_9
+C 757.23 Transfer . ami_da_4
+C 757.99 It is a dog in a village . ami_da_4
+B 760.26 Okay . ami_da_12
+C 772.91 So ami_da_2
+C 772.91 what are you sug going to do now ? ami_da_5
+C 772.91 It is done ? ami_da_5
+C 772.91 Oh my God . ami_da_16
+D 775.74 I think it is done . ami_da_4
+A 776.81 Yeah , I think ami_da_9
+A 776.81 yeah . ami_da_4
+D 777.78 Yeah . ami_da_4
+B 778.58 Okay . ami_da_12
+A 779.67 Just have to present project , discuss a little bit about it . ami_da_4
+B 781.67 So ami_da_2
+B 781.67 we have break . ami_da_4
+D 788.66 Oh , ami_da_2
+D 788.66 we have twenty five minutes for the meeting . ami_da_4
+A 791.0 Yeah . ami_da_9
+D 791.57 Okay . ami_da_12
+A 792.53 So , ami_da_2
+A 792.53 if you have questions . ami_da_5
+B 792.66 Oh . ami_da_16
+D 795.93 Know what time is it ? ami_da_5
+D 795.93 No . ami_da_4
+B 802.64 No . ami_da_4
+A 804.86 It is okay ? ami_da_11
+A 804.86 You know your job ? ami_da_5
+A 804.86 you know your job ? ami_da_5
+A 804.86 You know your job ? ami_da_5
+C 805.64 Yeah , it is okay . ami_da_9
+C 808.6 We have an idea ami_da_4
+C 808.6 yeah . ami_da_4
+C 810.12 I have an idea of my job ami_da_4
+C 810.12 so yeah so . ami_da_2

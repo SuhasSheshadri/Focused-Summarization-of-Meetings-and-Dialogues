@@ -1,0 +1,189 @@
+A 36.6 Okay . ami_da_2
+A 37.2 Good morning everybody . ami_da_14
+C 38.38 Good morning . ami_da_14
+A 39.18 Oh , everybody is not ready . ami_da_4
+B 41.21 almost . ami_da_4
+B 43.76 Ready . ami_da_4
+A 43.88 Alright . ami_da_9
+A 45.05 Okay , let is go . ami_da_6
+A 46.26 So , we are here today to to have our first kick off meeting about this new project we are going to tak to talk about in a few minutes . ami_da_4
+A 55.57 so I will be Sebastian the Project Manager . ami_da_4
+A 61.65 you are the ami_da_5
+A 61.65 Okay . ami_da_9
+B 64.03 I am Michael . ami_da_4
+B 65.14 I am the user interface designer . ami_da_4
+D 67.69 Hi I am Guillermo . ami_da_4
+D 68.8 I am the Marketing Expert . ami_da_4
+C 70.82 And I am Hemant , the industrial designer . ami_da_4
+A 73.27 Okay , very good . ami_da_9
+A 74.79 Thanks for being here . ami_da_14
+A 76.73 so let is have a look to the the agenda . ami_da_6
+A 81.71 So , we are going to go through this agenda ami_da_6
+A 81.71 and mainly first to to make to to be used to the tools available in this nice and smart meeting room we have here . ami_da_4
+A 95.7 then we will go to the plans for project and have general discussions about it . ami_da_6
+A 103.9 So , the goal of this project is to developed a new remote control . ami_da_4
+A 112.42 it should be original , trendy , and also user friendly . ami_da_4
+A 123.88 As usual we will follow the the project method that we are using in the in our company . ami_da_6
+A 132.39 It is in three step as you know . ami_da_4
+A 134.31 First the functional design . ami_da_4
+A 136.33 The second is a conceptual design , and then the detailed design . ami_da_4
+A 140.97 During each step of each design we wi you will work s separately , individually on your specific tasks and will m we will meet to to discuss and take decisions about what you have you have you did and what we will do next . ami_da_6
+A 165.38 So first , we have to to train ourself with all the the tools availables in the in this nice meeting room and particularly the the white board so we are going to go through the white board and take some s some notes or do some drawings . ami_da_6
+A 186.87 So who want to start ? ami_da_8
+A 186.87 Mister . ami_da_16
+B 191.76 well if no one else wants to , yeah . ami_da_7
+B 194.66 Okay so , want me to draw my favourite animal . ami_da_4
+B 201.67 Let is see . ami_da_16
+B 216.28 Well , I do not really have a favourite animal , but I think I have one in mind , so ami_da_4
+B 216.28 I am going to about the spider ami_da_7
+B 216.28 because you can actually draw it pretty well in the corner of a white board . ami_da_4
+A 220.53 You have one in mind ? ami_da_5
+A 220.53 Okay . ami_da_9
+B 234.65 The spider has a ami_da_2
+B 234.65 spider lives in a web and it has eight legs , and it can move all about the web in two dimensions . ami_da_4
+B 255.66 Unless it is a three dimensional web which y they have sometimes . ami_da_4
+B 257.97 There are some spiders that live in like that have like kind of a a big ball of a of a web . ami_da_4
+B 264.31 And the other thing is some spiders can actually fly like they have they let out like a stream of like the web building material ami_da_4
+B 264.31 but it is it acts like a parachute so they can actually kind of go and find new build a new web somewhere else . ami_da_4
+B 280.96 So I think they did this in in Charlotte is Web that movie ami_da_4
+B 280.96 that little ami_da_2
+B 280.96 well it is actually a book first but at the end all the the spiders kind of flew away . ami_da_4
+B 291.4 So , that is my animal . ami_da_4
+A 292.32 Th thank you . ami_da_14
+A 293.81 Very interesting . ami_da_9
+A 297.76 Guillermo you want to ? ami_da_8
+A 297.76 It would be very funny for us . ami_da_9
+D 301.92 okay ami_da_7
+D 301.92 I dunno why , but when I was a child ami_da_4
+D 301.92 I ami_da_4
+D 301.92 I wanted to be a a panther not a pink panther , or maybe yes . ami_da_4
+C 313.89 But do not you think it is very difficult to draw a panther ? ami_da_11
+C 313.89 So bad I do not like it . ami_da_9
+D 317.12 yeah yeah . ami_da_9
+A 324.46 Oh . ami_da_16
+D 337.46 Okay it is a friendly panther . ami_da_9
+B 340.84 Maybe it is happy because it just ate someone . ami_da_4
+D 343.59 Yeah maybe . ami_da_9
+D 353.77 Actually , honestly I ami_da_4
+D 353.77 I ami_da_4
+D 353.77 I ami_da_4
+D 353.77 dunno ami_da_4
+D 353.77 what is what is ami_da_4
+D 353.77 his it is be behaviour , ami_da_4
+D 353.77 I dunno if if it is the male who who hunts or it is the female , ami_da_4
+D 353.77 I ami_da_4
+D 353.77 I ami_da_4
+D 353.77 I have watched that lions di did not hunt ami_da_4
+D 353.77 it is the the female lions who who hunt , ami_da_4
+D 353.77 so but ami_da_2
+D 353.77 I like it because it is fast , and it is black as well , so it can he it can hide itself very easily ami_da_4
+D 353.77 and it is it is ami_da_2
+D 353.77 it looks like powerful , strong , I dunno . ami_da_4
+D 400.58 I I watch a a film about a black panther when I was a child ami_da_4
+D 400.58 and I was in that age when everything was shocking me a lot . ami_da_4
+A 411.42 Okay . ami_da_14
+A 411.8 Thank you . ami_da_14
+D 411.99 Okay . ami_da_2
+A 412.62 Hemant . ami_da_8
+C 413.09 sure . ami_da_7
+B 426.51 So you do not like pink panthers ? ami_da_11
+B 426.51 So is this an Indian or an African elephant , ami_da_5
+B 426.51 because you have not drawn the ears ? ami_da_4
+B 426.51 Okay . ami_da_2
+D 428.99 I like it . ami_da_9
+C 446.85 Oh yeah . ami_da_16
+C 447.52 Thanks . ami_da_14
+C 449.91 This lapel is coming out once in a while . ami_da_4
+C 452.65 It is not very strong . ami_da_4
+C 457.35 Okay . ami_da_2
+C 458.14 So , not the favourite animal , but I think I will draw elephant . ami_da_7
+C 463.79 I will try to draw elephant . ami_da_7
+C 467.32 It is a problem . ami_da_9
+C 470.5 Okay , thanks . ami_da_14
+C 472.34 Okay so , elephant goes like this , and then it has four feet . ami_da_4
+C 484.56 I do not know whether there is any dist there should be any distance or not , but I think this is the easiest . ami_da_4
+C 493.64 And then we have it is trunk . ami_da_4
+C 499.21 And ami_da_2
+C 499.21 yep something like this . ami_da_4
+C 503.45 An eye , ami_da_4
+C 503.45 cute . ami_da_9
+C 506.84 Yeah , so ami_da_2
+C 506.84 and sometimes they have a hump . ami_da_4
+A 508.04 Poor elephant . ami_da_14
+C 513.77 It seems that elephants are pretty friendly and they they have one very important way a different way of walking . ami_da_4
+C 524.34 So when they walk , wherever they are going to put their first feet , the second feet will always be . ami_da_4
+C 531.24 When they will come to that position the second , the third feet will be there . ami_da_4
+C 535.85 That is the way they walk . ami_da_4
+C 537.58 And that is very peculiar about them . ami_da_4
+C 539.29 None of the other animals walk like this . ami_da_4
+C 541.9 And they are very useful to human beings . ami_da_4
+C 544.51 At least few few hundred years ago when there was no means of transportations or something , or when they had to carry huge loads from one place to another , elephants were very useful . ami_da_4
+C 557.16 And they are found in usually the warm countries . ami_da_4
+C 561.79 And they are the biggest terrestrial animal . ami_da_4
+C 566.14 That is what I know about them . ami_da_4
+C 567.38 So , that is what I wanted to tell about elephants . ami_da_4
+C 572.9 There are two kind of ami_da_3
+C 572.9 yeah , they are very different , Indian and African elephants . ami_da_4
+C 577.77 So Indian elephant is having one bump , I think , and the African have two . ami_da_4
+C 582.56 And then there is a difference in the trunk of the animals , ami_da_4
+C 582.56 these elephants who are Indian and ami_da_3
+C 582.56 So at some ami_da_2
+C 582.56 for some elephants it is the trunk is having one ami_da_3
+C 582.56 Do we have some message there ? ami_da_5
+C 582.56 Wind up ami_da_5
+C 582.56 Okay , some other time . ami_da_9
+A 596.53 Yes . ami_da_4
+A 597.23 We have to I have to catch you , ami_da_4
+A 597.23 sorry . ami_da_14
+A 599.78 We have to to go through the meeting . ami_da_6
+C 601.8 Thank you . ami_da_14
+A 602.46 Thank you . ami_da_14
+B 603.79 We can discuss that off line . ami_da_6
+A 605.3 Yeah ami_da_9
+A 605.3 we will discuss a f a fly or do we will do another meeting abo on elephants . ami_da_6
+C 608.95 Thanks . ami_da_14
+A 611.44 So ami_da_2
+A 611.44 so another important part of the project is about money , ami_da_4
+A 611.44 and about ami_da_2
+A 611.44 so about finances . ami_da_4
+A 621.26 So we should target selling price of twenty five Euro for this remote control ami_da_6
+A 621.26 and we have ami_da_2
+A 621.26 which which would generate a profit of of fifty million Euros , okay . ami_da_4
+A 638.75 And we should target the inter an international market . ami_da_6
+B 642.17 So could I just ask one question , ami_da_7
+B 642.17 is this a stand alone unit that we are going to be selling ? ami_da_5
+B 642.17 So it is going to be you already have a TV ami_da_5
+B 642.17 but you are buying an extra remote control for it or something ? ami_da_5
+B 642.17 Okay , alright . ami_da_9
+A 653.12 O this is the next topic we have to discuss exactly , ami_da_4
+A 653.12 so let is go to it . ami_da_6
+A 657.78 So we should decide which kind of remote control we want to we want to we want to go . ami_da_6
+A 665.49 Should be should ami_da_2
+A 665.49 should it be specific remote control to some specific device ? ami_da_11
+A 665.49 Should it be a universal one ? ami_da_11
+A 665.49 And etcetera . ami_da_4
+A 676.3 So so I am waiting for your for your inputs very quickly ami_da_8
+A 676.3 because we have only three three minutes to go . ami_da_4
+B 686.63 Okay well , ami_da_2
+B 686.63 so , it seems the the first thing that they have kind of specified is the price like based on how much profit we want to make , ami_da_4
+B 686.63 which seems to a kind of a little strange if we do not know what the the product is yet , ami_da_9
+B 686.63 but I guess if that is if that is the requirement that we need to to design the the product to actually fit that that price bracket so , I guess we are going to need to find out what is actually you know , what people ar are willing to pay for ami_da_6
+B 686.63 what kind of product they are expecting for twenty five Euro ami_da_4
+B 686.63 because it seems quite a lot for a remote control , ami_da_9
+B 686.63 so it is ami_da_3
+B 686.63 Yeah . ami_da_1
+A 719.19 Okay . ami_da_1
+A 720.95 Okay I think this is more a job to our ami_da_4
+A 720.95 market person ami_da_9
+A 720.95 yeah . ami_da_9
+C 723.8 Marketing person . ami_da_4
+A 726.09 So it should be the topic of maybe of the next meeting just to to have an overview of this and in which direction we should go . ami_da_6
+A 734.46 So we need to close the meeting . ami_da_6
+A 736.49 we will have a new meeting soon ami_da_4
+A 736.49 and so the work ami_da_3
+A 736.49 every every of you ha have t d to do . ami_da_3
+A 743.79 So you have to work on the on the working design , you have to work on the technical functions , and you have to work on us user requirements specs , ami_da_4
+A 743.79 alright ? ami_da_11
+A 743.79 you will receive some information by emails , i as usual . ami_da_4
+A 763.64 Thanks for coming today . ami_da_14
+B 764.53 Okay . ami_da_1

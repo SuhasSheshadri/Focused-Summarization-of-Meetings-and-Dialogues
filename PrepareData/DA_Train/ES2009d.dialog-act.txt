@@ -1,0 +1,1014 @@
+D 20.62 Okay . ami_da_16
+D 26.02 Oh ami_da_12
+D 26.02 I totally ami_da_16
+D 26.02 Yeah ami_da_9
+D 26.02 because I moved it . ami_da_4
+D 36.0 Is put it over here . ami_da_7
+D 37.16 Then we do not have to worry about it . ami_da_4
+C 38.81 Ready for this ? ami_da_5
+C 38.81 Oh man . ami_da_16
+A 41.98 All set ? ami_da_5
+A 41.98 Cool . ami_da_9
+A 44.54 Alright , ami_da_2
+A 44.54 it is PowerPoint time . ami_da_6
+A 48.53 I have done more PowerPoints in this particular experiment than I have ever done in my life before this experiment ami_da_4
+A 48.53 which is kind of fun . ami_da_9
+B 55.07 Yeah . ami_da_9
+A 61.12 So ami_da_2
+A 61.12 here we have our detailed design meeting where we will look at the prototype ami_da_4
+A 61.12 and ami_da_3
+A 61.12 right so , ami_da_2
+A 61.12 I finally figured out what this whole second bullet point is about in my that my coach was sending to me . ami_da_4
+A 76.4 It means I am supposed to read the minutes from the previous meeting . ami_da_4
+B 78.76 Oh ami_da_12
+B 78.76 really ? ami_da_5
+B 78.76 Okay . ami_da_12
+A 79.86 I think . ami_da_4
+D 80.53 Huh . ami_da_12
+A 81.35 I do not know . ami_da_4
+A 82.44 Otherwise it is just saying I am the secretary and I am therefore I am taking the minutes , ami_da_4
+A 82.44 s so just to go ami_da_3
+A 82.44 just real briefly to go over minutes from last meeting , , I will open them slowly , no ? ami_da_7
+A 82.44 Wait for it , wait for it . ami_da_6
+D 107.4 Yeah ami_da_2
+D 107.4 that is not you . ami_da_4
+A 108.6 No . ami_da_9
+A 109.2 That is how the ami_da_3
+A 109.2 Wait . ami_da_6
+A 114.04 This is , this is very high powered stuff here , ami_da_14
+A 114.04 double clicking , ami_da_16
+A 114.04 there we go . ami_da_4
+A 119.42 So ami_da_2
+A 119.42 basically the moral of the story from our last minute last meeting was that we that we had meetings from we had presentations done by the Industrial Designer , or from Nathan , and Ron and from Sarah about what we can do here and what sort of limitations we are operating with ami_da_4
+A 119.42 excuse me ami_da_14
+A 119.42 what limitations we are operating under , what kind of risk we would be looking at with some of the various approaches we were discussing and we essentially came to the conclusion that we should develop a remote with voice recognition , IE that had a vaguely non remote like shape because you did not really need to use it as a remote since you could just use your voice . ami_da_4
+A 159.06 That would include some mostly just the simple design features for a television operation but with a slide or a fold out bay for more advanced functions for users . ami_da_4
+A 169.28 , and the ami_da_2
+A 169.28 the UID and the ID were asked to go ahead and start developing a prototype for us to look at . ami_da_4
+A 178.69 So . ami_da_2
+A 181.45 That is sorted , ami_da_4
+A 181.45 back to the main meet here , , go ahead and take it away guys . ami_da_6
+B 192.17 Well . ami_da_2
+B 193.14 we have assembled our prototype , . ami_da_4
+B 199.92 What is to be said about it ? ami_da_5
+B 199.92 , we took into account a lot of the things that we went over in the last meeting , . ami_da_4
+B 207.68 Some of the most important things to consider are that we decided not to go for the touch screen which you can see and opted for some very large buttons for the primary functions , . ami_da_4
+B 222.25 This is going to be the on off button and we have these buttons to go through the channels and then two volume buttons down here , d we decided those were the most important buttons . ami_da_4
+B 234.55 And then , for the more advanced functions there is a slide out panel here and you can see that there are lots of other things going on . ami_da_4
+B 244.28 But this actually can slide back in ami_da_4
+B 244.28 and provides a very nice aesthetic when it is all put away , . ami_da_9
+B 254.98 As far as the whole visible light thing , we decided to go with the multiple colours coming out , ami_da_4
+B 254.98 why not ? ami_da_9
+B 254.98 Of course , if that is annoying for some people that function can be turned off . ami_da_4
+A 261.18 Nice . ami_da_9
+D 262.87 Fair enough . ami_da_9
+A 267.92 Perfect . ami_da_9
+C 270.95 No ami_da_2
+C 270.95 it is important to ami_da_3
+C 270.95 we talked a quite a bit about you know the the interchangeable faces and what we have done here is come up with a bit of a natural look here f we call it fruity ami_da_4
+C 270.95 if you will . ami_da_14
+B 271.18 Go ahead . ami_da_6
+D 281.6 Right . ami_da_1
+D 284.72 Appropriate , okay . ami_da_9
+C 286.14 Right , , ami_da_2
+C 286.14 of course that is interchangeable ami_da_4
+C 286.14 and I think it would be desirable for the for the regular product in the in the in the in the first packaging to be something a little bit more subdued ami_da_6
+C 286.14 but this is kind of something that can be done and as you can see on the television there we have the voice detector device on the top there . ami_da_4
+D 295.1 okay . ami_da_1
+D 300.64 It is an option . ami_da_9
+A 307.2 Oh , right . ami_da_12
+B 308.86 That is this here . ami_da_4
+D 310.89 I see . ami_da_12
+C 311.65 So that that will work quite well with with regard to finding this contraption . ami_da_9
+C 317.46 , what other things do we see here , well , ami_da_5
+C 317.46 if you give it a touch it does have actually a bit of a spongy feel , ami_da_4
+C 317.46 , so ami_da_2
+C 317.46 I think that will work well with regards to our market . ami_da_9
+C 330.14 and ami_da_2
+C 330.14 let is see , ami_da_6
+C 330.14 well ami_da_2
+C 330.14 clearly there is going to be some more colours and what not available . ami_da_6
+C 340.6 do you have anything else to add to that ? ami_da_5
+C 340.6 It is actually important to note that the television , you know if there is an earthquake or anything like that , that i it actually is edible inside . ami_da_14
+B 344.03 I worried about the materials , ami_da_4
+B 344.03 it is ami_da_3
+B 344.03 the entire thing is covered in a rubber coating ami_da_4
+B 344.03 so it is very durable , it is not going to break like some types of plastic that is dropped . ami_da_9
+B 358.74 , and of course as you can see ami_da_6
+B 358.74 and if you touch it it does have that nice squishy feel . ami_da_4
+B 377.36 Fact , ami_da_9
+B 377.36 I dunno if you noticed , ami_da_6
+B 377.36 but I wrote the the company is name on the telephone screen , ami_da_4
+B 377.36 I thought that was kind of nice . ami_da_9
+A 380.8 Oh ami_da_12
+A 380.8 well done ami_da_9
+A 380.8 yeah , ami_da_9
+A 380.8 yeah ami_da_9
+A 380.8 oh ok ami_da_9
+A 380.8 Edible televisions , it is a wave of the future . ami_da_14
+D 381.56 Nice . ami_da_9
+B 383.33 This was actually an apple on the inside . ami_da_4
+D 386.3 Do we need to worry about rot factors ? ami_da_11
+D 386.3 Oh okay , ami_da_12
+D 386.3 there is preservatives involved , ami_da_4
+D 386.3 we do not need to worry , ami_da_6
+D 386.3 okay . ami_da_12
+B 386.61 This ami_da_3
+B 386.61 Yeah . ami_da_2
+C 389.52 it is encased in a new type of polymer ami_da_4
+C 389.52 yeah . ami_da_9
+C 395.89 It is fine . ami_da_9
+B 395.98 We got a bit ahead of ourselves , I know we are not talking about making televisions at this point or anything like that , but ami_da_4
+B 395.98 Right . ami_da_9
+D 397.47 Fair enough . ami_da_9
+D 400.13 No ami_da_3
+D 400.13 but ami_da_3
+D 400.13 It is a couple years off at least . ami_da_14
+C 402.62 It is pos a possible new product . ami_da_4
+D 404.68 Okay . ami_da_1
+C 406.0 , but I think that is ami_da_4
+C 406.0 I think that sums up the main features of our of the remote , ami_da_4
+C 406.0 I dunno if you guys have any questions ami_da_5
+C 406.0 or f whether that whether we need to worry about any other marketing areas or anything of that nature . ami_da_11
+A 412.16 Brilliant . ami_da_9
+C 421.64 , did we come in under budget ? ami_da_5
+B 423.75 we did , yeah . ami_da_4
+B 424.94 This cost ami_da_3
+B 424.94 well ami_da_2
+B 424.94 to put this into production , we are looking at about ami_da_3
+B 424.94 what was our goal ? ami_da_5
+B 424.94 It was twelve fifty Euro and this actually came in at about eleven ninety nine . ami_da_4
+B 439.33 , so I was quite pleased with that . ami_da_9
+B 442.41 One thing that we did not do ami_da_3
+B 442.41 obviously we had a choice with the buttons whether to use scroll buttons or standard rubber buttons , but we just went for a classic rubber button and since we did that we did not have to use as many microchips ami_da_4
+B 442.41 which was quite nice ami_da_9
+B 442.41 and that is what helped keep the cost down . ami_da_4
+A 459.14 Brilliant . ami_da_9
+B 459.63 So even though it has a lot of modern technology , for example the voice recognition , in a lot of ways it is just a simple remote ami_da_4
+B 459.63 and I think if we shopped around for other manufacturers we might be able to get even cheaper . ami_da_6
+D 467.96 Okay . ami_da_1
+C 479.94 Did we talk about the voice recognition option ? ami_da_5
+C 479.94 So so yeah ami_da_2
+C 479.94 on the back here you all noticed this area here which is actually the voice recognition console ami_da_4
+C 479.94 and I think it is nicely designed into the into the overall look . ami_da_9
+B 480.0 And ami_da_3
+B 480.0 Oh no , we have not talked about that yet have we ? ami_da_4
+D 491.93 Okay . ami_da_12
+D 498.35 Yeah . ami_da_1
+C 499.15 , but basically the voice recognition incorporates the latest designs that our research team has been able to cufw come up with . ami_da_4
+C 507.14 Basically quite similar to the coffee maker design that we were talking about earlier ami_da_4
+C 507.14 and , I think that has given a proven ease of use and what not . ami_da_9
+D 510.22 okay . ami_da_12
+B 522.01 Yeah . ami_da_9
+C 522.43 And allows features like the remote actually talking back to the user , so . ami_da_4
+D 528.42 Right . ami_da_1
+A 532.18 Cool . ami_da_9
+B 532.44 Any questions ? ami_da_5
+B 532.44 , do you want to answer this one or do you want me to answer it ? ami_da_11
+B 532.44 Yeah , ami_da_1
+B 532.44 yeah . ami_da_1
+A 534.93 No , no ami_da_4
+A 534.93 I think that is ami_da_3
+A 534.93 Right , yeah ami_da_2
+A 534.93 thanks guys ami_da_14
+A 534.93 that is very , very good work . ami_da_9
+D 536.17 Do we have other , for lack of a better word , skins ? ami_da_5
+D 536.17 Covers ? ami_da_5
+D 536.17 In play now or are those ones going to be developed later once we see how the couple we have ami_da_11
+D 536.17 g go or ? ami_da_11
+D 536.17 Do we know where we stand on that yet ? ami_da_8
+D 536.17 Oh ami_da_2
+D 536.17 I was not expecting a prototype ami_da_4
+D 536.17 I just did not know if you guys had any in mind yet . ami_da_4
+C 548.01 Well ami_da_2
+C 548.01 we did not quite have enough material . ami_da_4
+C 552.52 Oh I see , ami_da_12
+C 552.52 right , . ami_da_2
+B 554.77 , well ami_da_2
+B 554.77 as you can see this is just a most superficial layer ami_da_4
+B 554.77 and it would be very easy to put another layer of something else like ami_da_9
+B 554.77 It is not it is not quite a a face plate , it is more like a pseudo face plate ami_da_4
+B 554.77 because it is simple enough ami_da_9
+B 554.77 that in the factory it could we could very easily put a different one on it , it locks into place such that , you know , it is pretty permanent ami_da_4
+B 554.77 but at the same time , if we want to go the other way it is just a matter of a couple of adjustments and we could go the face plate way ami_da_6
+B 554.77 if you know what I mean . ami_da_13
+D 562.8 Okay . ami_da_12
+D 564.5 Just veneer really , ami_da_4
+D 564.5 yeah . ami_da_9
+C 566.77 Right . ami_da_2
+D 567.34 Okay . ami_da_9
+C 567.84 Actually this bottom red ring here just unclips and then you put a a new a new a new plate on top of that . ami_da_4
+D 571.99 And the whole thing ami_da_3
+D 571.99 Okay ami_da_12
+D 577.12 Right ami_da_1
+C 577.19 So ami_da_2
+C 577.19 I mean there are I ami_da_3
+C 577.19 we definitely priced out a spongy even spongier non natural look materials ami_da_4
+C 577.19 which I think worked out fine . ami_da_9
+D 579.29 Yeah . ami_da_2
+D 580.27 There is ami_da_3
+D 580.27 Okay . ami_da_1
+C 587.26 We also continued on with the ideas that f following Apple is colour schemes with the kind of the light orange and the green . ami_da_4
+D 588.02 okay . ami_da_1
+D 593.02 Okay , very cool . ami_da_9
+D 600.93 Okay . ami_da_12
+D 617.22 Okay . ami_da_9
+D 619.03 Yep . ami_da_12
+D 619.79 It is still an option if we need it . ami_da_4
+B 620.77 Yeah . ami_da_9
+D 621.89 Very cool , nice job . ami_da_9
+A 627.35 I like it , brilliant . ami_da_9
+A 630.24 , what we need to discuss now is the finance of it , ami_da_6
+A 630.24 I got me you have got ami_da_3
+A 630.24 you provided a number ami_da_4
+A 630.24 that actually sounds quite nice . ami_da_9
+A 640.17 the trouble is I was just given this by finance . ami_da_9
+B 644.04 Oh . ami_da_16
+A 644.05 , it is a spreadsheet of the parts ami_da_4
+A 644.05 and I have just tentatively put in what it is going to look like . ami_da_4
+B 649.65 Ooh . ami_da_16
+A 651.29 I am just going to clear this out real quickly , ami_da_7
+A 651.29 but it looks like ami_da_3
+A 651.29 So ami_da_2
+A 651.29 we will just ami_da_3
+A 651.29 if we can just itemize what is in here , ami_da_6
+A 651.29 we have got this ami_da_3
+A 651.29 it is a solar cell thing ami_da_4
+A 651.29 right ? ami_da_11
+A 651.29 With a back up battery ? ami_da_5
+A 651.29 With the ba okay . ami_da_12
+B 666.27 Right ami_da_9
+B 666.27 we did not really touch on that ami_da_4
+B 666.27 but it ami_da_4
+B 666.27 it is in there , ami_da_4
+B 666.27 yep . ami_da_4
+A 671.63 and ami_da_3
+A 671.63 Clever , clever , well done . ami_da_9
+C 672.56 The voice recognition area actually doubles as as the solar cell area . ami_da_4
+C 678.45 Yeah . ami_da_4
+A 680.07 so I guess that would mean we have got a bit of a ami_da_3
+A 680.07 It is a s a speaker and a sensor at the same time ami_da_4
+A 680.07 is not it ? ami_da_11
+A 680.07 Okay . ami_da_12
+B 688.27 Yeah , ami_da_9
+B 688.27 yeah . ami_da_9
+B 689.34 It is just making use of the same space and the same materials , ami_da_4
+B 689.34 Yeah , ami_da_9
+B 689.34 one big curve I guess you could say . ami_da_4
+A 693.78 and the case , it is more of a single curved case , ami_da_4
+A 693.78 I guess would be that be the general ami_da_3
+A 693.78 and we have got a rubber skin material basically throughout . ami_da_4
+A 708.6 Push button interface with this other drop down ami_da_4
+A 708.6 so maybe we have got two push button interfaces ami_da_4
+A 708.6 do not we ? ami_da_11
+B 715.89 Yeah , . ami_da_9
+A 719.11 And a special ami_da_3
+A 719.11 I guess it is we have got a sort of a wood materi a rubbery type material that throughout , ami_da_4
+A 719.11 yeah . ami_da_9
+B 727.67 Yeah , ami_da_9
+B 727.67 special . ami_da_4
+B 729.56 And s I guess you have to mark special colour and special form as well , ami_da_6
+B 729.56 do not you ? ami_da_11
+B 729.56 Because it i it is very unconventional , I like to think of it as unconventional . ami_da_4
+A 736.08 Yeah , it is it is quite unique . ami_da_9
+A 737.33 I like it , yeah ami_da_9
+A 737.33 it is ami_da_3
+A 737.33 So ami_da_2
+A 737.33 it looks like a bit over budget , . ami_da_4
+D 742.2 M come in at sixteen ? ami_da_4
+D 742.2 Yeah . ami_da_1
+B 744.08 Oh . ami_da_16
+B 745.04 Huh , ami_da_16
+B 745.04 does not match up ami_da_4
+B 745.04 does it ? ami_da_11
+B 745.04 How do you feel about that ? ami_da_11
+B 745.04 I mean we could take we could take the battery out of it ami_da_6
+B 745.04 you see ami_da_6
+B 745.04 and it would probably work ninety nine per cent of the time ami_da_4
+B 745.04 but you are going to have to set up a call centre for that one per cent of the time ami_da_6
+B 745.04 when people are calling and saying oh look my remote is not working ami_da_4
+B 745.04 what am I going to do ? ami_da_8
+B 745.04 People would be real upset . ami_da_4
+A 748.56 So ami_da_2
+A 748.56 what we could do perhaps , a simple fix would maybe to switch away from the solar cells or take out the back up battery . ami_da_6
+C 761.17 I mean ami_da_2
+C 761.17 I think that if we are talking about it being one of our main selling features , being environmental and without the batteries and what not , although it does still have a battery ami_da_4
+C 761.17 so I am not sure that you know what the sell is on that . ami_da_9
+D 786.28 k . ami_da_1
+B 789.07 I think in the long run it is better to keep the battery , it is hard to scrap the whole cell battery idea ami_da_9
+B 789.07 because that is so integral to the theme that we have . ami_da_4
+D 789.1 True . ami_da_9
+A 809.06 What is difficult , we have all these things integral to the to the design of it that we just ca not back out of now , ami_da_9
+A 809.06 it would have to be ami_da_3
+A 809.06 seems like we would have to go back to square one in a way . ami_da_6
+D 813.94 Nah . ami_da_1
+A 825.96 if we were going to try to undo one bit we would probably have to undo most of it , It is either or . ami_da_6
+B 831.0 Yeah . ami_da_9
+D 832.45 Although we do not want to get rid of the whole environmental ami_da_4
+D 832.45 I mean obviously the solar cell is a big piece of the way we are marketing this as like a natural , new thing , ami_da_4
+D 832.45 but honestly if we cut that one piece out we are actually coming in under budget ami_da_6
+D 832.45 if I have done my math correctly . ami_da_11
+C 851.98 I mean you might be able to sway me on the idea that we our main selling point could be already this voice recognition thing ami_da_9
+C 851.98 I mean that is what sets us apart ami_da_4
+C 851.98 right ? ami_da_11
+C 851.98 And the reality is you know , for me from an ideological stand point , I would like to stick with the the solar cell , ami_da_9
+C 851.98 but I h kind of have to throw myself in the in the business structure model here ami_da_7
+C 851.98 and you know I think I think that I think that we need to come to a compromise here and maybe move ahead with the project , without the solar cell . ami_da_6
+D 852.3 I mean Which , it is ami_da_3
+D 852.3 yeah ami_da_9
+D 852.3 that is what setting us into this young market , I mean that is where we started from , so ami_da_4
+D 852.3 I do not know , ami_da_9
+D 852.3 and I mean you know ami_da_2
+D 852.3 perhaps when the cell technology comes down in price we can bring that back into the game ami_da_6
+D 852.3 but it looks like at this point that may be out of our league . ami_da_9
+B 878.0 Right . ami_da_1
+D 887.28 Right . ami_da_1
+D 889.42 Yeah . ami_da_1
+B 890.35 Right . ami_da_1
+D 893.92 Yeah . ami_da_9
+B 901.99 Yeah . ami_da_9
+D 902.64 I think unfortunately that is our best option . ami_da_9
+B 902.71 I guess we might have to do that . ami_da_9
+B 904.47 It is the only way we are going to get below our goal ami_da_4
+B 904.47 is not it ? ami_da_11
+B 904.47 Of twelve fifty . ami_da_4
+A 909.4 Because we ca not remove the push buttons ami_da_6
+A 909.4 because they are ami_da_4
+A 909.4 and we ca not get rid of the I mean removing the ami_da_3
+A 909.4 changing the case would not be so much of a mm mm , , nor would changing the case materials . ami_da_9
+B 912.61 Yeah , . ami_da_9
+D 912.93 It kind of ami_da_3
+D 912.93 yeah . ami_da_9
+C 922.02 Savings . ami_da_9
+D 924.3 Mm mm . ami_da_1
+A 929.93 So yeah ami_da_2
+A 929.93 that looks like to be the only thing . ami_da_4
+D 932.31 Yeah . ami_da_9
+A 932.66 So that would be the ami_da_2
+A 932.66 it is a major change but ami_da_9
+A 932.66 Yeah . ami_da_16
+B 939.8 Gotta do what you gotta do . ami_da_9
+A 939.95 Alright , so ami_da_2
+A 939.95 we are in agreement on that . ami_da_4
+D 942.68 Unfortunately I think we are . ami_da_9
+C 946.39 No , ami_da_2
+C 946.39 I think that was a good compromise you brought forward Sarah . ami_da_9
+A 956.17 Right . ami_da_2
+A 959.57 Moving along swiftly . ami_da_6
+A 961.07 , so ami_da_2
+A 961.07 I guess now we just go to the project evaluation which I will allow Sarah to take over . ami_da_6
+D 969.88 That would be me . ami_da_4
+D 971.1 cord ? ami_da_6
+D 971.1 No problem . ami_da_14
+A 972.84 of course , ami_da_9
+A 972.84 sorry . ami_da_14
+A 974.92 Whoosh . ami_da_16
+D 977.19 Can you reach , ami_da_6
+D 977.19 that would be great , ami_da_9
+D 977.19 thank you . ami_da_14
+C 977.99 Yep . ami_da_9
+A 980.61 That would be great ami_da_14
+A 980.61 Brilliant . ami_da_9
+D 983.46 I did not even do that one on purpose either , ami_da_4
+D 983.46 damn . ami_da_15
+D 986.92 Okay , , ami_da_2
+D 986.92 basically I was just evaluating from what we know of how our product is working right now with the criteria that we set at the beginning of these are the things we needed to do , these are the things that look like we feel they are important . ami_da_4
+D 998.24 so I was looking at basic design things , ami_da_4
+D 998.24 does it fulfil its functions as a remote ? ami_da_11
+D 998.24 Is the design what we wanted it to do ? ami_da_11
+D 998.24 I ami_da_3
+D 998.24 are technologies up to where we hoped they would be and does it fulfil the aesthetic qualities that our original market research was looking for ? . ami_da_11
+D 1013.65 Basic questions like , you know , does it turn on ? ami_da_11
+D 1013.65 Does it respond to voice recognition ? ami_da_9
+D 1013.65 And overall , in general , it looks like it is coming up to par . ami_da_9
+D 1022.59 , the only thing is with with the pull out panel , that is , can it take some adjusting ami_da_11
+D 1022.59 because it is a new sort of interface , ami_da_4
+D 1022.59 that looked like it was coming up rough , but then , once you get used to it , it does make a lot of sense . ami_da_9
+D 1035.2 So I think overall we are headed in the right direction . ami_da_9
+B 1038.11 Really good . ami_da_9
+D 1039.28 So . ami_da_2
+C 1039.93 They like that spongy feel . ami_da_4
+D 1041.63 Yeah . ami_da_9
+D 1042.63 It looks like it is going over well , so ami_da_4
+D 1042.63 we are we are good ami_da_9
+D 1042.63 yeah . ami_da_9
+C 1043.81 And the paging function works well , that is good to hear , ami_da_9
+C 1043.81 we worked hard on that one . ami_da_4
+B 1044.33 Six ? ami_da_16
+B 1044.33 We did . ami_da_9
+D 1048.08 Yeah . ami_da_9
+D 1049.14 It is ami_da_3
+D 1049.14 I think eventually if we do branch out with this product maybe we do have a higher budget options ami_da_4
+D 1049.14 and if it goes over with this model we can look into wider range voice recognition like from other rooms of the house and stuff , ami_da_6
+D 1049.14 but for now , what we have got is working in the range ami_da_4
+D 1049.14 we need it for , ami_da_4
+D 1049.14 so ami_da_2
+D 1049.14 it is all good . ami_da_9
+B 1066.71 I am bit disappointed about losing the solar panel but it is okay . ami_da_9
+D 1066.95 That is everything from me . ami_da_4
+D 1070.02 Yeah . ami_da_9
+D 1071.65 Yeah , it is a set back , ami_da_9
+D 1071.65 but ami_da_3
+D 1071.65 Okay , ami_da_2
+D 1071.65 do you need the cord back ? ami_da_5
+D 1071.65 As in within the team or ? ami_da_5
+D 1071.65 Okay . ami_da_12
+C 1077.1 W we might have we might have lost that granola market again ami_da_4
+C 1077.1 that we are ami_da_3
+C 1077.1 I guess that is true . ami_da_9
+A 1077.54 yeah , ami_da_4
+A 1077.54 I was just ami_da_3
+A 1077.54 go on . ami_da_6
+B 1080.78 I know . ami_da_9
+A 1082.89 Well ami_da_2
+A 1082.89 they do not own tellys anyway ami_da_4
+A 1082.89 do they ? ami_da_11
+A 1082.89 Right . ami_da_2
+B 1084.97 True . ami_da_9
+A 1089.8 So , , ami_da_2
+A 1089.8 this one is a bit unclear to me to be perfectly fair , . ami_da_9
+A 1098.15 I got this slide from the coach and I am not sure what it is connected to . ami_da_4
+A 1102.83 so I guess we are going to discuss our project process ami_da_6
+A 1102.83 and that is going to go into my report . ami_da_7
+A 1112.4 So ami_da_2
+A 1112.4 I guess this is the point where we go out of role it looks like and talk about our satisfaction for room for creativity and so forth and how that all worked , I guess , . ami_da_6
+B 1124.2 Okay . ami_da_9
+A 1128.17 I think so ami_da_4
+A 1128.17 yeah . ami_da_4
+B 1128.93 Right so ami_da_2
+B 1128.93 it is just kind of a open mic kind of thing or ami_da_5
+B 1128.93 Okay . ami_da_12
+A 1130.6 I think it is I ami_da_3
+A 1130.6 , I think so . ami_da_4
+A 1134.93 I think hope I am not screwing up an experiment . ami_da_16
+D 1135.04 It is now , you are in charge ami_da_4
+D 1135.04 so ami_da_2
+D 1135.04 there you go . ami_da_14
+A 1143.47 But I trust that she would jump in if I was ami_da_4
+A 1143.47 so okay ami_da_2
+A 1143.47 fair enough . ami_da_9
+B 1145.81 Yeah . ami_da_1
+D 1145.86 Whatever . ami_da_16
+A 1146.48 right , so ami_da_2
+A 1146.48 any thoughts ? ami_da_11
+A 1146.48 Yeah . ami_da_4
+B 1152.72 Are we considering these points here ? ami_da_5
+B 1152.72 Okay . ami_da_4
+D 1155.27 I think they are starting blocks ami_da_4
+D 1155.27 yeah . ami_da_4
+A 1158.69 What do you guys feel about the process ? ami_da_11
+D 1162.12 , you know ami_da_2
+D 1162.12 I think in general , for a day is worth of work we actually were relatively productive , ami_da_9
+D 1162.12 considering the little amount of input we had going in . ami_da_4
+D 1171.17 , and the technology has definitely been a help , it is really been interesting to try out all this new stuff . ami_da_9
+C 1177.62 We did not use the whiteboard at all . ami_da_4
+B 1179.51 No . ami_da_9
+A 1179.59 No , no whiteboard . ami_da_9
+D 1179.62 No , we did not . ami_da_9
+D 1181.44 We could now if that would make up for it ami_da_6
+D 1181.44 but really ami_da_9
+D 1181.44 and I feel like if you guys had been designing in here perhaps that would have changed ami_da_4
+D 1181.44 but because of room constraints , does not really matter . ami_da_9
+C 1184.82 And ami_da_3
+C 1184.82 , also had I not been intrigued about the pen , I do not think I woulda used it at all , I did not write barely anything . ami_da_4
+D 1200.84 Yeah ami_da_9
+D 1200.84 I think I was taking notes more often than usual ami_da_4
+D 1200.84 just because I liked the pen , yeah . ami_da_9
+B 1203.89 Yeah , it is true . ami_da_9
+A 1210.55 Was pretty cool tack though . ami_da_9
+C 1212.8 Yeah . ami_da_9
+B 1213.53 Definitely . ami_da_9
+D 1214.63 I am disappointed I did not get a note back from my personal coach . ami_da_9
+B 1218.0 As you write your personal coach . ami_da_5
+D 1219.17 Yeah , but I did not get a response ami_da_4
+D 1219.17 so ami_da_2
+D 1219.17 we will see . ami_da_14
+B 1224.94 What if you get a response two or three months from now ? ami_da_14
+B 1224.94 That would be weird . ami_da_9
+D 1227.39 Okay ami_da_2
+D 1227.39 that would be kind of creepy . ami_da_9
+A 1228.44 Attempts to contact coach ineffective . ami_da_9
+D 1232.79 Well ami_da_2
+D 1232.79 what kind of coaching is that really ? ami_da_9
+D 1232.79 What if I really needed something . ami_da_5
+C 1238.86 I so ami_da_2
+C 1238.86 I do not ami_da_3
+C 1238.86 n I think there was a lot of room for creativity , ami_da_9
+C 1238.86 we could do whatever basically what we wanted until the budget came down on us , . ami_da_4
+D 1243.19 I think so . ami_da_9
+D 1248.42 And even then we did get a decent product turned out although it is not everything we wanted it to be . ami_da_9
+B 1253.13 Yeah . ami_da_9
+C 1253.49 With the natural look . ami_da_4
+B 1254.87 That is very natural . ami_da_14
+A 1255.72 Very natural look . ami_da_14
+D 1257.3 Organic , really . ami_da_14
+A 1259.42 That is the brilliance of they had a p they had a peeler in here . ami_da_14
+D 1262.85 And highly resourceful team mates might I add ami_da_14
+D 1262.85 which is always a plus . ami_da_9
+B 1266.42 Yeah . ami_da_1
+A 1268.42 Yeah , I think , yeah ami_da_9
+A 1268.42 re I thought it was like really creative actually , I mean . ami_da_9
+D 1271.51 yeah , I am impressed . ami_da_9
+C 1271.71 I think the teamwork was good as well . ami_da_9
+B 1275.22 And to prove that we were not wasteful we did not waste a single bit of Play Doh , we used every bit . ami_da_4
+D 1280.05 Nice . ami_da_9
+D 1281.34 All four of those little containers . ami_da_15
+B 1283.08 Yeah , ami_da_2
+B 1283.08 I guess ami_da_3
+B 1283.08 My one my one criticism is that we did not have enough colours to work with , ami_da_9
+B 1283.08 we only had four , ami_da_4
+B 1283.08 was not enough . ami_da_9
+A 1283.83 Including the s the multi coloured wave pattern . ami_da_14
+D 1291.94 Yeah . ami_da_9
+D 1293.12 You could have developed multiple skins really had you had more colours . ami_da_4
+B 1295.34 I know it could have been amazing . ami_da_9
+D 1297.6 Oh well . ami_da_16
+A 1299.76 What did you guys think about the the the roles ? ami_da_11
+A 1299.76 That is true , ami_da_9
+A 1299.76 I ami_da_4
+A 1299.76 I got this spreadsheet . ami_da_4
+D 1308.69 They were good . ami_da_9
+B 1310.8 Yeah it is f kind of fun , ami_da_9
+B 1310.8 it was ami_da_3
+B 1310.8 I think it was pretty clever ami_da_9
+B 1310.8 because we were never able to get too far off track because the information came in at the right time and kind of filled in the gaps enough . ami_da_4
+D 1312.55 Yeah . ami_da_9
+D 1324.18 True . ami_da_9
+B 1326.19 At the same time you had enough room to kind of just make things up , ami_da_4
+B 1326.19 which was kind of fun . ami_da_9
+D 1330.05 Do your own . ami_da_4
+D 1331.57 Though I did feel like th the level of information dropped off severely over the course of the day . ami_da_9
+B 1336.42 Yeah . ami_da_9
+D 1337.7 I mean maybe it is just me ami_da_4
+D 1337.7 but I did not actually get any information for the last presentation at all . ami_da_4
+D 1343.26 Nothing , I did not even get an email , ami_da_4
+D 1343.26 like ami_da_2
+D 1343.26 that was it . ami_da_4
+D 1348.42 So , yeah , ami_da_2
+D 1348.42 I feel like that was slightly lacking ami_da_15
+D 1348.42 but then you know , fill in the blanks on your own , level of creativity upped . ami_da_4
+C 1356.2 Well ami_da_2
+C 1356.2 I think that was ami_da_9
+C 1356.2 I think that was an issue I kept finding with regard to ami_da_9
+C 1356.2 well ami_da_2
+C 1356.2 no ami_da_9
+C 1356.2 but also ami_da_3
+C 1356.2 yeah ami_da_2
+C 1356.2 when I was reporting about what each of us was doing I was often confused as to what you were doing ami_da_9
+C 1356.2 and then I also felt like you know a lot of our discussion would centre around n specifically what my task was because that was kind of the interface portion which was what the whole project was about ami_da_4
+C 1356.2 but ami_da_3
+C 1356.2 and then in the end I think our jobs kind of melded together a little bit more , ami_da_4
+C 1356.2 which was fine . ami_da_9
+D 1356.25 Whatever . ami_da_9
+A 1359.54 Of what to do . ami_da_9
+D 1367.07 Uh huh , ami_da_2
+D 1367.07 that was not very much . ami_da_9
+B 1368.71 You know ami_da_2
+B 1368.71 Yeah . ami_da_1
+D 1378.42 Yes . ami_da_9
+D 1380.64 very much so . ami_da_4
+B 1384.87 Yeah . ami_da_9
+B 1385.83 That was fun . ami_da_9
+B 1386.62 I think the most helpful thing out of everything was getting the the PowerPoint slides already put together for you ami_da_9
+B 1386.62 because if we did not have that there is no way we could have got all that done in time . ami_da_4
+D 1394.62 Yeah , already having the formatted stuff helped a lot . ami_da_9
+D 1398.74 Very much so . ami_da_9
+A 1400.62 Cool . ami_da_9
+C 1402.3 And I think your leadership was quite good . ami_da_9
+B 1404.08 It was really good ami_da_9
+B 1404.08 yeah . ami_da_9
+A 1405.52 She said I I I ami_da_3
+A 1405.52 she actually made a comment off boy you are getting into this ami_da_4
+A 1405.52 and I really I think it is true ami_da_9
+A 1405.52 I did get ami_da_9
+A 1405.52 I ami_da_9
+A 1405.52 I felt like I got way too into it . ami_da_9
+D 1410.38 Yeah . ami_da_9
+D 1412.6 That is kind of a good thing though , ami_da_9
+D 1412.6 you know , ami_da_2
+D 1412.6 give the rest of us some structure to work with ami_da_4
+D 1412.6 so hey . ami_da_4
+A 1413.44 I felt like I slipped into it a lot . ami_da_9
+B 1413.78 It is kind of fun . ami_da_9
+A 1417.67 I dunno . ami_da_9
+C 1418.0 An ami_da_3
+C 1418.0 so ami_da_2
+C 1418.0 is that the first time you have taken on that kind of role ? ami_da_5
+C 1418.0 I had to admit , as soon as w we started I mean as soon as we got the Play Doh , th you know the whole concept of really trying to stick with reality went out the window . ami_da_4
+A 1420.58 The first time I have ever done anything like yeah project project management . ami_da_4
+A 1424.13 I usually organise crap , it is one thing to do , ami_da_4
+A 1424.13 you know set up a party with your friends , ami_da_4
+A 1424.13 you know ? ami_da_13
+A 1424.13 But you guys felt that you could keep the , yeah , suspension of disbelief kind of like like the role and the okay ? ami_da_5
+A 1424.13 Yeah , ami_da_12
+A 1424.13 yeah . ami_da_12
+B 1428.03 Yeah . ami_da_1
+D 1428.71 Yeah . ami_da_1
+B 1429.75 Little different . ami_da_4
+D 1436.63 Yeah . ami_da_4
+B 1437.27 Yeah . ami_da_4
+D 1437.29 I ami_da_3
+D 1437.29 except for a couple moments where it just got out of hand ami_da_4
+D 1437.29 and I knew we were all lying through our teeth , other than that ami_da_4
+D 1437.29 I could only imagine . ami_da_12
+B 1440.23 Yeah . ami_da_1
+A 1457.1 Maybe in in Legos you know ? ami_da_6
+A 1457.1 Be fun with Legos too , like make a remote control or spaceship , ami_da_6
+A 1457.1 we used to have spaceship Legos ami_da_4
+A 1457.1 did you guys ever used to build spaceships with Legos ami_da_5
+A 1457.1 everybody knows best spaceships ever . ami_da_9
+C 1459.51 Possibly . ami_da_9
+C 1465.89 Oh yeah , still have them . ami_da_4
+D 1466.59 Yeah . ami_da_4
+D 1468.5 Totally . ami_da_4
+A 1470.89 you guys felt like there was enough teamwork in all ? ami_da_11
+B 1473.33 Yeah ? ami_da_11
+B 1473.33 You do not . ami_da_9
+D 1474.0 I think so . ami_da_9
+C 1476.07 Yep . ami_da_9
+A 1480.14 No I , no I dunno , ami_da_9
+A 1480.14 I d ami_da_9
+A 1480.14 I I dunno , ami_da_9
+A 1480.14 I do not I ami_da_3
+A 1480.14 I was just I ami_da_3
+A 1480.14 It is true huh ? ami_da_9
+A 1480.14 Yeah . ami_da_1
+D 1483.8 Though we did not actually ami_da_3
+D 1483.8 I mean other than minor discussion at meetings there was not except for the actual building , ami_da_9
+D 1483.8 but I feel like if this was a team project there actually would have been much more of the collaborative like brainstorming , use the board ami_da_4
+D 1483.8 well ami_da_2
+D 1483.8 and this would have been six months' worth of work , not like three hours' worth of meetings . ami_da_4
+B 1489.12 Yeah . ami_da_1
+C 1502.32 I mean ami_da_2
+C 1502.32 I think had the issue been more serious we probably woulda brainstormed more during our meetings as a team . ami_da_4
+B 1506.4 Yeah . ami_da_9
+D 1506.46 That is true . ami_da_9
+A 1509.25 Yeah . ami_da_2
+A 1510.43 Course I am I am conscious of the idea of the Project Manager asking if you guys feel like there is a team you know ami_da_9
+A 1510.43 it is like , kind of like , like . ami_da_9
+A 1520.36 It d ami_da_3
+A 1520.36 But yeah . ami_da_2
+D 1520.45 Yeah that is kind of ami_da_9
+D 1520.45 Mine was the mics . ami_da_4
+A 1523.43 Interesting . ami_da_9
+A 1524.71 It is kind of fascinating ami_da_9
+A 1524.71 was not it ? ami_da_11
+A 1524.71 I mean the whole process of I do not know . ami_da_4
+B 1527.56 Wonder why ami_da_3
+B 1527.56 is there anything about the way that we got so much inform what was it ami_da_5
+B 1527.56 that kept us from going to the the board ? ami_da_5
+B 1527.56 Yeah , that is it ami_da_9
+B 1527.56 because the mics are loose and each time you get up it is s a possibility of tripping over something or getting tangled or . ami_da_4
+A 1535.64 I I do not know if there was a ri ami_da_3
+A 1535.64 I th ami_da_3
+D 1537.95 I did not feel like getting up and down and dealing with all these wires , I was afraid I was going to break something actually . ami_da_4
+D 1543.23 Yeah . ami_da_1
+D 1545.41 Yeah . ami_da_3
+D 1547.86 Yeah . ami_da_3
+C 1547.96 Well ami_da_2
+C 1547.96 I dunno what I woulda shown on that board . ami_da_4
+D 1550.21 True , ami_da_9
+D 1550.21 but it did not even occur to me as an option , ami_da_4
+D 1550.21 I mean I do not know that I would have ami_da_4
+D 1550.21 but I know that I consciously did not . ami_da_4
+A 1552.93 Nor I . ami_da_9
+C 1556.07 I mean ami_da_2
+C 1556.07 it is just like the paper ami_da_4
+C 1556.07 I do not know what I really needed the paper for . ami_da_4
+D 1559.59 True . ami_da_9
+C 1560.13 , because I have got this laptop . ami_da_4
+D 1562.97 Yeah . ami_da_1
+C 1565.31 Standard , I just used it because it is literally right in front of me . ami_da_4
+D 1568.65 Yeah . ami_da_1
+A 1568.81 I want to see the output files from these , from the digital paper . ami_da_4
+D 1570.0 Well ami_da_2
+D 1570.0 it looks really professional . ami_da_4
+A 1572.61 I want to see wh wh what my my handwriting looks like digitized because my handwriting is crap . ami_da_4
+D 1573.22 I know . ami_da_9
+B 1577.62 Yeah , ami_da_2
+B 1577.62 that is it . ami_da_4
+A 1578.27 I mean , ami_da_2
+A 1578.27 just to see what it looks like in PDF format or something . ami_da_4
+B 1583.12 Usually I would do a lot more doodling too ami_da_4
+B 1583.12 but I did not ami_da_4
+B 1583.12 because ami_da_3
+B 1583.12 New ideas . ami_da_5
+D 1585.38 I know , ami_da_9
+D 1585.38 I felt like I needed to be professional ami_da_4
+D 1585.38 so I did not like draw all over my paper and stuff . ami_da_4
+D 1591.62 Okay , well ami_da_2
+D 1591.62 not entirely , ami_da_9
+D 1591.62 but still , I doodled less than I usually do . ami_da_4
+A 1597.94 T ami_da_3
+A 1597.94 I I am curious about what the de briefing is going to be like . ami_da_4
+A 1600.81 You know , like ami_da_2
+A 1600.81 what is the ami_da_3
+A 1600.81 what exactly we are looking for here . ami_da_5
+C 1605.69 So ami_da_2
+C 1605.69 is this all we need to get through ? ami_da_5
+C 1605.69 Is it ami_da_3
+C 1605.69 Any new ideas with regard to remote control concepts ? ami_da_8
+C 1605.69 What is that ? ami_da_5
+C 1605.69 Our limited ability to think outside the box ? ami_da_5
+C 1605.69 Why ? ami_da_5
+C 1605.69 Huh ami_da_16
+C 1605.69 I think it was the real . ami_da_9
+A 1607.44 I dunno , I am not sure what the new ideas found i is about . ami_da_4
+D 1608.08 I guess . ami_da_4
+D 1612.47 It did it just say in an email that we need to discuss that ? ami_da_5
+D 1612.47 That slide was like that ? ami_da_5
+D 1612.47 Well . ami_da_2
+A 1615.46 Well , ami_da_2
+A 1615.46 that is the thing I got i in the email ami_da_4
+A 1615.46 I got this PowerPoint file but this slide was just there , . ami_da_4
+A 1623.04 I did not change this one at all . ami_da_4
+A 1626.58 ch ami_da_3
+A 1626.58 Yeah well . ami_da_9
+B 1626.83 I guess we are on the right track . ami_da_4
+A 1633.43 W I kind of like th ami_da_3
+A 1633.43 Yeah ami_da_2
+A 1633.43 you ca not ami_da_3
+A 1633.43 Yeah . ami_da_1
+B 1635.41 No , none . ami_da_4
+D 1636.66 I think they still do their job . ami_da_4
+B 1639.12 I think they are fine actually . ami_da_9
+D 1640.23 I am thinking outside the little square box though , with literally in like form ami_da_4
+D 1640.23 I do not ami_da_3
+D 1640.23 Yeah . ami_da_9
+B 1645.67 Yeah , ami_da_9
+B 1645.67 maybe a s a circle would be alright , different . ami_da_6
+A 1648.88 Does kind of make you wonder , ami_da_4
+A 1648.88 I mean , ami_da_2
+A 1648.88 how much can you do with a remote control ? ami_da_5
+A 1648.88 It is like inventing a new car . ami_da_4
+A 1654.95 Yeah yeah , ami_da_9
+A 1654.95 you can ami_da_3
+A 1654.95 Yeah . ami_da_12
+D 1655.05 It is still gotta be technically car shaped ami_da_6
+D 1655.05 or it wo not fit on the road , ami_da_4
+D 1655.05 you know ? ami_da_13
+D 1655.05 Do not know . ami_da_4
+A 1665.6 Okay . ami_da_2
+D 1666.25 Kind of . ami_da_4
+A 1666.53 So this was other costs . ami_da_4
+B 1667.46 Are we back into project mood ? ami_da_5
+B 1667.46 Yeah . ami_da_1
+A 1668.93 I dunno . ami_da_4
+A 1669.58 I think this is ami_da_3
+A 1669.58 forty ish ami_da_4
+A 1669.58 I I ami_da_6
+A 1669.58 I ami_da_6
+A 1669.58 we should go on a bit ami_da_6
+A 1669.58 yeah ami_da_6
+A 1669.58 about the project eval , . ami_da_6
+D 1670.68 Oh , ami_da_2
+D 1670.68 how long was our meeting supposed to be ? ami_da_5
+D 1670.68 How much time do we have left ? ami_da_5
+A 1679.84 I dunno about you guys ami_da_4
+A 1679.84 but I felt like a bit under stimulated on the whole thing . ami_da_4
+A 1687.06 Like , ami_da_2
+A 1687.06 what like you know what am I really doing , ami_da_8
+A 1687.06 you know ami_da_2
+A 1687.06 what is ami_da_3
+A 1687.06 Yep . ami_da_1
+D 1690.76 Yeah , ami_da_2
+D 1690.76 at the beginning it started out and I felt actually like under pressure like the first couple were taking a lot of work ami_da_4
+D 1690.76 and I was like had like all this brainstorming I was doing ami_da_4
+D 1690.76 and then suddenly I was like ami_da_4
+D 1690.76 well it is just another two minute presentation that you guys do not really care about anyway so type away . ami_da_4
+A 1704.42 Hey . ami_da_9
+D 1705.45 You know , you know what I mean like we all sort of knew where we were headed with it ami_da_4
+D 1705.45 so it did not feel like it mattered anymore . ami_da_4
+B 1708.11 Yeah . ami_da_9
+C 1710.48 Yeah . ami_da_1
+B 1710.57 Definitely when when I first filled out the questionnaire I was marking it probably higher in terms of how much I had to how much I stressed over it and then by the time I got to the last one I was like , you know , not very much . ami_da_4
+D 1720.49 Whatever . ami_da_4
+D 1721.89 Yeah . ami_da_4
+C 1722.22 Think it was also realisation of you basically just copy and paste what is given to you into your presentation which was not so clear to me at the beginning . ami_da_4
+B 1727.46 Yeah . ami_da_9
+D 1727.88 Very much ami_da_9
+D 1727.88 , yeah . ami_da_9
+A 1732.42 I actually did not do that at all though , every single one ami_da_4
+A 1732.42 I a all the presentations I either added slides or edited them . ami_da_4
+A 1738.75 I di ami_da_3
+A 1738.75 Oh . ami_da_12
+C 1738.77 Oh ami_da_2
+C 1738.77 I added like five slides too , ami_da_4
+C 1738.77 but I ami_da_3
+C 1738.77 Yeah , mine too . ami_da_9
+D 1740.45 See ami_da_2
+D 1740.45 I only got blank ones . ami_da_4
+B 1740.89 Did you really ? ami_da_5
+B 1740.89 I just got blank ones ami_da_4
+B 1740.89 and ami_da_3
+B 1740.89 Me too . ami_da_9
+A 1742.97 What ? ami_da_16
+A 1742.97 Really ? ami_da_5
+A 1742.97 Did they not have they did not like mine ami_da_3
+A 1742.97 yeah ami_da_2
+A 1742.97 they did not come like this ? ami_da_5
+A 1742.97 Like with ami_da_3
+A 1742.97 this was what it looks like . ami_da_4
+D 1743.76 My slides were all blank , they would have a title maybe and they were just empty . ami_da_4
+D 1752.65 Like with those words already on it ? ami_da_5
+D 1752.65 No . ami_da_15
+A 1752.67 This is what that looked like , literally , just like that . ami_da_4
+C 1754.79 No . ami_da_16
+A 1755.89 Interesting . ami_da_9
+D 1756.02 I wondered why yours always looked so more complicated . ami_da_4
+A 1758.53 Uh huh huh huh . ami_da_16
+B 1759.7 I deleted slides . ami_da_4
+D 1763.17 I think I added a slide one time . ami_da_4
+C 1765.62 I added many slides every time ami_da_4
+C 1765.62 Yeah . ami_da_1
+D 1768.48 Hey ami_da_2
+D 1768.48 with the whole new background being innovative , yeah that was class . ami_da_9
+B 1770.48 That was pretty cool , it was a high moment of the whole experiment . ami_da_9
+A 1775.53 Interesting . ami_da_9
+A 1781.2 Any other thoughts come to mind ? ami_da_5
+A 1781.2 Yeah ami_da_3
+A 1781.2 but ami_da_3
+A 1781.2 Builds . ami_da_4
+D 1783.13 I want to know how our product would fare . ami_da_5
+D 1785.74 I ca not just leave it there . ami_da_4
+B 1785.8 I think it would fail , I think it would be a huge disaster , especially if it looks like that . ami_da_4
+D 1788.65 I think it would take extensive marketing , ami_da_4
+D 1788.65 okay , an apple with a red button on top , even I am sceptical . ami_da_9
+D 1799.29 But you know the whole ami_da_3
+D 1799.29 Yeah . ami_da_9
+C 1801.14 Even you . ami_da_4
+B 1802.75 I do not ami_da_3
+B 1802.75 we kind of designed it to look little bit like a face . ami_da_4
+D 1806.19 I know it is . ami_da_12
+B 1808.24 It is a happy face . ami_da_4
+C 1809.43 Actually that looked a lot more like a tongue from previous to fr some other design modifications . ami_da_4
+C 1822.66 I hope you appreciate the incorporation of some tin foil from a random Kit Kat bar ami_da_11
+C 1822.66 that happened to be consumed . ami_da_4
+D 1827.49 I I noticed that . ami_da_4
+D 1831.24 By accident . ami_da_4
+A 1834.0 Interesting . ami_da_9
+D 1836.68 Well huh . ami_da_2
+D 1837.39 An interesting day all in all I would say . ami_da_9
+A 1838.93 , yeah , I would say so . ami_da_9
+B 1838.95 Yeah , ami_da_9
+B 1838.95 it is I want to see a ami_da_3
+B 1838.95 Yeah . ami_da_1
+C 1840.6 So ami_da_2
+C 1840.6 again I reiterate my question ami_da_4
+C 1840.6 of how different we are comp compared to the other groups , especially between culture groups and what not . ami_da_5
+D 1847.78 I know . ami_da_5
+A 1848.16 , I know . ami_da_5
+A 1853.01 It seemed like everything flowed pretty logically . ami_da_4
+D 1853.7 I ami_da_3
+D 1853.7 Yeah . ami_da_9
+A 1855.26 You know from the the the basics to the conce ami_da_4
+A 1855.26 although the whole concepts thing , the whole concepts phase , I do not think I really understood like the concept . ami_da_5
+A 1864.58 Well ami_da_2
+A 1864.58 the id ami_da_3
+A 1864.58 okay ami_da_2
+A 1864.58 the notion of ami_da_3
+A 1864.58 yeah ami_da_2
+A 1864.58 I mean ami_da_2
+A 1864.58 i it is not like I have a concept of a mug is material , it is just it is what it is . ami_da_4
+D 1866.0 Because it is such a functional item . ami_da_4
+A 1873.42 You know , ami_da_2
+A 1873.42 maybe i rather than concepts i ami_da_3
+A 1873.42 it should be th thought of we sh ami_da_3
+A 1873.42 I ami_da_3
+A 1873.42 I thought of ami_da_3
+A 1873.42 I thought of ami_da_3
+A 1873.42 rather than in terms of concepts I thought of it in terms of proposed idea . ami_da_4
+A 1887.04 And then the final would be like th the actual specified prototype or whatever , ami_da_4
+A 1887.04 I dunno . ami_da_9
+A 1894.0 But . ami_da_3
+A 1896.79 All in all it is kind of interesting . ami_da_9
+B 1900.16 So ami_da_2
+B 1900.16 we have more slides or ? ami_da_5
+A 1902.3 No just this closing one . ami_da_4
+A 1904.17 No ami_da_2
+A 1904.17 we have established that the costs were not really within budget , but we could s ami_da_4
+A 1904.17 you know do it ami_da_4
+A 1904.17 We did the project evaluation based on Sarah ami_da_4
+A 1904.17 is evaluation of on off switches ami_da_4
+A 1904.17 and ami_da_3
+D 1908.28 We got it to be . ami_da_4
+D 1910.55 Like cutting corners . ami_da_4
+D 1916.88 Kind of , though it was really technically an evaluation of the product , not the project in general . ami_da_9
+D 1923.92 Which I am not sure is the same thing , at the time that just i made more sense , but I could see if they were really asking about us . ami_da_4
+A 1924.02 True . ami_da_9
+A 1932.01 Yeah . ami_da_12
+A 1934.87 Because we di we had a thu think about it . ami_da_4
+A 1939.38 Yeah . ami_da_9
+A 1943.14 And it is all recorded , ami_da_4
+A 1943.14 woo hoo . ami_da_16
+A 1944.7 Yeah ami_da_2
+A 1944.7 what I am going to ami_da_3
+A 1944.7 I am going to put ami_da_3
+A 1944.7 I am supposed to do this final report thing at the end ami_da_4
+A 1944.7 so I will put all that into the final report as well , or as much as seems like maybe not like the articles and stuff , like because and if and so forth , but I will put most of it in the reports . ami_da_7
+D 1944.7 Yay . ami_da_16
+B 1955.99 I ami_da_3
+B 1955.99 It would be so cool if we get a copy of the recording . ami_da_9
+D 1960.64 Make it sound eloquent . ami_da_6
+D 1963.21 Oh , I have to done ami_da_2
+D 1963.21 I have ami_da_2
+D 1963.21 I have done transcription before ami_da_4
+D 1963.21 and it is really ridiculous how many words people say like just in the middle of their sentences like that ami_da_9
+D 1963.21 that mean nothing . ami_da_4
+A 1966.29 Nice . ami_da_14
+A 1970.95 Oh yeah . ami_da_9
+A 1974.21 There is a whole branch of psychology that looks into that , psycholinguistics . ami_da_4
+C 1977.11 What the uhs and the ami_da_5
+B 1977.26 Really . ami_da_16
+D 1977.65 There is a guy studying it here , yeah , he is studying ums and ahs or something . ami_da_4
+B 1979.75 Filler words or ? ami_da_5
+B 1979.75 Disfluencies . ami_da_12
+A 1981.01 Yep , they are called disfluencies . ami_da_4
+D 1984.32 That is a good word for it . ami_da_9
+A 1985.94 Yeah ami_da_9
+A 1985.94 we like our fancy phrases and terminologies for things . ami_da_4
+D 1989.59 Just add some prefixes , ami_da_6
+D 1989.59 sounds classier . ami_da_4
+A 1991.75 Exactly ami_da_9
+A 1991.75 I will save this into the project documents . ami_da_7
+B 2000.41 I find myself hitting the send and receive button on the email a lot , just out of boredom , ami_da_4
+B 2000.41 like c come on gimme something . ami_da_6
+D 2003.16 I , ami_da_3
+D 2003.16 yeah , ami_da_9
+D 2003.16 pretty compulsively during meetings , like , ami_da_4
+D 2003.16 yeah . ami_da_4
+A 2003.45 Yeah . ami_da_9
+A 2003.7 Oh yeah . ami_da_9
+A 2005.38 Yeah I know . ami_da_9
+A 2007.76 Come on give me some information . ami_da_6
+A 2009.29 Well ami_da_2
+A 2009.29 to be fair we are we are hooked ami_da_4
+A 2009.29 we are all hooked on the internet , ami_da_4
+A 2009.29 so I mean I do the ami_da_3
+A 2009.29 I know , ami_da_9
+A 2009.29 imagine we went the first ten y fifteen years of our lives without the internet . ami_da_4
+D 2012.33 Yeah , ami_da_9
+D 2012.33 we are addicts . ami_da_4
+C 2015.15 That is scary ami_da_9
+C 2015.15 yeah ? ami_da_11
+C 2015.15 Well ami_da_2
+C 2015.15 just around that eight or or nine people that are ami_da_3
+C 2015.15 Dude , I think we have had internet for like eighteen years . ami_da_9
+B 2016.27 It is scary . ami_da_9
+A 2023.69 It is only in the last ten that we are like where is the internet ? ami_da_4
+A 2023.69 I mean , you know , ami_da_2
+A 2023.69 it just in the past five we have gone from twenty eight eight modems to broadband all the time . ami_da_4
+D 2025.44 Yeah . ami_da_1
+D 2028.7 I yeah . ami_da_1
+D 2032.55 True . ami_da_9
+A 2035.99 No ami_da_2
+A 2035.99 we have but I not in the sense that it is so un you know ubiquitous ami_da_9
+D 2036.34 I yeah . ami_da_1
+B 2038.76 Yeah . ami_da_1
+D 2039.04 But it is not regular ami_da_4
+D 2039.04 I mean my grandparents had it in the eighties ami_da_4
+D 2039.04 and I got it in ninety four , but still . ami_da_4
+B 2044.23 It is crazy . ami_da_9
+D 2045.83 Uh huh . ami_da_16
+B 2046.11 So ami_da_9
+B 2046.11 Should . ami_da_6
+C 2046.87 In the eighties ? ami_da_12
+C 2046.87 Right . ami_da_1
+D 2048.12 My grammy does computer science back in the States and so they had an EDU and gov network . ami_da_4
+D 2054.57 There is basically the fundamental structures , but it was not household to household yet because it had not been partitioned off and stuff , ami_da_4
+D 2054.57 yeah ami_da_9
+D 2054.57 that was him . ami_da_4
+C 2062.34 Yeah , ami_da_9
+C 2062.34 it was to the like seven universities or something . ami_da_4
+C 2069.35 You guys ready to celebrate ? ami_da_5
+C 2069.35 Celebrate . ami_da_6
+A 2071.67 Yeah ami_da_9
+A 2071.67 that is our last step . ami_da_4
+D 2071.92 Apparently , does that include like champagne or something exciting ? ami_da_5
+D 2071.92 I think so . ami_da_9
+A 2072.96 Celebration . ami_da_4
+A 2076.26 Okay ami_da_2
+A 2076.26 I guess we can probably call that meeting to an end for the most part . ami_da_6
+D 2078.97 I think that is a closer . ami_da_4
+A 2080.78 Cool . ami_da_9
+B 2080.83 Has it been forty minutes or whatever ? ami_da_5
+B 2080.83 this has been long enough . ami_da_4
+A 2087.09 Where do you find that ? ami_da_5
+A 2087.09 Is this one of those media player ? ami_da_5
+A 2087.09 W ami_da_3
+A 2087.09 oh . ami_da_2
+D 2088.82 I have no idea . ami_da_4
+B 2090.32 Is that the only song you have ? ami_da_5
+B 2090.32 That is awesome . ami_da_9
+C 2091.96 There is another one . ami_da_4
+C 2095.25 Huh ? ami_da_12
+A 2096.98 The default track . ami_da_4
+A 2098.23 I thought it was David Burns , look into the eyeball . ami_da_4
+A 2100.72 That is one that seems to be shipping with it shipped with for a while , maybe this is the new version . ami_da_4
+D 2105.86 So ami_da_2
+D 2105.86 is that a close ? ami_da_11
+D 2105.86 Okay , ami_da_2
+D 2105.86 that is the end of the meeting . ami_da_4
+A 2107.17 Yeah , ami_da_9
+A 2107.17 I guess we will call that a a doner . ami_da_6
+D 2111.09 Thank you gentlemen . ami_da_14

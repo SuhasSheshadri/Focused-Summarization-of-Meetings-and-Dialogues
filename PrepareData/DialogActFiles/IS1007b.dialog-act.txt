@@ -1,0 +1,431 @@
+A 37.55 So we come again for the the second meeting . ami_da_4
+A 42.34 for the aim of this meeting now is to to make presentation about the work for each one . ami_da_4
+A 58.72 And take the the decision about the the design and the functionality of the the remote control . ami_da_4
+B 62.97 Okay . ami_da_12
+C 69.65 Okay . ami_da_1
+A 69.79 And we have think I got a new project requirement . ami_da_4
+A 75.31 So I think teletext becomes outdated . ami_da_4
+A 82.07 So the popularity of the since the popularity of the internet , and I think we do not need lighting adaptive , so the remote control should be only used for the the television . ami_da_4
+C 82.25 Okay . ami_da_1
+A 98.31 And of course we should have our image in the in the design . ami_da_4
+A 106.59 So , let is start with the the industrial designer . ami_da_6
+C 114.89 Yeah , alright . ami_da_9
+C 116.75 So ami_da_3
+C 116.75 Well I have a PowerPoint pr presentation stored in my in my personal folder ami_da_4
+C 116.75 so I ami_da_4
+C 116.75 I ami_da_4
+C 116.75 I think you can reach it from here . ami_da_4
+A 117.01 Or y you can use the whiteboard if you want . ami_da_4
+A 122.23 Here . ami_da_16
+D 130.26 Just go to explorer . ami_da_6
+D 132.84 Or open . ami_da_4
+A 133.09 Oh okay . ami_da_1
+D 136.05 Participant two . ami_da_4
+C 136.92 Participant two . ami_da_4
+A 143.36 This one . ami_da_5
+C 144.22 Yeah . ami_da_4
+D 145.48 Open . ami_da_6
+C 150.48 open . ami_da_6
+A 151.3 Do you want to open ami_da_14
+B 152.47 Because it is open you mean . ami_da_14
+C 155.59 Right , so I will talk about the the w working design and ami_da_4
+C 155.59 And well I I will present my my first idea on how to build the our new remote control for television . ami_da_4
+B 158.41 F five . ami_da_6
+D 160.12 Slide show , view slide show , . ami_da_6
+C 174.65 So can you go one page down , please . ami_da_6
+C 179.19 So I think the first things to do is to define the hardware components neededs to achieve what we want to do . ami_da_4
+C 187.47 So I am thin ami_da_3
+C 187.47 I think I I will do a survey about what is what is available on the market and what what is the the cheapest possible things we hav we can use . ami_da_7
+C 206.89 Then I will try with the technical team to to build a prototype and to see with h how this little box would look look like . ami_da_7
+C 219.73 And how an and we can start troubleshooting first com communication problems or things like that . ami_da_7
+C 227.37 And when we are ready with this first prototype ami_da_6
+C 227.37 I ami_da_6
+C 227.37 I think we can add some software functionalities on a programmable chip like browsing by content or things like that . ami_da_6
+C 239.53 Okay so can you go down ami_da_6
+C 239.53 So , wha what I think for now is we do not want to have a remote control w which is wired ami_da_4
+C 239.53 so I think we u ami_da_4
+C 239.53 we can use a battery for the . ami_da_4
+C 258.69 Then two programmable chips for both software functionalities and communication . ami_da_6
+C 266.5 And the communication with the TV set is made through infrared communication ami_da_4
+C 266.5 So this is the the schema of the o of the future remote controls so you can you can see the components , battery and the two chips goes to the infrared connection to the TV set . ami_da_4
+B 277.57 Did you draw it ? ami_da_5
+B 277.57 This . ami_da_3
+A 280.22 Wow . ami_da_9
+A 294.03 This . ami_da_3
+B 294.09 What is the other chip for ? ami_da_5
+B 294.09 The one on top . ami_da_5
+C 296.24 The one on top is for the well the functionali the functionalities and the the th red sorry the green one is is to well , putting things together , f transform the data into qu into the format to to to communicate with the TV set . ami_da_4
+D 299.14 One is a communication . ami_da_6
+B 312.42 For men . ami_da_3
+B 314.57 To the in ami_da_3
+B 314.57 Okay . ami_da_1
+C 319.06 And , that is it . ami_da_4
+C 320.78 I think we should use a FPGA for for the functionalities which is easy to to t ami_da_6
+C 320.78 It is field programmable something array . ami_da_4
+B 328.02 What is FPGA ? ami_da_5
+B 328.02 So why is it how is it different from the Bluetooth ? ami_da_5
+B 328.02 Yeah . ami_da_9
+D 332.88 Gateway arrays . ami_da_4
+C 334.09 Yeah . ami_da_1
+D 334.37 It is a field programmable gateway arrays . ami_da_4
+C 339.52 Well , a FPGA is just a chip ami_da_4
+C 339.52 you can you can pr programme it wi with wh whatever you want . ami_da_4
+B 343.2 Programme it . ami_da_9
+D 343.84 Yeah . ami_da_1
+B 347.4 Okay . ami_da_1
+C 348.01 And well the Bluetooth chip is just responsible to make the communication between the two devices . ami_da_4
+B 352.16 Yeah . ami_da_1
+B 354.13 So this are the they have to work together ? ami_da_5
+B 354.13 Or ? ami_da_5
+B 354.13 Do they have to work together or two separate choice ami_da_5
+B 354.13 Okay . ami_da_9
+C 359.35 No . ami_da_4
+C 360.73 Well , th the FPGA will produce the the data to send . ami_da_4
+D 365.33 Or it is something like is not hardware the first one ? ami_da_6
+D 365.33 And the second one is for the software . ami_da_6
+B 368.37 Is the is the software par ami_da_3
+B 368.37 alri ami_da_12
+B 368.37 okay . ami_da_12
+D 369.92 Yeah to run th to make it run . ami_da_4
+C 370.38 Yeah . ami_da_1
+D 371.7 That is it . ami_da_12
+B 371.89 Okay , okay . ami_da_1
+B 372.99 So you can control if you want , right ? ami_da_14
+C 375.68 Yeah . ami_da_1
+D 376.99 No . ami_da_1
+C 377.66 Alright and that is it for the working design . ami_da_4
+C 380.18 So if you have any questions ? ami_da_11
+C 380.18 no no ami_da_4
+C 380.18 no ami_da_4
+C 380.18 no ami_da_4
+C 380.18 , I think we have to to have embedded b batteries in in the ami_da_4
+C 380.18 yeah into the t . ami_da_9
+D 383.16 Okay , and how about the battery power ? ami_da_5
+D 383.16 you mean that battery would be somewhere there and the remote contro the power to the battery comes through infrared ? ami_da_5
+D 383.16 Into the ami_da_4
+D 383.16 more compact and okay , ami_da_3
+C 400.4 Yeah , ami_da_1
+C 400.4 yeah . ami_da_1
+C 401.52 And I I do not think it will need very much power to make it run , so ami_da_4
+C 401.52 Yeah . ami_da_9
+D 407.94 Yeah , ami_da_9
+D 407.94 yeah . ami_da_9
+D 408.5 Okay . ami_da_9
+B 409.03 You can put it on the charger when you when you do not need to use it . ami_da_6
+C 412.7 It is a good idea . ami_da_9
+D 413.6 Yeah , that is right . ami_da_9
+B 414.89 Yeah . ami_da_1
+D 414.99 Having a charger rather than putting the battery cells always . ami_da_4
+B 417.37 Yeah , ami_da_1
+B 417.37 yeah . ami_da_1
+C 418.33 Yeah . ami_da_1
+D 419.08 People do not like it to have to buy the batteries when they run out . ami_da_4
+B 421.11 Yeah . ami_da_1
+D 423.18 We just make a small charger ami_da_4
+D 423.18 and put it Bu ami_da_3
+D 423.18 Our remote , we do not want to make it PDA . ami_da_4
+B 424.55 Y ami_da_1
+B 424.55 yeah , ami_da_1
+B 424.55 yeah . ami_da_1
+B 426.51 Because you are using because you are using Bluetooth , if some people have PDA they can use their PDA to control the TV if they want to , right ? ami_da_6
+B 426.51 I dunno . ami_da_14
+C 426.63 That is a good idea . ami_da_9
+A 426.98 You can i ami_da_3
+A 426.98 yeah . ami_da_3
+A 428.43 Ma ami_da_3
+A 428.43 Yeah we can change the b . ami_da_3
+C 433.96 Also , ami_da_4
+C 433.96 but ami_da_4
+C 433.96 but I ami_da_4
+C 433.96 I ami_da_4
+C 433.96 I think the the goal is to sell our remote control . ami_da_4
+A 440.83 Yeah . ami_da_1
+C 443.18 S okay , so charger for is the . ami_da_16
+B 466.64 So is mine . ami_da_4
+A 468.54 It is mine . ami_da_4
+B 469.64 Oh . ami_da_12
+A 469.9 Participant one , no ? ami_da_5
+B 471.65 Yeah , this your ami_da_4
+B 471.65 Yeah . ami_da_9
+A 478.62 Oh we have ami_da_3
+A 478.62 so let is move to to user interface design . ami_da_4
+B 486.2 So you can open ami_da_6
+B 486.2 three . ami_da_4
+A 488.45 Participant ami_da_5
+A 488.45 During the weekend . ami_da_14
+B 495.06 Yeah . ami_da_2
+B 497.2 So ami_da_2
+B 497.2 So I am working on the technical functions design . ami_da_4
+B 504.37 can you show the next slide . ami_da_6
+B 507.0 So the the purpose is to to find the important questions to ask is what effect should the apparatus have . ami_da_4
+B 515.75 So so I found on a webs on the internet ami_da_4
+B 515.75 yeah . ami_da_14
+B 523.27 I spent a lot of time searching and ami_da_4
+B 523.27 and I found that the function of remote control is to send messages to television set . ami_da_4
+A 526.2 That is good . ami_da_9
+D 534.56 G ami_da_3
+D 534.56 Yeah , not the TVs . ami_da_4
+B 534.61 For example switch on , switch off , switch the next channel and so on and so on . ami_da_4
+B 541.42 So I found two very good prototypes for for this interface from our competitors ami_da_4
+B 541.42 so can you ami_da_6
+B 541.42 Yeah , ami_da_4
+B 541.42 yeah , ami_da_4
+B 541.42 yeah . ami_da_4
+A 549.67 This are usual functionality . ami_da_5
+B 553.15 Ours is a bit different . ami_da_4
+B 554.74 So these are two example . ami_da_4
+B 556.7 One is from the other one is from , yeah , engineering centr ami_da_4
+B 556.7 yeah . ami_da_4
+A 561.6 Tasks . ami_da_14
+B 567.07 This is the most competing prototypes I have found . ami_da_4
+B 570.83 But then loo but then I found if you look at you see on the left one there are too many buttons ami_da_4
+B 570.83 Yeah . ami_da_9
+A 576.56 And they are small . ami_da_4
+B 578.56 O on the right I tried to play with the problem is that if I have hundred channels I have I have to choo press the other button to choose the hundred channels ami_da_4
+B 578.56 and I have to compose the number ami_da_4
+B 578.56 so it is very lousy . ami_da_9
+C 587.51 Yeah . ami_da_1
+C 593.94 Of course . ami_da_9
+B 594.04 So you so you move to the next the next one . ami_da_6
+B 597.83 Yeah , so I talk about the problem . ami_da_4
+B 599.8 And then I I look at the user manual ami_da_4
+B 599.8 they are a hundred pages thick , so we do not want that . ami_da_4
+A 604.95 Yeah . ami_da_1
+B 606.61 So I propose the easy to use prototype . ami_da_6
+B 610.37 You can navigate on TV screen and we can the user is preference and we need to have the TV connected to internet so we end in order to access the TV programmes by XML ami_da_6
+B 610.37 and we need some to do some preprocessing . ami_da_6
+B 626.78 From the technical aspect , the processing should be done on the TV set than on the on the remote controller , right ? ami_da_6
+B 626.78 And ami_da_6
+B 626.78 then we the speech recognition as Harry says we may just put in we may KIV . ami_da_6
+A 641.61 What do you mean by the pa pa processing will be done on the TV ami_da_5
+A 641.61 than the ami_da_3
+A 641.61 So we should have specific TV ? ami_da_5
+A 641.61 Or ? ami_da_5
+A 641.61 We can use this . ami_da_5
+B 645.24 Yeah , all the processing is done the TV is a compu has some processing power ami_da_4
+B 645.24 the ami_da_4
+B 645.24 Yeah . ami_da_1
+C 651.34 So we have to t ami_da_3
+C 651.34 We have to sell a TV with the remote control too . ami_da_6
+A 658.26 Yeah , we do not ami_da_3
+A 658.26 Yeah , I think so . ami_da_4
+B 660.53 Yeah because are you just wondering what controller okay . ami_da_5
+A 664.27 J j just the remote control . ami_da_4
+C 664.36 I think there there is there is al there ami_da_4
+C 664.36 there is a a technology like show view who is already available on most of the TV set on recorders or thing like that ami_da_4
+C 664.36 and we can try t to get this information on to the remote control to to do the processing on the remote control because ami_da_6
+C 664.36 Yes , that is a good idea , I think . ami_da_9
+B 669.56 Yeah . ami_da_1
+B 677.44 Okay . ami_da_1
+D 679.86 Yeah . ami_da_1
+B 680.61 Yeah . ami_da_1
+D 682.47 Yeah , that is right . ami_da_9
+B 683.0 Okay . ami_da_1
+B 683.56 So i the processing on on the remote controller so it can u be used in any TV , any conventional TV sets ? ami_da_4
+A 685.96 Yeah , ami_da_9
+A 685.96 we . ami_da_3
+A 690.39 Yeah . ami_da_9
+B 691.83 Okay . ami_da_12
+A 694.55 Speech recognition . ami_da_12
+B 695.46 N ami_da_4
+B 695.46 yeah , that is all . ami_da_4
+B 696.9 The next one ? ami_da_6
+B 696.9 So I come up with a simple design , ami_da_4
+B 696.9 just keep the v navigation buttons . ami_da_6
+A 703.9 Keep the navigation ami_da_4
+A 703.9 but . ami_da_3
+C 704.13 We d we do not we we do not need really much buttons to i if we have a screen to navigate on on the TV ami_da_4
+C 704.13 so ami_da_4
+C 704.13 Well , f four five buttons , it is sufficient . ami_da_4
+B 709.43 Yeah . ami_da_9
+B 711.38 Yeah . ami_da_9
+B 715.41 Yeah . ami_da_9
+C 717.15 It is easy to build , it does not consume much power . ami_da_4
+D 719.81 Yeah , that is right . ami_da_9
+B 724.12 Okay , that is all . ami_da_4
+D 726.45 Oh , but you have a catch there , ami_da_9
+D 726.45 assume that if you want to go to if you are watching channel two and if you want to go to channel ninety nine , then . ami_da_4
+C 737.11 Well , then y you you go to the main menu and you have go to channel ami_da_4
+C 737.11 and then you can ami_da_3
+C 737.11 Yeah . ami_da_9
+B 744.09 No , because you choose by channel , so you choose by TV program ami_da_4
+B 744.09 so you do not have hundred channels to choose from . ami_da_4
+D 747.04 Uh huh huh huh huh . ami_da_1
+C 747.74 Maybe you . ami_da_3
+B 753.04 If you go by channel , you do not have to do that . ami_da_4
+C 755.26 but I ami_da_4
+C 755.26 I think i i if you if you want to to make well a a big jump ami_da_4
+C 755.26 but well you you have to to have a a a device ami_da_4
+C 755.26 when you could you could ami_da_4
+C 755.26 Well , not a mouse ami_da_9
+C 755.26 but something that that says more clearly that right , left , up , down , well , the to have the ability to to to write something to the navigator , maybe directly , or ami_da_6
+C 755.26 So , ami_da_2
+C 755.26 we can think of buttons like in the telephone to send messages or things like that . ami_da_6
+D 756.08 But ami_da_3
+D 756.08 Yeah ami_da_9
+D 756.08 then ami_da_9
+D 756.08 yeah ami_da_9
+D 756.08 that is right . ami_da_9
+A 756.95 So you are ami_da_3
+B 762.01 , a big jump . ami_da_12
+B 770.58 A mouse or ami_da_6
+B 770.58 Yeah . ami_da_1
+D 780.52 Okay . ami_da_1
+D 789.76 Okay . ami_da_1
+C 799.36 But we will see . ami_da_16
+A 799.61 How the this remote ? ami_da_5
+A 799.61 Yeah , of course small . ami_da_9
+B 803.86 it is going to be small . ami_da_4
+B 807.24 Yeah . ami_da_3
+B 807.7 So it will beep if you want to find it ami_da_4
+B 807.7 you just shout y h just ami_da_3
+B 807.7 it just has to re respond to you when you look for the device . ami_da_4
+D 809.68 too small that it goes under the sofa and we ca not find it . ami_da_14
+D 821.15 Yeah , ami_da_9
+D 821.15 that is . ami_da_3
+B 822.36 I dunno how bu ami_da_4
+B 822.36 And responds to you , and ami_da_6
+B 822.36 I . ami_da_3
+D 825.29 just give it a name and we call him . ami_da_6
+D 829.71 Yeah , that is right . ami_da_9
+D 830.88 Yeah , that is right . ami_da_9
+C 835.1 Okay , so next presentation ami_da_6
+A 840.63 Participant four . ami_da_4
+A 850.22 So Harry . ami_da_6
+D 851.24 Okay , after having the inputs from industrial design and user interface , I think most of the points which I want to are already covered here . ami_da_4
+D 860.89 And to find the most interesting features what the users would be interested , then what we have done is we have put a feedback forms in all the magazines , and the users send the feedbacks , and based on that These are the findings which we got ami_da_4
+D 860.89 and yeah ami_da_4
+D 860.89 adding of a speech interface is always good for a TV remote but the technology We already know that as discussed earlier An it does how feasible it is . ami_da_4
+C 890.61 Well I I think it will be a , yes , a bit complicated to make a speech recognisers runs on the small ts ami_da_4
+C 890.61 Yeah . ami_da_9
+B 904.49 But I think if you to recognise numbers it is a well studied problem . ami_da_4
+B 909.58 I if you just recognise numbers is a limited you have limited vocabulary ami_da_4
+D 913.58 Oh we can put an limited vocabulary as in the mobile phones . ami_da_6
+D 917.34 We just have the ami_da_3
+D 917.34 it is not going to take much space also . ami_da_4
+C 919.1 And this can allow to choose the the program , for instance without adding buttons ami_da_4
+C 919.1 so it is a good idea . ami_da_9
+B 925.03 Yeah . ami_da_1
+D 929.02 It is going to be very slim . ami_da_4
+D 930.99 And next one was the size of the remote control . ami_da_4
+D 933.52 It has to be of course a very slim and small one . ami_da_4
+D 937.38 And of course most of the people are interested in if it is less expensive , so this is an important criteria here is ami_da_4
+D 937.38 I mean we have to look for a trade off . ami_da_4
+B 945.39 But ami_da_3
+A 945.86 But do you think what they sug suggested s possibility . ami_da_5
+D 951.86 The features and the cost . ami_da_4
+B 951.9 Yeah . ami_da_1
+B 953.59 I ami_da_6
+B 953.59 no ami_da_6
+B 953.59 I ami_da_6
+B 953.59 I think that i if we go for quality people may tolerate for high quality and of course comes with reasonable cost . ami_da_6
+A 953.72 Yeah . ami_da_1
+B 963.18 Maybe not less , but they may be willing to pay little bit more for comfort , ami_da_6
+B 963.18 yeah , extra features . ami_da_9
+D 966.82 Little bit more if it is with extra features . ami_da_6
+C 967.65 Yeah . ami_da_1
+A 967.88 It ami_da_3
+A 967.88 Yeah . ami_da_1
+C 971.2 Yeah , s s speech is a important extra feature I think ami_da_4
+C 971.2 Well , ami_da_3
+C 971.2 we we just have to find a mean how to to add a m a a a microphone or well yes a microphone into the the remote control , so ami_da_4
+C 971.2 I well ami_da_3
+C 971.2 it will be alright . ami_da_4
+D 971.6 Okay . ami_da_1
+D 974.65 Yeah , ami_da_9
+D 974.65 yeah . ami_da_9
+D 975.16 That is right . ami_da_9
+A 975.95 But is it useful or not u ami_da_5
+A 975.95 I do not know . ami_da_4
+B 976.22 Yeah . ami_da_1
+A 978.91 There is in the ami_da_3
+D 979.98 I mean , for a lazy guys they could say nine and the nine channel comes . ami_da_6
+D 984.7 Or they say movie name ami_da_6
+D 984.7 or I do not go for movie names ami_da_4
+D 984.7 but only for the numbers on the channel , or volume up , volume down , brightness , contrast . ami_da_6
+D 994.69 So , I think this should be a good idea , to put this features . ami_da_9
+D 998.17 And the fourth one was the teletext in various languages . ami_da_4
+D 1006.07 , I think ami_da_3
+D 1006.07 Yeah as discussed in the earlier meeting , but I think not much people are really interested in this point if it is not really required . ami_da_4
+A 1018.12 I think i ami_da_3
+A 1018.12 If it is necessary can you can do that . ami_da_4
+B 1020.05 What is the teletext ? ami_da_5
+A 1023.95 We can integrate small microphone in the remote ami_da_4
+A 1023.95 so it is not really a problem . ami_da_9
+C 1026.77 Yeah . ami_da_1
+C 1029.77 Okay . ami_da_1
+A 1032.05 What about lighting adaptive options ? ami_da_5
+A 1032.05 According to the re to the new requirements I think we do not need that . ami_da_4
+A 1040.2 Yeah . ami_da_1
+B 1043.19 It is interesting but we are only concerned with the remote controller . ami_da_9
+B 1049.11 So you need s special TV sets to do that ? ami_da_4
+B 1049.11 Or it is it is done via this remote controller ? ami_da_4
+B 1049.11 It is very complex . ami_da_9
+D 1057.76 I mean ami_da_3
+D 1057.76 I mean yeah , it is for the industrial design and users interface designers to decide if it is going to be working or not . ami_da_4
+C 1058.85 Yeah , I think it is a bit complex too ami_da_9
+C 1058.85 For our next product , our new TV set with automatical sound adjustment light ami_da_14
+D 1073.62 I think ami_da_3
+D 1073.62 I think as I discussed th that four points would be good for marketing . ami_da_4
+B 1074.96 Yeah , then we can conclude that . ami_da_14
+B 1077.7 Yeah . ami_da_1
+B 1079.14 Yeah , ami_da_1
+B 1079.14 but it is quite possible but maybe not in this project . ami_da_4
+A 1092.5 So we have I think we have s still ami_da_4
+A 1092.5 we have couple of minutes . ami_da_4
+A 1099.31 Mm mm . ami_da_1
+A 1106.98 So any things to to discuss ? ami_da_8
+A 1106.98 Or any suggestions ? ami_da_8
+A 1106.98 Expensive . ami_da_9
+D 1117.3 The speech interface and less reasonable cost . ami_da_4
+A 1122.09 Price . ami_da_4
+D 1124.18 And the lighting adaptation and the teletext . ami_da_4
+D 1126.87 And regarding the teletext these are the subtitl these are the text information which you got on the televisions . ami_da_4
+B 1134.09 Okay . ami_da_1
+D 1134.78 If you are watching an foreign movie , you get subtitles sometimes . ami_da_4
+B 1136.45 Yeah . ami_da_12
+B 1137.92 Okay . ami_da_12
+D 1139.07 And if you are a French guy watching an English movie you would like to have it in French . ami_da_4
+D 1144.46 And if I am a German then I would like to have the my options in German . ami_da_4
+D 1148.54 So , the remote it should have some it should give me some flexibility of choosing the ch languages . ami_da_6
+C 1151.32 Function . ami_da_6
+D 1155.49 That should be a good point . ami_da_9
+C 1159.31 Yeah , but well what about the the new project is requirement ? ami_da_5
+C 1159.31 I ami_da_6
+C 1159.31 I ami_da_6
+C 1159.31 I think we should give up with teletext , no ? ami_da_6
+C 1159.31 Yes . ami_da_1
+A 1166.55 I think we we can we is the . ami_da_3
+C 1174.88 Well , so maybe we we can j we can already think about a way to to access the internet via the television . ami_da_6
+C 1185.7 Because if ami_da_3
+C 1185.7 Yeah , but we can think that in a few years there will be TV set that can access the internet . ami_da_4
+B 1186.98 Using the TV to access the internet ? ami_da_5
+B 1186.98 Or what ? ami_da_5
+B 1186.98 I did not quite understand ami_da_12
+B 1186.98 Yeah , okay . ami_da_9
+A 1191.82 Yeah . ami_da_1
+C 1198.03 So it is a good idea if i i if we i if if we think about how to to to build up our remote control w with this functionality in a w which will c which will come in a few years . ami_da_4
+D 1198.04 We already have some . ami_da_4
+C 1216.14 So if we already have it in our remote control ami_da_6
+C 1216.14 Yeah . ami_da_9
+A 1217.93 So you have to anticipate the the future ? ami_da_4
+B 1221.28 Yeah . ami_da_9
+B 1222.0 The future demand , market demand . ami_da_4
+C 1222.2 Yeah . ami_da_9
+D 1224.37 Yeah , that is right . ami_da_9
+C 1224.38 Yeah , to desi ami_da_3
+C 1224.38 well , not not to implement it , but to well , to find a way to to add to add this functionality in a yeah , in an in an easy manner , if is possible . ami_da_4
+B 1231.01 The functionality in the future . ami_da_4
+A 1233.3 In future . ami_da_4
+B 1234.47 Alright . ami_da_9
+B 1237.3 Yeah . ami_da_4
+B 1238.19 Because all the TV sets will be digital , right . ami_da_4
+B 1240.24 All the programmes , everything will be in digital than analog . ami_da_4
+B 1244.06 Th the system will change and we have to anticipate for those change . ami_da_4
+C 1245.99 Yeah , ami_da_9
+C 1245.99 yeah . ami_da_9
+D 1248.19 Yeah , . ami_da_1
+C 1251.73 Okay . ami_da_2
+A 1252.36 Okay . ami_da_6
+C 1253.1 So ami_da_2
+B 1260.98 Okay . ami_da_14

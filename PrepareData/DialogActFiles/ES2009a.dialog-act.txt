@@ -1,0 +1,776 @@
+D 2.27 Are you sure I got it all head is kind of small . ami_da_4
+C 8.27 How are we placed in terms of the ami_da_3
+C 8.27 alright . ami_da_12
+D 8.36 Okay . ami_da_9
+D 11.17 We are okay ? ami_da_11
+D 11.17 We are good ? ami_da_11
+D 11.17 I guess it is going to be hard to drink coffee . ami_da_9
+B 15.12 Guess I should probably try to sit up straight . ami_da_7
+A 19.57 Like that ? ami_da_5
+A 19.57 Okay , cool . ami_da_9
+B 24.52 Oh , ami_da_2
+B 24.52 I think mine is fallen off . ami_da_4
+C 25.92 It fell That is why . ami_da_4
+D 41.1 okay . ami_da_9
+A 43.71 Okay ? ami_da_11
+A 43.71 Right , so ami_da_2
+A 43.71 I am just going to start this PowerPoint real quick . ami_da_7
+B 51.62 Wow . ami_da_9
+A 51.98 Yeah , PowerPoint . ami_da_4
+D 53.47 Very official . ami_da_9
+A 54.31 Yeah , well , ami_da_2
+A 54.31 you know , . ami_da_16
+A 69.08 Yeah I kind of like this I am kind of getting into it . ami_da_9
+A 73.38 Right . ami_da_2
+A 75.2 So ami_da_2
+A 75.2 just to kick off the meeting ami_da_7
+A 75.2 basically so ami_da_2
+A 75.2 we are working now for a real reaction , ami_da_4
+A 75.2 this is so it ami_da_3
+A 75.2 right . ami_da_2
+A 84.7 Just got an agenda to set out what we are going to try to accomplish in this particular first meeting . ami_da_7
+A 89.18 We are going to just do a quick opening and we can hopefully all get acquainted with one another then we are going to start talk a little bit about tool training . ami_da_4
+A 98.16 Essentially that means getting used to the only thing that we have not tried out yet , the whiteboard . ami_da_4
+A 103.27 we have got a general plan for the project how we are going to go about accomplishing this and then just a bit of discussion close up . ami_da_4
+A 110.82 I guess you know game or something in real life ami_da_3
+A 110.82 so yeah basically ami_da_2
+A 110.82 I want to I am just going to you got ami_da_3
+A 110.82 of course you can discuss that , ami_da_4
+A 110.82 I am thinking about proposing that since we have got this weird blend of ourselves and our roles that we just do not ask , do not tell . ami_da_6
+A 134.6 so ami_da_2
+A 134.6 if you say something about marketing , right , sorted , ami_da_6
+A 134.6 y is ami_da_3
+A 134.6 Exactly . ami_da_9
+D 139.58 You are just going to believe me , we will go from there . ami_da_6
+D 142.01 Fair enough . ami_da_9
+A 142.3 I mean ami_da_2
+A 142.3 obvi if if you guys if if at the same time if you like logically if something does not like if I am ami_da_3
+A 142.3 like ami_da_2
+A 142.3 we are going to sell a remote control that is the size of this paper book ami_da_4
+A 142.3 you know ami_da_2
+A 142.3 you say like well that does not seem like such a good idea because of X obviously go with it . ami_da_6
+A 156.27 I mean we will discuss it ami_da_6
+A 156.27 but I am not going to ask do you know that ami_da_7
+A 156.27 or yeah it seems like ami_da_7
+A 156.27 yeah ami_da_9
+A 156.27 yeah ami_da_9
+A 156.27 exactly ami_da_9
+A 156.27 so , ami_da_2
+A 156.27 because we are what ami_da_3
+A 156.27 we are sort of role playing ami_da_4
+A 156.27 is y g ami_da_3
+A 156.27 yeah ami_da_2
+A 156.27 you are going to tap into your own knowledge as well . ami_da_6
+D 160.92 Prove it ami_da_4
+D 160.92 yeah , ami_da_12
+D 160.92 okay . ami_da_12
+A 168.64 And that is the same for your when we do introductions ami_da_6
+A 168.64 I mean and you talk about your background ami_da_6
+A 168.64 you know ami_da_2
+A 168.64 have fun , ami_da_6
+A 168.64 you know ami_da_2
+A 168.64 maybe you went to ami_da_3
+A 168.64 you know ami_da_2
+A 168.64 maybe i you are like in Maine ami_da_4
+A 168.64 you went to UCSB ami_da_4
+A 168.64 but you want to say you went to Harvard or something like that , ami_da_4
+A 168.64 why not , ami_da_6
+A 168.64 you know ami_da_2
+A 168.64 you can this is ami_da_3
+A 168.64 you know ami_da_2
+A 168.64 I guess we can have a little bit of fun with it . ami_da_6
+A 185.31 So are you guys okay with that does that seem logical ? ami_da_11
+A 185.31 Sweet . ami_da_14
+B 188.67 Oh yeah , that is fine . ami_da_9
+C 189.96 Sure . ami_da_9
+D 190.16 Works for me . ami_da_9
+A 193.67 Cool . ami_da_14
+A 194.24 So ami_da_2
+A 194.24 I guess that that we are totally ami_da_3
+A 194.24 we are making a remote control ami_da_4
+A 194.24 which is thrilling ami_da_9
+A 194.24 but the idea is that we can make something based on the whole corporate model ami_da_4
+A 194.24 I dunno if you guys had time to check the ami_da_3
+A 194.24 in real life I dunno if you guys checked the the corporate website . ami_da_5
+B 199.21 Right . ami_da_1
+A 215.19 we have got to make something as fashionable as possible , that is kind of the corporate strategy is we are going to try to take ordinary stuff that nobody really thinks about and try to make it nice ami_da_4
+A 215.19 you know ami_da_2
+A 215.19 like John Lewis nice or you know if you go to Debenham is or something . ami_da_4
+A 231.44 So basically ami_da_2
+A 231.44 we are reinventing the wheel but we want to try to do it in a user friendly slick sleek kind of way . ami_da_4
+A 240.81 way we are going to go about doing that is basically at first we are going to start on the basics . ami_da_6
+A 247.01 And that is where I am going to need you guys the User Interface Designers and the the other designer ami_da_6
+A 247.01 that I ca not remember , ami_da_5
+A 247.01 the the ID and the UID ami_da_4
+A 247.01 right ami_da_9
+A 247.01 the Industrial Designer ami_da_4
+A 247.01 hey right on alright , ami_da_9
+A 247.01 getting into it ami_da_4
+A 247.01 to guide me and guide us on this project ami_da_6
+A 247.01 because you are going to be ami_da_4
+A 247.01 you are ami_da_4
+A 247.01 g ami_da_4
+A 247.01 you guys are the bottom ami_da_4
+A 247.01 you know ami_da_2
+A 247.01 you are like no you ca not do that you ca not have you know ami_da_4
+A 247.01 X and Y at the same time . ami_da_4
+D 260.86 There you go . ami_da_9
+A 274.15 And then we will work up from what is necessary to more like what would be good , ami_da_6
+A 274.15 you know like ami_da_2
+A 274.15 I ami_da_4
+A 274.15 I think you guys probably got the same emails I did ami_da_4
+A 274.15 but the idea of , yes a coffee pot needs to be able to hold coffee ami_da_4
+A 274.15 but it is also better if it is not like really cheap glass ami_da_9
+A 274.15 so that it if you touch it you hurt your hand , or something like that . ami_da_4
+A 296.84 and so we will work up from there ami_da_6
+A 296.84 and then we will meet on and talk about it ami_da_6
+A 296.84 and then finally we will incorporate as kind of the last stage you know where you guys build or tell me ami_da_6
+A 296.84 tell us what is possible ami_da_6
+A 296.84 and then you tell us what we can hope for and what way to go take the the the take the basics and make it nicer ami_da_6
+A 296.84 and then ov obviously the UID and the ID ami_da_6
+A 296.84 you know you you can keep on the ami_da_6
+A 296.84 you know sort of at the cutting edge of how to get about maximising what is possible to try t of sync it all up . ami_da_6
+A 329.23 So that is the detailed design . ami_da_4
+A 330.34 So it is a three stage kind of thing . ami_da_4
+A 332.24 right so ami_da_2
+A 332.24 for now just for th the white board basically just to get used to it , ami_da_6
+A 332.24 I have not tried it yet either ami_da_4
+A 332.24 I am just going to start and carry like five remotes around and just write down ami_da_7
+A 332.24 I am just going to write down one of the names of my desert discs ami_da_7
+A 332.24 you know ami_da_2
+A 332.24 if you if you were trapped on a desert island and you could only bring five CDs along with you name one of them that you could , not all five , if you want to write all five go for it but name one of them that you could . ami_da_6
+A 362.79 Oh , ami_da_16
+A 362.79 we skipped introductions . ami_da_4
+A 365.31 Nice . ami_da_15
+A 366.92 I am a excellent Project Manager . ami_da_15
+A 369.32 I am Marty , I went to uni at UC Santa Barbara and I am here working on a PHD in psychology . ami_da_4
+A 375.83 yeah . ami_da_2
+A 377.74 So ami_da_2
+A 377.74 Expert ami_da_4
+A 377.74 Do not play yourself down . ami_da_6
+D 379.14 I am Sarah , I went to Michigan , and I am here doing cultural studies and I am the Marketing Manager or something . ami_da_4
+D 386.44 Marketing , ami_da_4
+D 386.44 yeah Expert . ami_da_9
+D 388.8 Expert . ami_da_9
+D 389.83 Fine . ami_da_9
+A 389.99 Expert ami_da_4
+A 389.99 Where did you go to uni Nathan ? ami_da_5
+A 389.99 Oh ami_da_12
+A 389.99 brilliant . ami_da_9
+D 390.65 That is me . ami_da_4
+C 392.08 I am Ron . ami_da_4
+C 392.86 I once upon a time studied in Victoria and I am the User Interface Designer . ami_da_4
+B 401.79 I am Nathan , I am from California , and I am here doing a Masters degree in social anthropology . ami_da_4
+B 407.94 UCLA . ami_da_4
+B 409.43 Yeah . ami_da_1
+A 409.51 Cool . ami_da_9
+A 409.69 My little brother goes there . ami_da_4
+B 410.71 Okay . ami_da_12
+A 412.03 Right so ami_da_2
+A 412.03 desert island discs . ami_da_6
+D 413.1 So . ami_da_16
+A 415.83 Yeah . ami_da_16
+D 416.84 So ami_da_2
+D 416.84 do we have to wait for you to write it down ami_da_11
+D 416.84 or are you going to tell us ? ami_da_5
+D 416.84 I am waiting to know . ami_da_4
+A 419.26 Well ami_da_2
+A 419.26 I will t i ami_da_3
+A 419.26 no no yeah ami_da_2
+A 419.26 I am just going to write a couple of them down . ami_da_7
+A 422.37 See I am a big music fan ami_da_4
+A 422.37 I do not know if you guys are , ami_da_5
+A 422.37 I am assuming everybody likes music to some lesser or greater extent ami_da_4
+A 422.37 but ami_da_3
+A 422.37 there is some other options , if you are a TV slut like I am ami_da_4
+A 422.37 like Smallville terrible television show ami_da_9
+A 422.37 but I happen to love it ami_da_9
+A 422.37 , it is rubbish ami_da_9
+A 422.37 but I love it . ami_da_9
+D 423.81 Fair enough . ami_da_1
+D 431.78 Oh , Smallville . ami_da_9
+D 434.29 I went to high school with Tom Willing actually . ami_da_4
+A 436.97 T the the main c the main character ? ami_da_5
+A 436.97 Wow . ami_da_9
+D 438.17 The guy . ami_da_4
+D 439.22 Yeah . ami_da_4
+A 440.56 Is he a wanker ? ami_da_5
+A 440.56 He looks really tall , like he is gotta be like six six . ami_da_4
+D 441.4 Yeah . ami_da_4
+D 442.9 Very much so . ami_da_4
+D 443.99 Hell of a soccer player but a total bastard nonetheless . ami_da_9
+D 447.74 Yeah . ami_da_9
+D 448.62 He is a big guy . ami_da_9
+A 449.83 Yeah . ami_da_2
+D 450.34 Yeah . ami_da_9
+A 451.08 okay ami_da_2
+A 451.08 so ami_da_2
+A 451.08 I really like Jeff Buckley . ami_da_9
+A 454.75 You guys heard of Jeff Buckley ? ami_da_5
+A 454.75 that is cool ami_da_9
+A 454.75 because like not very many people have . ami_da_4
+A 460.77 and oh well ami_da_2
+A 460.77 I might as well throw a British person in there ami_da_7
+A 460.77 you ca not go wrong with Radiohead . ami_da_9
+A 467.81 It is a r ami_da_3
+A 467.81 Okay so ami_da_2
+A 467.81 it really works just like a pen only makes noises I think . ami_da_4
+D 468.46 Good call . ami_da_9
+A 477.98 It is kind of weird . ami_da_9
+A 478.55 Anyway ami_da_16
+A 478.55 yeah . ami_da_2
+D 478.62 Interesting . ami_da_9
+A 479.94 Yeah , ami_da_2
+A 479.94 you are like press and it is . ami_da_4
+A 482.21 Kinda cool . ami_da_9
+A 483.51 You will see . ami_da_4
+A 484.26 Alright ami_da_2
+A 484.26 so ami_da_2
+A 484.26 whoever wants to get up next , you can write down some telly that you watch or whatever you want . ami_da_6
+D 489.32 I guess I will go next then . ami_da_7
+C 490.49 Go for it . ami_da_6
+A 490.71 Right on . ami_da_9
+D 491.4 Okay . ami_da_9
+D 491.77 Do not want to lose all my mikes , plugged in here . ami_da_4
+D 494.97 Okay . ami_da_2
+D 496.27 This is basically just pen practice ami_da_4
+D 496.27 huh ? ami_da_11
+D 496.27 Okay . ami_da_2
+A 499.92 W ami_da_3
+D 500.95 Oh you are much taller than me ami_da_4
+D 500.95 so I am going to write down here . ami_da_7
+D 507.73 Right now I am listening to a lot of somebody nobody is ever heard of , Chris Bathgate , local Michigan folk singer , ami_da_4
+D 507.73 really lame ami_da_9
+D 507.73 and ami_da_3
+D 507.73 what else did I bring with me ? ami_da_5
+D 507.73 Probably classical , ami_da_4
+D 507.73 to totally geek it out , ami_da_9
+D 507.73 yeah ami_da_9
+D 507.73 I think . ami_da_9
+A 515.88 Nice . ami_da_9
+B 516.1 Wow . ami_da_9
+A 523.57 Okay ami_da_9
+A 523.57 yeah ami_da_9
+A 523.57 yeah . ami_da_9
+D 528.36 And my family guy DVDs ami_da_4
+D 528.36 but we do not need to write that one down . ami_da_7
+A 529.98 Well ami_da_2
+A 529.98 yeah . ami_da_12
+A 531.5 Oh , ami_da_2
+A 531.5 family guy . ami_da_9
+A 532.86 Is not h has h ami_da_3
+A 532.86 do you watch the new season ? ami_da_5
+A 532.86 I think I am going to start downloading it ami_da_7
+A 532.86 yeah . ami_da_4
+D 534.93 No . ami_da_4
+D 536.13 Are you getting it online , or is it on sky ? ami_da_5
+D 536.13 Yeah , that would be nice . ami_da_9
+C 541.53 Alright . ami_da_2
+C 543.83 Think I am just going to put down one one CD . ami_da_7
+C 563.74 Anybody ? ami_da_5
+C 563.74 No ? ami_da_5
+C 563.74 no ? ami_da_5
+C 563.74 Afro beat orchestra , ami_da_4
+C 563.74 very cool . ami_da_9
+A 564.36 Mm mm . ami_da_4
+B 564.41 No . ami_da_4
+D 564.99 Afraid not . ami_da_4
+A 567.45 Afro beat orchestra ? ami_da_12
+A 567.45 Very cool . ami_da_9
+C 568.56 Yeah . ami_da_4
+C 569.44 Fift S ami_da_3
+C 569.44 they like fifteen members from Brooklyn . ami_da_4
+B 569.56 Sounds nice . ami_da_9
+C 572.63 and I am hoping to go to the concert in Belgium , in Brussels in April first . ami_da_7
+A 576.56 Wow . ami_da_9
+D 576.7 Exciting . ami_da_9
+C 578.02 Yeah . ami_da_9
+C 578.26 It is supposed to be in Brussels anyways . ami_da_4
+D 578.8 That would be . ami_da_3
+C 580.03 thing I love about Edinburgh ami_da_4
+C 580.03 Love ami_da_9
+C 580.03 I just came from Glasgow and I am happy to say that there is the there is the same quantity approximately . ami_da_4
+D 584.02 Oh . ami_da_2
+D 584.41 I did not even read those . ami_da_4
+D 585.91 Oops . ami_da_9
+D 586.34 I should not admit that . ami_da_14
+A 586.84 That is what a PowerPoint presentation is for . ami_da_14
+B 588.08 Oh , wow . ami_da_16
+A 588.52 It is they are designed specifically to ignore . ami_da_14
+A 590.71 I it is th brilliant . ami_da_14
+D 590.79 Yeah . ami_da_9
+D 591.75 It is the five by five , I ca not read that much . ami_da_4
+A 594.57 yes yes ami_da_12
+A 594.57 yes okay ami_da_12
+A 594.57 I see that . ami_da_12
+A 597.45 Vomit . ami_da_12
+A 597.86 Yes . ami_da_9
+D 598.22 Yeah ami_da_12
+D 598.22 oh it is so horrible . ami_da_9
+A 599.0 Street pizza . ami_da_12
+A 599.94 It is so brilliant . ami_da_9
+A 603.35 I have seen more urine in this city than ever before , ami_da_4
+A 603.35 I mean ami_da_3
+A 603.35 It is so minging . ami_da_9
+D 604.98 Oh my God . ami_da_16
+D 606.07 Seriously ? ami_da_5
+D 606.07 It really is ami_da_9
+D 606.07 Yeah . ami_da_4
+B 610.37 There is more vomit there . ami_da_4
+C 614.44 I w Does ami_da_3
+C 614.44 yeah . ami_da_2
+C 621.25 Ready ? ami_da_5
+C 621.25 Minging ? ami_da_12
+C 621.25 Nice . ami_da_9
+B 621.64 Alright . ami_da_4
+B 621.95 Yep . ami_da_4
+A 626.97 I am going local . ami_da_4
+D 627.29 Slide it in there . ami_da_14
+A 628.25 Going local . ami_da_4
+D 628.25 Yeah . ami_da_9
+A 628.83 I have to be here for three years ami_da_4
+A 628.83 so I might as well get the terminology right . ami_da_7
+D 630.26 Yeah fair enough . ami_da_9
+D 632.04 I have already got more than I can keep track of . ami_da_4
+D 633.89 And I am going to go home next week and everyone is going to be like oh my God you are turning into one of those people , no . ami_da_4
+A 636.9 Oh , ami_da_2
+A 636.9 have you been home yet ? ami_da_5
+A 636.9 They will be like , say something British , and you are like oh shut up family . ami_da_4
+D 640.88 I know . ami_da_9
+D 642.12 I know . ami_da_9
+C 642.28 Uh huh . ami_da_1
+B 643.25 Let is see . ami_da_16
+D 643.47 Oh it should be interesting . ami_da_9
+D 645.52 Wait until I tell them I am not coming back . ami_da_4
+D 648.19 They are going to love that one . ami_da_4
+A 649.56 Right ami_da_2
+A 649.56 you s you are going to stay here ? ami_da_5
+A 649.56 Wow . ami_da_9
+D 651.08 Probably . ami_da_4
+D 652.03 Or at least get a work visa for a while and then decide . ami_da_7
+D 654.84 Because ami_da_3
+D 654.84 nice . ami_da_9
+A 654.96 Bad religion ? ami_da_12
+A 654.96 Yeah ami_da_12
+A 654.96 yeah , ami_da_12
+A 654.96 yeah . ami_da_12
+C 654.96 Nice . ami_da_9
+B 655.88 Yeah , that is the music I grew up listening to . ami_da_4
+D 658.12 Of course . ami_da_12
+D 659.99 Oh , ami_da_2
+D 659.99 now I can think of so many other ones . ami_da_4
+B 660.13 And so there ami_da_3
+B 660.13 Something I miss about my hometown . ami_da_7
+A 662.2 Well ami_da_2
+A 662.2 yeah ami_da_9
+A 662.2 that is why ami_da_3
+A 662.2 yeah . ami_da_9
+D 663.08 That is how it works . ami_da_4
+A 668.44 I miss coffee . ami_da_4
+B 669.57 Burritos that cost less than eight Pounds . ami_da_4
+C 670.47 Nice . ami_da_9
+A 670.52 Burritos . ami_da_9
+D 671.55 Oh ami_da_9
+D 671.55 Any thing that are like free . ami_da_4
+A 673.09 Oh yeah ami_da_9
+A 673.09 two two bucks . ami_da_4
+A 675.75 Where are you from in California by the way ? ami_da_5
+A 675.75 Did you really ? ami_da_5
+A 675.75 What part ? ami_da_5
+A 675.75 Yeah ami_da_2
+A 675.75 I am from San Diego as well . ami_da_4
+B 677.08 I grew up in San Diego , ami_da_4
+B 677.08 but ami_da_3
+B 677.08 yeah ami_da_2
+B 677.08 La Jolla , PB . ami_da_4
+D 683.89 Nice . ami_da_9
+A 684.05 Yeah oh man . ami_da_16
+B 684.42 But really I last lived in San Francisco , ami_da_4
+B 684.42 I have not lived in Cali ami_da_3
+B 684.42 well ami_da_2
+B 684.42 I have not lived in southern California since I was eighteen . ami_da_4
+A 690.52 Going to s like North Carol ami_da_3
+A 690.52 I am sorry you you just ca not get a better burrito than what is available in the s in San Diego . ami_da_4
+B 696.91 It is different . ami_da_9
+B 697.72 Because in San Diego th the tortillas are cooked on the grill and in northern California they steam them . ami_da_4
+D 703.81 It must make all the difference . ami_da_4
+B 705.01 Yeah , it really does . ami_da_9
+A 705.94 Well ami_da_2
+A 705.94 it is it is i ami_da_3
+A 705.94 there is other things too ami_da_4
+A 705.94 there is ami_da_3
+A 705.94 you just ca not place it ami_da_4
+A 705.94 like ami_da_2
+A 705.94 I when I went to school in the U in Santa Barbara which is central California ami_da_4
+A 705.94 the Mexican food is okay , it is just not good ami_da_9
+A 705.94 like ami_da_2
+A 705.94 and yeah it is like two bucks , ami_da_9
+A 705.94 like literally two bucks for this massive ami_da_4
+A 705.94 I miss ami_da_3
+A 705.94 yeah ami_da_2
+A 705.94 good call on that . ami_da_9
+D 720.66 Right . ami_da_1
+B 722.89 Yeah . ami_da_9
+B 723.77 Where you from in San Diego ? ami_da_5
+B 723.77 Okay . ami_da_12
+A 725.06 just literally just metropolitan San Diego , I live like five minutes from the zoo . ami_da_4
+A 730.12 So ami_da_2
+A 730.12 North Park actually if you want to get real specific . ami_da_4
+B 731.6 Yeah , ami_da_2
+B 731.6 my grandparents lived on thirty second . ami_da_4
+A 734.62 Yep . ami_da_12
+B 736.72 Close t ami_da_3
+B 736.72 do you know where Clare de Lune coffee shop is , ami_da_5
+B 736.72 and ami_da_3
+B 736.72 Cafe Forte ami_da_5
+B 736.72 Cool . ami_da_14
+A 739.0 Yes . ami_da_4
+A 739.58 On university , yeah . ami_da_4
+A 741.81 Yeah it is actually like literally half a mile from my house . ami_da_4
+A 745.54 Yeah , ami_da_9
+A 745.54 pretty cool . ami_da_14
+A 746.18 Small world as we were discussing before . ami_da_4
+B 747.05 Yeah . ami_da_9
+A 748.97 Especially when we are all from the same general region . ami_da_4
+A 753.1 Right so okay , ami_da_2
+A 753.1 success on the whiteboard . ami_da_9
+D 755.62 There you go . ami_da_9
+A 755.83 You can harness the awesome power a little bit introductions we talked about some of our CDs and things we like about the city ami_da_4
+A 755.83 you know , ami_da_2
+A 755.83 I think we will ami_da_3
+A 755.83 right so ami_da_2
+A 755.83 moving on to not fun stuff project finance . ami_da_6
+B 756.75 Wow . ami_da_16
+A 767.41 basically ami_da_2
+A 767.41 what we are trying to do is sell this remote for twenty five Euros . ami_da_4
+A 773.08 This is what the finance department has told me , the CFO ami_da_4
+A 773.08 but I do not know , I am not sold on this ami_da_9
+A 773.08 , it is pretty dear , ami_da_9
+A 773.08 I mean ami_da_2
+A 773.08 twenty f ami_da_3
+A 773.08 that is like you know forty bucks for a remote . ami_da_4
+A 783.48 It would have to pretty much like do my laundry for me . ami_da_4
+A 786.19 so ami_da_2
+A 786.19 what ami_da_3
+A 786.19 we can maybe work on that ami_da_6
+A 786.19 a later ami_da_6
+A 786.19 but we are going to make a lot on it , the profit aims to make fifty million Euros on it . ami_da_4
+A 792.37 Eur internationally . ami_da_4
+A 793.84 So ami_da_2
+A 793.84 one of the things I I was going to mention to you ami_da_6
+A 793.84 you guys ami_da_6
+A 793.84 the designers is that it m ami_da_6
+A 793.84 we probably need a rever it needs to be a universal remote control probably . ami_da_6
+B 804.59 Okay . ami_da_12
+A 804.97 so ami_da_2
+A 804.97 something that could do NTSC as well as PAL as well as various other formats like if it is going to control DVDs ami_da_6
+A 804.97 but you know ami_da_2
+A 804.97 I will leave that to you guys ami_da_7
+A 804.97 but that is something that i i ami_da_3
+A 804.97 it is going to be an international sold thing . ami_da_4
+D 807.76 Makes sense . ami_da_9
+A 818.3 but we want to try to make it for twelve fifty . ami_da_4
+A 821.54 So we want to try to make a hundred percent profit on it if we can . ami_da_4
+A 825.92 s right so ami_da_2
+A 825.92 just to close up , ami_da_6
+A 825.92 I am not sure how much time I have used ami_da_4
+A 825.92 next time right Project Manager , sorted . ami_da_16
+A 833.08 Is ami_da_3
+A 833.08 we will meet in another half an hour or so and I would like the Industrial Designer to get ge think about what needs to be done , like what the basic function of it . ami_da_4
+A 843.89 UID well ami_da_4
+A 843.89 yeah ami_da_4
+A 843.89 you right ami_da_4
+A 843.89 g ami_da_4
+A 843.89 your assignments are up there and you will also get s assignments from in your email as well more spec specifics on what do do . ami_da_4
+A 854.29 basic and so ami_da_2
+A 854.29 I need you to tell us what we what the user is going to want . ami_da_4
+D 860.14 What they are looking for . ami_da_4
+A 860.82 So ami_da_2
+A 860.82 actually in a way you guys c maybe in our next meeting chat a bit about what the user is going to want and what the user can have , ami_da_6
+A 860.82 you know like so ami_da_2
+A 860.82 yeah ami_da_9
+A 860.82 well it is ami_da_9
+A 860.82 and we will discuss the trade offs in between ami_da_6
+A 860.82 so yeah ami_da_2
+A 860.82 specific instructions will be sent in your email . ami_da_4
+D 869.0 And negotiate that . ami_da_6
+A 878.14 But I think that that is more or less a good place to start for now ami_da_9
+A 878.14 and as more things come up ami_da_4
+A 878.14 we will have meetings and you will get emails and so forth . ami_da_4
+A 887.71 any questions , before we get started ? ami_da_13
+A 887.71 You mean to like ami_da_3
+C 892.76 I assume that we are building a stand alone remote control , ami_da_5
+C 892.76 we ca not kind of build it into other products . ami_da_11
+C 902.72 For instance like a mobile phone or something like that . ami_da_11
+B 907.37 Sounds interesting . ami_da_9
+A 909.78 Yeah . ami_da_2
+D 911.04 I do not think there is any rules about it yet . ami_da_4
+D 912.77 So ami_da_4
+D 912.77 Yeah . ami_da_9
+B 912.79 Maybe our personal coach will have something to say about that . ami_da_4
+C 915.52 Or or you know can we produ ami_da_3
+C 915.52 can we sell a remote control phone for twenty five pounds or less ? ami_da_5
+C 915.52 Yep . ami_da_9
+A 922.05 Well , ami_da_2
+A 922.05 have a think about it . ami_da_6
+A 923.28 I mean ami_da_2
+A 923.28 I am I am certainly op ami_da_3
+A 923.28 it seems ami_da_3
+A 923.28 like yeah ami_da_2
+A 923.28 it it seems like it is certainly do able ami_da_4
+A 923.28 is not it . ami_da_11
+C 924.2 Okay . ami_da_9
+D 926.51 W ami_da_1
+D 926.51 yeah . ami_da_1
+A 928.76 I mean ami_da_2
+A 928.76 or if we ca not have a full mobile phone maybe a remote that has some other kind of useful function . ami_da_6
+B 934.91 Yeah . ami_da_9
+A 936.76 The clapper . ami_da_14
+A 937.31 No ami_da_13
+A 937.31 I mean ami_da_13
+A 937.31 no , ami_da_2
+A 937.31 good idea , good idea . ami_da_9
+A 940.46 We will see what see what ami_da_3
+A 940.46 Uh huh y I like that ami_da_9
+A 940.46 Yeah . ami_da_2
+B 940.8 Maybe a remote with changeable faces , like the faces that you can buy for phones . ami_da_6
+D 945.3 I like the little cover thingies . ami_da_9
+C 945.67 Nice . ami_da_9
+B 946.32 Yeah . ami_da_16
+C 947.63 Hot . ami_da_9
+A 951.01 That is true , ami_da_9
+A 951.01 I guess we we probably have some time , ami_da_4
+A 951.01 maybe we should brainstorm a bit like what we want to do , ami_da_6
+A 951.01 go back to I do not really have any . ami_da_3
+A 959.74 Let me bring up something about our basic goals here , what we want to accomplish . ami_da_7
+A 967.06 project announcement . ami_da_16
+A 970.72 Ts ts ts ami_da_16
+A 970.72 Yeah . ami_da_2
+A 983.24 Not so much . ami_da_4
+A 986.39 All right ami_da_2
+A 986.39 we will find them , we are on our own . ami_da_6
+C 988.44 Now ami_da_2
+C 988.44 are we also discussing kind of our initial ideas at all here ? ami_da_5
+C 988.44 S ami_da_3
+C 988.44 does anybody have any initial ideas ? ami_da_8
+C 988.44 But I am thinking I am thinking kind of PDA design so touch screen design rather than button ami_da_6
+C 988.44 so that you can kind of flip around all sorts of different things . ami_da_4
+A 991.38 Yeah yeah ami_da_4
+A 991.38 let is do it , let is do . ami_da_6
+A 996.52 I am going to go ahead and take notes on this too ami_da_7
+A 996.52 because ami_da_3
+A 996.52 Yeah ami_da_9
+A 996.52 I mean ami_da_2
+A 996.52 oh yeah right . ami_da_2
+D 1001.24 Good idea . ami_da_9
+D 1002.56 Start your minutes . ami_da_9
+D 1004.2 Well ami_da_2
+D 1004.2 it is pretty much given ami_da_4
+D 1004.2 it is going to be universal ami_da_4
+D 1004.2 right , ami_da_11
+D 1004.2 we decided that already and it may be functioning for other things , as soon as you said that I was thinking like all the other things you could get a remote to do , like your microwave or your front door ami_da_4
+D 1004.2 or like to have everything on one thing , ami_da_6
+D 1004.2 but then , I have never been a fan of those huge remotes that have like a million buttons , ami_da_9
+D 1004.2 you ca not tell what they do . ami_da_4
+A 1006.4 So ami_da_2
+A 1006.4 initial ideas . ami_da_8
+A 1012.92 Yeah . ami_da_9
+B 1021.46 Yeah . ami_da_1
+B 1027.25 S smaller is better . ami_da_9
+B 1029.06 Simple . ami_da_6
+D 1029.12 Yeah . ami_da_9
+D 1030.48 Specific . ami_da_6
+D 1037.68 Okay . ami_da_12
+B 1038.67 Oh right . ami_da_12
+B 1039.26 That would be different . ami_da_9
+D 1039.66 Interesting . ami_da_9
+A 1042.75 Yeah ami_da_2
+A 1042.75 that is slick ami_da_9
+A 1042.75 is not it . ami_da_11
+A 1044.01 I mean like ami_da_2
+A 1044.01 stylist ami_da_9
+A 1044.01 yeah like ami_da_2
+A 1044.01 a just a ami_da_3
+A 1044.01 yeah . ami_da_2
+D 1047.03 True . ami_da_9
+A 1048.95 Right so ami_da_2
+A 1048.95 we got five minutes more to chat about this , ami_da_4
+A 1048.95 perfect . ami_da_9
+A 1051.83 so ami_da_2
+A 1051.83 we have got this kind of an idea of a trade off between size and functionality . ami_da_4
+A 1059.54 and we also ami_da_3
+A 1059.54 I am also going to note for future reference this idea ami_da_7
+A 1059.54 of ami_da_3
+A 1059.54 so you like ami_da_2
+A 1059.54 maybe like an L like a touch screen type of remote ? ami_da_11
+A 1059.54 I do not think one exists . ami_da_4
+D 1059.56 Right . ami_da_2
+D 1059.91 We want it to be munt multifunctional ami_da_6
+D 1059.91 but at the same time if you get it to do too much you are not going to be able to tell them apart , ami_da_9
+B 1064.49 Yeah . ami_da_9
+C 1065.23 Too confusing . ami_da_9
+B 1065.98 It is going to be too complicated , too crowded with buttons and things . ami_da_9
+C 1080.58 Possibly . ami_da_9
+D 1081.73 An interesting option . ami_da_9
+A 1082.66 Be a good idea . ami_da_9
+B 1082.74 Needs it needs one outstanding feature to set it apart from all the other remotes . ami_da_6
+D 1084.15 Yeah . ami_da_1
+D 1086.0 Definitely . ami_da_9
+A 1086.95 Yeah all the other universal remotes . ami_da_9
+A 1089.27 I do not know if there is such a thing out there , ami_da_4
+A 1089.27 I guess we could do some do some research on or one of us could do some research on it ami_da_6
+A 1089.27 about whether or not there are multi format like you know PAL , NTSC , region one ami_da_5
+A 1089.27 Okay . ami_da_1
+D 1104.08 Right . ami_da_1
+C 1105.24 I am pretty sure there is . ami_da_4
+C 1107.27 I mean ami_da_2
+C 1107.27 I I have a friend who has a PDA that he just points at his telev any television he wants and it will figure out the the specifications of it and will control it ami_da_4
+C 1107.27 so ami_da_2
+C 1107.27 I th ami_da_3
+C 1107.27 I assume that that can be done with kind of around the world . ami_da_4
+A 1109.7 Okay . ami_da_1
+D 1111.53 That ami_da_3
+D 1111.53 Yeah . ami_da_1
+A 1119.71 Interesting . ami_da_9
+D 1120.07 Awesome . ami_da_9
+A 1120.69 Okay . ami_da_1
+D 1123.42 Yeah . ami_da_1
+A 1123.43 Okay . ami_da_12
+A 1124.32 Okay . ami_da_12
+A 1126.24 all right . ami_da_2
+A 1127.02 So . ami_da_2
+A 1128.09 I li ami_da_3
+A 1128.09 I am liking that idea , this idea of a touch screen remote with multi format features . ami_da_9
+B 1133.12 Right . ami_da_1
+A 1136.87 Let is see . ami_da_2
+B 1138.02 I think , making it out of a nice material would be very important , ami_da_6
+B 1138.02 because so many of those remotes that you see , these universal remotes look so cheap and low quality . ami_da_9
+D 1143.98 Yeah . ami_da_1
+D 1146.2 Yeah . ami_da_9
+D 1146.38 Keeping it nice and slick , would be important . ami_da_6
+D 1149.38 And ami_da_3
+D 1149.38 I do not know , ami_da_9
+D 1149.38 like , ami_da_2
+D 1149.38 there is such a problem with losing them , ami_da_4
+D 1149.38 that adding this whole like PDA pen business is only one more thing to lose , ami_da_9
+D 1149.38 so we are going to have to be careful with what like Just something like keep in mind when we start actually dealing with this stuff ami_da_6
+D 1149.38 but that would be really cool . ami_da_9
+C 1158.78 Oh . ami_da_1
+A 1167.43 let is see . ami_da_2
+C 1169.92 I like the idea of the multi plate . ami_da_9
+A 1173.14 Yeah ami_da_9
+A 1173.14 yeah okay . ami_da_9
+D 1173.19 Yeah . ami_da_9
+D 1173.76 Fi b ami_da_3
+D 1173.76 like ami_da_2
+D 1173.76 what are they called , those face plate things ? ami_da_5
+D 1173.76 Is not there a name for them ? ami_da_5
+D 1173.76 Are they ? ami_da_5
+D 1173.76 I dunno . ami_da_4
+C 1173.85 In in ami_da_3
+C 1173.85 I like . ami_da_9
+A 1176.59 Think they are just called face plates ? ami_da_4
+A 1176.59 I do not know . ami_da_4
+B 1178.43 something , ami_da_3
+B 1178.43 we will have to come up with a name , patent it . ami_da_6
+C 1180.71 We should c ami_da_6
+C 1180.71 we should come up with a fuzzy one as well . ami_da_6
+D 1180.82 Yeah . ami_da_9
+D 1181.55 Something really cool . ami_da_6
+C 1185.24 For those cold winter days . ami_da_14
+D 1185.29 Leopard print or something . ami_da_6
+B 1185.93 Leopard print . ami_da_6
+B 1197.78 I think , it would not be such a bad idea to have a like a locator device , ami_da_9
+B 1197.78 maybe a simple button that you have on your television to help you find your remote . ami_da_6
+D 1204.37 True . ami_da_9
+A 1205.95 But if we are bundling it unless we are selling their telly with the remote . ami_da_9
+D 1209.86 Right . ami_da_12
+A 1211.03 Cou could we not do something where like just a little lit like literally just a very small kind of thing that comes with the remote that you could place something else that you press and it makes the remote page . ami_da_6
+C 1217.03 Well ami_da_2
+C 1217.03 if we bundle it as a phone then you can always call it . ami_da_6
+B 1220.28 True . ami_da_9
+C 1220.38 If you are not doing that then we can have something that just kind of rings from either ami_da_6
+C 1220.38 well ami_da_2
+C 1220.38 there used to be those whistling devices ami_da_4
+C 1220.38 but that is a little bit annoying . ami_da_9
+D 1220.94 True . ami_da_9
+D 1228.57 Right . ami_da_1
+A 1239.95 Kinda like how on a lot of cordless regular phones , you have a page button and it goes , ami_da_4
+A 1239.95 could we do something like that ? ami_da_11
+A 1239.95 yeah ami_da_2
+A 1239.95 I think this material quality as well like I guess what we can think about what kind of ami_da_6
+A 1239.95 you know Apple is been really successful with this surgical white kind of business or this sleek kind of ami_da_4
+A 1239.95 you know ami_da_2
+A 1239.95 Yeah . ami_da_9
+C 1239.99 Th ami_da_3
+C 1239.99 Yeah . ami_da_1
+D 1240.31 Right . ami_da_1
+B 1243.57 Yeah . ami_da_12
+D 1245.08 Right . ami_da_1
+C 1246.35 That is cool . ami_da_9
+B 1246.81 I think so . ami_da_9
+D 1247.04 Probably . ami_da_9
+C 1248.87 I think we could design into that . ami_da_4
+B 1249.86 Yeah . ami_da_9
+D 1251.26 Good . ami_da_14
+D 1265.87 Yeah . ami_da_9
+D 1266.72 And that titanium the new silver sleek ones that is last couple of years , very much so . ami_da_4
+C 1271.24 Curves . ami_da_6
+A 1272.71 Yeah . ami_da_2
+A 1272.94 We do have the minimum am amount ami_da_4
+A 1272.94 I mean ami_da_2
+A 1272.94 we were talking finances ami_da_4
+A 1272.94 I dunno , ami_da_9
+A 1272.94 selling a a forty Pound remote would h or a forty Dollar remote , twenty five Euro remote would be pretty you know it is pretty expensive ami_da_4
+A 1272.94 so maybe we might want to trade off some of the features for a lower price . ami_da_6
+D 1282.23 Right . ami_da_1
+A 1288.82 Without without getting into that whole like you know go down to bargain store remote you know bargain store universal remote ami_da_6
+A 1288.82 that is black and you know m massive , ami_da_4
+A 1288.82 some kind of I dunno a balance there in somewhere . ami_da_6
+D 1293.92 Right . ami_da_1
+B 1294.66 Yeah . ami_da_1
+D 1299.35 Definitely . ami_da_9
+A 1300.0 But have a think about what we can do , have a think about what we want to do , how we are going to sell it ami_da_6
+A 1300.0 and ami_da_3
+D 1304.45 Yeah . ami_da_1
+D 1305.9 Or if you our users in mind , ami_da_3
+D 1305.9 like ami_da_2
+D 1305.9 these grandmas are not going to be into this whole new let is design , ami_da_4
+D 1305.9 no it is ami_da_3
+D 1305.9 they are used to the buttons ami_da_4
+D 1305.9 so we will have to be careful of exactly who we are marketing this to , and who we are going to be able to get it out of . ami_da_6
+B 1315.35 Yeah . ami_da_9
+B 1319.35 Is true . ami_da_9
+D 1323.59 But ami_da_3
+D 1323.59 Euros . ami_da_4
+C 1325.54 We are talking twenty five Pounds or twenty five Euros ? ami_da_5
+C 1325.54 Slight difference I guess . ami_da_4
+A 1327.57 Twenty five Euros . ami_da_4
+A 1338.77 Yeah . ami_da_9
+A 1340.44 They are all weaker than ami_da_3
+A 1340.44 they are all stronger than the Dollar . ami_da_4
+A 1343.23 Although , computer parts , all ami_da_3
+A 1343.23 if you are going to upgrade your computer , buy it in the States . ami_da_6
+A 1347.97 Like ami_da_2
+A 1347.97 do you guys know Fry is ? ami_da_5
+A 1347.97 Huge computer electronics store ? ami_da_5
+A 1347.97 They serve right ami_da_3
+A 1347.97 they sa tha ami_da_3
+A 1347.97 s ami_da_3
+A 1347.97 they will sell things overseas so you can buy stuff in America and have it shipped over for like twenty thirty Pounds about . ami_da_4
+C 1350.53 No . ami_da_4
+D 1350.7 Mm mm . ami_da_4
+A 1362.15 Right so ami_da_2
+A 1362.15 let is go ahead and wrap that up here for now , ami_da_6
+A 1362.15 I am going to put these initial ideas that we have got in the project documents , ami_da_7
+A 1362.15 so if you guys wa need a reminder about what we have talked about the different you know kind of trade offs that we have got and the other ideas , you can consult them at your leisure . ami_da_6
+D 1380.02 Okay . ami_da_1
+B 1380.44 Okay . ami_da_1
+A 1386.18 And right so ami_da_2
+A 1386.18 thanks for that . ami_da_14
+A 1387.87 Let is just head back to work on what we were talking about ami_da_6
+A 1387.87 bef goi h h getting into . ami_da_3
+D 1392.95 With half an hour ? ami_da_5
+D 1392.95 Okay . ami_da_12
+A 1395.01 Yes . ami_da_4
+D 1395.95 Perfect . ami_da_14

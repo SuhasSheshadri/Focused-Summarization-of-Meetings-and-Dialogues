@@ -1,0 +1,1515 @@
+A 100.08 Would not want to be Project Manager . ami_da_14
+A 103.26 , what we going to do . ami_da_16
+A 104.5 , once again I am going to take minutes . ami_da_7
+A 107.51 So , no presentation for me . ami_da_4
+A 110.37 , first we have a prototype presentation by G and G . ami_da_4
+B 115.84 Yo . ami_da_16
+D 116.3 J and J . ami_da_4
+A 116.33 Afterwards some ami_da_4
+A 116.33 eval eval evalu ami_da_2
+A 116.33 evaluation ami_da_9
+A 116.33 s sorry . ami_da_14
+C 121.2 Evaluation . ami_da_4
+D 121.81 Evaluation . ami_da_4
+B 121.85 Evaluation criteria . ami_da_4
+A 124.78 evaluation crit criteria . ami_da_4
+A 126.95 , in combination with the finance ami_da_4
+A 126.95 I ami_da_4
+A 126.95 I received a an an Excel file which we have to fill in later on . ami_da_4
+A 140.79 , you see . ami_da_16
+A 142.48 , and then we must see if we stay under the twelve and a half Euro . ami_da_4
+D 143.51 Interesting . ami_da_16
+D 147.24 , okay . ami_da_9
+A 148.77 So , that is that is a big l ami_da_3
+A 148.77 so let is wait it ami_da_3
+A 148.77 we have we have must , ami_da_2
+A 148.77 we must have some time for that because it will be yeah , quite a lot of mathematics . ami_da_6
+B 149.56 Oops . ami_da_16
+D 150.25 Cool . ami_da_9
+C 150.75 That is going to be t problem . ami_da_9
+B 153.95 Some creative ami_da_3
+B 153.95 Oh . ami_da_1
+B 162.32 Yeah . ami_da_1
+A 163.05 And after that , an evaluation of the process how we how we have done it here with the SMARTboard , with the with our laptops , with the all all this . ami_da_4
+A 175.5 And afterwards , we closing . ami_da_4
+A 177.27 Once again , forty minutes , ami_da_4
+A 177.27 so let is start . ami_da_6
+B 179.21 Ok okay . ami_da_1
+A 180.01 I would g give the word to G and G for the prototype presentation . ami_da_6
+B 183.54 Shall I give a short introduction and then ami_da_7
+B 183.54 Okay . ami_da_1
+C 186.67 Yeah , well sure . ami_da_9
+D 187.13 J and J . ami_da_4
+A 187.84 J and J . ami_da_9
+D 189.96 Jane and Jane . ami_da_14
+B 190.75 J and J , okay . ami_da_16
+D 193.92 Okay guys , take it away . ami_da_6
+C 195.09 Hi . ami_da_14
+B 195.55 Take it away . ami_da_16
+B 203.2 , this was our first concept . ami_da_4
+B 204.87 We decided to use a single touch screen . ami_da_4
+B 208.54 So , we have worked out this concepts , how to how to hold it , where to put the buttons and and stuff . ami_da_4
+B 214.78 And , well , we began with with a form of shape , that is is easy to hold w in one hand , left or right handed . ami_da_4
+B 222.35 So , we made i it a little bit less thick and it has some ar artistic meaning . ami_da_4
+B 228.68 No ? ami_da_15
+B 228.68 This is not nothing . ami_da_4
+B 232.15 Idea maybe is better . ami_da_9
+B 237.21 well , during the meeting I showed you the concept of placing the buttons on top , usable with your thumb , and the menu structure , if necessary , with your other hand , so it is just going to hold it easily . ami_da_4
+B 250.06 And it has to be acce accessible with your other hand too , of course . ami_da_4
+B 255.5 So we began working out a concept . ami_da_4
+C 257.75 Yeah , well , and as you saw , we would just have the basic remote with the panel LCD screen . ami_da_4
+C 264.97 Well , these would be the main buttons , h you could change them later on in your own profile if you want to . ami_da_4
+C 269.77 But , well it is standard they will be delivered with this kind of set up . ami_da_4
+C 273.85 We have the more advanced menu setting right here . ami_da_4
+C 278.05 We have the sub menus and stu stuff . ami_da_4
+C 280.59 We made a top oh , or a front view . ami_da_4
+C 282.72 Just so like you want to back view . ami_da_4
+C 285.38 As you can see , this there , there are two weird bumps in it . ami_da_4
+C 291.12 This is for the added effect of well y youth and dynamic . ami_da_4
+C 297.54 And this is for the artistic effect . ami_da_4
+C 299.85 Well , what we figured is we will show you a picture later on ami_da_7
+C 299.85 you have more b a better idea after that . ami_da_4
+C 305.75 But , idea is for to stay in balance with these two with these two . ami_da_4
+C 310.91 And so when you put it on the table , it will just lay down . ami_da_4
+C 313.58 It wo not roll around or stuff . ami_da_4
+C 316.15 But it will lie more in your hand like an old telephone maybe , or like these old phones . ami_da_4
+C 321.81 Y you ami_da_4
+C 321.81 you may get the idea . ami_da_4
+C 324.0 So thi this is about how we figured it should be . ami_da_4
+C 327.63 The s panel we g you would hide with some more rubber layers , like we discussed early on . ami_da_4
+C 334.24 , you would s you would not see the straight panel , but more fluidly and round . ami_da_4
+B 339.86 Yeah , ami_da_9
+B 339.86 the panel just of course goes like this . ami_da_4
+C 342.97 Yeah . ami_da_9
+B 344.35 But the overlaying layer is a little bit curved and stuff . ami_da_4
+D 348.85 Okay . ami_da_9
+A 349.06 No , okay . ami_da_9
+C 350.26 And , in these bumps you could actually put some electronics ami_da_4
+C 350.26 that would ami_da_3
+C 350.26 you can make a more thinner design , ami_da_4
+C 350.26 and that would actually look very nice , ami_da_9
+C 350.26 yeah . ami_da_9
+D 358.78 Yeah . ami_da_1
+B 360.97 Yeah . ami_da_1
+C 362.8 And , about the colour , what have ami_da_3
+C 362.8 Yeah , f , as colours , do you do you have the picture in ami_da_5
+C 362.8 Oh yeah . ami_da_9
+B 364.37 Yeah . ami_da_1
+B 364.53 Oh , we added that this can be held with your hands for this maximum is om ami_da_4
+B 364.53 yeah , one and a half centimetres . ami_da_4
+B 371.87 So , you have room here for your battery and maybe even other electronic chips . ami_da_4
+B 377.22 S and you can just be the the layer of the touchscreen and some have some wires underneath it to make it as thin as possible in the middle for good grip . ami_da_4
+D 377.32 Okay . ami_da_1
+B 391.81 Yeah . ami_da_4
+C 393.53 Now , well this is the idea about the bumps . ami_da_4
+C 395.83 , you can see there is a v a very youthful dynamic exterior . ami_da_4
+C 401.98 It ami_da_2
+C 401.98 you just want to hold it you you are young and dynamic like us . ami_da_4
+D 405.34 Is l ami_da_2
+D 405.34 it is like an Easter egg . ami_da_9
+C 407.3 Yeah , it is like an e but this is for children . ami_da_9
+B 407.63 Yeah . ami_da_1
+C 409.06 We we want a more adult version . ami_da_4
+C 410.88 But , this is like a remote control for children . ami_da_4
+A 413.18 It is called a weemote ami_da_14
+A 413.18 Weemote . ami_da_16
+D 415.43 Weemote . ami_da_16
+C 416.0 A weemote . ami_da_16
+C 416.7 Yeah . ami_da_9
+C 417.69 Hey , that is actually a brilliant marketing stand . ami_da_14
+C 421.17 , but ami_da_2
+C 421.17 So this actually basic the idea . ami_da_4
+B 421.33 Yeah . ami_da_1
+D 422.0 Wait what I w got in mind . ami_da_14
+C 426.72 We we just want to build a more adult vers adult version of of this . ami_da_6
+A 431.56 Yeah , I can imagine that . ami_da_9
+C 432.88 And and for colours , we we figured starting with basic colours like white or metallic grey . ami_da_4
+C 439.7 Those are the technological colours actually , ami_da_4
+C 439.7 so it d ami_da_3
+C 439.7 Or blue or whatever . ami_da_4
+B 442.59 Yeah . ami_da_9
+B 443.08 It would be best to to appeal to a broad public and make the covers exchangeable , ami_da_6
+B 443.08 so the young people will buy an orange and a red and blue and a purple , but when the o older people go in the shop and they see an orange remote control , it would be less appealing than a white one . ami_da_4
+B 463.04 And young people , we think , are a little bit more flexible , they think , I will buy for a couple of Euros some noi nice hip ami_da_4
+B 463.04 Well , ami_da_2
+B 463.04 I think a cover is necessary , ami_da_9
+B 463.04 because als otherwise you will just have the LCD screen . ami_da_4
+D 469.21 Maybe it is an idea to sell it without a cover , so that you can pick a cover in the in the shop . ami_da_6
+D 477.24 Yeah , okay . ami_da_9
+D 477.93 Yeah , okay . ami_da_9
+B 479.27 So , there must be some cheap standard cover , maybe white or something , that is could comes with it and you can buy , ami_da_6
+B 479.27 so we can make extra money . ami_da_4
+A 486.69 Yeah , but you d you must not forget that our target aim is younger people . ami_da_9
+D 487.64 Oui okay . ami_da_1
+A 494.18 , we had decided to put some flashy fruity colours in it , and in the survey from Milan and Paris it it came out that the d the older people are more willing to to spend money on extra features . ami_da_4
+B 517.6 Okay . ami_da_1
+A 517.79 So I think it will be a better idea to have some flashy fruity colours as as a standard , ami_da_6
+A 517.79 and for the people who really want a more sophisticated , more traditional look , they are willing to pay that . ami_da_4
+B 522.03 The other way around , you mean . ami_da_9
+C 524.44 Oh yeah . ami_da_9
+B 529.48 Uh huh . ami_da_1
+C 533.36 Yeah . ami_da_1
+A 533.62 They want they want more luxury stuff , but they have the money to do it and they want to b to buy that . ami_da_4
+B 539.58 Okay . ami_da_1
+A 539.63 So , maybe it is an idea to put that as an extra and not as a standard . ami_da_6
+D 540.03 Yeah . ami_da_1
+C 542.41 Yeah . ami_da_9
+C 543.39 Yeah , maybe yeah , perhaps you are right . ami_da_9
+C 545.32 , I I would I would actually agree with this sounds logical . ami_da_9
+B 548.9 Okay , yeah . ami_da_9
+D 548.98 An another idea . ami_da_7
+D 550.45 , maybe we could develop a cover with wood style . ami_da_6
+A 556.64 Yeah . ami_da_9
+D 556.88 They will please the elder users as well . ami_da_4
+A 559.13 Yeah . ami_da_9
+B 559.83 Well yeah , ami_da_9
+B 559.83 a colour of ami_da_2
+B 559.83 a wood style , a white c and a couple of h hip fruity colours . ami_da_6
+A 565.45 Yeah . ami_da_9
+D 565.53 Yes . ami_da_9
+C 565.58 Nah . ami_da_9
+B 565.87 And lea l delivered standard with a fruity colour , but not too not too much . ami_da_6
+C 566.23 Yeah . ami_da_9
+D 570.29 Not not too yeah . ami_da_9
+B 571.69 This is banana and mango , not not purple or p orange and yellow . ami_da_6
+D 575.85 Yeah , exactly . ami_da_9
+A 576.46 Yeah . ami_da_9
+A 577.42 But , the mai I think th the standard must be some kind of attractive flashy colours . ami_da_6
+D 577.65 Yeah . ami_da_9
+D 578.05 Or blue or ami_da_9
+A 585.41 Not too , but w a little , ami_da_6
+A 585.41 because that is our aim . ami_da_4
+C 587.33 Yeah , ami_da_9
+C 587.33 li like like this like this . ami_da_6
+B 587.87 Yeah . ami_da_1
+C 589.07 This is not this is not too much , is it ? ami_da_11
+C 589.07 I f ami_da_3
+C 589.07 Yeah . ami_da_9
+A 589.24 Yeah . ami_da_9
+B 590.82 Yeah , okay . ami_da_9
+B 592.25 No . ami_da_9
+B 592.52 Yeah . ami_da_9
+A 592.84 Well , the buttons do not have to be all all of ami_da_9
+A 592.84 yeah . ami_da_9
+D 594.58 Well I I I think so . ami_da_9
+C 595.05 The buttons , ami_da_9
+C 595.05 I ami_da_3
+C 595.05 Yeah , something like this would be nice . ami_da_9
+D 596.57 Yeah , except for the buttons it is it could be a standard model . ami_da_9
+A 599.09 It ami_da_3
+A 599.09 Yeah . ami_da_9
+B 600.16 Okay . ami_da_9
+A 602.99 Okay . ami_da_1
+B 603.57 Okay . ami_da_1
+C 603.7 Okay , that is that is it from us . ami_da_4
+A 605.09 Thank you . ami_da_14
+D 606.4 Okay , it is my time now . ami_da_4
+B 607.84 It is my turn . ami_da_16
+A 612.35 The Marketing Expert . ami_da_4
+C 613.92 Uh oh . ami_da_16
+D 621.71 Okay . ami_da_2
+D 624.68 During the ami_da_2
+D 624.68 Oh . ami_da_16
+D 629.67 During the design design life cycle we we made lot of requirements and trend analysis and stuff . ami_da_4
+A 632.47 Sorry . ami_da_14
+D 640.78 , now is the time to evaluate our prototype concept to to the past requirements . ami_da_4
+D 649.99 So we are going to evaluate the design according to the past user requirements and trends analysis . ami_da_6
+D 657.69 , we are going to do that with a seven point scale . ami_da_6
+D 662.72 Opening a Word document now . ami_da_7
+D 672.6 Okay . ami_da_2
+D 676.27 One ami_da_2
+D 676.27 oh , okay , I have to expla explain something . ami_da_7
+D 681.09 We have to be consensive about about things . ami_da_4
+D 690.08 So , it has to be a group group decision . ami_da_4
+D 693.47 Okay ? ami_da_11
+D 693.47 We are going to vote . ami_da_4
+A 693.87 Okay , ami_da_9
+A 693.87 so we gon we going to evaluate the Yeah , the the thing we saw . ami_da_5
+D 697.65 We ami_da_2
+D 697.65 yeah ? ami_da_4
+D 697.65 The prototype . ami_da_4
+D 699.61 Yeah . ami_da_4
+A 700.01 Okay , just saw . ami_da_9
+D 700.88 Okay , one . ami_da_4
+D 702.03 The remote control is designed for people with age below forty . ami_da_11
+A 706.94 Yeah . ami_da_9
+A 707.74 Seven ? , true . ami_da_9
+D 709.32 Seven is false . ami_da_4
+D 711.65 Yeah , b one or Most true ? ami_da_11
+D 711.65 Yeah , ami_da_9
+D 711.65 so ami_da_2
+D 711.65 so a o one is appropriate ? ami_da_11
+D 711.65 Or , more like a four . ami_da_11
+A 711.71 Sorry . ami_da_14
+A 714.21 Yeah , one I think . ami_da_9
+C 716.13 Why ? ami_da_5
+C 716.13 Yeah , it is not just designed for people under the age of forty . ami_da_9
+C 720.5 It is also designed for people above forty . ami_da_9
+A 722.9 Yeah . ami_da_1
+B 722.93 Yeah . ami_da_1
+C 723.61 So ami_da_3
+C 723.61 I have I have ami_da_2
+C 723.61 Yeah , two or three , ami_da_9
+C 723.61 because it is not just ami_da_2
+C 723.61 the qu question is aimed at is it designed for people with age below forty . ami_da_4
+B 725.47 No no , a little more in the middle . ami_da_9
+B 726.98 No , three or yeah . ami_da_9
+D 727.53 Three . ami_da_11
+A 732.68 Okay . ami_da_1
+C 736.88 But it is also designed for people of age above forty . ami_da_4
+D 738.5 , exactly . ami_da_9
+C 739.52 So , ami_da_4
+C 739.52 I will say it is about three . ami_da_9
+D 740.02 Exactly . ami_da_9
+B 741.79 Yeah , ami_da_9
+B 741.79 it will be primary appealing to to m minus forty , but also appealing to ami_da_4
+B 741.79 Yeah . ami_da_9
+A 742.49 Okay . ami_da_9
+D 742.77 Three . ami_da_9
+D 745.93 Yeah . ami_da_1
+D 747.17 But also for yeah ami_da_9
+D 747.17 , okay . ami_da_9
+D 748.99 , second . ami_da_4
+D 749.65 The remote control is beautiful . ami_da_11
+B 752.13 It is ami_da_3
+B 752.13 Wow . ami_da_9
+D 754.15 Yeah , ami_da_9
+D 754.15 acco according to us , it is one ? ami_da_11
+D 754.15 Or ami_da_11
+D 754.15 Yeah , ami_da_1
+D 754.15 p s ami_da_3
+D 754.15 Of c of course you have to be very positive and enthusiastic about your own product . ami_da_9
+C 756.78 Yeah , I I think ami_da_9
+C 756.78 Yeah . ami_da_1
+B 757.29 Yeah , ami_da_9
+B 757.29 it is the marketing angle on television . ami_da_4
+A 757.61 Yeah . ami_da_9
+B 760.51 We have a wonderful ami_da_9
+B 760.51 Yeah . ami_da_1
+B 768.1 Well , it is also fancy then . ami_da_9
+D 768.97 Three . ami_da_4
+D 769.65 , the remote control looks fancy . ami_da_11
+C 772.06 Yes . ami_da_9
+A 772.22 Yeah . ami_da_9
+B 772.77 Yeah . ami_da_9
+D 773.46 One ? ami_da_11
+D 773.46 Good . ami_da_9
+B 774.04 Of course . ami_da_9
+C 774.06 Yes . ami_da_9
+A 774.18 Yep . ami_da_9
+B 775.21 We have a perfect remote . ami_da_9
+D 777.48 Four . ami_da_4
+D 777.78 The remote control has big , clear channel switching buttons . ami_da_11
+B 781.26 Yes . ami_da_9
+B 783.65 Yeah yeah , ami_da_9
+B 783.65 oh they have to agree ami_da_4
+B 783.65 but I am the User Interface Expert . ami_da_4
+C 785.35 Yeah . ami_da_9
+A 785.55 Yes . ami_da_1
+C 786.06 Leads to user face , yeah . ami_da_16
+D 787.09 Daniel . ami_da_4
+D 788.96 , teletext buttons and volume buttons ? ami_da_5
+D 788.96 False ? ami_da_11
+D 788.96 And volume ? ami_da_11
+D 788.96 True . ami_da_9
+B 792.24 , no . ami_da_4
+A 792.81 No teletext buttons . ami_da_4
+A 794.08 Teletext is in the menu . ami_da_4
+B 794.18 You you have different menu . ami_da_4
+C 795.95 Yeah , false . ami_da_9
+B 798.86 And volume is impo ami_da_3
+B 798.86 yeah . ami_da_9
+A 800.03 Volume is true . ami_da_9
+D 803.02 Big and clear ? ami_da_11
+D 803.02 Hey . ami_da_1
+C 804.98 Yeah , the they are big and clear . ami_da_9
+B 805.49 Yeah yeah , big and clear . ami_da_9
+A 806.68 Yeah , big and clear . ami_da_9
+B 807.39 But you could make a teletext button six . ami_da_6
+B 810.26 Otherwise , the people who read this are going to think we have no teletext button . ami_da_4
+D 810.72 Hey . ami_da_1
+D 811.89 Hide . ami_da_1
+C 814.45 Yeah , ami_da_9
+C 814.45 but but the teletext button . ami_da_9
+C 815.9 Yeah , you can ch ami_da_9
+C 815.9 That is in a menu . ami_da_9
+D 816.83 It is it is not ami_da_3
+D 816.83 yeah , ami_da_9
+D 816.83 it ami_da_9
+D 816.83 J ami_da_3
+D 816.83 Five ? ami_da_11
+D 816.83 Okay . ami_da_9
+C 817.68 So , it is w ami_da_2
+C 817.68 yeah , ami_da_2
+C 817.68 it it ami_da_2
+C 817.68 it ami_da_2
+C 817.68 it is not entirely unclear , ami_da_9
+C 817.68 but ami_da_3
+C 817.68 So , I would not give it a seven . ami_da_9
+C 822.86 I would give it a more a five or a six . ami_da_9
+B 823.08 No . ami_da_1
+B 824.56 Yeah . ami_da_1
+C 825.91 , I don I do not know . ami_da_9
+C 826.89 What do you think , Mister Project Manager ? ami_da_11
+D 826.94 Yeah , ami_da_9
+D 826.94 it is it is ami_da_3
+D 826.94 yeah . ami_da_3
+A 827.84 Oh , okay . ami_da_9
+A 828.4 Well , I agree . ami_da_9
+A 830.52 I was thinking very black and white . ami_da_9
+C 833.34 Yeah . ami_da_9
+B 833.83 Black and red . ami_da_14
+A 837.19 Thank you J . ami_da_14
+D 839.53 Red . ami_da_1
+B 840.93 Okay , do not forget to save it . ami_da_6
+D 840.96 Okay . ami_da_16
+D 842.32 Volume . ami_da_16
+B 842.39 well , when we put in fancy colours , yeah ami_da_9
+B 842.39 and ami_da_3
+B 842.39 Yeah . ami_da_1
+D 844.82 The remote control is easy to be found . ami_da_11
+C 851.08 Yeah , it has these all these fruity colours and it has a strange shape . ami_da_9
+A 853.98 Fruity . ami_da_14
+C 854.16 So , if you so if you have trouble finding it ami_da_3
+C 854.16 Well , then then I will go for four . ami_da_9
+B 856.15 But , it it is not making any sound , ami_da_9
+B 856.15 have we deciding ? ami_da_5
+B 856.15 So ami_da_3
+B 856.15 It will make a difference . ami_da_9
+D 859.88 Oh , okay , ami_da_9
+D 859.88 but ami_da_3
+D 862.77 If you put your normal remote control under your bed , or you throw this remote control under your bed , is it better findable ? ami_da_11
+D 862.77 A li little bit maybe ? ami_da_11
+D 862.77 Four ? ami_da_11
+D 862.77 Fi I ami_da_3
+D 862.77 , I I ami_da_9
+D 862.77 I think five . ami_da_9
+B 873.89 We have the better re I do not know . ami_da_9
+B 876.47 Yeah , I think so . ami_da_9
+B 877.26 My remote control is black . ami_da_4
+B 879.87 A little bit , ami_da_9
+B 879.87 but yeah . ami_da_9
+A 880.37 Yeah . ami_da_1
+A 881.51 Well , we p we can do it glow in the dark . ami_da_6
+B 882.37 K yeah . ami_da_9
+A 884.13 So , if it is in the dark place , you still see it glowing . ami_da_4
+B 885.06 Fo fo ami_da_3
+B 885.06 yeah ami_da_3
+B 885.06 fo five is . ami_da_3
+D 888.32 It is it is it does not really make a lot of ami_da_3
+D 888.32 Four ? ami_da_11
+D 888.32 Yes , but five is between four and six . ami_da_9
+C 894.78 Because four is between three and also between between true and false . ami_da_4
+B 898.02 Yeah , okay , you are right . ami_da_9
+C 898.75 so I will I will go for four . ami_da_9
+A 899.98 I think , you must see it as ami_da_3
+A 899.98 , w according to the the other remote controls , there may be there in your TV room , this one will stand out , I think . ami_da_9
+C 903.64 Wha ami_da_3
+C 903.64 Yeah , that that is a better question actually . ami_da_9
+B 908.96 Yeah . ami_da_1
+D 909.89 B . ami_da_3
+B 911.08 Yeah . ami_da_1
+B 913.54 Yeah . ami_da_9
+D 914.21 Yeah , ami_da_9
+D 914.21 it it is ami_da_3
+D 914.21 Yeah , ami_da_9
+D 914.21 yeah . ami_da_9
+B 914.74 Yeah . ami_da_9
+A 915.02 Exa ami_da_3
+A 915.02 I think that that is what it is about . ami_da_9
+B 915.48 If your fifteen remotes in a drawer , you find it , yeah ? ami_da_9
+B 915.48 Yeah , that is stupid . ami_da_9
+A 918.46 If it ami_da_2
+A 918.46 if this lying on your couch , you are ami_da_9
+A 918.46 you are ami_da_9
+A 918.46 you think what is that for kind of orange thing . ami_da_9
+D 923.84 But but the survey under users was that they really lost it . ami_da_4
+A 923.92 So ami_da_3
+A 923.92 Yeah . ami_da_1
+D 931.58 Like , no not not seeing it , but lost it in the house or something . ami_da_4
+A 937.23 Okay . ami_da_9
+B 937.25 , but when you lost it you are just not ami_da_3
+B 937.25 Yeah , mostly when you lose your remote control , it it is under your ami_da_3
+B 937.25 Most of times when you lose it you are sitting on it . ami_da_4
+D 937.64 But , okay . ami_da_3
+C 938.17 Well , if i if you see a strange shape lying somewhere , then you would recognise it as , whoa , that is strange . ami_da_9
+A 944.9 That is our remote control . ami_da_16
+D 945.97 Yeah , okay . ami_da_9
+C 946.14 Yeah . ami_da_9
+C 946.74 Yeah , what is that . ami_da_16
+D 947.19 Yeah , I ami_da_9
+D 947.19 I agree , I agree . ami_da_9
+C 947.75 so it is ami_da_3
+C 947.75 Yeah . ami_da_1
+D 948.89 Okay . ami_da_2
+D 949.8 Eight , ami_da_4
+D 949.8 the remote control has fresh , fruity colours . ami_da_11
+B 951.11 I would call choose two , ami_da_9
+B 951.11 because we decided not to make two f fresh colours , as it would not . ami_da_4
+A 952.65 True . ami_da_9
+D 956.06 Yeah , yeah , not too flashy . ami_da_9
+D 960.42 The remote control is made of soft material . ami_da_11
+B 962.93 kind of soft , but but not this . ami_da_9
+C 963.06 Yeah , rubber , is kind of soft . ami_da_9
+A 964.61 Yeah , but not too soft we have decided . ami_da_9
+D 966.94 Three ? ami_da_11
+D 966.94 Easy to use ? ami_da_11
+D 966.94 Top easy to use ? ami_da_11
+D 966.94 It is it is not the most easy to use It can be easier . ami_da_9
+B 967.1 Yeah . ami_da_1
+A 968.01 Three , yeah . ami_da_9
+B 968.77 Yeah . ami_da_9
+B 970.53 Yeah yeah , easy to use , ami_da_9
+B 970.53 very afford . ami_da_3
+A 971.45 Easy to use . ami_da_9
+A 972.19 One . ami_da_9
+A 973.57 Yeah , can it be zero ? ami_da_5
+A 973.57 Yeah . ami_da_1
+C 974.59 Well , I don ami_da_3
+C 974.59 yeah , ami_da_3
+C 974.59 it is kind of It ami_da_3
+C 974.59 No . ami_da_9
+B 979.71 No , you can do two , because it can be easier . ami_da_9
+C 979.97 It could ami_da_9
+C 979.97 yeah . ami_da_9
+D 984.0 Jus just with ten buttons , that is the easiest . ami_da_9
+B 984.12 But then you are l ami_da_2
+B 984.12 yeah , ami_da_9
+B 984.12 but then you will lose function ami_da_9
+B 984.12 f ami_da_9
+B 984.12 yeah , functionality and our fancy look , so . ami_da_9
+C 987.82 Functional ability . ami_da_9
+D 992.14 Yeah , but the most easy to use is just with one button ami_da_9
+D 992.14 on t ami_da_3
+D 992.14 Yeah , okay , but easy n not not the most easy to use , I think . ami_da_9
+B 994.05 But ami_da_1
+B 994.05 It is r it is rather easy to use , because you have the primary buttons always visible . ami_da_9
+C 1003.26 No , it is it ami_da_9
+C 1003.26 I ami_da_9
+C 1003.26 I will go for two . ami_da_9
+B 1003.56 No . ami_da_9
+C 1005.0 My vote is on two . ami_da_9
+D 1005.21 Two ? ami_da_11
+D 1005.21 We also have to compare it to the to the remote controls on the market nowadays . ami_da_6
+B 1005.87 Yeah , m mine too . ami_da_9
+A 1005.93 Okay , two . ami_da_9
+A 1007.02 Yeah , two . ami_da_9
+D 1014.2 So ami_da_6
+D 1014.2 Yeah yeah , ami_da_9
+D 1014.2 I am hurrying . ami_da_7
+B 1014.38 Yeah , but waits just a minutes . ami_da_6
+B 1016.79 Inspiration . ami_da_16
+A 1020.19 What is the time ? ami_da_4
+A 1020.19 We also have to do the evaluation , the production costs and stuff . ami_da_6
+B 1022.58 These are the m regular remotes . ami_da_4
+D 1026.75 Okay , eleven . ami_da_4
+D 1027.98 The remote control is innovative . ami_da_11
+A 1029.87 Yeah . ami_da_9
+B 1030.01 Yes , true , one . ami_da_9
+C 1030.37 Yes . ami_da_9
+D 1032.21 A very ami_da_3
+D 1032.21 of course . ami_da_9
+A 1032.36 You are agree , Tim ? ami_da_11
+A 1032.36 You have not seen a more innovative thing in Paris ? ami_da_5
+A 1032.36 False . ami_da_9
+D 1037.1 The remote control has m remova removable from Multilux . ami_da_11
+B 1040.2 Yes , one . ami_da_9
+B 1042.87 Very multifunctional . ami_da_9
+B 1046.24 No . ami_da_9
+D 1047.4 The remote control , i it has speech recognition . ami_da_11
+D 1051.92 False . ami_da_9
+C 1052.07 Yes , ami_da_9
+C 1052.07 it ami_da_3
+C 1052.07 Yeah , they are built in . ami_da_9
+B 1053.78 This is used with speech recognition , this . ami_da_4
+D 1055.9 The remote control has built in games ? ami_da_11
+D 1055.9 Yeah . ami_da_9
+B 1057.67 Yes . ami_da_9
+B 1059.1 But , maybe make it two , because the games are in a sub menu and not it is not an entire game . ami_da_9
+A 1063.76 Yeah , but they are built in , so it is one . ami_da_9
+B 1066.25 Yeah , okay . ami_da_9
+C 1067.74 Not down . ami_da_3
+A 1068.66 Okay . ami_da_9
+D 1068.68 And the last , paren parental advisory function . ami_da_11
+B 1073.33 Yes . ami_da_9
+C 1077.49 You really like the parental advisory . ami_da_9
+A 1078.64 Freak . ami_da_14
+D 1079.88 Yes , I do . ami_da_9
+B 1080.83 Th did you make this or the ami_da_5
+B 1080.83 Yeah , It changes it maybe . ami_da_9
+C 1081.92 Bu ami_da_3
+C 1081.92 Yeah , he made it . ami_da_4
+D 1082.75 Save as . ami_da_4
+D 1088.65 Okay , I will do the the math . ami_da_7
+B 1093.55 Oh yay . ami_da_9
+B 1095.47 Oh dear . ami_da_9
+D 1096.23 Now it is your turn . ami_da_4
+A 1097.21 Okay , ami_da_9
+A 1097.21 thank you . ami_da_14
+A 1103.04 We will see . ami_da_16
+B 1106.99 If they are under twelve fifty . ami_da_4
+A 1128.19 Okay , we have now to c to calculate the production cost . ami_da_6
+A 1133.2 If it is under twelve and half Euro , then it is ok okay . ami_da_4
+A 1140.54 But i is it if it is b ami_da_2
+A 1140.54 Huh ? ami_da_9
+A 1140.54 No , this is not right . ami_da_9
+A 1144.32 Okay so , . ami_da_16
+A 1146.07 Redesign . ami_da_16
+A 1147.41 Oh yeah , if they under ami_da_9
+A 1147.41 Yeah . ami_da_9
+A 1150.6 No . ami_da_9
+A 1152.57 Oh yeah . ami_da_9
+B 1152.77 Yeah ? ami_da_9
+B 1152.77 Cau because so it is okay . ami_da_9
+A 1153.78 Yeah , it is ami_da_9
+A 1153.78 sorry . ami_da_14
+A 1155.33 Yeah , if the costs are under twelve and a half Euro , then we can ra move on to the project evaluation , as we have experienced it . ami_da_6
+A 1166.61 Otherwise , we have do have to do a little redesign thingy . ami_da_6
+A 1170.87 So , we have to fill in the numbers of the component components . ami_da_6
+A 1177.88 We have to fil , want to do it in and see if we stay under the twelve and a half Euro . ami_da_6
+A 1187.62 So , do we have a hand dynamo ? ami_da_5
+A 1187.62 No . ami_da_4
+C 1190.04 No . ami_da_4
+A 1191.48 That is zero . ami_da_4
+C 1191.69 Me , too . ami_da_3
+B 1194.42 Battery , yes . ami_da_4
+C 1194.74 Yes . ami_da_4
+A 1195.21 Battery , one ? ami_da_5
+A 1195.21 Okay . ami_da_9
+B 1195.36 One . ami_da_4
+C 1196.05 Yeah . ami_da_4
+B 1196.22 One , yeah . ami_da_4
+B 1198.52 Kinetic , one . ami_da_4
+A 1199.01 Kinetic , one ? ami_da_5
+A 1199.01 Okay , solar cells , zero . ami_da_4
+C 1199.17 Yeah . ami_da_4
+C 1199.87 Yeah . ami_da_4
+B 1200.12 Yeah . ami_da_4
+C 1202.14 Yeah . ami_da_9
+A 1202.64 Okay , simple chip on print ? ami_da_5
+A 1202.64 No ? ami_da_5
+A 1202.64 No , advanced chip . ami_da_9
+C 1204.16 , n no . ami_da_4
+D 1205.55 No . ami_da_4
+D 1207.89 Advanced chip . ami_da_4
+C 1208.02 No . ami_da_4
+B 1208.45 No . ami_da_4
+C 1209.46 Yes . ami_da_1
+A 1210.16 Sample sensor sample speaker ? ami_da_5
+A 1210.16 Three ? ami_da_5
+A 1210.16 Yeah , ami_da_9
+A 1210.16 but it ami_da_9
+A 1210.16 it is one one thing , it is three Euro . ami_da_9
+B 1211.96 No , the advanced chip is ami_da_4
+B 1211.96 Yeah . ami_da_1
+C 1212.21 No . ami_da_4
+D 1212.83 Advanced chip is three . ami_da_4
+D 1215.97 Three Euros , yep . ami_da_4
+C 1217.07 , we have one . ami_da_4
+C 1218.0 We have one ami_da_4
+D 1219.02 Okay , one piece , yeah . ami_da_9
+C 1221.71 No , sev zero . ami_da_9
+A 1221.78 , what is the sample sensor ? ami_da_5
+A 1221.78 Okay . ami_da_9
+D 1221.79 No . ami_da_9
+C 1223.94 Well , that is ami_da_4
+C 1223.94 yeah , ami_da_9
+C 1223.94 speech recognition ami_da_9
+C 1223.94 and s ami_da_3
+C 1223.94 A zero . ami_da_4
+D 1225.04 Speech recognition , I think . ami_da_4
+B 1225.93 Yeah , ami_da_9
+B 1225.93 you give it a sample , one . ami_da_4
+A 1228.9 Zero . ami_da_4
+A 1230.06 , uncurved flat . ami_da_5
+B 1231.7 No . ami_da_4
+D 1231.9 No . ami_da_4
+A 1232.22 No . ami_da_9
+A 1232.88 But is it s it is not made from a single uncurved thingy and ami_da_5
+A 1232.88 then and then ami_da_5
+A 1232.88 no ? ami_da_9
+A 1232.88 Okay . ami_da_9
+D 1234.33 No . ami_da_4
+B 1234.37 You ami_da_3
+B 1234.37 no . ami_da_4
+C 1237.12 No . ami_da_4
+C 1237.49 No . ami_da_4
+D 1238.26 Thingy . ami_da_16
+A 1242.23 So it is only once double curved . ami_da_5
+C 1245.2 Yeah . ami_da_4
+D 1245.53 Yes , three . ami_da_4
+B 1245.95 Yeah , because the layer around it fits around the bubbles on the o on the the back of the ami_da_4
+B 1245.95 , we do not have anything else . ami_da_9
+D 1247.07 Eight . ami_da_4
+A 1250.96 Okay . ami_da_9
+A 1251.65 We are now in a problem , because we have reached eleven Euro yet . ami_da_4
+B 1258.61 So ami_da_9
+B 1258.61 Could you step a little to the right ma ami_da_6
+B 1258.61 Yeah . ami_da_9
+D 1258.69 Okay , go on . ami_da_6
+A 1259.63 Okay , ami_da_7
+A 1259.63 but we have ami_da_3
+A 1259.63 Okay . ami_da_9
+D 1259.75 Just go on . ami_da_6
+C 1260.42 Just go on . ami_da_6
+C 1260.92 Then we will see we will we will see wha how much we are over budget . ami_da_4
+D 1266.22 Two . ami_da_4
+B 1267.68 Oh , sorry . ami_da_14
+D 1269.16 Two . ami_da_4
+A 1269.78 , rubber . ami_da_5
+B 1270.87 Or ami_da_3
+B 1270.87 And zero . ami_da_4
+A 1272.4 You . ami_da_3
+C 1272.5 Zero . ami_da_4
+A 1273.23 Titanium , no ? ami_da_5
+A 1273.23 Special colour ? ami_da_5
+A 1273.23 Yeah , but we want to make the wood colours , that Yeah , one . ami_da_9
+B 1274.9 Special is the special colour ? ami_da_5
+C 1277.48 I do not think so . ami_da_4
+C 1278.09 No , this is a standard colour . ami_da_4
+D 1278.38 No . ami_da_4
+B 1279.72 Yeah . ami_da_9
+C 1282.34 Yes , this is a special colour . ami_da_14
+D 1282.47 S ami_da_3
+D 1282.47 Yeah , ami_da_9
+D 1282.47 but but D but Daniel , tha that is ami_da_9
+D 1282.47 that is another brand . ami_da_9
+B 1286.1 Yeah , if if you are honest , we will type one , special colour . ami_da_9
+C 1289.68 That is an add on . ami_da_9
+D 1293.21 That is another article to sell . ami_da_9
+B 1296.48 Yeah . ami_da_9
+A 1297.94 Yeah , but we we going to ami_da_2
+A 1297.94 yeah ami_da_9
+A 1297.94 yeah , that is true . ami_da_9
+A 1301.1 But yeah , it is it is it ami_da_3
+A 1301.1 Okay , ami_da_9
+A 1301.1 the push button , no . ami_da_4
+B 1301.83 , j maybe we will finish the the list first and then look back , aye ? ami_da_6
+B 1301.83 No . ami_da_9
+D 1301.84 That does not account for this . ami_da_9
+D 1303.63 Producing this . ami_da_9
+B 1308.17 Scroll wheel , no . ami_da_4
+A 1308.89 Scroll wheel , no . ami_da_9
+B 1310.87 No . ami_da_4
+A 1311.02 No . ami_da_9
+A 1311.8 Oh , no . ami_da_9
+A 1313.12 Yes , one . ami_da_4
+B 1314.26 One , yeah . ami_da_9
+A 1314.72 , button , no . ami_da_4
+C 1316.77 No . ami_da_9
+B 1317.12 No . ami_da_9
+A 1317.22 No , the the ami_da_2
+A 1317.22 we do not have a s ami_da_5
+A 1317.22 no . ami_da_9
+B 1317.77 , is it ami_da_9
+B 1317.77 No . ami_da_4
+C 1318.56 These three . ami_da_4
+B 1319.77 No . ami_da_4
+D 1320.06 No . ami_da_4
+C 1320.09 Well , we are only four Euro over budget . ami_da_4
+A 1321.03 Okay . ami_da_9
+A 1322.33 Oh , okay . ami_da_9
+B 1322.62 So ami_da_3
+B 1322.62 No . ami_da_9
+C 1322.95 But ami_da_3
+C 1322.95 Well , other case , we can make it single curved or uncurved . ami_da_6
+A 1323.11 So , what is the thing we can change ? ami_da_8
+A 1323.11 , can I ami_da_7
+A 1323.11 I say something ? ami_da_7
+A 1323.11 No , can I say something as Project Manager ? ami_da_7
+A 1323.11 The kinetic thing , can we just skip it , ami_da_6
+A 1323.11 because you have to shake it , but that is not really innovative . ami_da_4
+B 1327.24 No . ami_da_9
+D 1330.3 Yeah . ami_da_1
+B 1330.43 , single curves . ami_da_6
+D 1333.23 Yeah , of course . ami_da_9
+B 1334.38 Yeah . ami_da_1
+B 1337.08 Just cut off the kine ami_da_6
+B 1337.08 yeah . ami_da_9
+C 1339.94 Yeah . ami_da_9
+B 1340.15 Or ami_da_3
+B 1340.15 yeah . ami_da_9
+C 1340.33 Okay , sure . ami_da_9
+B 1343.29 Yeah , ami_da_9
+B 1343.29 we just put a good battery it it . ami_da_6
+D 1344.26 Yeah . ami_da_9
+B 1345.29 Mobile phones nowadays . ami_da_3
+D 1345.86 Daniel . ami_da_16
+A 1346.06 Yeah . ami_da_9
+D 1346.85 Daniel , ami_da_16
+D 1346.85 what do you think about Here . ami_da_2
+A 1347.55 Yo . ami_da_16
+A 1348.33 Sorry , ami_da_14
+A 1348.33 yeah , yes . ami_da_16
+D 1349.82 What do you think about putting a battery in it , but also selling like the covers , a docking station just apart from the from the thing , so that you can put rechargeable batteries in it and just ami_da_6
+D 1349.82 Yeah , ami_da_9
+D 1349.82 yeah , ami_da_9
+D 1349.82 okay . ami_da_9
+A 1353.06 Yeah . ami_da_1
+A 1367.89 Okay . ami_da_1
+B 1368.38 But you can use rechargeable batteries anyway , just you s you have to recharge them manual . ami_da_9
+A 1371.98 Yeah , and not really . ami_da_9
+A 1373.75 But we ami_da_2
+A 1373.75 if you forget about the kinetic , well if we do that , we shall . ami_da_4
+D 1375.03 Just an idea . ami_da_9
+B 1376.08 Yeah , ami_da_9
+B 1376.08 that is a cost reduc . ami_da_3
+C 1376.14 Yeah , sure . ami_da_9
+D 1376.16 Yeah . ami_da_9
+C 1381.0 Okay , ami_da_9
+C 1381.0 well you you can go from double curved to single curved . ami_da_6
+A 1381.67 So ami_da_3
+A 1381.67 , b but i but the single curved is just oh ami_da_4
+A 1381.67 Oh , okay , okay . ami_da_9
+D 1384.81 Yeah , of course . ami_da_9
+C 1386.02 And that would solve the budget problem . ami_da_4
+B 1388.29 Yeah , ami_da_9
+B 1388.29 so we have to bake the ba back flat , and then ami_da_6
+B 1388.29 No , it is it is just one curve and not a back curved I think . ami_da_4
+C 1390.98 Yeah . ami_da_1
+C 1393.0 It is just yeah ami_da_3
+C 1393.0 well , the single curve that ami_da_3
+C 1393.0 Yeah . ami_da_9
+B 1398.5 Or ami_da_4
+B 1398.5 Or are these two curves ? ami_da_5
+B 1398.5 Yeah , ami_da_9
+B 1398.5 but what else do we have to cut out ? ami_da_8
+B 1398.5 No advanced chip , that is a little bit of problem . ami_da_4
+C 1399.32 Exactly , yeah . ami_da_9
+A 1399.99 So that is wh tha that is one option . ami_da_4
+D 1400.32 Yeah . ami_da_1
+A 1403.8 And then w yeah , ami_da_4
+A 1403.8 and then we could have it , but it is its' ami_da_4
+A 1403.8 well it is it is ami_da_4
+A 1403.8 r it is the main point of the the the the look . ami_da_4
+D 1406.02 Yeah , ami_da_1
+D 1406.02 Yeah . ami_da_9
+C 1413.57 We going to cut ami_da_3
+C 1413.57 Yeah , we just make it flat . ami_da_9
+A 1415.86 No , tho that that can be done . ami_da_9
+A 1418.26 So , ami_da_3
+A 1418.26 okay , a little less conversation . ami_da_6
+B 1418.7 Although , can we make it with a regular chip ? ami_da_5
+B 1418.7 Curvy . ami_da_3
+D 1423.56 Hey , those ar arcs , why are there for ? ami_da_5
+D 1423.56 The blue blue ami_da_4
+D 1423.56 Okay . ami_da_9
+A 1427.98 Sorry ? ami_da_12
+A 1427.98 Fill in ami_da_3
+A 1427.98 Just a ami_da_4
+A 1427.98 explanation . ami_da_9
+B 1433.74 Explanation . ami_da_4
+B 1434.61 Twelve fifty . ami_da_4
+A 1435.42 I can delete it for you if you want . ami_da_7
+B 1435.53 Well ami_da_3
+B 1435.53 Yeah , ami_da_9
+B 1435.53 but does it fit with our design ? ami_da_11
+B 1435.53 Do we have to u adapt it ? ami_da_8
+B 1435.53 It is single curves . ami_da_9
+D 1436.8 No , no no . ami_da_9
+A 1437.89 So , if we do this , we are on twelve and a half Euro . ami_da_4
+A 1443.45 And we are done . ami_da_4
+A 1448.48 well , the only thing that do not ami_da_9
+A 1448.48 Yeah , single curved , but there is a curve in it . ami_da_9
+D 1453.07 Yeah . ami_da_1
+B 1453.58 W ami_da_3
+B 1453.58 Could we just make the bubbles cut off the back , and then we are has ami_da_6
+B 1453.58 Okay . ami_da_9
+A 1454.83 So Yeah , it is really a static value . ami_da_9
+D 1460.54 But , wha Okay , look , what is the ami_da_2
+D 1460.54 If you make it double curved , it costs one Euro more . ami_da_4
+C 1460.89 But , you do l ami_da_3
+C 1460.89 Function . ami_da_11
+B 1469.14 More . ami_da_9
+B 1469.94 Yeah . ami_da_9
+D 1470.58 But ami_da_3
+D 1470.58 No , ami_da_9
+D 1470.58 but does it have a lot of extra fun function more like ami_da_11
+D 1470.58 Yeah . ami_da_1
+B 1470.73 You make it optional . ami_da_6
+B 1478.4 Functional . ami_da_9
+C 1479.68 Worth , does it have added worth ? ami_da_11
+C 1479.68 No , ami_da_9
+C 1479.68 Yeah , well let is assume it is . ami_da_4
+B 1480.23 , there is an a a athe aesthetic value , but not functionality . ami_da_9
+D 1484.1 Yeah , aesthetic . ami_da_9
+A 1485.32 Yeah . ami_da_9
+D 1486.42 I mean , you make like eleven and a half Euros profit instead of twelve and a half . ami_da_4
+D 1494.74 But I do not know if twelve and a half is a fixed fixed price . ami_da_4
+A 1501.48 Yeah , it is . ami_da_4
+D 1501.5 No , we ca not go above that . ami_da_9
+D 1502.99 Yeah ? ami_da_5
+D 1502.99 Yeah , okay . ami_da_9
+A 1503.06 Oh . ami_da_4
+C 1503.11 We we should assume it i that it is . ami_da_4
+A 1504.83 Yeah , okay . ami_da_9
+B 1504.88 Yeah . ami_da_9
+C 1505.49 But I I figured that the kinetic would be a marketing promotion . ami_da_4
+D 1506.08 Then it is okay . ami_da_9
+C 1509.46 R if you promote a kinetic ami_da_4
+C 1509.46 I kinetic remote control , ami_da_4
+C 1509.46 I mean , that would b sell better than an a normal remote control . ami_da_4
+D 1519.12 Yeah . ami_da_9
+A 1519.15 Yeah . ami_da_9
+A 1520.21 Do you think ? ami_da_11
+A 1520.21 Well , now you can shake your remote control . ami_da_4
+D 1521.05 Yeah , I think so . ami_da_9
+C 1523.48 No , well , y I mean , y you can go into your neighbour and tell him , ha , my k remote control is kinetic . ami_da_9
+A 1528.85 Kinetic . ami_da_1
+C 1528.88 You have standard old battery control remote con True . ami_da_9
+B 1528.98 Yeah . ami_da_1
+D 1530.18 Yeah . ami_da_1
+D 1531.88 What a what about all the m the environment freaks ? ami_da_11
+D 1531.88 Not freaks , ami_da_9
+D 1531.88 the envi ami_da_3
+D 1531.88 No . ami_da_9
+B 1532.02 Yeah . ami_da_1
+B 1535.99 Yeah , but it does not fit in our co cost profile . ami_da_9
+B 1538.42 So ami_da_9
+B 1538.42 You ma can make an an especialised extra gold version . ami_da_6
+D 1539.95 I I think it is ami_da_9
+D 1539.95 it is ami_da_9
+D 1539.95 It look like this one . ami_da_9
+A 1545.36 Yeah ? ami_da_11
+A 1545.36 Who ami_da_3
+A 1545.36 because if you want to go to kinetic , you are you are on thirteen and a half ami_da_4
+A 1545.36 and you must go to flat , and I think now it is it is more of a compromise thing . ami_da_4
+B 1557.67 Yeah . ami_da_9
+D 1558.42 Yeah . ami_da_9
+A 1560.67 And if you make the single curve ha just a big curve , ami_da_6
+A 1560.67 then it is then it is ami_da_2
+A 1560.67 yeah , one big good curve . ami_da_9
+B 1567.28 Yeah , just one big curve . ami_da_9
+A 1572.53 I was going to say nasty words , but I do not . ami_da_4
+A 1576.49 This is strange by the way . ami_da_9
+A 1578.8 Wood is m is is is cheaper than rubber . ami_da_4
+A 1581.88 We thought that wood would be more expensive . ami_da_4
+D 1582.01 Yeah . ami_da_1
+B 1583.62 , this American figures . ami_da_9
+B 1585.41 You just cut down some trees . ami_da_9
+A 1587.0 Yeah , maybe . ami_da_9
+A 1588.88 But that ami_da_2
+A 1588.88 this is this is it ? ami_da_5
+A 1588.88 Yeah . ami_da_9
+D 1592.07 This is it . ami_da_4
+A 1592.66 Okay , this is it . ami_da_9
+B 1593.01 Whoever makes a remote control out of titanium . ami_da_9
+A 1594.22 I am going to save it . ami_da_7
+A 1596.9 Yeah . ami_da_9
+B 1597.68 Yes . ami_da_9
+C 1598.26 It is possible , but you ca not use double curves for titanium . ami_da_4
+B 1603.11 No . ami_da_1
+C 1603.73 That is one of the functionability ami_da_4
+C 1603.73 Well , I th ami_da_9
+C 1603.73 I think you two , especially you and and Daniel , you d you ami_da_9
+C 1603.73 you both had the less creative roles in the project . ami_da_9
+A 1605.66 Okay , well , ami_da_2
+A 1605.66 considering we have ami_da_3
+A 1605.66 Well , we were above , so we did a little redesign ami_da_9
+A 1605.66 Okay , ami_da_2
+A 1605.66 now it is about time to talk about this project . ami_da_4
+D 1610.32 no , we have to do all those hours again . ami_da_14
+D 1615.38 Go back . ami_da_6
+D 1616.67 One back ? ami_da_6
+D 1616.67 Costs on No redesign . ami_da_4
+D 1624.66 Yeah . ami_da_1
+B 1625.41 We sue . ami_da_14
+D 1626.05 Yeah , ami_da_9
+D 1626.05 okay , ami_da_9
+D 1626.05 yeah . ami_da_9
+B 1626.17 We ami_da_14
+B 1626.17 Yeah , we will start her all o all over again . ami_da_14
+A 1635.88 , some things . ami_da_4
+A 1638.07 Were there room for ami_da_2
+A 1638.07 was there room for creativity in our meetings or in your individual meetings ? ami_da_11
+A 1638.07 Yeah . ami_da_1
+B 1642.2 For us , there was a lot of creativity . ami_da_9
+D 1644.98 I I did not think so . ami_da_9
+D 1647.66 That there was a lot of room for it . ami_da_9
+D 1650.97 But , that is mainly because of the information that was delivered to us . ami_da_9
+D 1656.37 It was just fixed information and get your stuff from there , and I could not go on on i on the internet and search my own stuff . ami_da_4
+A 1660.32 Yeah . ami_da_1
+A 1663.39 Yeah , ami_da_9
+A 1663.39 yeah , ami_da_9
+A 1663.39 yeah . ami_da_9
+D 1664.41 Bu ami_da_4
+D 1664.41 Yeah . ami_da_9
+A 1665.84 That is true . ami_da_9
+A 1666.77 I agree with that . ami_da_9
+A 1677.23 Yeah . ami_da_9
+A 1678.2 That is true . ami_da_9
+C 1679.41 Because I think m ami_da_3
+C 1679.41 I think Jeroen and I , we had a more design we could have more we had more room for creativity than than you two . ami_da_9
+B 1681.04 We could just sign up an remote if we liked . ami_da_4
+A 1683.92 Yeah . ami_da_9
+D 1684.32 Yeah . ami_da_9
+A 1685.01 Yeah , that is true . ami_da_9
+A 1692.92 Yeah . ami_da_1
+D 1693.83 Yeah . ami_da_9
+D 1694.72 Yeah , that is true . ami_da_9
+A 1695.65 Okay . ami_da_2
+A 1696.97 how about the leadership ? ami_da_11
+A 1696.97 Okay , thank you very much . ami_da_14
+B 1698.3 Crappy . ami_da_9
+D 1699.9 Leadership was crappy . ami_da_14
+C 1700.09 Ha . ami_da_16
+C 1702.59 Nah , the leadership was not crappy , it was the leader that was crappy . ami_da_14
+B 1702.74 Cra Yeah . ami_da_9
+C 1705.81 Nah . ami_da_9
+D 1706.34 Okay . ami_da_9
+C 1707.67 No , the leadership was okay . ami_da_9
+A 1710.02 Now we are done . ami_da_14
+B 1711.0 Yeah , example of crappy leadershi ami_da_14
+B 1711.0 Okay , yeah . ami_da_9
+D 1713.82 No , leadership was ami_da_9
+D 1713.82 Okay , I thought the first meeting was a little bit of unstructured meeting . ami_da_9
+C 1716.54 Yeah , it was good . ami_da_9
+A 1721.38 Yeah , that is true . ami_da_9
+D 1721.83 , you could have ami_da_2
+D 1721.83 but , it was your first , ami_da_9
+D 1721.83 no no disrespect or something , ami_da_14
+D 1721.83 but you could have structure it a l little bit more . ami_da_9
+D 1730.03 So like , I I was talking most of the time the first meeting meeting , and ami_da_4
+D 1730.03 Yeah . ami_da_9
+A 1730.06 Yeah . ami_da_9
+B 1734.61 You could of said , shut up you fool . ami_da_14
+A 1735.8 Yeah . ami_da_9
+A 1737.09 Yeah . ami_da_9
+D 1737.64 But ami_da_3
+D 1737.64 About me . ami_da_14
+A 1737.8 I notice it too . ami_da_9
+A 1738.49 I was a ami_da_9
+A 1738.49 I was also very unhappy , very unsatisfied about the about the first meeting . ami_da_9
+A 1746.04 So , I hope the the the other meetings get better and I think the the last two meetings also we we reached some good decisions about talk ami_da_9
+A 1746.04 yeah . ami_da_9
+D 1749.35 Yeah , you made up . ami_da_9
+C 1749.39 Try to learn from your mistake . ami_da_14
+C 1750.89 And we will never do it again . ami_da_14
+D 1754.54 No , it you did better . ami_da_9
+B 1759.37 Yeah , more more consensus . ami_da_9
+D 1760.9 Yeah . ami_da_9
+B 1760.91 Ev everybody w was agreeing every Yeah . ami_da_9
+D 1762.5 Much more constructive . ami_da_9
+A 1763.42 Okay , so that is cool . ami_da_9
+A 1765.85 , teamwork ? ami_da_11
+A 1765.85 Well , maybe that is only ami_da_4
+A 1765.85 Yeah well , it is for us , because ami_da_9
+A 1765.85 Yeah . ami_da_1
+B 1770.3 Well , we work together on a project , but everybody has his own task . ami_da_4
+A 1774.22 Yeah and it is wo more like presentation and some points were discussed . ami_da_9
+B 1774.23 So , it is a little bit ami_da_3
+B 1774.23 Yeah . ami_da_9
+A 1777.94 But , really teamwork were you two ami_da_9
+A 1777.94 The ami_da_3
+A 1777.94 Yeah ? ami_da_11
+A 1777.94 No hard feelings . ami_da_11
+B 1778.45 No ami_da_9
+B 1778.45 Well , it went okay . ami_da_9
+D 1781.05 Two guys . ami_da_9
+C 1782.42 Yeah , that went w ami_da_9
+C 1782.42 it went well . ami_da_9
+C 1783.81 It is it is just ami_da_3
+C 1783.81 Nah . ami_da_9
+B 1785.61 Stupid stupid pen , but ami_da_9
+B 1785.61 Yeah , ami_da_9
+B 1785.61 but but draw something difficult . ami_da_6
+C 1788.1 Yeah , we we had some trouble with the pen , but ami_da_9
+C 1788.1 Yeah , but us ami_da_3
+C 1788.1 Yeah . ami_da_9
+A 1789.94 Yeah . ami_da_9
+A 1790.96 Now you you must push a little while . ami_da_4
+B 1796.28 D just write your name right now . ami_da_6
+B 1798.36 Try to write your name , in in writing letters , of course , yeah ? ami_da_6
+B 1798.36 Yeah , normally , this ami_da_2
+B 1798.36 the w Block letter sign it , ami_da_6
+B 1798.36 yeah ? ami_da_6
+B 1798.36 Just just write your name in in one line . ami_da_6
+A 1799.35 Okay . ami_da_7
+A 1811.82 O Just ami_da_3
+A 1811.82 okay . ami_da_7
+B 1814.45 If it is a little bit too small ami_da_3
+B 1814.45 bit quicker now . ami_da_6
+B 1817.8 It did not ami_da_3
+B 1817.8 he he knows how it works , yeah . ami_da_9
+A 1817.88 You can be you can go quicker , because then it it wo not notice it . ami_da_9
+A 1824.95 I follow the Master class for the SMARTboard , so I think that is the that is the main issue . ami_da_4
+C 1824.99 Oh . ami_da_9
+D 1830.14 Okay . ami_da_9
+A 1830.94 , so about this one you were you are dealing with , ami_da_4
+A 1830.94 the the the the digital pen . ami_da_11
+D 1832.14 Means . ami_da_16
+B 1837.34 Y well , yeah . ami_da_9
+B 1838.56 Th the i ami_da_3
+B 1838.56 The idea is great , but it does not work properly . ami_da_9
+A 1842.29 Okay . ami_da_9
+D 1843.57 Digital pen , I thought th the first time I did individual work , I used it . ami_da_4
+A 1843.6 Yeah . ami_da_9
+B 1843.74 Yeah . ami_da_1
+A 1848.86 Yeah . ami_da_1
+D 1849.21 But , a and the first two meetings I brought it with me , but I did not use it at all after the first the first meeting . ami_da_4
+A 1855.15 No . ami_da_1
+C 1856.26 No , I have it working . ami_da_4
+C 1857.19 But , yeah , well ami_da_3
+C 1857.19 No , it does not have that much added value to the Yeah . ami_da_9
+D 1858.52 It is it is not real real use for me . ami_da_9
+A 1861.2 Huh . ami_da_1
+B 1862.48 Nee . ami_da_9
+A 1862.88 Well ami_da_3
+A 1862.88 Yeah . ami_da_1
+B 1863.27 As as I said a m a c few moments ago , it I would like , myself , to write with a normal pen , ami_da_9
+B 1863.27 because must Yeah , it is almost the same concept , but you can just sim more simply put it on our scanner . ami_da_4
+B 1876.73 I it is the same concept as the pen , where you f have to download the software or s very slow . ami_da_4
+A 1877.68 M yeah . ami_da_1
+A 1882.18 Yeah . ami_da_1
+A 1883.94 And it is still your own handwriting popping up in Word . ami_da_4
+B 1885.76 Yes . ami_da_9
+B 1886.16 No , and it does not give any added value . ami_da_9
+A 1889.21 No , that is true . ami_da_9
+D 1889.61 Not really , no . ami_da_9
+A 1890.67 No . ami_da_9
+A 1892.09 And the SMARTboard is useful , but the the pen is I not user friendly , I think . ami_da_9
+B 1898.34 Yeah , not user friendly . ami_da_9
+A 1899.45 Be it it takes a lot of time to draw things and to write things , ami_da_9
+A 1899.45 and that is the ami_da_3
+A 1899.45 Yeah , but that is not th the the you ami_da_2
+A 1899.45 when you at a foreign audience , you b do not going to wr write small . ami_da_9
+B 1902.11 Yeah , and it is it is not very precise . ami_da_9
+B 1904.12 We are trying to m to ami_da_3
+B 1904.12 Yeah , it may ami_da_2
+B 1904.12 Yeah , and tr try to wri write your name in a in a normal size , ami_da_6
+B 1904.12 yeah . ami_da_6
+D 1904.23 Yeah , ami_da_9
+D 1904.23 like when you do this . ami_da_4
+B 1914.31 Smaller . ami_da_6
+D 1915.73 Smaller ? ami_da_8
+D 1915.73 Oh . ami_da_14
+B 1916.46 Yeah , smaller . ami_da_6
+B 1917.24 Just like when you are writing on a letter . ami_da_4
+B 1925.62 No , ami_da_9
+B 1925.62 a as you saw on on this drawing , just open open this one or that one . ami_da_6
+B 1931.1 It is th it it ami_da_2
+B 1931.1 Yeah , we had more problems even here when we trying to draw these buttons , it is almost impossible to get clear when you are ami_da_9
+B 1931.1 And the eraser was another problem . ami_da_9
+A 1938.53 Yeah . ami_da_1
+D 1942.6 Sorry . ami_da_14
+A 1942.66 But maybe there is some function with ami_da_4
+A 1942.66 no , it is not . ami_da_9
+A 1945.75 With ami_da_3
+A 1945.75 Yeah . ami_da_1
+B 1947.76 It w t is is this large . ami_da_4
+B 1949.6 And when you try to erase this line , y ami_da_9
+B 1949.6 I am going to erase my name there . ami_da_7
+A 1953.36 Well , I am going to erase my name . ami_da_7
+A 1958.61 Yeah , it is a big big eraser . ami_da_9
+D 1960.13 Okay . ami_da_2
+D 1961.08 New ideas ? ami_da_11
+D 1961.08 Do you ? ami_da_16
+D 1961.08 Go on . ami_da_6
+B 1962.47 M Abo ami_da_5
+B 1962.47 What kind of new ideas ? ami_da_5
+B 1962.47 Yeah , ami_da_3
+B 1962.47 New ideas about the working of this software , about about the project , about the remote controls or ami_da_5
+B 1962.47 Hello . ami_da_16
+A 1963.29 Well , the the idea of the touch screen is ami_da_4
+A 1963.29 I am just ami_da_3
+A 1963.29 I do not know what what I mean . ami_da_4
+D 1978.15 Yeah . ami_da_4
+D 1979.06 , yeah , I think so . ami_da_4
+D 1990.98 Did you heard what he said ? ami_da_5
+D 1990.98 I do not ami_da_4
+D 1990.98 I do not know what I mean . ami_da_9
+A 1992.95 No . ami_da_1
+C 1993.89 Know what I mean . ami_da_4
+D 1998.26 Oh , I have some figure . ami_da_4
+D 2000.59 Here . ami_da_4
+D 2001.5 The eva the evaluation , the the mean number is one point eight one point eight six . ami_da_4
+A 2001.66 Oh . ami_da_16
+A 2004.13 Oh yeah . ami_da_9
+A 2010.53 That is interesting . ami_da_9
+D 2010.88 So that is fairly fairly good , I think . ami_da_9
+A 2012.98 Okay , ami_da_9
+A 2012.98 because what does it mean ? ami_da_5
+A 2012.98 All the mo ami_da_4
+A 2012.98 yeah , are between one and two . ami_da_4
+B 2013.01 Yeah . ami_da_9
+B 2014.89 So true . ami_da_4
+D 2015.3 , that ami_da_2
+D 2015.3 all the requirements are true or very true , right . ami_da_4
+A 2021.94 Yeah . ami_da_9
+A 2022.6 Oh , okay . ami_da_9
+D 2023.45 Yep . ami_da_4
+A 2023.94 Yeah , okay . ami_da_9
+A 2025.61 Thank you , expert . ami_da_14
+A 2029.72 But the new ideas found for wi with working with this software ? ami_da_11
+A 2029.72 Not really , yeah ? ami_da_9
+A 2029.72 Yeah , I think ami_da_9
+A 2029.72 Yeah . ami_da_1
+B 2034.97 Not really , just they have to improve it . ami_da_9
+B 2037.49 , the concept is okay , but it has to be quicker . ami_da_9
+B 2041.75 , it is still opening my programme , n almo almost my entire computer is locked up during the process ami_da_4
+B 2041.75 and it , yeah , just takes too many time . ami_da_9
+B 2051.07 People will still feel the need to to write it quickly on a page and not download it and save it , and More user friendly . ami_da_9
+A 2054.68 Yeah . ami_da_1
+A 2058.17 You had expected it to to be more more ami_da_9
+A 2058.17 Yeah . ami_da_1
+B 2065.41 Because when you use a pen , you can just draw like you d draw normally , ami_da_4
+B 2065.41 and you do ami_da_3
+B 2065.41 Yeah . ami_da_1
+A 2067.58 Yeah . ami_da_1
+D 2068.85 Yeah . ami_da_1
+D 2069.88 May maybe the idea you proposed is a screen here . ami_da_9
+D 2075.71 And draw it , and it is it is placed over there . ami_da_9
+A 2076.61 Yeah . ami_da_1
+B 2077.66 Yeah , that l ami_da_1
+B 2077.66 Would be easier . ami_da_9
+A 2079.41 Yeah . ami_da_1
+B 2080.48 Or at least when you you do not have to adapt to the technology , just you can write in the way you normally write . ami_da_9
+D 2087.74 No . ami_da_1
+B 2088.05 And now you have to keep constantly in mind that you are drawing on this screen . ami_da_4
+B 2092.91 And that is a very bad concept . ami_da_9
+A 2093.42 Yep , yep . ami_da_1
+A 2095.52 Yeah , that is true . ami_da_9
+D 2095.8 , very bad . ami_da_9
+B 2097.04 Nah , okay , ami_da_3
+B 2097.04 I I ami_da_3
+B 2097.04 it is my opinion ami_da_3
+B 2097.04 that I ami_da_3
+B 2097.04 Yeah , it is can be saved easier . ami_da_9
+D 2097.2 But ami_da_3
+D 2097.2 I think this is better than regular flip overs , ami_da_9
+D 2097.2 but ami_da_3
+D 2097.2 Yeah . ami_da_9
+B 2105.89 But if you are in normal flip over you a lot of people write text . ami_da_4
+B 2110.22 There is no text option . ami_da_4
+D 2110.24 Yeah . ami_da_1
+B 2111.79 And writing text , yeah , you have gotta really do your best to write some ami_da_4
+B 2111.79 Yeah . ami_da_1
+A 2116.34 Yeah , ami_da_9
+A 2116.34 and and maybe some functions for circle or a square . ami_da_9
+A 2125.42 You have to draw it yourself now . ami_da_4
+B 2126.95 Or maybe even insert picture . ami_da_9
+D 2127.4 Yeah . ami_da_1
+B 2129.3 If you have some presentation , and you have some f ami_da_9
+B 2129.3 Yeah . ami_da_1
+A 2130.94 Yeah . ami_da_1
+C 2131.36 Or text function . ami_da_9
+C 2132.43 Just t t type text , and that that would be excellent . ami_da_9
+C 2135.63 Mean ami_da_3
+C 2135.63 Oh . ami_da_16
+A 2136.11 Yeah . ami_da_1
+D 2136.28 Yeah , ami_da_9
+D 2136.28 but insert image is not available ? ami_da_5
+D 2136.28 Here . ami_da_4
+B 2141.31 Because then you could ami_da_3
+B 2141.31 Oh , okay . ami_da_9
+D 2142.3 Picture from scanner , clip art . ami_da_4
+A 2143.58 Yeah , that that can be done already . ami_da_9
+A 2146.07 But not the the the the predefined squares I think ami_da_4
+A 2146.07 Sorry ? ami_da_12
+A 2146.07 Well , that is nice . ami_da_9
+B 2146.16 So you can ami_da_3
+B 2146.16 With WW dot Google dot com . ami_da_6
+D 2147.42 Hyperlink ? ami_da_5
+D 2147.42 Hey , what if you do like hyperlink ? ami_da_6
+D 2147.42 Type type it ? ami_da_6
+D 2147.42 Re Real Reaction dot NL . ami_da_6
+B 2160.87 Oh yeah . ami_da_9
+B 2161.22 Maybe . ami_da_3
+D 2164.7 Yes , is now is okay . ami_da_9
+D 2166.19 Okay ? ami_da_11
+D 2166.19 Huh . ami_da_3
+B 2168.09 You will just make a link in ami_da_6
+B 2168.09 Yeah . ami_da_9
+B 2173.74 There is one way to ami_da_3
+B 2173.74 Maybe if if you are not using the eraser ami_da_6
+B 2173.74 Something else th ami_da_4
+B 2173.74 Yeah , arrow . ami_da_4
+A 2175.49 Is it ami_da_5
+A 2175.49 Here . ami_da_16
+D 2176.26 Okay , double click it . ami_da_6
+A 2180.9 oh . ami_da_16
+D 2182.26 You are erasing . ami_da_4
+A 2182.65 Oh , sorry . ami_da_14
+D 2187.04 Double click it . ami_da_6
+A 2187.39 Yeah . ami_da_9
+A 2188.56 Here , that . ami_da_9
+B 2189.19 Okay . ami_da_9
+B 2190.4 Well , it is ami_da_3
+B 2190.4 Yeah , okay . ami_da_9
+A 2190.46 So you have ami_da_3
+A 2190.46 as you saw , you have a little ami_da_4
+A 2190.46 Oh , you can ami_da_3
+A 2190.46 Yeah , ami_da_9
+A 2190.46 thank you . ami_da_14
+A 2199.22 You can go there . ami_da_4
+A 2204.05 So there the the the functionality is there , ami_da_4
+A 2204.05 but it is not it is not ideal , ami_da_9
+A 2204.05 and it is it is very ami_da_2
+A 2204.05 it costs a lot of time to ami_da_4
+A 2204.05 to use . ami_da_9
+B 2206.87 But . ami_da_3
+B 2211.81 To use , yeah . ami_da_4
+D 2213.47 Yeah . ami_da_1
+A 2213.66 And that is a pity , ami_da_9
+A 2213.66 if you if you have thirty , forty minutes for this kind of things , and we are now with four people , ami_da_4
+A 2213.66 but it ami_da_2
+A 2213.66 well , imagine you are here you are with the ten people and everyone ami_da_4
+A 2213.66 Yeah . ami_da_9
+B 2218.18 Yeah . ami_da_1
+B 2219.26 And that is m ami_da_3
+B 2219.26 That is mostly the case , ami_da_9
+B 2219.26 from the over here with the managements you get two minutes to make your case , and if you have to do all this kind ami_da_4
+B 2219.26 You will rather use PowerPoint and work it out in advance . ami_da_9
+A 2230.93 Two minutes of drawing , yeah . ami_da_9
+D 2232.5 Yep . ami_da_1
+A 2235.86 Yeah . ami_da_9
+B 2236.53 And th the one or two things you have to draw when you are there , just use a flip board . ami_da_9
+A 2238.89 Yeah . ami_da_1
+D 2241.47 What I really miss also is ami_da_9
+D 2241.47 is a d is a turtle ami_da_14
+D 2241.47 is a decision decision system ami_da_9
+D 2241.47 like With the evaluation , you have to Polls like , what do you want , a one , a two , ami_da_4
+D 2241.47 maybe a a l a little application like give your own number and click one two three four five six seven . ami_da_9
+A 2261.73 Yeah yeah . ami_da_9
+B 2262.82 Yeah . ami_da_1
+A 2272.7 Yeah , just like he said with the with the a screen which you can write , also a kind of voting mechanism . ami_da_9
+D 2277.5 Yeah , j ju ju yeah , v voting application . ami_da_9
+D 2280.46 Just a little group group decision application . ami_da_9
+A 2280.73 Yeah . ami_da_1
+A 2283.26 Yeah . ami_da_1
+C 2283.76 But , problem is , well you ca not discuss anything well you ami_da_9
+C 2283.76 you ca you can , ami_da_9
+C 2283.76 but you will discuss a lot less than l like we did now . ami_da_9
+D 2292.66 Yeah . ami_da_9
+C 2293.12 We I mean w w ami_da_4
+C 2293.12 w one one person ami_da_4
+C 2293.12 s maybe said three . ami_da_4
+C 2297.26 But , well I we said , no I w th think two , because this and this , and then you can react on it . ami_da_4
+C 2303.62 But if you you put a three on it , just figure well ami_da_9
+C 2303.62 , everybody knows what I am knowing , so they will all just put a two on . ami_da_9
+D 2303.62 Yeah , okay . ami_da_9
+D 2311.32 Yeah , of course . ami_da_9
+D 2311.95 But , you can still discuss about it , but but click it in an application , that is a lot easier to process . ami_da_9
+C 2316.13 Yeah , but it would ami_da_9
+C 2316.13 yeah . ami_da_9
+C 2321.68 Yeah okay , the for processing part . ami_da_9
+D 2322.97 The digit . ami_da_9
+D 2323.55 Yeah . ami_da_9
+C 2324.37 But then , I think the idea of one person entering it and the rest discussing it , that is not that bad idea , actually . ami_da_9
+D 2332.11 Yeah . ami_da_9
+C 2333.88 Not that your opinion is not valued , but but still . ami_da_9
+D 2337.38 Yeah . ami_da_9
+A 2339.22 Yeah . ami_da_9
+D 2339.94 Okay . ami_da_9
+B 2340.16 Okay . ami_da_9
+A 2340.3 Okay , so ami_da_2
+A 2340.3 well , just about , ami_da_4
+A 2340.3 because ami_da_3
+A 2340.3 Yeah , tomorrow ? ami_da_14
+A 2340.3 , the costs are within the budget . ami_da_4
+B 2341.12 Yo , manager . ami_da_16
+D 2341.96 That is it ? ami_da_5
+D 2341.96 Celebration . ami_da_16
+B 2342.84 When are w ami_da_3
+B 2342.84 When are we going to produce it ? ami_da_5
+B 2342.84 Oh . ami_da_16
+A 2351.52 , the project is evaluated . ami_da_4
+D 2351.56 Yeah . ami_da_9
+D 2353.46 Yeah . ami_da_9
+A 2353.53 But , before we going to celebrate , I have a little question which you ca not answer , ami_da_7
+A 2353.53 because there must be some kind of end report . ami_da_4
+A 2362.95 I am busy with the end report right now . ami_da_7
+A 2365.16 You might thinking what the hell was he doing about all the meetings , what we have decided , a r r a report of this day . ami_da_4
+D 2367.01 What is an end report ? ami_da_5
+D 2367.01 Yeah . ami_da_1
+D 2372.85 Yeah , ami_da_1
+D 2372.85 yeah . ami_da_1
+A 2373.53 , that must be made , but I do not know , here is standing whoa , we can celebrate now , but the end report is ami_da_4
+A 2373.53 Okay well , that that can be done . ami_da_9
+D 2379.51 Oh , you ha you have ten minutes left , I read . ami_da_4
+D 2383.39 You have now ten minutes left to finish up the end report . ami_da_4
+A 2387.77 Maybe we can do it together . ami_da_6
+A 2389.29 You can see what I have ami_da_4
+A 2389.29 yeah ? ami_da_11
+A 2389.29 So I I s ami_da_7
+A 2389.29 I will put it on a story board . ami_da_7
+D 2390.75 Yeah . ami_da_9
+C 2391.53 Yeah , sure . ami_da_9
+A 2396.37 You can see it . ami_da_4
+D 2399.58 You you already made a beta version , or ami_da_5
+D 2399.58 Pages . ami_da_14
+A 2399.79 Because I think it will it must be ami_da_3
+A 2399.79 Yeah , it is a three with seventy five ami_da_4
+A 2399.79 Yeah , just about . ami_da_14
+C 2411.45 Y yikes . ami_da_14
+C 2412.83 Seventy five pages . ami_da_14
+A 2414.92 Well , just a moment . ami_da_16
+A 2416.2 End report . ami_da_4
+D 2417.89 Okay , Daniel . ami_da_16
+D 2423.78 Do you want a chair maybe ? ami_da_5
+D 2423.78 Hey ? ami_da_5
+D 2423.78 Oh , okay . ami_da_9
+B 2426.14 A chairman . ami_da_14
+A 2427.55 No no ami_da_4
+A 2427.55 no , I am just you can s ami_da_4
+A 2427.55 you can read it and here here it is . ami_da_4
+A 2432.85 End report . ami_da_4
+C 2432.86 So you you finished it actually , and so we just have to read it and say yes ami_da_5
+C 2432.86 or no ? ami_da_5
+C 2432.86 It is not double . ami_da_9
+B 2437.52 Yes . ami_da_4
+A 2437.68 Well , this not nit it ami_da_2
+A 2437.68 read only . ami_da_16
+A 2440.4 But it is not fully finished yet . ami_da_4
+D 2441.54 Five minutes for finishing . ami_da_4
+A 2444.47 , this is about the functional design , ami_da_4
+A 2444.47 the things ami_da_3
+A 2444.47 yeah ami_da_3
+A 2444.47 yeah . ami_da_3
+D 2447.91 Management Expert , you have to change that . ami_da_6
+A 2450.14 Oh yeah . ami_da_9
+A 2450.87 I am ami_da_2
+A 2450.87 when I said it , I remember I had it here . ami_da_4
+D 2451.9 Marketing . ami_da_4
+B 2453.8 It is a read only version . ami_da_4
+D 2455.9 Yeah , ami_da_9
+D 2455.9 but you can save it u the under another name . ami_da_4
+B 2458.15 Oh , okay . ami_da_9
+A 2459.22 Marketing Expert , ami_da_9
+A 2459.22 okay . ami_da_2
+A 2461.03 about the three functions where which are most used and which must immediately be visible on our remote control . ami_da_4
+A 2472.12 , it must be simple to use , very clear what to do , and at the younger people . ami_da_4
+A 2478.03 So , this is really about wh what kind things must be in it and ami_da_4
+A 2478.03 yeah . ami_da_5
+D 2483.26 Maybe the The ami_da_2
+D 2483.26 Yeah . ami_da_9
+B 2490.97 One two three . ami_da_16
+A 2491.48 Yeah , I understand you , I can talk a little bit Dutch . ami_da_14
+D 2494.06 You ami_da_2
+D 2494.06 Yeah . ami_da_2
+D 2494.91 No , you have to put , switch channels at the top , because that is the most used function and teletext at the second ami_da_6
+D 2494.91 Oh nay , ami_da_9
+D 2494.91 a volume changing , second . ami_da_4
+A 2499.82 Oka okay ami_da_9
+A 2499.82 , okay , ami_da_9
+A 2499.82 I ami_da_3
+A 2499.82 I really did not knew that . ami_da_9
+A 2507.7 So , this one is first . ami_da_5
+D 2508.44 S switch , yes . ami_da_4
+A 2511.49 You go there and you go there . ami_da_16
+D 2514.5 Yeah . ami_da_9
+A 2514.88 So , okay . ami_da_9
+D 2515.24 Okay , go on . ami_da_6
+A 2516.04 Well , maybe I can then do it ami_da_9
+A 2516.04 one two three . ami_da_16
+D 2520.86 Yes , very good . ami_da_9
+A 2522.91 If the order is in is is important , that is the word for . ami_da_4
+D 2524.5 Yeah . ami_da_1
+D 2525.69 Yeah . ami_da_1
+D 2526.96 The order . ami_da_9
+A 2528.43 then the conceptual design . ami_da_4
+A 2533.4 , well all the things we have discussed , the energy , which turn out to be batteries , ami_da_4
+A 2533.4 so that is ami_da_3
+A 2533.4 Yeah , ami_da_9
+A 2533.4 because yeah . ami_da_9
+B 2541.28 Yeah . ami_da_9
+B 2541.79 Well , okay , maybe you can add it later that we decided in the end because of the cost . ami_da_6
+A 2546.54 , he here it is still double curve , the rubber , the flashy , the fruity , the removable . ami_da_4
+D 2548.81 Single curves . ami_da_9
+A 2552.89 , the buttons ami_da_4
+A 2552.89 Not double anymore . ami_da_9
+C 2554.39 , it is not double anymore , eh ? ami_da_9
+C 2554.39 Yeah ami_da_9
+C 2554.39 , okay . ami_da_9
+B 2554.58 A single curved . ami_da_9
+D 2555.95 No , okay . ami_da_9
+A 2556.9 Nay but that this is what ami_da_4
+A 2556.9 Yeah . ami_da_9
+D 2559.21 Was initial , the plan . ami_da_4
+C 2560.86 Yeah . ami_da_9
+D 2561.1 The initial plan . ami_da_4
+A 2561.59 And the the added functions like Tetris snake , it is under the parental control , the touch screen . ami_da_4
+C 2566.94 On thing One small thing , ami_da_7
+C 2566.94 the added functions . ami_da_5
+A 2567.05 So , it is just a summary of what we had discussed ami_da_4
+A 2567.05 , it is very cheap , ami_da_9
+A 2567.05 you ami_da_3
+A 2567.05 you maybe ami_da_3
+A 2567.05 you ami_da_3
+A 2567.05 you you ami_da_3
+A 2567.05 you come at ami_da_3
+A 2567.05 It is very necessary . ami_da_9
+C 2572.06 , was it included in the cost ? ami_da_5
+C 2572.06 I do not think so , eh ? ami_da_4
+C 2572.06 It is very cheap . ami_da_14
+B 2575.51 , it is very cheap . ami_da_9
+D 2581.12 No , it is it is not very cheap , but that no , but it is a development inside corporation . ami_da_9
+D 2590.16 Like , w we do not have to buy parental control . ami_da_4
+D 2594.45 Our own people can make that , I think . ami_da_4
+A 2596.11 Yeah , but it still has some ami_da_9
+A 2596.11 yeah . ami_da_9
+B 2597.49 Yeah . ami_da_1
+D 2597.89 Yeah , it it has some cost , but ami_da_9
+D 2597.89 Yeah . ami_da_1
+A 2599.65 Okay , ami_da_9
+A 2599.65 but so we can discuss that ami_da_2
+A 2599.65 we can discuss that kind of things I think with the with the the board of ami_da_6
+A 2599.65 What is it what is the company called ? ami_da_5
+A 2599.65 I just keep forgetting it . ami_da_4
+B 2599.96 He will do it in his free time . ami_da_14
+B 2601.42 So ami_da_14
+B 2601.42 Of directur or directors . ami_da_6
+D 2613.24 Real Reaction . ami_da_4
+A 2613.84 Real Real Reaction . ami_da_12
+B 2617.04 Yeah . ami_da_9
+A 2619.22 Real Reaction , yeah . ami_da_9
+B 2620.3 You can ask your personal ami_da_14
+B 2620.3 Yeah , the end conclusion . ami_da_4
+A 2620.83 Okay , so anybody misses something here about ami_da_5
+A 2620.83 Yeah , okay , ami_da_9
+A 2620.83 that is that is what I am going to write b between now . ami_da_7
+B 2625.82 But ami_da_3
+B 2625.82 , the decision to make the buttons on the top , and the menu on the on the bottom . ami_da_4
+D 2627.52 Okay . ami_da_9
+D 2628.18 Still the end conclusion . ami_da_9
+D 2629.38 That is all , I think . ami_da_9
+A 2629.56 But , i in here nothing ami_da_5
+B 2638.95 And clearly ami_da_3
+B 2638.95 Yeah , touch screen you have mentioned . ami_da_4
+A 2639.51 Yes . ami_da_9
+A 2643.06 Yeah , touch screen I have mentioned . ami_da_9
+D 2643.82 Yeah , ami_da_4
+D 2643.82 but but the the decisions are put in the conclusion , I think . ami_da_4
+B 2649.04 Okay . ami_da_9
+D 2649.47 Why we decided to use a flat LCD . ami_da_4
+B 2650.9 Okay , this n yeah . ami_da_9
+A 2653.36 Yeah , okay , ami_da_9
+A 2653.36 well I going to redesign something now . ami_da_7
+D 2658.54 Yeah . ami_da_9
+A 2658.55 No . ami_da_9
+D 2659.17 Save it . ami_da_9
+B 2661.28 Party party . ami_da_14
+A 2662.04 Because I think it will ami_da_3
+A 2662.04 Oh , five minutes from to finish meeting . ami_da_4
+B 2664.23 Oh , before you change anything maybe you save it first . ami_da_6
+B 2678.72 You ca not ami_da_2
+B 2678.72 you can select file and export and then those J PEG files . ami_da_6
+D 2683.41 Yeah , but then you had the same thing . ami_da_9
+B 2685.62 Well , eight . ami_da_9
+B 2686.42 And we have , another blank one . ami_da_9
+D 2689.12 Example of children remote . ami_da_16
+B 2689.69 Did we change anything ? ami_da_5
+B 2689.69 Wow . ami_da_16
+D 2691.3 Oh wait . ami_da_16
+D 2692.32 Wait . ami_da_16
+B 2708.99 Yeah . ami_da_9
+B 2710.88 It is a new commercial logo . ami_da_4
+D 2721.48 That is a pity . ami_da_9
+B 2722.91 Do not save it , aye ? ami_da_6
+A 2725.88 Oh , that is cool , Tim . ami_da_9
+A 2741.06 Finish meeting now . ami_da_4
+A 2742.23 Well , I am I am ami_da_2
+A 2742.23 I am going to finish my end report . ami_da_7
+A 2753.82 I am the one who can say that . ami_da_14
+A 2755.68 Yeah ? ami_da_14
+A 2755.68 Hereby the meeting is finished . ami_da_4
