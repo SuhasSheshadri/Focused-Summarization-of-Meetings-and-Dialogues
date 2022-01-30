@@ -1,0 +1,98 @@
+Well I will start just with another presentation ,
+Well I think we should show them before your presentations ,
+And then we can discuss some more closely .
+now I will look at show this board .
+now the new project requirements , I will just show them .
+Maybe a new sort of thing , but n but not teletext .
+But let is forget about it .
+so we have to go on .
+So we have to use maybe a slogan , maybe a colour , and
+So maybe that is a slogan we can put somewhere on our remote control or something .
+You want to start ?
+I think I have to start .
+Well s then start .
+Well , I am going to tell you something about functional requirements .
+at first I tell you something about what people dislike about the current controls ,
+then I tell something about the most important issues .
+And in the end I will show you our target audience or our target product users , customers .
+so we might think about fronts in that section .
+So it is really important to make the the buttons for the common tasks kind of big or kind of flashy .
+Thus it might be might be smart to make a a big zapping button or something in the middle , so you can reach it with your thumb .
+You can zap away .
+So it might be sensible to make some kind of a button on your television , that is your your control beeps or something , that you can find this very easily .
+It should actually It should actually be loose from the television ,
+I think our user expert should also consider manual a manual for the remote , of course .
+I think you should put more time in the in the design of pick up and use , than a manual .
+So it is better to put our attention to the the design .
+we can say to some writer make a manual point .
+If we make lots of of the stuff , maybe we can buy it very cheap , I dunno .
+Well we will consider it .
+No , we will look we will look into that later .
+Well we will consider both and and see what what what we can find , I think .
+Shall I give a technical talk ?
+Well go ahead .
+And I then can select I can select on the dings
+Maybe you can select it .
+Yeah , go ahead .
+So we have to change a little bit to that ,
+Can I say something ?
+But I think it is very important to make the power , channel and volume buttons near to the thumb , so you ca not have RSI consequences .
+Make them big , make them easy to to press .
+Maybe you can make , for for channel changing , two little buttons on the side of the remote , so you can just do like this .
+but the most important buttons m maybe you can just put them a bit apart
+you can make make a double feature l like a button on the top and under it .
+Right , continue .
+But in e in any case the the basic function should be indeed , and as you say at the thumb .
+and and that the less important buttons , like the the the different channels , the numbers one
+I think we should go further with the idea of a removable front .
+Or you can you can can put the same symbol on on every remote .
+We can put it on the on the back side .
+But let is not focus on the front .
+Yeah , I will .
+Mike , can you put that picture from me on the in the Word documents file ?
+We should go with that concept I think .
+I have I have got another point .
+So we must must design a control that really speaks to the people .
+Here , look at these numbers .
+It it could be such a little th that you can click in and out and you and you have it .
+we should keep that simple too .
+or or just integrate inside to try to make it d more trendy .
+something like on some radios in car .
+just at at the top .
+I think it should be at the top .
+RDSs or something .
+but we are we will have to look into that .
+we can use this board again , I think .
+we can put some decisions about the controls we want , th the issue .
+We should have a general idea of how it is going to look .
+Should not we start with the most important parts ?
+but we should start with the power button ?
+Maybe we should centralise the discussion here .
+We will draw two , and then we will see
+But you just can put the the the the the whole interface a bit down ,
+Maybe a bic better white We White ?
+Well let is talk about that later
+Maybe you should another pen .
+I think it should be at the button , bottom .
+Well but what what if we we first decide the different functions , and then look at the design .
+yeah we should summon the the different aspects of the thing .
+And moreover I think that you two should be come to consensus about the LCD s .
+Alright , let is keep it central .
+I think we we should use something like this to The the channel up and channel down button ?
+Well let is look at your design .
+as I already said , we could drop some of these buttons .
+You should put that power button , channel and volume should have the most importance .
+I think these should be in one big circle in the middle .
+So it might be smarter to put them a little more away from each other .
+So the the channel channel buttons should be far far apart , I think , up and down .
+Y look at look at the frequency .
+Right , just make some decisions .
+how are we going to do it with those numbers ?
+We can use the drawing board now , I think .
+Just you decide that , you decide that ,
+Well what if we are going to now decide about the functions , and the design comes into the next round ?
+I do think we have to put that underneath a clip .
+We we can make make a little row of like four buttons down here .
+Well and and I think more at the bottom .
+I think things like contrast and brightness should be in the menu ,
+Or the volume or something like that .
